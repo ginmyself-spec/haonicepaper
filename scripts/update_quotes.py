@@ -41,8 +41,14 @@ def yahoo_delayed(symbol):
             for ts, c in zip(ts_list, closes):
                 if c is not None and ts <= cutoff:
                     pick = (ts, float(c))
-            if pick is None:  # 今日尚無 20 分鐘前的資料，用前一日收盤
-                return None
+            if pick is None:
+                # 收盤後一分鐘資料可能為空：最後成交時間已早於 20 分鐘前，就用最後成交價
+                rmt, rmp = meta.get("regularMarketTime"), meta.get("regularMarketPrice")
+                if rmt and rmp is not None and int(rmt) <= cutoff:
+                    pick = (int(rmt), float(rmp))
+                else:
+                    print(f"{symbol}: no bar older than {DELAY_SEC // 60} min yet (bars={len(ts_list)})", file=sys.stderr)
+                    return None
             ts, price = pick
             chg = price - prev
             pct = chg / prev * 100
