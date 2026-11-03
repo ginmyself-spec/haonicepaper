@@ -1,0 +1,607 @@
+{
+ "date": "2026-11-03",
+ "updated": "2026-11-03T22:20:00+08:00",
+ "edition": {
+  "zh": "晚間版",
+  "en": "Evening edition"
+ },
+ "lead_summary": {
+  "zh": "美國期中選舉投票；台股重挫 1,612 點",
+  "en": "US midterms vote; TAIEX plunges 1,612 points"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "美國期中選舉今日投票　眾院 435 席全面改選",
+    "en": "US midterm elections under way as all 435 House seats are contested"
+   },
+   "body": {
+    "zh": "本次改選聯邦眾議院全部 435 席與參議院 35 席，控制眾議院需取得 218 席；目前參議院由共和黨以 53 比 47 席占多數。部分地區郵寄選票計票較慢，席次可能需數日才能底定。選舉預測專家席佛（Nate Silver）的模型給出民主黨拿下眾、參兩院的機率分別為 95% 與 80%。",
+    "en": "Voters are choosing all 435 House seats and 35 of the 100 Senate seats; control of the House takes 218 seats, and Republicans currently hold the Senate 53–47. Mail ballots are slow to count in some areas, so some races may take days to settle. Forecaster Nate Silver's model puts Democrats' chances of winning the House and Senate at 95% and 80%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611033001.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "提前投票逾 5,867 萬張　生活成本居選民首要議題",
+    "en": "More than 58.67 million early ballots cast; cost of living tops voters' concerns"
+   },
+   "body": {
+    "zh": "BBC 統計，截至美東時間 2 日深夜已有逾 5,867 萬張選票提前投出，多數選民表示生活成本是最關心的議題。印第安納州與肯塔基州將於台灣時間 4 日上午 7 時最早結束投票，開票結果隨後陸續出爐。",
+    "en": "According to the BBC, more than 58.67 million ballots had been cast early by late on the 2nd (US Eastern time), and most voters say the cost of living is their top issue. Indiana and Kentucky close their polls first, at 7 a.m. Taiwan time on the 4th, with results following."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "聯合報",
+      "en": "United Daily News"
+     },
+     "url": "https://udn.com/news/story/125060/9855270"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/125060/9851454"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美軍攻擊格什姆島　美伊間接談判仍在推進",
+    "en": "US strikes Qeshm Island as indirect US–Iran talks continue"
+   },
+   "body": {
+    "zh": "美國 2 日攻擊伊朗掌控、位於荷莫茲海峽的格什姆島，美方官員稱攻擊規模有限，是回應革命衛隊對美機開火。川普表示美伊「有可能」達成協議、不急於決定是否重啟戰事，卡達調解人員再赴德黑蘭；伊朗外長則強調海峽重新開放須以美方接受伊方條件為前提。",
+    "en": "On the 2nd the US struck Iranian-held Qeshm Island in the Strait of Hormuz; US officials called it a limited response to Revolutionary Guard fire on American aircraft. Trump said a deal with Iran is \"possible\" and that he is in no rush to decide on resuming the war, while Qatari mediators returned to Tehran. Iran's foreign minister said reopening the strait depends on Washington accepting Iran's terms."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "聯合報",
+      "en": "United Daily News"
+     },
+     "url": "https://udn.com/news/story/125060/9855270"
+    },
+    {
+     "name": {
+      "zh": "21 世紀經濟報導",
+      "en": "21st Century Business Herald"
+     },
+     "url": "https://www.21jingji.com/article/20261103/herald/ec0a7787917e7f3cb8e27b02a0779058.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "國際海事組織：荷莫茲海峽航行安全仍無保障",
+    "en": "IMO says safe passage through Hormuz still cannot be assured"
+   },
+   "body": {
+    "zh": "國際海事組織秘書長多明格斯 2 日表示，無法確認荷莫茲海峽分道通航水域的水雷是否已清除，仍不建議船舶通行。另據報導，以色列看守總理納坦雅胡力促川普在期中選後對伊朗發動新一輪空襲。",
+    "en": "IMO Secretary-General Arsenio Dominguez said on the 2nd that the organization cannot confirm whether mines in the strait's traffic-separation lanes have been cleared, and still advises ships against transiting. Separately, Israel's caretaker Prime Minister Netanyahu is reported to be urging Trump to launch new strikes on Iran after the midterms."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "21 世紀經濟報導",
+      "en": "21st Century Business Herald"
+     },
+     "url": "https://www.21jingji.com/article/20261103/herald/ec0a7787917e7f3cb8e27b02a0779058.html"
+    },
+    {
+     "name": {
+      "zh": "TVBS",
+      "en": "TVBS"
+     },
+     "url": "https://news.tvbs.com.tw/world/4045407"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄美烏三方會談　11 月 10 至 11 日在阿布達比登場",
+    "en": "Russia–US–Ukraine talks set for Nov. 10–11 in Abu Dhabi"
+   },
+   "body": {
+    "zh": "克里姆林宮發言人佩斯科夫 3 日證實，俄、美、烏三方工作層級談判將於 10 至 11 日在阿聯首都阿布達比舉行，由美國特使威特科夫斡旋；歐盟表示將與美、烏談判代表於 4 日在布魯塞爾會晤。會談前夕，雙方仍持續互襲能源設施。",
+    "en": "Kremlin spokesman Dmitry Peskov confirmed on the 3rd that working-level talks among Russia, the US and Ukraine will be held in Abu Dhabi on the 10th and 11th, brokered by US envoy Steve Witkoff. The EU said its negotiators will meet US and Ukrainian counterparts in Brussels on the 4th. Both sides kept striking each other's energy facilities ahead of the talks."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "新浪國際（轉引新華社）",
+      "en": "Sina World (via Xinhua)"
+     },
+     "url": "https://k.sina.cn/article_7857201856_1d45362c001908tie2.html"
+    },
+    {
+     "name": {
+      "zh": "新浪國際",
+      "en": "Sina World"
+     },
+     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tipm.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "歐洲多國超市冷凍櫃遭駭　溫度被遠端調至 50 度",
+    "en": "Hackers push supermarket freezers to 50°C across several European countries"
+   },
+   "body": {
+    "zh": "瑞典、比利時、盧森堡、愛沙尼亞等國超市 2 日凌晨遭網路攻擊，冷藏與冷凍系統被遠端調高至攝氏 50 度，食品大量變質，比利時檢方已啟動刑事調查。手法與 10 月法國數百家超市遭駭如出一轍，當時目標是丹麥廠商 Danfoss 已停止更新的製冷控制器。",
+    "en": "Supermarkets in Sweden, Belgium, Luxembourg, Estonia and other countries were hit early on the 2nd, with refrigeration and freezer systems remotely raised to 50°C and large amounts of food spoiled; Belgian prosecutors have opened a criminal investigation. The method mirrors October's attack on hundreds of French supermarkets, which targeted out-of-support refrigeration controllers made by Danish firm Danfoss."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "新浪國際（轉引央視）",
+      "en": "Sina World (via CCTV)"
+     },
+     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tfn0.html"
+    },
+    {
+     "name": {
+      "zh": "iThome",
+      "en": "iThome"
+     },
+     "url": "https://www.ithome.com.tw/news/179633"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "邁威爾以 1,150 億美元收購 Lumentum",
+    "en": "Marvell agrees to buy Lumentum at a $115 billion enterprise value"
+   },
+   "body": {
+    "zh": "Marvell 同意以企業價值 1,150 億美元收購光通訊大廠 Lumentum，被視為史上最大型科技併購之一。消息公布後，Marvell 下跌 12.7% 至 171.41 美元，Lumentum 重挫 18.6% 至 684.40 美元。",
+    "en": "Marvell agreed to acquire optical-components maker Lumentum at an enterprise value of $115 billion, one of the largest tech deals on record. Marvell fell 12.7% to $171.41 and Lumentum slid 18.6% to $684.40."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "甲骨文啟動 200 億美元融資擴建 AI",
+    "en": "Oracle launches $20 billion financing for AI build-out"
+   },
+   "body": {
+    "zh": "Oracle 宣布發行 100 億美元普通股與 100 億美元債券，合計約 200 億美元，用於 AI 基礎建設；股價重挫 8.76% 至 119.22 美元，市場對 AI 支出的疑慮再度升溫。",
+    "en": "Oracle plans to sell $10 billion of common stock and $10 billion of bonds, about $20 billion in total, to fund AI infrastructure. The shares fell 8.76% to $119.22 as worries about AI spending resurfaced."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "蘋果財報優於預期　股價未獲提振",
+    "en": "Apple beats estimates, but the stock gets no lift"
+   },
+   "body": {
+    "zh": "蘋果盤後公布會計年度第四季財報，營收與獲利皆優於市場預期，為執行長 John Ternus 9 月接任後首份財報，並適逢摺疊機「iPhone Duo」上市。股價正常盤下跌 1.83% 至 338.32 美元，盤後再小幅走低。",
+    "en": "Apple's fiscal fourth-quarter revenue and profit beat expectations in the first report under CEO John Ternus, who took over in September, as the foldable iPhone Duo goes on sale. The stock fell 1.83% to $338.32 in regular trading and edged lower after hours."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "英特爾再跌 8.8%　記憶體股同步走弱",
+    "en": "Intel drops another 8.8%; memory stocks slide"
+   },
+   "body": {
+    "zh": "英特爾下跌 8.80% 至 59.97 美元，10 月累計跌 45%，為史上最差單月；公司將部分奧勒岡產能由 18A 轉回較成熟的 Intel 3 製程以因應伺服器需求。鎧俠財測保守拖累記憶體股，美光跌 5.78%、威騰電子跌 7.52%。",
+    "en": "Intel fell 8.80% to $59.97 after a 45% drop in October, its worst month on record; it is shifting some Oregon capacity from 18A back to the older Intel 3 node to meet server demand. Kioxia's cautious outlook weighed on memory names: Micron lost 5.78% and Western Digital 7.52%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美伊和談訊號　國際油價重挫逾 7%",
+    "en": "Oil tumbles more than 7% on signs of US–Iran talks"
+   },
+   "body": {
+    "zh": "美伊釋出重啟和平談判訊號，布蘭特與西德州原油期貨雙雙重挫逾 7%，一度提振市場風險情緒，但未能抵銷科技股賣壓。",
+    "en": "Brent and WTI crude futures each fell more than 7% on signs that US–Iran peace talks could resume. The move briefly lifted risk appetite but did not offset selling in tech stocks."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-03",
+   "close": 43307.54,
+   "change": -1612.6,
+   "pct": -3.59,
+   "open": 44481.59,
+   "high": 44614.64,
+   "low": 43191.58,
+   "prev": 44920.14,
+   "turnover": {
+    "zh": "9,280.58 億元",
+    "en": "NT$928.06 billion"
+   },
+   "breadth": {
+    "up": 59,
+    "down": 1016,
+    "flat": 33
+   },
+   "otc": {
+    "close": 345.52,
+    "change": -23.72,
+    "pct": -6.42
+   },
+   "headline": {
+    "zh": "外資單日賣超逾千億　台股重挫 1,612 點失守四萬四",
+    "en": "Foreign selling tops NT$100 billion as TAIEX sinks 1,612 points below 44,000"
+   },
+   "body": {
+    "zh": "加權指數開低走低，終場跌 1,612.60 點、跌幅 3.59%，寫下史上第 7 大單日跌點。權值股全面走弱：台積電跌 35 元收 2,295 元，聯發科重挫 7.4% 至 3,675 元，台達電跌逾 6%，記憶體族群華邦電、南亞科盤中跌停，大立光同樣跌停。今周刊整理的下跌原因包括期中選舉不確定性、蘋果財報引發科技股疑慮、費半跌破半年線，以及美軍突襲伊朗島嶼。逆勢方面，台玻獲外資買超約 5.48 萬張居冠，華航、長榮航分列二、三名。",
+    "en": "The TAIEX opened lower and kept falling, closing down 1,612.60 points (3.59%), its seventh-largest one-day point drop on record. Heavyweights fell across the board: TSMC lost NT$35 to NT$2,295, MediaTek sank 7.4% to NT$3,675, Delta fell more than 6%, and memory makers Winbond and Nanya Tech hit limit-down, as did Largan. Business Today attributed the sell-off to midterm uncertainty, tech worries after Apple's results, the SOX breaking below its six-month average, and the US strike on an Iranian island. Against the tide, Taiwan Glass topped foreign net buying at about 54,800 lots, followed by China Airlines and EVA Air."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -1073.07
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 199.05
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -590.55
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -1464.57,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 4 日賣超，單日金額為史上第 8 大；10/29 賣超 688.15 億、10/30 賣超 1,124.67 億、11/2 賣超 735.20 億。",
+    "en": "Foreign investors have been net sellers for four sessions, and today's figure is the eighth-largest on record. Earlier: Oct 29 −688.15, Oct 30 −1,124.67, Nov 2 −735.20 (NT$100m)."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "NOWNEWS",
+      "en": "NOWNEWS"
+     },
+     "url": "https://news.pchome.com.tw/finance/nownews/20261103/index-79369360919078207003.html"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6645012"
+    },
+    {
+     "name": {
+      "zh": "FTNN",
+      "en": "FTNN"
+     },
+     "url": "https://www.ftnn.com.tw/news/592490"
+    },
+    {
+     "name": {
+      "zh": "今周刊",
+      "en": "Business Today"
+     },
+     "url": "https://www.businesstoday.com.tw/article/category/183008/post/202611030017/"
+    },
+    {
+     "name": {
+      "zh": "ETtoday",
+      "en": "ETtoday"
+     },
+     "url": "https://finance.ettoday.net/news/3265711"
+    },
+    {
+     "name": {
+      "zh": "東森財經",
+      "en": "EBC Finance"
+     },
+     "url": "https://fnc.ebc.net.tw/fncnews/stock/222034"
+    },
+    {
+     "name": {
+      "zh": "口袋學堂",
+      "en": "Pocket School"
+     },
+     "url": "https://www.pocket.tw/school/articles/article-mw0hp35n/"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-02",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 51983.98,
+     "change": 213.67,
+     "pct": 0.41
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7541.4,
+     "change": -38.67,
+     "pct": -0.51
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25164.32,
+     "change": -272.68,
+     "pct": -1.07
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10328.33,
+     "change": -360.47,
+     "pct": -3.37
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 398.63,
+     "change": null,
+     "pct": -1.85
+    }
+   ],
+   "headline": {
+    "zh": "美股 11/2 收盤：僅道瓊收紅，費半三日累跌約 11.6%",
+    "en": "US close, Nov 2: only the Dow gains; SOX down about 11.6% in three sessions"
+   },
+   "body": {
+    "zh": "資金持續撤出科技股、轉向傳統產業；儘管標普 500 多數成分股收紅，科技權值與半導體股的賣壓仍使大盤守不住早盤漲勢。那斯達克 100 指數較 10 月高點回落約 10%，進入技術性修正。AMD 重挫 7.52%，輝達跌 1.26%。",
+    "en": "Money kept rotating out of tech into old-economy sectors. Most S&P 500 members rose, but selling in megacap tech and chips erased the morning's gains. The Nasdaq 100 is about 10% below its October high, in technical-correction territory. AMD fell 7.52% and Nvidia 1.26%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5627251"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "今晚 22:30",
+     "en": "Tonight 22:30"
+    },
+    "text": {
+     "zh": "美股開盤（美國已改採冬令時間）",
+     "en": "US market opens (US now on standard time)"
+    }
+   },
+   {
+    "time": {
+     "zh": "明晨 07:00 起",
+     "en": "From 07:00 tomorrow"
+    },
+    "text": {
+     "zh": "美國首批投票所關閉，陸續開票",
+     "en": "First US polls close; counting begins"
+    }
+   },
+   {
+    "time": {
+     "zh": "明日 09:00",
+     "en": "Tomorrow 09:00"
+    },
+    "text": {
+     "zh": "台股開盤，消化選舉初步結果",
+     "en": "Taiwan market opens as early results come in"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/125060/9851454"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-10-28",
+     47035.58
+    ],
+    [
+     "2026-10-29",
+     46368.33
+    ],
+    [
+     "2026-10-30",
+     45211.83
+    ],
+    [
+     "2026-11-02",
+     44920.14
+    ],
+    [
+     "2026-11-03",
+     43307.54
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-10-28",
+     26549.85
+    ],
+    [
+     "2026-10-29",
+     26184.72
+    ],
+    [
+     "2026-10-30",
+     25437.0
+    ],
+    [
+     "2026-11-02",
+     25164.32
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-10-28",
+     11684.0
+    ],
+    [
+     "2026-10-29",
+     11518.2
+    ],
+    [
+     "2026-10-30",
+     10688.8
+    ],
+    [
+     "2026-11-02",
+     10328.33
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "10/28 與 11/2（台股）、10/28 與 10/30（美股）的收盤值，由次一交易日的收盤與漲跌點數推算。",
+   "en": "Closes for Oct 28 and Nov 2 (Taiwan) and Oct 28 and Oct 30 (US) are derived from the next session's close and point change."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鏡週刊",
+     "en": "Mirror Media"
+    },
+    "url": "https://www.mirrormedia.mg/external/amp/setn_1930061"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://wantrich.chinatimes.com/news/20261030900447-420101"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://wantrich.chinatimes.com/news/20261030900070-420201"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6644206"
+   }
+  ]
+ }
+}

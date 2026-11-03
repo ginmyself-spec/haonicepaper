@@ -1,0 +1,48 @@
+name: Update index quotes
+
+on:
+  schedule:
+    # 台股交易時段（台北 09:00–13:59 = UTC 01–05）
+    - cron: "*/10 1-5 * * 1-5"
+    # 美股交易時段（含夏令與冬令，UTC 13–21）
+    - cron: "*/10 13-21 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: quotes
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch previous quotes
+        run: |
+          git fetch --depth=1 origin quotes:refs/remotes/origin/quotes || true
+          git show origin/quotes:quotes.json > /tmp/prev.json 2>/dev/null || cp data/quotes.json /tmp/prev.json
+
+      - name: Update quotes
+        run: python scripts/update_quotes.py /tmp/prev.json /tmp/quotes.json
+
+      - name: Publish to quotes branch (single commit, no Pages rebuild)
+        run: |
+          git config user.name "quotes-bot"
+          git config user.email "quotes-bot@users.noreply.github.com"
+          git checkout --orphan quotes-tmp
+          git rm -rf --cached . > /dev/null
+          cp /tmp/quotes.json quotes.json
+          git add quotes.json
+          git commit -m "quotes $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -f origin quotes-tmp:quotes

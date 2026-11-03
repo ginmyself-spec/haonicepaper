@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://busuanzi.ibruce.info; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://raw.githubusercontent.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>每日Hao報</title>
+<!-- 網站設定：repo 填 "帳號/repo名稱"；改用自訂網域後，報價與瀏覽人次會依這兩個值運作 -->
+<meta name="site-repo" content="">
+<meta name="site-domain" content="">
+<!-- 贊助連結（只接受 https）：sponsor-tw 放台灣付款方式（如綠界、Portaly），sponsor-intl 放海外付款（如 Ko-fi）；留空則不顯示 -->
+<meta name="sponsor-tw" content="">
+<meta name="sponsor-intl" content="">
+<meta name="description" content="每日國際要聞、國際財經與台美股市摘要，中英雙語。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;900&family=Noto+Sans+TC:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+/* 版面構想：明亮的早報頭版——報頭、細行情帶，往下依序為國際要聞、國際財經、股市摘要，欄與欄之間以細線分隔 */
+:root{
+  --paper:#fdfcf8;
+  --ink:#1b1b1a;
+  --ink-soft:#5f5b54;
+  --rule:#dcd6ca;
+  --accent:#1f4f8f;
+  --up:#c0281c;      /* 台灣慣例：漲紅 */
+  --down:#17803d;    /* 台灣慣例：跌綠 */
+  --tint:#f3efe6;
+  --flash-up:#fde2de;
+  --flash-down:#d9f2e1;
+  --serif:"Noto Serif TC","Songti TC","PMingLiU",serif;
+  --latin:"Source Serif 4","Noto Serif TC",Georgia,serif;
+  --sans:"Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;background:var(--paper)}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:17px;line-height:1.85}
+html[lang="en"] body{font-family:var(--latin);line-height:1.65}
+a{color:inherit;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px}
+a:hover{color:var(--accent);text-decoration-color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+button{font:inherit;color:inherit}
+.sheet{max-width:1200px;margin:0 auto;padding:12px 24px 40px}
+.num{font-variant-numeric:tabular-nums lining-nums}
+.up{color:var(--up)} .down{color:var(--down)}
+.nw{white-space:nowrap}
+
+/* 最上方工具列 */
+.topbar{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center;justify-content:space-between;font-family:var(--sans);font-size:13px;color:var(--ink-soft);padding:4px 0 8px;border-bottom:1px solid var(--rule)}
+.topbar b{color:var(--ink);font-weight:500}
+.clocks{display:flex;gap:14px;flex-wrap:wrap}
+.lang{display:inline-flex;border:1px solid var(--rule);border-radius:999px;overflow:hidden}
+.lang button{border:0;background:transparent;padding:3px 12px;font-family:var(--sans);font-size:12.5px;cursor:pointer;color:var(--ink-soft)}
+.lang button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.topbar .right{display:flex;align-items:center;gap:12px}
+.archive-spacer{width:92px}
+
+/* 往期回顧：右上角浮動按鈕（向下捲動時自動隱藏） */
+.archive{position:fixed;top:10px;right:14px;z-index:20;transition:transform .25s ease,opacity .25s ease}
+.archive.hidden{transform:translateY(-140%);opacity:0;pointer-events:none}
+.archive-btn{display:flex;align-items:center;gap:6px;border:1px solid var(--ink);background:var(--paper);padding:5px 12px;border-radius:999px;font-family:var(--sans);font-size:13px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.archive-btn .caret{font-size:10px;transition:transform .2s}
+.archive.open .caret{transform:rotate(180deg)}
+.archive-panel{position:absolute;right:0;top:calc(100% + 6px);width:290px;background:var(--paper);border:1px solid var(--ink);box-shadow:0 10px 28px rgba(0,0,0,.12);padding:10px 0 6px;display:none}
+.archive.open .archive-panel{display:block}
+.archive-panel h2{margin:0;padding:0 14px 6px;font-family:var(--sans);font-size:12px;letter-spacing:.12em;color:var(--ink-soft);font-weight:500;border-bottom:1px solid var(--rule)}
+.archive-panel ul{list-style:none;margin:0;padding:0}
+.archive-panel li button{width:100%;text-align:left;border:0;background:transparent;padding:8px 14px;cursor:pointer;display:grid;gap:1px;border-bottom:1px solid var(--rule)}
+.archive-panel li:last-child button{border-bottom:0}
+.archive-panel li button:hover{background:var(--tint)}
+.archive-panel li button[aria-current="true"]{background:var(--tint)}
+.archive-panel .d{font-family:var(--sans);font-size:13px;font-weight:500}
+.archive-panel .s{font-size:13.5px;color:var(--ink-soft);line-height:1.5}
+
+/* 報頭 */
+.masthead{text-align:center;padding:20px 0 12px;border-bottom:3px double var(--ink)}
+.masthead h1{margin:0;font-weight:900;font-size:clamp(40px,7vw,82px);letter-spacing:.14em;line-height:1.15;text-wrap:balance}
+html[lang="en"] .masthead h1{font-family:var(--latin);letter-spacing:.02em;font-weight:600;font-size:clamp(34px,5.4vw,66px)}
+.hp{display:inline-block}
+.masthead .sub{margin-top:6px;font-family:var(--sans);font-size:12px;letter-spacing:.3em;color:var(--ink-soft)}
+.edition{display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px 16px;font-family:var(--sans);font-size:13px;color:var(--ink-soft);padding:7px 0;border-bottom:1px solid var(--ink)}
+
+/* 行情帶 */
+.ticker{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:1px solid var(--ink)}
+.quote{padding:10px 16px;display:grid;grid-template-columns:1fr auto;align-items:baseline;gap:0 12px}
+.quote + .quote{border-left:1px solid var(--rule)}
+.q-name{font-weight:600;font-size:15px}
+.chip{justify-self:end;font-family:var(--sans);font-size:11.5px;padding:0 8px;border:1px solid var(--rule);border-radius:999px;white-space:nowrap;color:var(--ink-soft)}
+.chip.live{border-color:var(--up);color:var(--up)}
+.chip.live::before{content:"";display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--up);margin-right:5px;vertical-align:1px;animation:pulse 1.6s ease-in-out infinite}
+.chip.pre{border-color:var(--accent);color:var(--accent)}
+@keyframes pulse{50%{opacity:.25}}
+.q-val{font-family:var(--latin);font-size:clamp(26px,3vw,34px);font-weight:600;line-height:1.25;border-radius:3px;padding:0 3px;margin-left:-3px;transition:background-color 1.2s ease}
+.q-val.flash-up{background:var(--flash-up);transition:none}
+.q-val.flash-down{background:var(--flash-down);transition:none}
+.q-chg{font-family:var(--latin);font-size:15px;font-weight:600;justify-self:end}
+.q-meta{grid-column:1 / -1;font-family:var(--sans);font-size:12px;color:var(--ink-soft);line-height:1.5}
+.ticker-note{font-family:var(--sans);font-size:12px;color:var(--ink-soft);padding:6px 0 0;line-height:1.6}
+
+/* 版塊標題 */
+.section{padding-top:22px}
+.sec-h{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-top:3px solid var(--ink);border-bottom:1px solid var(--ink);padding:5px 0;margin-bottom:4px}
+.sec-h h2{margin:0;font-size:22px;font-weight:900;letter-spacing:.18em}
+html[lang="en"] .sec-h h2{letter-spacing:.04em;font-weight:600;font-size:23px}
+.sec-h span{font-family:var(--sans);font-size:12.5px;color:var(--ink-soft)}
+
+/* 新聞格線：欄線用負邊距隱藏第一欄左線 */
+.grid-wrap{overflow:hidden}
+.news-grid{display:grid;grid-template-columns:repeat(3,1fr);margin-left:-1px}
+.news-grid > article{border-left:1px solid var(--rule);padding:14px 20px 16px;border-bottom:1px solid var(--rule)}
+.world .news-grid > article:first-child{grid-column:span 2;grid-row:span 2}
+.finance .news-grid > article:first-child{grid-column:span 2}
+article h3{margin:0 0 6px;font-weight:600;font-size:20px;line-height:1.45;text-wrap:balance}
+article.big h3{font-size:clamp(26px,3vw,36px);font-weight:900;line-height:1.3}
+html[lang="en"] article.big h3{font-weight:600}
+article p{margin:0 0 8px;font-size:16px;text-align:justify;hyphens:auto}
+article.big p{font-size:18px;line-height:1.9}
+.kicker{font-family:var(--sans);font-size:12px;letter-spacing:.16em;color:var(--accent);font-weight:500;margin-bottom:2px}
+.src{font-family:var(--sans);font-size:12px;color:var(--ink-soft)}
+.src a{color:var(--ink-soft)}
+
+/* 股市摘要 */
+.mkt-grid{display:grid;grid-template-columns:1.25fr 1fr 1fr;margin-left:-1px}
+.mkt-grid > div{border-left:1px solid var(--rule);padding:14px 20px 4px}
+.mkt-grid h3{margin:0 0 8px;font-size:19px;font-weight:600;line-height:1.45;text-wrap:balance}
+.mkt-grid p{font-size:15.5px;margin:0 0 8px;text-align:justify}
+.stat-row{display:flex;flex-wrap:wrap;gap:4px 18px;font-family:var(--sans);font-size:13px;color:var(--ink-soft);margin:4px 0 10px}
+.stat-row b{font-family:var(--latin);font-size:15px;color:var(--ink);font-weight:600}
+.sub-h{font-weight:600;font-size:15px;margin:12px 0 4px;padding-top:8px;border-top:1px solid var(--ink)}
+.sub-h:first-child{margin-top:0;padding-top:0;border-top:0}
+table.t{width:100%;border-collapse:collapse;font-size:15px;margin-bottom:6px}
+table.t th,table.t td{padding:6px 2px;border-bottom:1px solid var(--rule);text-align:right}
+table.t th{font-family:var(--sans);font-weight:500;font-size:12px;color:var(--ink-soft)}
+table.t th:first-child,table.t td:first-child{text-align:left}
+table.t td{font-family:var(--latin)}
+table.t td:first-child{font-family:inherit}
+table.t tr.total td{border-top:1.5px solid var(--ink);border-bottom:0;font-weight:600}
+.range svg{width:100%;height:auto;display:block}
+.figcap{font-family:var(--sans);font-size:12px;color:var(--ink-soft);margin:2px 0 8px}
+.box{background:var(--tint);border:1px solid var(--rule);padding:10px 14px;margin:8px 0 10px}
+.box h4{margin:0 0 4px;font-size:15px;font-weight:600}
+.box ol{margin:0;padding-left:1.3em;font-size:14.5px;line-height:1.75}
+.box .t{font-family:var(--sans);font-size:12.5px;font-weight:500;color:var(--accent);margin-right:6px}
+
+
+/* 一週走勢圖 */
+.trend{position:relative;border-bottom:1px solid var(--rule);padding:14px 0 12px}
+.trend-head{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 16px;margin-bottom:6px}
+.trend-head h3{margin:0;font-size:19px;font-weight:600}
+.trend-sum{font-family:var(--sans);font-size:13px;color:var(--ink-soft);display:flex;gap:4px 14px;flex-wrap:wrap;align-items:baseline}
+.trend-sum b{font-family:var(--latin);font-size:17px;color:var(--ink);font-weight:600}
+.trend-sum b.up,.stat-row b.up{color:var(--up)}
+.trend-sum b.down,.stat-row b.down{color:var(--down)}
+.seg{display:inline-flex;border:1px solid var(--ink);border-radius:999px;overflow:hidden}
+.seg button{border:0;background:transparent;padding:4px 14px;font-family:var(--sans);font-size:13px;cursor:pointer;color:var(--ink)}
+.seg button + button{border-left:1px solid var(--rule)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.seg button:hover:not([aria-pressed="true"]){background:var(--tint)}
+.trend-plot{position:relative;touch-action:pan-y}
+.trend-plot svg{display:block;width:100%;height:auto;overflow:visible}
+.tip{position:absolute;pointer-events:none;background:var(--paper);border:1px solid var(--ink);box-shadow:0 4px 14px rgba(0,0,0,.1);padding:6px 10px;font-family:var(--sans);font-size:12.5px;line-height:1.5;white-space:nowrap;display:none;transform:translate(-50%,-100%)}
+.tip b{font-family:var(--latin);font-size:15px;font-weight:600;color:var(--ink)}
+.trend details{margin-top:4px;font-family:var(--sans);font-size:12.5px;color:var(--ink-soft)}
+.trend summary{cursor:pointer;display:inline-block}
+.trend details table{margin-top:6px;max-width:420px}
+
+/* 贊助 */
+.sponsor{position:relative}
+.sponsor-btn{border:1px solid var(--up);color:var(--up);background:var(--paper);border-radius:999px;padding:3px 12px;font-family:var(--sans);font-size:12.5px;cursor:pointer}
+.sponsor-btn:hover{background:var(--flash-up)}
+.sponsor-menu{position:absolute;right:0;top:calc(100% + 6px);z-index:25;min-width:240px;background:var(--paper);border:1px solid var(--ink);box-shadow:0 10px 28px rgba(0,0,0,.12);padding:6px 0;display:none}
+.sponsor.open .sponsor-menu{display:block}
+.sponsor-menu a,.sponsor-menu span{display:block;padding:8px 14px;font-family:var(--sans);font-size:13px;text-decoration:none;color:var(--ink)}
+.sponsor-menu a:hover{background:var(--tint)}
+.sponsor-menu small,.sponsor-links small{display:block;color:var(--ink-soft);font-size:11.5px}
+.side-boxes{display:grid;gap:12px;align-content:start}
+.sponsor-box{border:1px solid var(--up);padding:10px 14px}
+.sponsor-box p{margin:0 0 8px;font-size:13px;color:var(--ink-soft)}
+.sponsor-links{display:flex;flex-wrap:wrap;gap:8px}
+.sponsor-links a{display:inline-block;border:1px solid var(--up);color:var(--up);border-radius:999px;padding:4px 14px;text-decoration:none;font-size:13px;line-height:1.5}
+.sponsor-links a:hover{background:var(--flash-up)}
+.sponsor-links .pending{color:var(--ink-soft);font-size:12.5px}
+
+/* 報尾 */
+footer{margin-top:30px;border-top:3px double var(--ink);padding-top:14px;font-family:var(--sans);font-size:12.5px;color:var(--ink-soft);line-height:1.8}
+.foot-grid{display:grid;grid-template-columns:2fr 1fr;gap:24px}
+footer h5{margin:0 0 4px;font-size:13px;color:var(--ink);font-weight:500}
+.legal{margin:4px 0 0;padding-left:1.3em;max-width:900px}
+.legal li{margin-bottom:3px}
+.srclist{columns:2;column-gap:24px;margin:0;padding-left:2em}
+.srclist li{break-inside:avoid}
+.counter{border:1px solid var(--rule);padding:10px 14px;align-self:start}
+.counter .n{font-family:var(--latin);font-size:24px;color:var(--ink);font-weight:600;line-height:1.3}
+.counter .row{display:flex;gap:22px}
+.fine{border-top:1px solid var(--rule);margin-top:12px;padding-top:10px}
+.loading{padding:40px 0;text-align:center;font-family:var(--sans);color:var(--ink-soft)}
+
+@media (max-width:960px){
+  .news-grid,.mkt-grid{grid-template-columns:1fr 1fr}
+  .world .news-grid > article:first-child{grid-column:span 2;grid-row:auto}
+  .mkt-grid > div:first-child{grid-column:span 2}
+}
+@media (max-width:640px){
+  .sheet{padding:10px 16px 32px}
+  .ticker{grid-template-columns:1fr}
+  .quote + .quote{border-left:0;border-top:1px solid var(--rule)}
+  .news-grid,.mkt-grid{grid-template-columns:1fr;margin-left:0}
+  .world .news-grid > article:first-child,.finance .news-grid > article:first-child,.mkt-grid > div:first-child{grid-column:auto}
+  .news-grid > article,.mkt-grid > div{border-left:0;padding:14px 0}
+  .masthead h1{letter-spacing:.06em}
+  .foot-grid{grid-template-columns:1fr}
+  .srclist{columns:1}
+  .archive-spacer{display:none}
+  .sponsor-menu{right:auto;left:0}
+  body{font-size:16px}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<div class="archive" id="archive">
+  <button class="archive-btn" id="archive-btn" type="button" aria-expanded="false" aria-controls="archive-panel">
+    <span data-i18n="archive">往期回顧</span><span class="caret" aria-hidden="true">▼</span>
+  </button>
+  <div class="archive-panel" id="archive-panel" role="region" aria-labelledby="archive-title">
+    <h2 id="archive-title" data-i18n="archiveTitle">近 7 日報紙</h2>
+    <ul id="archive-list"></ul>
+  </div>
+</div>
+
+<div class="sheet">
+  <div class="topbar">
+    <span id="dateline"></span>
+    <span class="clocks num">
+      <span><span data-i18n="taipei">台北</span> <b id="clk-tpe">--:--</b></span>
+      <span><span data-i18n="newyork">紐約</span> <b id="clk-ny">--:--</b></span>
+      <span id="countdown"></span>
+    </span>
+    <span class="right">
+      <span class="lang" role="group" aria-label="Language">
+        <button type="button" id="lang-zh" aria-pressed="true">中文</button>
+        <button type="button" id="lang-en" aria-pressed="false">EN</button>
+      </span>
+      <span class="sponsor" id="sponsor-top" hidden>
+        <button type="button" class="sponsor-btn" aria-expanded="false" aria-controls="sponsor-menu-top" data-i18n="sponsor">贊助本站</button>
+        <span class="sponsor-menu" id="sponsor-menu-top" role="menu"></span>
+      </span>
+      <span class="archive-spacer" aria-hidden="true"></span>
+    </span>
+  </div>
+
+  <header class="masthead">
+    <h1 data-i18n="title">每日Hao報</h1>
+    <div class="sub" data-i18n="subname">HAONICEPAPER · TAIPEI</div>
+  </header>
+  <div class="edition">
+    <span id="edition"></span>
+    <span data-i18n="sections">國際要聞 · 國際財經 · 股市摘要</span>
+    <span id="updated"></span>
+  </div>
+
+  <section class="ticker" aria-label="Indices">
+    <div class="quote" data-sym="TAIEX">
+      <span class="q-name" data-i18n="taiex">台股加權指數</span><span class="chip" data-chip="tw">—</span>
+      <span class="q-val num" data-f="price">—</span><span class="q-chg num" data-f="chg">—</span>
+      <span class="q-meta num" data-f="time"></span>
+    </div>
+    <div class="quote" data-sym="IXIC">
+      <span class="q-name" data-i18n="ixic">那斯達克綜合指數</span><span class="chip" data-chip="us">—</span>
+      <span class="q-val num" data-f="price">—</span><span class="q-chg num" data-f="chg">—</span>
+      <span class="q-meta num" data-f="time"></span>
+    </div>
+    <div class="quote" data-sym="SOX">
+      <span class="q-name" data-i18n="sox">費城半導體指數</span><span class="chip" data-chip="us">—</span>
+      <span class="q-val num" data-f="price">—</span><span class="q-chg num" data-f="chg">—</span>
+      <span class="q-meta num" data-f="time"></span>
+    </div>
+  </section>
+  <div class="ticker-note" id="ticker-note"></div>
+
+  <main id="content"><div class="loading" data-i18n="loading">載入今日版面…</div></main>
+
+  <footer>
+    <div class="foot-grid">
+      <div>
+        <h5 data-i18n="sources">本期資料來源</h5>
+        <ol class="srclist" id="srclist"></ol>
+      </div>
+      <div class="side-boxes">
+      <div class="sponsor-box" id="sponsor-box" hidden>
+        <h5 data-i18n="sponsorTitle">支持每日Hao報</h5>
+        <p data-i18n="sponsorText">本站免費閱讀、不放廣告。如果這份報紙對你有幫助，歡迎小額贊助，支持每天持續更新。</p>
+        <div class="sponsor-links" id="sponsor-links"></div>
+      </div>
+      <div class="counter" aria-live="polite">
+        <h5 data-i18n="visits">瀏覽統計</h5>
+        <div class="row num">
+          <div><div class="n"><span id="busuanzi_value_site_pv">—</span></div><span data-i18n="pv">瀏覽人次</span></div>
+          <div><div class="n"><span id="busuanzi_value_site_uv">—</span></div><span data-i18n="uv">訪客人數</span></div>
+        </div>
+        <div id="counter-note" style="margin-top:4px"></div>
+      </div>
+      </div>
+    </div>
+    <section class="fine" aria-labelledby="h-legal"><h5 id="h-legal" data-i18n="legalTitle">免責聲明與隱私</h5><ol class="legal" id="legal"></ol></section>
+  </footer>
+</div>
+
+<script src="app.js" defer></script>
+</body>
+</html>
