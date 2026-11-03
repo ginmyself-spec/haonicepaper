@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-03",
+ "latest": "2026-11-04",
  "days": [
+  {
+   "date": "2026-11-04",
+   "summary": {
+    "zh": "美期中選舉開票在即；澳洲央行升息至 4.85%",
+    "en": "US midterm count begins; RBA lifts rate to 4.85%"
+   }
+  },
   {
    "date": "2026-11-03",
    "summary": {

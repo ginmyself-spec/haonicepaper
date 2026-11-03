@@ -1,0 +1,605 @@
+{
+ "date": "2026-11-04",
+ "updated": "2026-11-04T00:16:06+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "美期中選舉開票在即；澳洲央行升息至 4.85%",
+  "en": "US midterm count begins; RBA lifts rate to 4.85%"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "美期中選舉投票中　台灣上午 7 時起開票",
+    "en": "US midterms under way; first polls close at 7 a.m. Taiwan time"
+   },
+   "body": {
+    "zh": "美國 3 日舉行期中選舉，改選聯邦眾議院全部 435 席、參議院 35 席及 36 州州長。民主黨需在眾院淨增 3 席、參院淨增 4 席，才能從共和黨手中拿下兩院控制權。首批投票所於台灣時間 4 日上午 7 時在印第安納州及肯塔基州東部關閉，最後一批阿拉斯加票所則在下午 2 時關閉；選前已有逾 5,700 萬名選民提前投票。",
+    "en": "Americans voted on the 3rd for all 435 House seats, 35 Senate seats and 36 governorships. Democrats need a net gain of three House seats and four Senate seats to take both chambers from the Republicans. The first polls close in Indiana and eastern Kentucky at 7 a.m. Taiwan time on the 4th, and the last ones in Alaska at 2 p.m.; more than 57 million voters had already cast ballots early."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611030344.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄烏代表 5 日白宮會談　第一夫人出面邀集",
+    "en": "First lady to host Russian and Ukrainian envoys at the White House on the 5th"
+   },
+   "body": {
+    "zh": "白宮 3 日宣布，第一夫人梅蘭妮亞將於 5 日在白宮邀請俄羅斯與烏克蘭代表會談。美方特使魏科夫另表示，美國將於 10 至 11 日在阿布達比居中主持美俄烏三方工作層級會談；克里姆林宮發言人裴斯科夫說，俄方代表團仍由總統助理梅津斯基率領，並指雙方仍持續攻擊對方的能源設施。",
+    "en": "The White House said on the 3rd that first lady Melania Trump will host talks with Russian and Ukrainian representatives at the White House on the 5th. US envoy Steve Witkoff separately said Washington will mediate working-level US-Russia-Ukraine talks in Abu Dhabi on the 10th and 11th. Kremlin spokesman Dmitry Peskov said presidential aide Vladimir Medinsky will again lead Russia's delegation, noting that both sides are still striking each other's energy facilities."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "新華財經（新浪）",
+      "en": "Xinhua Finance (Sina)"
+     },
+     "url": "https://finance.sina.cn/2026-11-03/detail-inixnitv8653995.d.html"
+    },
+    {
+     "name": {
+      "zh": "新浪國際",
+      "en": "Sina World"
+     },
+     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908tiwy.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄軍轟炸札波羅熱物資發放點　至少 26 死",
+    "en": "Russian bombs hit Zaporizhzhia aid site, killing at least 26"
+   },
+   "body": {
+    "zh": "烏克蘭札波羅熱州科米舒瓦哈村一所作為人道物資發放點的學校 2 日遭俄軍空襲，州長表示俄軍投下至少 9 枚重型航空炸彈，第二波攻擊還命中居民避難處。烏方統計至少 26 人罹難，仍有人受困瓦礫下，州政府宣布 4 日為哀悼日。澤倫斯基譴責俄方明知居民每週一在此領取物資仍發動攻擊；俄方尚未公開回應。",
+    "en": "A school used as a humanitarian aid point in Komyshuvakha, Zaporizhzhia region, was hit by Russian air strikes on the 2nd; the regional governor said at least nine heavy aerial bombs were dropped, and a second strike hit a shelter where residents had taken cover. Ukrainian officials put the death toll at no fewer than 26, with people still trapped under rubble, and the region declared the 4th a day of mourning. President Zelensky condemned the attack, saying Russia knew residents collect aid there every Monday; Russia had not publicly responded."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "ETtoday",
+      "en": "ETtoday"
+     },
+     "url": "https://www.ettoday.net/news/20261103/3265238.htm"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "卡達稱美伊談判有進展　伊朗軍方發出警告",
+    "en": "Qatar reports progress in US-Iran talks as Iran's military issues warning"
+   },
+   "body": {
+    "zh": "卡達外交部發言人 3 日表示，美伊雙方正研究卡達提出的協議方案，談判已取得一定進展，卡達調解團 2 日晚間赴德黑蘭後已返回杜哈繼續斡旋。伊朗軍方發言人則警告，若再遭攻擊將給予更大規模的反擊；伊斯蘭革命衛隊海軍並聲稱，3 日凌晨有 3 艘油輪駛入其所稱的非法航道後觸雷擱淺，此說法尚未獲獨立證實。",
+    "en": "A Qatari foreign ministry spokesman said on the 3rd that Washington and Tehran are studying a Qatari proposal and that the talks have made some progress; a Qatari mediation team that flew to Tehran on the night of the 2nd has returned to Doha. An Iranian military spokesman warned that any further attack would draw a broader retaliation, and the Revolutionary Guards navy claimed three tankers struck mines and ran aground early on the 3rd after entering what it called an illegal channel, a claim not independently verified."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "21世紀經濟報道",
+      "en": "21st Century Business Herald"
+     },
+     "url": "https://www.21jingji.com/article/20261103/herald/36565560d26f2ea938214816175ea4ca.html"
+    },
+    {
+     "name": {
+      "zh": "台灣英文新聞",
+      "en": "Taiwan News"
+     },
+     "url": "https://www.taiwannews.com.tw/zh/news/6469974"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "歐洲一日 7 架客機遭炸彈威脅　均安全落地",
+    "en": "Bomb threats hit seven European flights in a day; all land safely"
+   },
+   "body": {
+    "zh": "歐洲 3 日至少 7 架民航機接獲機上有炸彈的威脅，分別降落或轉降波蘭華沙、西班牙穆爾西亞、保加利亞索菲亞及義大利羅馬等地機場，經搜查均未發現爆裂物。涉及的航空公司包括波蘭航空、北歐航空、瑞安航空與威茲航空；前一天也有一架威茲航空班機因威脅轉降布達佩斯。航空安全專家認為，這可能是有人刻意發動的連續恐嚇。",
+    "en": "At least seven airliners in Europe received threats on the 3rd claiming a bomb was on board; they landed or diverted to airports in Warsaw, Murcia in Spain, Sofia in Bulgaria and Rome, and no explosives were found. The airlines involved included LOT, SAS, Ryanair and Wizz Air, and a day earlier a Wizz Air flight had diverted to Budapest after a similar threat. An aviation safety expert said the pattern suggests a deliberate campaign rather than unrelated hoaxes."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261103004825-260408"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "英歐達成食品貿易協議草案　擬取消脫歐後檢查",
+    "en": "UK and EU agree draft food trade deal to scrap post-Brexit checks"
+   },
+   "body": {
+    "zh": "英國與歐盟就食品與農產品貿易達成約 200 頁的協議草案，將取消脫歐後的出口衛生證明等檢查與費用，英國則須動態跟隨歐盟的動植物與食品標準。英國政府估計協議最終每年可為經濟帶來 51 億英鎊效益；歐盟各國大使預定週三討論草案，支持脫歐人士則批評此舉等於重新接受歐盟規則。",
+    "en": "The UK and the EU have agreed a roughly 200-page draft deal on food and agricultural trade that would remove post-Brexit checks and fees such as export health certificates, with Britain committing to keep pace with EU plant, animal and food standards. The UK government estimates eventual annual benefits of £5.1 billion; EU ambassadors are due to discuss the drafts on Wednesday, while pro-Brexit campaigners criticised the return to EU rules."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Ada Derana（轉引 BBC）",
+      "en": "Ada Derana (via BBC)"
+     },
+     "url": "https://adaderana.lk/news/251024"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "澳洲央行年內第五度升息　利率達 4.85%",
+    "en": "Australia's central bank hikes for fifth time this year, to 4.85%"
+   },
+   "body": {
+    "zh": "澳洲央行 3 日以 6 比 3 票決議將現金利率調升 1 碼至 4.85%，為 2008 年底以來最高，另 3 名委員主張維持在 4.60%。央行指出，中東衝突推升燃料與原物料價格，國內產能壓力也略高於預期，預估通膨要到 2027 年底才會回到 2% 至 3% 目標區間上緣。財長查默斯則表示，家庭負擔已相當沉重。",
+    "en": "The Reserve Bank of Australia voted 6–3 on the 3rd to raise its cash rate by 25 basis points to 4.85%, the highest since late 2008; three members preferred to hold at 4.60%. The bank cited higher fuel and commodity prices tied to the Middle East conflict and somewhat greater domestic capacity pressure, and expects inflation to return only to the top of its 2–3% target band by the end of 2027. Treasurer Jim Chalmers said households are already under considerable pressure."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "光明網",
+      "en": "Guangming Online"
+     },
+     "url": "https://m.gmw.cn/2026-11/03/content_1304582315.htm"
+    },
+    {
+     "name": {
+      "zh": "FX168",
+      "en": "FX168"
+     },
+     "url": "https://www.fx168news.com/express/fastnews/1460967"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Palantir 營收年增 96%　三度上調全年財測",
+    "en": "Palantir revenue jumps 96%; full-year outlook raised a third time"
+   },
+   "body": {
+    "zh": "Palantir 2 日盤後公布第三季營收 23.13 億美元，年增 96%，美國商業營收 9.84 億美元首度超越美國政府營收，並將今年營收預測上調至 85.30 億至 85.34 億美元。不過新簽合約總值僅年增 6%，成長明顯放緩，股價在盤後交易震盪、3 日盤前走低。",
+    "en": "Palantir reported third-quarter revenue of US$2.313 billion after the bell on the 2nd, up 96% from a year earlier, with US commercial revenue of US$984 million exceeding US government revenue for the first time; it raised its 2026 revenue forecast to US$8.530–8.534 billion. Total new contract value grew only 6%, a clear slowdown, and the shares swung in after-hours trading and fell before the open on the 3rd."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "StockTitan",
+      "en": "StockTitan"
+     },
+     "url": "https://www.stocktitan.net/articles/palantir-q3-2026-earnings-us-commercial-revenue-passes-government"
+    },
+    {
+     "name": {
+      "zh": "TipRanks",
+      "en": "TipRanks"
+     },
+     "url": "https://www.tipranks.com/news/stock-market-today-nov-3-futures-mixed-on-midterm-election-day-apple-and-palantir-shares-slide-after-earnings"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "聯發科：今年營收可望突破 210 億美元",
+    "en": "MediaTek CEO: revenue could top US$21 billion this year"
+   },
+   "body": {
+    "zh": "聯發科副董事長暨執行長蔡力行 3 日在「2026 台灣週」活動表示，公司今年營收可望超過 210 億美元、改寫新高，並點名運算、車用與 AI 資料中心為下一階段的三大成長引擎。他指出，亞馬遜、Google、微軟與 Meta 今年資本支出合計約 7,300 億美元，明年估達約 1.1 兆美元。",
+    "en": "MediaTek vice chairman and CEO Rick Tsai said at a 2026 Taiwan Week event on the 3rd that the company's revenue could exceed US$21 billion this year, a record, naming computing, automotive and AI data centers as its three growth engines. He said Amazon, Google, Microsoft and Meta are spending about US$730 billion combined on capital expenditure this year, with roughly US$1.1 trillion expected next year."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5612/9854090"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "華邦電第三季毛利率 70.6%　每股賺 7.58 元",
+    "en": "Winbond Q3 gross margin hits 70.6%, EPS NT$7.58"
+   },
+   "body": {
+    "zh": "華邦電 3 日公布第三季合併營收 823.31 億元，季增 37.6%、年增 278.2%，毛利率升至 70.6%，歸屬母公司淨利 354.22 億元，每股純益 7.58 元，前三季累計每股賺 15.32 元。總經理陳沛銘預期第四季營運仍會成長，但幅度較前三季趨緩；AI 需求依舊強勁，消費性電子需求則出現部分修正。",
+    "en": "Winbond reported third-quarter consolidated revenue of NT$82.331 billion on the 3rd, up 37.6% from the previous quarter and 278.2% from a year earlier; gross margin rose to 70.6%, net profit attributable to the parent was NT$35.422 billion and EPS was NT$7.58, bringing nine-month EPS to NT$15.32. President Pei-ming Chen expects business to keep growing in the fourth quarter, though more slowly, with AI demand still strong while consumer electronics demand has partly corrected."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5612/9854751"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Meta 傳擬發行至少 200 億美元公司債",
+    "en": "Meta reportedly weighs at least US$20 billion bond sale"
+   },
+   "body": {
+    "zh": "彭博 2 日報導，Meta 正考慮在美元與歐元市場發行投資等級公司債，目標規模至少 200 億美元，若需求強勁可能再擴大，交易尚未定案。同日甲骨文才在一天內啟動共 200 億美元的股債籌資，市場對 AI 支出回報轉趨審慎，Meta 可能須提供較高殖利率。",
+    "en": "Bloomberg reported on the 2nd that Meta is considering investment-grade bond sales in the US dollar and euro markets targeting at least US$20 billion, possibly more if demand is strong; the deal has not been finalized. The same day Oracle launched a combined US$20 billion stock and bond raise, and with investors growing more cautious about returns on AI spending, Meta may need to offer higher yields."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644081"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-03",
+   "close": 43307.54,
+   "change": -1612.6,
+   "pct": -3.59,
+   "open": 44481.59,
+   "high": 44614.64,
+   "low": 43191.58,
+   "prev": 44920.14,
+   "turnover": {
+    "zh": "9,280.58 億元",
+    "en": "NT$928.06 billion"
+   },
+   "otc": {
+    "close": 345.52,
+    "change": -23.72,
+    "pct": -6.42
+   },
+   "headline": {
+    "zh": "外資賣超逾千億　台股重挫 1,612 點",
+    "en": "Foreign selling tops NT$100 billion as TAIEX sinks 1,612 points"
+   },
+   "body": {
+    "zh": "加權指數 3 日開低走低，終場跌 1,612.60 點、跌幅 3.59%，為史上第 7 大單日跌點，上市逾千檔個股下跌、74 檔跌停。台積電跌 35 元收 2,295 元，聯發科重挫 7.43% 至 3,675 元，大立光跌停，記憶體、PCB 與光通訊族群賣壓沉重；新台幣盤中一度貶破 32.8 元。金管會表示，台股跌幅介於亞洲主要股市之間，主因國際股市波動、大型科技股財報與地緣政治不確定性，將持續關注市場變化。",
+    "en": "The TAIEX opened lower and kept falling on the 3rd, closing down 1,612.60 points (3.59%), its seventh-largest one-day point drop on record, with more than 1,000 listed stocks lower and 74 at limit-down. TSMC lost NT$35 to NT$2,295, MediaTek sank 7.43% to NT$3,675 and Largan hit limit-down, while memory, PCB and optical-communications names were sold heavily; the Taiwan dollar briefly weakened past 32.8 per US dollar. The Financial Supervisory Commission said the drop was within the range of major Asian markets, citing global volatility, big-tech earnings and geopolitical uncertainty, and said it would keep monitoring the market."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -1073.07
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 199.05
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -590.55
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -1464.57,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 4 日賣超、4 日累計約 3,621 億元，單日金額為史上第 8 大；投信連 16 日買超。",
+    "en": "Foreign investors have been net sellers for four sessions, about NT$362.1 billion in total, and today's figure is the eighth-largest on record; investment trusts have been net buyers for 16 straight sessions."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611030281.aspx"
+    },
+    {
+     "name": {
+      "zh": "民報",
+      "en": "People News"
+     },
+     "url": "https://www.peoplenews.tw/articles/economic-news/65297"
+    },
+    {
+     "name": {
+      "zh": "東森財經",
+      "en": "EBC Finance"
+     },
+     "url": "https://fnc.ebc.net.tw/fncnews/stock/222034"
+    },
+    {
+     "name": {
+      "zh": "ETtoday",
+      "en": "ETtoday"
+     },
+     "url": "https://finance.ettoday.net/news/3265711"
+    },
+    {
+     "name": {
+      "zh": "FTNN",
+      "en": "FTNN"
+     },
+     "url": "https://www.ftnn.com.tw/news/592490"
+    },
+    {
+     "name": {
+      "zh": "口袋學堂",
+      "en": "Pocket School"
+     },
+     "url": "https://www.pocket.tw/school/articles/article-mw0hp35n/"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-02",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 51983.98,
+     "change": 213.67,
+     "pct": 0.41
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7541.4,
+     "change": -38.67,
+     "pct": -0.51
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25164.32,
+     "change": -272.68,
+     "pct": -1.07
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10328.33,
+     "change": -360.47,
+     "pct": -3.37
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 398.63,
+     "change": null,
+     "pct": -1.85
+    }
+   ],
+   "headline": {
+    "zh": "美股 11/2 收盤：道瓊收紅　費半重挫 3.37%",
+    "en": "US close, Nov 2: Dow edges up while SOX slumps 3.37%"
+   },
+   "body": {
+    "zh": "資金持續撤出科技與半導體、轉進傳統產業，那斯達克 100 指數較 10 月高點回落約 10%，進入技術性修正。鎧俠財測保守拖累美光等記憶體股，甲骨文一天內啟動 200 億美元股債籌資，也加深市場對 AI 支出成本的疑慮；美伊和談訊號使國際油價重挫逾 7%，工業與居家修繕股則撐起道瓊逆勢收高。",
+    "en": "Money kept rotating out of tech and chips into old-economy sectors, leaving the Nasdaq 100 about 10% below its October high, in technical-correction territory. Kioxia's cautious outlook weighed on memory names such as Micron, and Oracle's US$20 billion stock-and-bond raise deepened worries about the cost of AI spending; signs of renewed US-Iran peace talks sent oil down more than 7%, while industrial and home-improvement stocks lifted the Dow."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6644206"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5627251"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "今晨 07:00 起",
+     "en": "From 07:00 today"
+    },
+    "text": {
+     "zh": "美國首批投票所關閉，期中選舉陸續開票",
+     "en": "First US polls close; midterm results start coming in"
+    }
+   },
+   {
+    "time": {
+     "zh": "今日 09:00",
+     "en": "Today 09:00"
+    },
+    "text": {
+     "zh": "台股開盤，消化選舉初步結果",
+     "en": "Taiwan market opens as early results come in"
+    }
+   },
+   {
+    "time": {
+     "zh": "今晚 21:30",
+     "en": "Tonight 21:30"
+    },
+    "text": {
+     "zh": "美國財政部季度再融資聲明、9 月貿易收支",
+     "en": "US Treasury quarterly refunding statement; September trade balance"
+    }
+   },
+   {
+    "time": {
+     "zh": "今晚 23:00",
+     "en": "Tonight 23:00"
+    },
+    "text": {
+     "zh": "美國 10 月 ISM 服務業指數",
+     "en": "US October ISM services index"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/aopl/202611030344.aspx"
+   },
+   {
+    "name": {
+     "zh": "FatTail",
+     "en": "FatTail"
+    },
+    "url": "https://fattail.ai/fattail-week-ahead-nov-2-6-2026/"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-10-28",
+     47035.58
+    ],
+    [
+     "2026-10-29",
+     46368.33
+    ],
+    [
+     "2026-10-30",
+     45211.83
+    ],
+    [
+     "2026-11-02",
+     44920.14
+    ],
+    [
+     "2026-11-03",
+     43307.54
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-10-28",
+     26549.85
+    ],
+    [
+     "2026-10-29",
+     26184.72
+    ],
+    [
+     "2026-10-30",
+     25437.0
+    ],
+    [
+     "2026-11-02",
+     25164.32
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-10-28",
+     11684.0
+    ],
+    [
+     "2026-10-29",
+     11518.2
+    ],
+    [
+     "2026-10-30",
+     10688.8
+    ],
+    [
+     "2026-11-02",
+     10328.33
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "10/28 與 11/2（台股）、10/28 與 10/30（美股）的收盤值，由次一交易日的收盤與漲跌點數推算。",
+   "en": "Closes for Oct 28 and Nov 2 (Taiwan) and Oct 28 and Oct 30 (US) are derived from the next session's close and point change."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鏡週刊",
+     "en": "Mirror Media"
+    },
+    "url": "https://www.mirrormedia.mg/external/amp/setn_1930061"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://wantrich.chinatimes.com/news/20261030900447-420101"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://wantrich.chinatimes.com/news/20261030900070-420201"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6644206"
+   }
+  ]
+ }
+}
