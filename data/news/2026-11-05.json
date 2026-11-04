@@ -1,0 +1,727 @@
+{
+ "date": "2026-11-05",
+ "updated": "2026-11-05T07:51:32+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "民主黨奪回參眾兩院；道瓊飆漲1,569點",
+  "en": "Democrats win Congress; Dow soars 1,569 points"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "民主黨奪回參眾兩院　川普表態接受結果",
+    "en": "Democrats retake both chambers; Trump says he accepts result"
+   },
+   "body": {
+    "zh": "CNN 等美國主流媒體 4 日推估，民主黨在期中選舉中同時拿下參議院與眾議院多數，選前共和黨在參院握有 53 席、在眾院也居多數。民主黨在德州、北卡、南卡等州翻轉參議員席次，德州塔拉里科擊敗帕克斯頓，成為 1988 年以來首位德州民主黨籍聯邦參議員，民主黨也贏得喬治亞州長選舉，CNN 指出傑佛瑞斯可望出任眾議院議長。川普接受《紐約時報》訪問時表示願意接受結果並與民主黨合作，但也在社群平台發文稱若他本人參選必定大勝；副總統范斯則把伊朗戰爭列為共和黨落敗的主因之一。",
+    "en": "Major US outlets including CNN projected on the 4th that Democrats won majorities in both the Senate and the House in the midterm elections; before the vote Republicans held 53 Senate seats and a House majority. Democrats flipped Senate seats in states including Texas, North Carolina and South Carolina, with James Talarico defeating Ken Paxton to become Texas's first Democratic US senator since 1988, and also won Georgia's governorship, while CNN said Hakeem Jeffries is expected to become House Speaker. President Trump told The New York Times he is willing to accept the results and work with Democrats, though he also posted that he would have won in a landslide had he been on the ballot; Vice President JD Vance cited the Iran war as a major reason for the Republican defeat."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611040161.aspx"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/125060/9856594"
+    },
+    {
+     "name": {
+      "zh": "NBC 華盛頓",
+      "en": "NBC Washington"
+     },
+     "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/"
+    },
+    {
+     "name": {
+      "zh": "亞洲經濟",
+      "en": "The Asia Business Daily"
+     },
+     "url": "https://view.asiae.co.kr/en/article/2026110505390710758"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "伊朗稱美選民拒戰　四艘油輪觸雷起火",
+    "en": "Iran says US voters rejected war; four tankers hit mines"
+   },
+   "body": {
+    "zh": "伊朗國會議長兼首席談判代表卡利巴夫 4 日在社群平台表示，美國選民已對戰爭說不，並警告華府若無視這項民意將付出代價；最高領袖穆吉塔巴．哈米尼則說，期待美國因此改變敵對態度的人是大錯特錯。伊朗官方電視台同日報導，四艘油輪行經未經許可的航線時觸雷起火。川普在選前接受《金融時報》專訪時表示，美國目前沒有立即攻擊伊朗的計畫；美伊已在卡達、巴基斯坦等方斡旋下恢復談判，但尚未出現明確進展。",
+    "en": "Iran's parliament speaker and chief negotiator Mohammad Bagher Qalibaf said on social media on the 4th that American voters had said no to war, warning Washington of consequences if it ignored that message, while Supreme Leader Mojtaba Khamenei said anyone expecting a change in US hostility was gravely mistaken. Iranian state TV reported the same day that four oil tankers caught fire after hitting mines on what it called unauthorized routes. Before the vote, President Trump told the Financial Times the US had no plan for an immediate strike on Iran; US-Iran talks have resumed with mediators including Qatar and Pakistan, but no clear next steps have emerged."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "美國公共電視",
+      "en": "PBS NewsHour"
+     },
+     "url": "https://www.pbs.org/newshour/world/iranian-leaders-say-midterm-results-show-u-s-voters-have-rejected-trumps-war"
+    },
+    {
+     "name": {
+      "zh": "The National",
+      "en": "The National"
+     },
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261104001238-260408"
+    },
+    {
+     "name": {
+      "zh": "Just Security",
+      "en": "Just Security"
+     },
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "以色列總統接受選舉結果　啟動組閣諮商",
+    "en": "Israel's president accepts election result, begins coalition talks"
+   },
+   "body": {
+    "zh": "以色列總統赫佐格 4 日接受 10 月 27 日國會大選經認證的結果，並開始與各政黨諮商組閣人選。納坦雅胡陣營失去國會過半，反對派領袖艾森柯特陣營同樣未過半，阿拉伯政黨席次則大幅成長；納坦雅胡與支持者指控阿拉伯政黨竊取選舉，但選舉委員會表示未發現影響結果的違規證據。其餘 8 個政黨將於 5 日會見赫佐格，之後由他指定最有機會組閣的人選，若無人成功，以色列明年初將重新選舉。",
+    "en": "Israeli President Isaac Herzog on the 4th accepted the certified results of the October 27 parliamentary election and began consultations with parties on who should form a government. Benjamin Netanyahu's bloc lost its Knesset majority, opposition leader Gadi Eisenkot's bloc also fell short, and Arab-led parties made historic gains; Netanyahu and his supporters have claimed Arab parties stole the vote, but the elections commission said it found no evidence of irregularities affecting the result. The remaining eight parties meet Herzog on the 5th, after which he will name the candidate most likely to build a coalition, and a new election would be held early next year if no one succeeds."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Spectrum News（美聯社）",
+      "en": "Spectrum News (AP)"
+     },
+     "url": "https://spectrumlocalnews.com/us/snplus/international/2026/11/04/israel-election-government-formation"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄軍空襲札波羅熱援助站　死亡增至37人",
+    "en": "Russian strike on Zaporizhzhia aid site: death toll rises to 37"
+   },
+   "body": {
+    "zh": "烏克蘭札波羅熱州科密蘇瓦哈村一處由學校改建的人道援助發放點 2 日遭空襲，官員 4 日表示死亡人數增至 37 人、仍有 59 人失蹤，救援人員持續搜救。澤倫斯基說，俄軍在民眾領取物資時投下炸彈，接著又轟炸避難處；俄國國防部則稱攻擊目標是當地烏軍部隊，宣稱擊斃最多 25 名烏軍，雙方都否認蓄意攻擊平民。美國特使魏科夫表示，烏俄代表團將於 10 至 11 日在阿布達比會談。",
+    "en": "An aid distribution point in a former school in the village of Komyshuvakha in Ukraine's Zaporizhzhia region was struck on the 2nd, and officials said on the 4th the death toll had risen to 37 with 59 people still missing as rescuers searched the rubble. President Volodymyr Zelensky said Russian forces dropped bombs as people arrived for aid and then struck the shelter, while Russia's defense ministry said it targeted Ukrainian military units and claimed up to 25 soldiers were killed; both sides deny deliberately targeting civilians. US envoy Steve Witkoff said Ukrainian and Russian delegations will meet in Abu Dhabi on November 10–11."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "愛爾蘭廣播電視",
+      "en": "RTÉ"
+     },
+     "url": "https://www.rte.ie/news/ukraine/2026/1104/1597955-ukraine-russia/"
+    },
+    {
+     "name": {
+      "zh": "Just Security",
+      "en": "Just Security"
+     },
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "涉竊聽總統　印尼總統府幕僚長遭撤職",
+    "en": "Indonesia fires presidential chief of staff over alleged wiretapping"
+   },
+   "body": {
+    "zh": "印尼總統普拉伯沃 4 日撤換幕僚長李斯提歐，警方前一天以涉嫌非法竊聽總統與多名內閣部長電話為由將他逮捕，另有兩名高階警官一同被捕。李斯提歐 10 月才轉任幕僚長，此前擔任國家警察總長五年，涉案行為據指發生在他任警察總長期間；總統府發言人表示相關行為可能構成叛國，法務統籌部長則說動機尚未查明。印尼軍方同日在雅加達部署逾 2 萬名士兵，但未說明是否與此案有關。",
+    "en": "Indonesian President Prabowo Subianto on the 4th dismissed his chief of staff Listyo Sigit Prabowo, a day after police arrested him on suspicion of illegally wiretapping the phones of the president and cabinet ministers, along with two senior police officers. Listyo became chief of staff only in October after five years as national police chief, and the alleged tapping took place while he led the police; a presidential spokesperson said the acts may amount to treason, while the senior minister for legal affairs said the motive has not been determined. The military deployed more than 20,000 soldiers in Jakarta the same day but did not say whether this was linked to the case."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged"
+    },
+    {
+     "name": {
+      "zh": "法國24",
+      "en": "France 24"
+     },
+     "url": "https://www.france24.com/en/live-news/20261104-indonesia-govt-says-ex-police-chief-may-have-committed-treason-by-wiretapping-president"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "油價重挫逾8%　布蘭特三日跌近兩成",
+    "en": "Oil sinks over 8%; Brent down nearly 20% in three days"
+   },
+   "body": {
+    "zh": "國際油價 4 日大跌，布蘭特原油收在每桶 94.60 美元、跌 8.7%，西德州原油收約 88.12 美元、跌 8.3%；布蘭特三個交易日累計跌 19.6%，為 2020 年 4 月以來最大三日跌幅。市場認為民主黨掌控國會後，美國延續對伊朗戰爭的政治成本升高，加上美伊恢復談判，帶動油價走低。分析師也提醒，若談判破局，布蘭特可能重回 100 美元以上。",
+    "en": "Oil prices tumbled on the 4th, with Brent settling at US$94.60 a barrel, down 8.7%, and WTI closing at about US$88.12, down 8.3%; Brent has fallen 19.6% over three sessions, its steepest three-day drop since April 2020. Traders reasoned that Democratic control of Congress raises the political cost of continuing the war with Iran, and resumed US-Iran talks added to the selling. Analysts cautioned that Brent could climb back above US$100 if negotiations collapse."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "亞洲經濟",
+      "en": "The Asia Business Daily"
+     },
+     "url": "https://view.asiae.co.kr/en/article/2026110505390710758"
+    },
+    {
+     "name": {
+      "zh": "The National",
+      "en": "The National"
+     },
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/04/brent-oil-slides-to-94-on-iran-uncertainty-after-us-midterms/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "德州新州長擬暫停資料中心　記憶體股重挫",
+    "en": "Texas governor-elect eyes data center pause; memory stocks slump"
+   },
+   "body": {
+    "zh": "民主黨籍的伊諾霍薩 3 日擊敗現任州長艾伯特當選德州州長，她主張在州議會立法保障居民前暫停核准資料中心，並要求業者保護水源、不得把電費轉嫁民眾及取消租稅優惠，將於 1 月 19 日就職。市場擔心 AI 基礎建設擴張受限，美光 4 日跌 7%、SanDisk 跌 7.91%、希捷跌 8.13%，CoreWeave 也跌近 10%，費城半導體指數下挫 3.13%。資料中心產業團體表示，將持續與州政府及地方官員合作推動負責任的資料中心發展。",
+    "en": "Democrat Gina Hinojosa defeated incumbent Greg Abbott on the 3rd to win the Texas governorship; she has pledged to pause data center approvals until the legislature passes protections for residents, and to require operators to protect water supplies, keep data center costs off household power bills and end tax breaks, and she takes office on January 19. On fears of a slower AI build-out, Micron fell 7% on the 4th, SanDisk 7.91% and Seagate 8.13%, CoreWeave dropped nearly 10% and the PHLX Semiconductor Index slid 3.13%. An industry group said it will keep working with state and local officials on responsible data center growth."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "KSAT",
+      "en": "KSAT"
+     },
+     "url": "https://www.ksat.com/news/texas/2026/11/04/gina-hinojosa-won-the-governors-race-what-happens-to-texas-data-centers-now/"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6646812"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美民間就業增8.6萬　服務業PMI 54.5",
+    "en": "US ADP adds 86,000 jobs in October; ISM services at 54.5"
+   },
+   "body": {
+    "zh": "ADP 4 日公布，美國 10 月民間企業新增 8.6 萬個就業，9 月數據由 9 萬下修至 8.6 萬；留任員工基本薪資年增 3.0%，轉職者年增 4.8%。各產業中以貿易、運輸與公用事業增加 3.9 萬人最多，專業與商業服務則減少 2.7 萬人。美國供應管理協會（ISM）同日公布 10 月服務業 PMI 為 54.5，略低於 9 月的 54.9，仍處擴張區間。",
+    "en": "ADP said on the 4th that US private employers added 86,000 jobs in October, with September revised down to 86,000 from 90,000; base pay for job-stayers rose 3.0% from a year earlier and 4.8% for job-changers. Trade, transportation and utilities led with 39,000 jobs, while professional and business services shed 27,000. The Institute for Supply Management reported its October services PMI at 54.5, slightly below September's 54.9 and still in expansion territory."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "ADP（美通社）",
+      "en": "ADP (PR Newswire)"
+     },
+     "url": "https://www.prnewswire.com/news-releases/adp-national-employment-report-private-sector-employment-increased-by-86-000-jobs-in-october-302929216.html"
+    },
+    {
+     "name": {
+      "zh": "晨星（美通社）",
+      "en": "Morningstar (PR Newswire)"
+     },
+     "url": "https://www.morningstar.com/news/pr-newswire/20261104la87158/services-pmi-at-545-october-2026-ism-services-pmi-report"
+    },
+    {
+     "name": {
+      "zh": "美通社",
+      "en": "PR Newswire"
+     },
+     "url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-9-september-2026-ism-services-pmi-report-302898421.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "外資提款逾5100億　新台幣創逾1年半低",
+    "en": "Foreign outflows top NT$510 billion; Taiwan dollar at 18-month low"
+   },
+   "body": {
+    "zh": "新台幣 4 日收在 32.821 元、貶值 6.1 分，收盤價創逾一年半新低，盤中一度貶至 32.9 元；台北與元太外匯市場成交金額 33.815 億美元。外資當天賣超台股 1,498.99 億元，為史上第 5 大，已連續 5 天賣超、累計提款逾 5,100 億元。央行放寬出口商單日拋匯額度後，匯價觸及 32.9 元吸引出口商拋匯，加上午後亞股回穩、外資匯出力道減弱，貶幅收斂。",
+    "en": "The Taiwan dollar closed at 32.821 per US dollar on the 4th, down 6.1 cents and at its weakest close in more than 18 months, after briefly touching 32.9; turnover in the Taipei and Yuan Ta forex markets was US$3.3815 billion. Foreign investors sold a net NT$149.9 billion of Taiwan stocks that day, the fifth-largest on record, extending their selling streak to five sessions and more than NT$510 billion in total. After the central bank eased daily limits on exporters' US dollar sales, the 32.9 level drew heavy exporter selling, and as Asian markets steadied in the afternoon and foreign outflows eased, the currency pared its losses."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611040268.aspx"
+    },
+    {
+     "name": {
+      "zh": "今周刊",
+      "en": "Business Today"
+     },
+     "url": "https://businesstoday.com.tw/article/category/183008/post/202611040032"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "麥當勞同店銷售增1.5%　股價大漲6.5%",
+    "en": "McDonald's comparable sales up 1.5%; shares jump 6.5%"
+   },
+   "body": {
+    "zh": "麥當勞 4 日公布第三季全球同店銷售成長 1.5%，美國市場微減 0.2%，國際直營市場增 1.4%、國際授權市場增 4.2%；營收 71.57 億美元、年增 1%，每股盈餘 3.51 美元、年增 10%。執行長坎普辛斯基表示，推出超值方案後美國業績在季內逐步改善。麥當勞股價當天收漲 6.52%，是推升道瓊的個股之一。",
+    "en": "McDonald's reported on the 4th that third-quarter global comparable sales rose 1.5%, with the US down 0.2%, International Operated Markets up 1.4% and International Developmental Licensed Markets up 4.2%; revenue was US$7.157 billion, up 1%, and diluted EPS was US$3.51, up 10%. CEO Chris Kempczinski said US performance improved through the quarter after the company's value push. The shares closed up 6.52%, one of the stocks lifting the Dow."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "麥當勞（美通社）",
+      "en": "McDonald's (PR Newswire)"
+     },
+     "url": "https://www.prnewswire.com/news-releases/mcdonalds-reports-third-quarter-2026-results-302928424.html"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6646812"
+    },
+    {
+     "name": {
+      "zh": "Motley Fool",
+      "en": "Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/04/stock-market-today-nov-4-dow-surges-3-in-biggest-post-midterm-rally-in-44-years/"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-04",
+   "close": 42948.91,
+   "change": -358.63,
+   "pct": -0.83,
+   "open": 43449.45,
+   "high": 43741.54,
+   "low": 41855.82,
+   "prev": 43307.54,
+   "turnover": {
+    "zh": "11,148.21 億元",
+    "en": "NT$1.11 trillion"
+   },
+   "otc": {
+    "close": 343.5,
+    "change": -2.02,
+    "pct": -0.58
+   },
+   "headline": {
+    "zh": "盤中重挫1,451點　台股終場收跌358點",
+    "en": "TAIEX dives 1,451 points intraday, closes down 358"
+   },
+   "body": {
+    "zh": "加權指數 4 日開高後翻黑，美國期中選舉開票期間賣壓擴大，盤中最多跌 1,451.72 點至 41,855.82 點，午後電子權值股回升、尾盤買盤湧入，終場跌 358.63 點，高低震盪 1,885.72 點，成交值放大至 1.11 兆元。台積電跌 1.53% 收 2,260 元、約拖累指數 275 點，台達電跌 3.94%、鴻海跌 2.24%，聯發科與日月光投控則逆勢收紅；上市櫃合計 848 家上漲、1,051 家下跌，台系記憶體股走弱，工具機股因首波出口管制不含工具機而走強。分析師指出，市場擔憂民主黨掌握國會後可能限制 AI 資料中心擴建，加上融資斷頭賣壓，形成無差別殺盤。",
+    "en": "The TAIEX opened higher on the 4th but turned negative as selling grew during the US midterm count, falling as much as 1,451.72 points to 41,855.82 before electronics heavyweights recovered in the afternoon and late buying narrowed the loss to 358.63 points, an intraday swing of 1,885.72 points on turnover of NT$1.11 trillion. TSMC fell 1.53% to NT$2,260, costing the index about 275 points, Delta lost 3.94% and Hon Hai 2.24%, while MediaTek and ASE closed higher; across both exchanges 848 stocks rose and 1,051 fell, Taiwanese memory names weakened, and machine-tool stocks rallied after officials said the first wave of new export controls excludes machine tools. Analysts said worries that a Democratic Congress could curb AI data center construction, combined with forced margin selling, fueled indiscriminate selling."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -1498.99
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 276.31
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -375.19
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -1597.87,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 5 日賣超、累計逾 5,100 億元，單日金額為史上第 5 大；投信連 17 日買超。",
+    "en": "Foreign investors have been net sellers for five sessions, more than NT$510 billion in total, and today's figure is the fifth-largest on record; investment trusts have been net buyers for 17 straight sessions."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6646350"
+    },
+    {
+     "name": {
+      "zh": "工商時報",
+      "en": "Commercial Times"
+     },
+     "url": "https://www.ctee.com.tw/news/20261104701332-430201"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9857091"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611040031.aspx"
+    },
+    {
+     "name": {
+      "zh": "太報",
+      "en": "Taro News"
+     },
+     "url": "https://taronews.tw/2026/11/04/1211201/"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E8%B7%8C2-02%E9%BB%9E-054743408.html"
+    },
+    {
+     "name": {
+      "zh": "新頭殼",
+      "en": "Newtalk"
+     },
+     "url": "https://newtalk.tw/news/view/2026-11-04/1069268"
+    },
+    {
+     "name": {
+      "zh": "今周刊",
+      "en": "Business Today"
+     },
+     "url": "https://businesstoday.com.tw/article/category/183008/post/202611040032"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-04",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 53356.12,
+     "change": 1569.4,
+     "pct": 3.03
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7688.62,
+     "change": 119.7,
+     "pct": 1.58
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25736.51,
+     "change": 364.5,
+     "pct": 1.44
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10268.65,
+     "change": -331.74,
+     "pct": -3.13
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 395.75,
+     "change": -9.05,
+     "pct": -2.24
+    }
+   ],
+   "headline": {
+    "zh": "美股 11/4：道瓊飆1,569點　費半跌3.13%",
+    "en": "US close, Nov 4: Dow soars 1,569 points; SOX falls 3.13%"
+   },
+   "body": {
+    "zh": "民主黨拿下參眾兩院，市場認為分立政府將抑制政策大幅變動，加上油價重挫、十年期美債殖利率下降約 6 個基點至 4.88% 附近，道瓊大漲 1,569.40 點。微軟漲 6.68%、亞馬遜漲 6.12%、蘋果漲 5.31%，麥當勞財報後漲 6.52%；國防股走弱，洛克希德馬丁跌 6.92%。德州州長選舉結果引發資料中心擴建受限疑慮，美光、SanDisk 等記憶體股重挫，輝達跌 3.17%，費半跌 3.13%，台積電 ADR 跌 2.24% 收 395.75 美元。",
+    "en": "With Democrats winning both chambers, investors bet divided government would limit sweeping policy changes, and falling oil prices plus a roughly 6-basis-point drop in the 10-year Treasury yield to around 4.88% helped the Dow surge 1,569.40 points. Microsoft rose 6.68%, Amazon 6.12% and Apple 5.31%, and McDonald's gained 6.52% after earnings, while defense stocks weakened, with Lockheed Martin down 6.92%. The Texas governor's race raised fears of limits on data center construction, sending memory names such as Micron and SanDisk sharply lower, Nvidia down 3.17% and the SOX down 3.13%, while the TSMC ADR fell 2.24% to US$395.75."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6646812"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+    },
+    {
+     "name": {
+      "zh": "Motley Fool",
+      "en": "Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/04/stock-market-today-nov-4-dow-surges-3-in-biggest-post-midterm-rally-in-44-years/"
+    },
+    {
+     "name": {
+      "zh": "雅虎財經",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-futures-135650348.html"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "今日",
+     "en": "Today"
+    },
+    "text": {
+     "zh": "主計總處公布 10 月消費者物價指數（CPI）；央行公布外匯存底",
+     "en": "Taiwan October CPI from DGBAS; central bank releases FX reserves"
+    }
+   },
+   {
+    "time": {
+     "zh": "今晚 20:00",
+     "en": "Tonight 20:00"
+    },
+    "text": {
+     "zh": "英國央行利率決策（馬來西亞央行今日亦公布利率決策）",
+     "en": "Bank of England rate decision (Bank Negara Malaysia also decides today)"
+    }
+   },
+   {
+    "time": {
+     "zh": "今晚 21:30",
+     "en": "Tonight 21:30"
+    },
+    "text": {
+     "zh": "美國初領失業救濟金人數",
+     "en": "US weekly initial jobless claims"
+    }
+   },
+   {
+    "time": {
+     "zh": "美股盤後",
+     "en": "After US close"
+    },
+    "text": {
+     "zh": "Lumentum 公布財報；Sony、任天堂、快桅今日亦公布財報",
+     "en": "Lumentum earnings; Sony, Nintendo and Maersk also report today"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5607/9858366"
+   },
+   {
+    "name": {
+     "zh": "新浪財經",
+     "en": "Sina Finance"
+    },
+    "url": "https://k.sina.cn/article_2868676035_aafc85c302001zcxm.html"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-10-29",
+     46368.33
+    ],
+    [
+     "2026-10-30",
+     45211.83
+    ],
+    [
+     "2026-11-02",
+     44920.14
+    ],
+    [
+     "2026-11-03",
+     43307.54
+    ],
+    [
+     "2026-11-04",
+     42948.91
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-10-29",
+     26184.72
+    ],
+    [
+     "2026-10-30",
+     25437.0
+    ],
+    [
+     "2026-11-02",
+     25164.32
+    ],
+    [
+     "2026-11-03",
+     25372.01
+    ],
+    [
+     "2026-11-04",
+     25736.51
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-10-29",
+     11518.2
+    ],
+    [
+     "2026-10-30",
+     10688.8
+    ],
+    [
+     "2026-11-02",
+     10328.33
+    ],
+    [
+     "2026-11-03",
+     10600.4
+    ],
+    [
+     "2026-11-04",
+     10268.65
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "11/2（台股）與 10/30（美股）的收盤值，由次一交易日的收盤與漲跌點數推算。",
+   "en": "Closes for Nov 2 (Taiwan) and Oct 30 (US) are derived from the next session's close and point change."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鏡週刊",
+     "en": "Mirror Media"
+    },
+    "url": "https://www.mirrormedia.mg/external/amp/setn_1930061"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://wantrich.chinatimes.com/news/20261030900447-420101"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://wantrich.chinatimes.com/news/20261030900070-420201"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6644206"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5628516"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Nextapple"
+    },
+    "url": "https://news.nextapple.com/finance/20261104/A0E4C2F0C1BBCBEDF87F499A159B21E3"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   }
+  ]
+ }
+}
