@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-06",
+ "latest": "2026-11-07",
  "days": [
+  {
+   "date": "2026-11-07",
+   "summary": {
+    "zh": "白宮幕僚長換米勒；台股重挫1,873點",
+    "en": "Miller named chief of staff; TAIEX sinks 1,873"
+   }
+  },
   {
    "date": "2026-11-06",
    "summary": {
