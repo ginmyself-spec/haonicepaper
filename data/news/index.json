@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-08",
+ "latest": "2026-11-09",
  "days": [
+  {
+   "date": "2026-11-09",
+   "summary": {
+    "zh": "川普稱難再攻伊朗；輝達董事會查黃仁勳",
+    "en": "Trump: Iran strikes unlikely; Nvidia board opens Huang probe"
+   }
+  },
   {
    "date": "2026-11-08",
    "summary": {

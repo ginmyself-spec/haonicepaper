@@ -1,0 +1,767 @@
+{
+ "date": "2026-11-09",
+ "updated": "2026-11-09T08:06:03+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "川普稱難再攻伊朗；輝達董事會查黃仁勳",
+  "en": "Trump: Iran strikes unlikely; Nvidia board opens Huang probe"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "川普：談判有進展難再攻伊朗　荷莫茲2油輪觸雷",
+    "en": "Trump says new Iran strikes unlikely if talks progress; tankers hit mines"
+   },
+   "body": {
+    "zh": "美國總統川普 8 日接受 CNN 電話訪問時表示，只要結束衝突的談判持續有進展，對伊朗發動新一波攻擊「極不可能」，但關鍵在伊朗是否簽署「非常強而有力的協議」，並稱美軍已鎖定 38 座橋梁，約一小時內即可摧毀。伊朗外長阿拉格齊則警告，美方若再度動武，德黑蘭將「降下地獄」，並說期中選舉後調停方尚未恢復穿梭斡旋，需等待時機。伊朗革命衛隊 8 日稱，兩艘使用未獲核准航線、關閉定位系統的「違規」油輪在荷莫茲海峽一帶觸雷起火，未公布船名與國籍；美方近期曾表示海峽水雷已全數清除。",
+    "en": "President Donald Trump told CNN by phone on the 8th that new attacks on Iran would be \"highly unlikely\" as long as talks to end the conflict keep progressing, adding that it depends on whether Iran signs a \"very strong agreement\" and saying US forces have 38 bridges in their sights that could be destroyed in about an hour. Iranian Foreign Minister Abbas Araghchi warned Tehran would \"rain down hell\" if the US resumes attacks, and said mediators have not resumed shuttle visits since the midterms and that Iran must wait. Iran's Revolutionary Guards said on the 8th that two \"violating\" tankers using an unapproved route with positioning systems off caught fire after hitting mines around the Strait of Hormuz, without naming the ships or their flags; the US recently said the strait's mines had all been cleared."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611090003.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611080094.aspx"
+    },
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "艾森柯特獲組閣權　6週內須湊足過半",
+    "en": "Eisenkot gets mandate, has six weeks to build majority"
+   },
+   "body": {
+    "zh": "以色列總統赫佐格已將組閣權交給前參謀總長、最大在野陣營領袖艾森柯特，他最多有 6 週時間組成政府。10 月 27 日大選無陣營在 120 席國會過半，總理納坦雅胡的右翼陣營得 53 席、艾森柯特陣營 48 席，兩個阿拉伯政黨合計 19 席成為關鍵。紐約時報分析指出，要過半恐需阿拉伯政黨合作，但其陣營內部分右翼猶太政黨拒絕加入依賴阿拉伯政黨的政府；若組閣失敗，總統可將機會轉交他人，最可能是納坦雅胡。",
+    "en": "Israeli President Isaac Herzog has given former military chief and top opposition leader Gadi Eisenkot the mandate to form a government, with up to six weeks to do so. No bloc won a majority of the 120-seat Knesset in the October 27 election: Prime Minister Benjamin Netanyahu's right-wing bloc took 53 seats, Eisenkot's 48, and two Arab parties a combined 19, making them pivotal. The New York Times noted that a majority would likely require Arab party cooperation, yet some right-wing Jewish parties in Eisenkot's camp refuse to join a government relying on them; if he fails, the mandate could pass to another candidate, most likely Netanyahu."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611080085.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "民主黨擬查馬斯克與米勒　川普：美國倒退",
+    "en": "Democrats plan probes of Musk, Miller; Trump decries result"
+   },
+   "body": {
+    "zh": "路透等外電報導，民主黨明年 1 月掌控國會後將運用監督權，將接掌眾議院監督委員會的賈西亞表示，將調查馬斯克在政府效率部的角色，以及白宮幕僚長米勒在移民強硬政策中的角色；將主掌參議院銀行委員會的華倫則稱，部分企業應準備接受調查。眾議院民主黨領袖傑佛瑞斯表示，民主黨將支持彈劾戰爭部長赫格塞斯。川普則在社群平台發文稱選舉結果使美國「在歷史上倒退一大步」，並說共和黨將捲土重來。",
+    "en": "Reuters and other outlets reported that Democrats plan to use their oversight powers after taking control of Congress in January: Robert Garcia, incoming chair of the House Oversight Committee, said he will examine Elon Musk's role in the Department of Government Efficiency and White House Chief of Staff Stephen Miller's role in hardline immigration policy, while Elizabeth Warren, incoming Senate Banking chair, said some companies should prepare for scrutiny. House Democratic leader Hakeem Jeffries said Democrats would support impeaching War Secretary Pete Hegseth. Trump wrote on social media that the result took America a big step backward in history and said Republicans would come back stronger."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611090004.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611080194.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "札波羅熱核電廠再斷外電　美俄烏10日談",
+    "en": "Zaporizhzhia loses grid power again; talks due Nov 10"
+   },
+   "body": {
+    "zh": "烏克蘭核能公司 Energoatom 表示，札波羅熱核電廠 8 日凌晨失去最後一條 330 千伏對外線路，只能靠柴油發電機維持，為今年第 16 次全面斷電，並將問題歸咎俄軍占領。俄方所派管理階層稱線路遭「自動保護」切斷、輻射值正常；國際原子能總署表示斷線原因與地點尚不清楚，燃料可供有限數量的發電機運轉約兩週。另外美國將於 10 至 11 日在阿布達比主持烏俄三方會談，俄方由副外長里亞布可夫首度參與，雙方對和平條件的立場仍有差距。",
+    "en": "Ukraine's nuclear operator Energoatom said the Zaporizhzhia plant lost its last 330 kV external line early on the 8th and is relying on diesel generators, the 16th full blackout this year, blaming Russian occupation. The Russian-installed management said the line was cut by \"automatic protection\" and radiation levels are normal; the International Atomic Energy Agency said the cause and location of the disconnection are unknown and that fuel can run a limited number of generators for about two weeks. Separately, the US will host trilateral talks with Ukraine and Russia in Abu Dhabi on November 10-11, with Russian Deputy Foreign Minister Sergei Ryabkov taking part for the first time, while the two sides remain far apart on peace terms."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "RBC-烏克蘭",
+      "en": "RBC-Ukraine"
+     },
+     "url": "https://newsukraine.rbc.ua/news/zaporizhzhia-nuclear-plant-suffers-16th-blackout-1794128692.html"
+    },
+    {
+     "name": {
+      "zh": "莫斯科時報",
+      "en": "The Moscow Times"
+     },
+     "url": "https://www.themoscowtimes.com/2026/11/08/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-internal-power-supply-a94202"
+    },
+    {
+     "name": {
+      "zh": "Al-Monitor（路透）",
+      "en": "Al-Monitor (Reuters)"
+     },
+     "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says"
+    },
+    {
+     "name": {
+      "zh": "基輔獨立報",
+      "en": "The Kyiv Independent"
+     },
+     "url": "https://kyivindependent.com/ukraine-partners-coordinate-peace-efforts-ahead-of-abu-dhabi-talks-with-russia-2/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "飛彈襲利雅德阿美大樓受損　葉門傳33死",
+    "en": "Aramco tower hit by debris in Riyadh; Yemen reports 33 dead"
+   },
+   "body": {
+    "zh": "沙烏地阿拉伯能源部 8 日表示，首都利雅德一棟阿美石油行政大樓遭飛彈碎片擊中，輕微受損，無人傷亡；沙國主導的聯軍稱攔截射向利雅德與東部省的多枚彈道飛彈及巡弋飛彈，並指控葉門青年運動（Houthi）發動攻擊。青年運動衛生部門則稱，聯軍 7 日空襲沙那附近村落造成至少 33 人死亡、39 人受傷，聯軍未回應，死傷數字也未獲獨立證實。雙方衝突升溫，起因包括 2022 年停火協議破局，以及葉門國際承認政府上月發動收復失地行動。",
+    "en": "Saudi Arabia's Energy Ministry said on the 8th that an Aramco administrative building in Riyadh sustained minor damage from falling missile debris, with no casualties; the Saudi-led coalition said it intercepted ballistic and cruise missiles aimed at Riyadh and the Eastern Province and blamed Yemen's Houthis. The Houthi-run health ministry said coalition air strikes on a village near Sanaa on the 7th killed at least 33 people and wounded 39; the coalition had not commented and the figures have not been independently verified. The escalation follows the collapse of a 2022 truce and a campaign launched last month by Yemen's internationally recognized government to retake Houthi-held territory."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中東之眼",
+      "en": "Middle East Eye"
+     },
+     "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "法國連4週六示威　巴黎爆發警民衝突",
+    "en": "France sees fourth Saturday of protests, clashes in Paris"
+   },
+   "body": {
+    "zh": "法國 7 日再度爆發全國示威，內政部統計約 14.6 萬人參與，工會與學生團體則稱 25 萬人，警方在巴黎民族廣場一帶動用催淚瓦斯與震撼彈，內政部長努涅斯表示截至傍晚 6 時已逮捕 232 人。示威者要求加薪、降低燃料與食品價格並增加公共服務預算，總理勒寇尼政府正設法在社會支出與削減赤字間取得協議，他預定 9 日會晤工會與雇主代表。工會與學生團體已號召 10 日再度舉行全國罷工。",
+    "en": "France saw another round of nationwide protests on the 7th, with the Interior Ministry counting about 146,000 participants and unions and student groups claiming 250,000; police used tear gas and stun grenades around Place de la Nation in Paris, and Interior Minister Laurent Nuñez said 232 people had been arrested by 6 p.m. Protesters want higher wages, cheaper fuel and food and more funding for public services, while Prime Minister Sébastien Lecornu's government is trying to balance social spending against deficit reduction; he is due to meet unions and employers on the 9th. Unions and student groups have called another nationwide strike for the 10th."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Newscord（綜合外電）",
+      "en": "Newscord (multiple outlets)"
+     },
+     "url": "https://newscord.org/article/police-and-protesters-clash-in-paris-during-frances-new-round-of-protests--Story_20261108_ClashesinParisaftern012833c2"
+    },
+    {
+     "name": {
+      "zh": "Bytes Europe",
+      "en": "Bytes Europe"
+     },
+     "url": "https://www.byteseu.com/2507390/"
+    },
+    {
+     "name": {
+      "zh": "BusinessDay",
+      "en": "BusinessDay"
+     },
+     "url": "https://www.businessday.co.za/world/2026-11-05-explainer-unrest-grows-as-france-debates-minimum-wage-hike/"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "黃仁勳致信員工坦承外遇　輝達董事會啟動調查",
+    "en": "Huang admits affair in memo; Nvidia board opens probe"
+   },
+   "body": {
+    "zh": "彭博報導，輝達執行長黃仁勳 8 日致信員工坦承對妻子不忠並致歉，董事會將成立獨立董事委員會，偕同外部律師調查他是否成為外國情報行動的目標，調查期間他續任執行長。相關報導涉及新加坡資料中心業者 Megaspeed 前高層黃樂，美方懷疑她受中國情報部門吸收，該公司也被控違反出口管制；黃仁勳先前稱雙方往來屬正常商務。董事會表示沒有理由相信國家安全或公司機密受到威脅，但將檢視所有可得資訊；紐約時報另報導，國務卿盧比歐今年春天曾以機密備忘錄示警高層官員，白宮與國務院未回應。",
+    "en": "Bloomberg reported that Nvidia CEO Jensen Huang told employees in a memo on the 8th that he had been unfaithful to his wife and apologized, and that the board will form a committee of independent directors, working with outside counsel, to examine whether he was the target of a foreign intelligence effort; he stays on as CEO during the review. The reports involve Alice Huang, a former executive at Singapore-based data center firm Megaspeed, whom the US government reportedly suspects was recruited by Chinese intelligence, and Megaspeed has been accused of breaching export controls; Huang had earlier described their dealings as ordinary business. The board said it has no reason to believe national security or company secrets were compromised but will review all available information, while The New York Times reported that Secretary of State Marco Rubio warned senior officials in a classified memo this spring; the White House and State Department did not respond."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611093001.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611090006.aspx"
+    },
+    {
+     "name": {
+      "zh": "雅虎財經（彭博）",
+      "en": "Yahoo Finance (Bloomberg)"
+     },
+     "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-board-probe-spying-case-200611558.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "限空令今上路　國安基金5,000億待命",
+    "en": "Short curbs start today; NT$500bn fund on standby"
+   },
+   "body": {
+    "zh": "台股 11 月 9 日起實施金管會限空措施，借券賣出每日盤中委託上限由前 30 日均量的 30% 降至 3%，融券保證金成數由 9 成提高至 13 成；國安基金可動用上限 5,000 億元，由執行秘書視情況決定是否及何時進場。11 月前 5 個交易日外資累計賣超 5,243.76 億元，外資台指期淨空單增至 99,930 口。台指期 6 日夜盤收 40,298 點、漲 646 點；永豐投顧指出融資減幅有限，市場恐慌尚未消退。",
+    "en": "Taiwan's Financial Supervisory Commission short-selling curbs take effect on November 9, cutting the daily cap on borrowed-share sell orders from 30% to 3% of each stock's 30-day average volume and raising the margin requirement on short sales from 90% to 130%; the National Stabilization Fund can deploy up to NT$500 billion at the discretion of its executive secretary. Foreign investors net sold NT$524.376 billion over the first five sessions of November and raised their net short position in TAIEX futures to 99,930 contracts. TAIEX futures closed the night session at 40,298, up 646 points; SinoPac Securities said margin balances have fallen only modestly and that market panic has not yet faded."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "動區動趨",
+      "en": "BlockTempo"
+     },
+     "url": "https://www.blocktempo.com/taiwan-stocks-monday-rebound-futures-short-curbs-margin-calls-cpi/"
+    },
+    {
+     "name": {
+      "zh": "風傳媒",
+      "en": "The Storm Media"
+     },
+     "url": "https://www.storm.mg/lifestyle/11179329"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3267874"
+    },
+    {
+     "name": {
+      "zh": "壹蘋新聞網",
+      "en": "Nextapple"
+     },
+     "url": "https://news.nextapple.com/finance/20261109/5E4B7C4F35D002213DF54E78E7846709"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美國10月CPI週二揭曉　12月會前最後一份",
+    "en": "US October CPI due Tuesday, last before December Fed"
+   },
+   "body": {
+    "zh": "美國 10 月消費者物價指數（CPI）將於台北時間 10 日晚間 9 時 30 分公布，為聯準會 12 月會議前最後一份 CPI。外電整理的市場預期為整體月增 0.2% 至 0.3%、低於 9 月的 0.6%，核心月增 0.2%；克里夫蘭聯準銀行預測模型估整體月增 0.24%。聯準會 10 月底維持利率不變，強勁就業數據使市場評估 12 月升息可能性；13 日將公布的生產者物價指數，預期月增 0.4%。",
+    "en": "US October consumer prices are due at 9:30 p.m. Taipei time on the 10th, the last CPI report before the Federal Reserve's December meeting. Forecasts compiled by media show headline CPI rising 0.2% to 0.3% month on month, below September's 0.6%, and core at 0.2%, while the Cleveland Fed's nowcast puts headline at 0.24%. The Fed held rates steady in late October, and strong jobs figures have markets weighing a December hike; the producer price index due on the 13th is forecast to rise 0.4% on the month."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "工商時報",
+      "en": "Commercial Times"
+     },
+     "url": "https://www.ctee.com.tw/news/20261108700016-430105"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/6811/9865734"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6652199"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Anthropic路演恐延　投資人嫌估值高",
+    "en": "Reuters: investors doubt Anthropic's valuation and timing"
+   },
+   "body": {
+    "zh": "路透引述四名知情人士報導，潛在投資人懷疑 AI 新創 Anthropic 能否在 9 日當週啟動上市路演並於 11 月掛牌，也希望估值比近期討論的 1.5 兆美元更具吸引力，部分人認為該數字已屬上緣。投資人列舉該公司季度虧損紀錄及對 AI 基礎建設夥伴的大額承諾，也在等候招股書修正版留白的 10 月營收數字。Anthropic 拒絕置評；11 月 2 日提交的 S-1 修正版仍未填入股數與每股價格。",
+    "en": "Reuters, citing four people familiar with investor talks, reported that prospective investors doubt AI startup Anthropic can launch its IPO roadshow in the week of the 9th and still list in November, and want a more attractive valuation than the US$1.5 trillion recently discussed, with some seeing that figure as the high end. Investors cited the company's record of quarterly losses and large commitments to AI infrastructure partners, and are waiting on an October revenue figure left blank in the updated filing. Anthropic declined to comment; the S-1 amendment filed on November 2 still left share counts and price per share blank."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Let's Data Science（路透）",
+      "en": "Let's Data Science (Reuters)"
+     },
+     "url": "https://letsdatascience.com/news/investors-doubt-anthropic-can-hold-november-ipo-roadshow-reu-a69a034f"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "金控海外曝險33兆新高　美國占比35.59%",
+    "en": "Taiwan FHC overseas exposure hits record NT$33 trillion"
+   },
+   "body": {
+    "zh": "金管會統計，國內金控第 3 季海外曝險達 33.0373 兆元，季增 4.95%、年增 16.35%，創歷史新高，其中投資淨額占 71.7%。美國曝險 11.7 兆元、占比升至 35.59%，連續 46 季居首；中國曝險降至 1.99 兆元、占比 6.05% 創新低，日本 1.85 兆元、年增 44.89%，與中國差距縮小至 1,452 億元。新加坡曝險 6,930 億元、年增 41.35%，睽違約 11 年再度進入前 10 大。",
+    "en": "Financial Supervisory Commission figures show Taiwan's financial holding companies had a record NT$33.0373 trillion in overseas exposure in the third quarter, up 4.95% from the prior quarter and 16.35% from a year earlier, with net investments at 71.7% of the total. US exposure of NT$11.7 trillion rose to 35.59% of the total, the largest for 46 straight quarters; China exposure fell to NT$1.99 trillion, a record-low 6.05% share, while Japan reached NT$1.85 trillion, up 44.89% on the year, narrowing the gap with China to NT$145.2 billion. Singapore exposure of NT$693 billion, up 41.35%, returned to the top 10 for the first time in about 11 years."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611080101.aspx"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-06",
+   "close": 39701.64,
+   "change": -1873.08,
+   "pct": -4.51,
+   "open": 38915.76,
+   "high": 40435.83,
+   "low": 37837.05,
+   "prev": 41574.72,
+   "turnover": {
+    "zh": "12,461.04 億元",
+    "en": "NT$1,246.10 billion"
+   },
+   "otc": {
+    "close": 304.02,
+    "change": -17.45,
+    "pct": -5.43
+   },
+   "headline": {
+    "zh": "台股收39,701點　單週重挫5,510點",
+    "en": "TAIEX ends at 39,701, down 5,510 on the week"
+   },
+   "body": {
+    "zh": "11 月 6 日為台股最近一個完整交易日，加權指數終場跌 1,873.08 點、收 39,701.64 點，為史上第 4 大收盤跌點，上市個股 106 家上漲、976 家下跌、27 家持平。台積電收 2,135 元、跌 105 元（4.69%），鴻海跌 4.47%、聯發科跌 2.02%、台達電跌 6.64%、日月光投控跌 7.87%，櫃買指數同日跌 5.43%。全週加權指數累計跌 5,510.19 點、12.19%，上市總市值縮水約 17.94 兆元，電子零組件類股跌 21.60%；前一晚美股科技股重挫，以及投資人擔憂資料中心審查趨嚴、融資減碼與外資賣壓是主要拖累。",
+    "en": "November 6 was the latest completed Taiwan session: the TAIEX fell 1,873.08 points to 39,701.64, the fourth-largest closing point drop on record, with 106 listed stocks up, 976 down and 27 unchanged. TSMC closed at NT$2,135, down NT$105 or 4.69%, while Hon Hai lost 4.47%, MediaTek 2.02%, Delta 6.64% and ASE 7.87%, and the TPEx index fell 5.43%. For the week the TAIEX lost 5,510.19 points or 12.19%, listed market value shrank by about NT$17.94 trillion and electronic components fell 21.60%; the prior night's US tech rout, worries about tighter data center reviews, margin deleveraging and foreign outflows were the main drags."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -911.88
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 266.58
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -494.76
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -1140.06,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "上市融資餘額單日減 423.56 億元；櫃買市場三大法人同日合計買超 51.49 億元。",
+    "en": "Margin loans on listed stocks fell by NT$42.356 billion in a day; institutions were net buyers of NT$5.149 billion on the TPEx."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1873-08%E9%BB%9E-054324789.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E8%B7%8C17-45%E9%BB%9E-054928932.html"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9862080"
+    },
+    {
+     "name": {
+      "zh": "信傳媒",
+      "en": "CM Media"
+     },
+     "url": "https://www.cmmedia.com.tw/home/articles/63724"
+    },
+    {
+     "name": {
+      "zh": "優分析",
+      "en": "UAnalyze"
+     },
+     "url": "https://uanalyze.com.tw/articles/7157158532"
+    },
+    {
+     "name": {
+      "zh": "壹蘋新聞網",
+      "en": "Nextapple"
+     },
+     "url": "https://news.nextapple.com/finance/20261107/6B77BBCCFCBAA61C71EFBFA339E31609"
+    },
+    {
+     "name": {
+      "zh": "MoneyDJ 理財網",
+      "en": "MoneyDJ"
+     },
+     "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=69999bd9-8868-4946-b3fa-f9ea721027ff"
+    },
+    {
+     "name": {
+      "zh": "動區動趨",
+      "en": "BlockTempo"
+     },
+     "url": "https://www.blocktempo.com/taiwan-stocks-monday-rebound-futures-short-curbs-margin-calls-cpi/"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-06",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 51285.73,
+     "change": -237.33,
+     "pct": -0.46
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7376.86,
+     "change": 23.13,
+     "pct": 0.31
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 24579.42,
+     "change": 264.43,
+     "pct": 1.09
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 9390.25,
+     "change": 379.11,
+     "pct": 4.21
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 375.44,
+     "change": 22.34,
+     "pct": 6.33
+    }
+   ],
+   "headline": {
+    "zh": "美股：費半漲4.21%　那指全週跌3.4%",
+    "en": "US close, Nov 6: SOX up 4.21%, Nasdaq down 3.4% on week"
+   },
+   "body": {
+    "zh": "週五（6 日）美股為最近一個完整交易日，晶片股在前一日重挫後反彈，費半漲 4.21%，超微漲 11.04%、英特爾漲 7.71%、美光漲 5.12%、輝達漲 2.78%，台積電 ADR 收 375.44 美元、漲 6.33%，道瓊則續跌 237.33 點。10 月非農就業增加 16.5 萬人、遠高於預期的 5.9 萬人，失業率降至 4.1%，10 年期美債殖利率升至約 4.86%，市場評估聯準會 12 月升息的可能性。全週那指跌 3.4%、標普跌 2.7%、道瓊跌 0.9%，市場對民主黨掌控國會後 AI 與資料中心規範趨嚴的憂慮未消。",
+    "en": "Friday, November 6 was the latest completed US session: chip stocks rebounded after the prior day's rout, with the SOX up 4.21%, AMD 11.04%, Intel 7.71%, Micron 5.12% and Nvidia 2.78%, and the TSMC ADR up 6.33% to US$375.44, while the Dow slipped a further 237.33 points. October payrolls rose 165,000, well above the 59,000 expected, unemployment fell to 4.1% and the 10-year Treasury yield rose to about 4.86% as markets weighed a December Fed hike. For the week the Nasdaq fell 3.4%, the S&P 500 2.7% and the Dow 0.9%, with worries lingering over tighter AI and data center rules under a Democratic Congress."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "美聯社（KRMG）",
+      "en": "AP via KRMG"
+     },
+     "url": "https://krmg.com/2026/11/06/how-major-us-stock-indexes-fared-friday-11-6-2026/"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6651785"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3267874"
+    },
+    {
+     "name": {
+      "zh": "StockTitan",
+      "en": "StockTitan"
+     },
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週一 11/9 09:00",
+     "en": "Mon, Nov 9, 09:00"
+    },
+    "text": {
+     "zh": "國安基金獲授權後首個交易日開盤，金管會限空措施同步上路",
+     "en": "First session after the stabilization fund's authorization; FSC short-selling curbs take effect"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/9 09:30",
+     "en": "Mon, Nov 9, 09:30"
+    },
+    "text": {
+     "zh": "中國公布 10 月 CPI、PPI",
+     "en": "China releases October CPI and PPI"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/9",
+     "en": "Mon, Nov 9"
+    },
+    "text": {
+     "zh": "台灣財政部公布 10 月進出口統計",
+     "en": "Taiwan releases October trade figures"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/9 起",
+     "en": "From Mon, Nov 9"
+    },
+    "text": {
+     "zh": "美國公債季度再融資登場（至 11 日、規模 1,250 億美元）；中加財金對話與 G7 外長會議同日舉行",
+     "en": "US quarterly refunding runs through Nov 11, sized at US$125 billion; China-Canada financial dialogue and G7 foreign ministers' meeting begin"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "動區動趨",
+     "en": "BlockTempo"
+    },
+    "url": "https://www.blocktempo.com/taiwan-stocks-monday-rebound-futures-short-curbs-margin-calls-cpi/"
+   },
+   {
+    "name": {
+     "zh": "金融界",
+     "en": "JRJ"
+    },
+    "url": "https://stock.jrj.com.cn/2026/11/08181459063441.shtml"
+   },
+   {
+    "name": {
+     "zh": "MoneyDJ 理財網",
+     "en": "MoneyDJ"
+    },
+    "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=740afcee-ff34-4160-80cc-af9b00e2ea26"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-02",
+     44920.14
+    ],
+    [
+     "2026-11-03",
+     43307.54
+    ],
+    [
+     "2026-11-04",
+     42948.91
+    ],
+    [
+     "2026-11-05",
+     41574.72
+    ],
+    [
+     "2026-11-06",
+     39701.64
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-02",
+     25164.32
+    ],
+    [
+     "2026-11-03",
+     25372.01
+    ],
+    [
+     "2026-11-04",
+     25736.51
+    ],
+    [
+     "2026-11-05",
+     24315.0
+    ],
+    [
+     "2026-11-06",
+     24579.42
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-02",
+     10328.33
+    ],
+    [
+     "2026-11-03",
+     10600.4
+    ],
+    [
+     "2026-11-04",
+     10268.65
+    ],
+    [
+     "2026-11-05",
+     9011.14
+    ],
+    [
+     "2026-11-06",
+     9390.25
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "11/2（台股）的收盤值，由次一交易日的收盤與漲跌點數推算。",
+   "en": "The Nov 2 (Taiwan) close is derived from the next session's close and point change."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鏡週刊",
+     "en": "Mirror Media"
+    },
+    "url": "https://www.mirrormedia.mg/external/amp/setn_1930061"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6644206"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5628516"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Nextapple"
+    },
+    "url": "https://news.nextapple.com/finance/20261104/A0E4C2F0C1BBCBEDF87F499A159B21E3"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   }
+  ]
+ }
+}
