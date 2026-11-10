@@ -1,0 +1,715 @@
+{
+ "date": "2026-11-10",
+ "updated": "2026-11-10T08:03:39+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "川普稱伊朗戰爭實質結束；台股飆1,960點",
+  "en": "Trump: Iran war 'effectively over'; TAIEX soars 1,960"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "川普：伊朗戰爭實質結束　封鎖維持現狀",
+    "en": "Trump says Iran war 'effectively over'; blockade stays"
+   },
+   "body": {
+    "zh": "美國總統川普 9 日與副總統范斯在白宮接待卡達總理穆罕默德後表示，美國對伊朗的戰爭「實質上已結束」，美方將維持現狀，包括持續封鎖伊朗港口，以及新成立、旨在切斷伊朗陸路貿易的「鐵門特遣部隊」。卡達總理則表示，雙方就達成協議與帶來區域和平進行了正面討論。伊朗外交部發言人巴蓋伊同日說，伊朗的方案仍是「最合理」的選項，德黑蘭堅持解除封鎖與制裁等 7 項停戰要求；國務卿盧比歐則稱這些要求不切實際。伊朗荷莫茲甘省副省長證實格什姆島夜間遭美軍空襲，但稱民生與關鍵設施未受損。",
+    "en": "President Donald Trump said on the 9th, after he and Vice President JD Vance hosted Qatar's prime minister at the White House, that the US war on Iran is \"effectively over\" and that Washington will keep the status quo, including the naval blockade of Iranian ports and the newly formed Task Force Iron Gate aimed at cutting Iran's land trade. Qatar's prime minister said the two sides held positive talks on reaching a deal and bringing peace to the region. Iranian Foreign Ministry spokesman Esmail Baghaei said the same day that Iran's plan remains \"the most logical\" option, with Tehran holding to seven demands that include lifting the blockade and sanctions; Secretary of State Marco Rubio has called those demands unrealistic. A deputy governor of Hormozgan province confirmed that Qeshm Island was hit by overnight US strikes but said no residential or vital infrastructure was damaged."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+    },
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure"
+    },
+    {
+     "name": {
+      "zh": "工商時報",
+      "en": "Commercial Times"
+     },
+     "url": "https://www.ctee.com.tw/news/20261109702038-430701"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "G7外長巴黎會談　美俄烏今起阿布達比談",
+    "en": "G7 ministers meet in Paris; US-Russia-Ukraine talks open in Abu Dhabi"
+   },
+   "body": {
+    "zh": "七國集團（G7）外長 9 日在巴黎展開為期兩天的會議，地點臨時由馬賽改至巴黎，議程涵蓋俄烏戰爭、避免與伊朗衝突升級及荷莫茲海峽。歐洲各國希望促成對基輔公平的和平方案，德國外長瓦德富爾表示歐洲在攸關自身安全的談判中「必須有一席之地」；美國國務卿盧比歐則說，戰後歐洲安全安排是重要議題，但須先結束戰爭，並稱與伊朗的談判「沒有進展」。由美方斡旋的俄烏談判 10、11 日在阿布達比舉行，部分歐洲國家擔心基輔被迫接受不利條件，法國表示歐洲方面將派代表與會；加拿大同日宣布將 38 個實體與 24 名個人列入對俄制裁名單。",
+    "en": "G7 foreign ministers opened a two-day meeting in Paris on the 9th, moved at short notice from Marseille, with an agenda covering the Russia-Ukraine war, avoiding escalation with Iran and the Strait of Hormuz. European governments want a settlement that is fair to Kyiv, and German Foreign Minister Johann Wadephul said Europe \"must have a place at the table\" in talks on its security; Secretary of State Marco Rubio said postwar European security arrangements are a key topic but the war must end first, and that there has been \"no progress\" with Iran. US-mediated Russia-Ukraine talks are being held in Abu Dhabi on the 10th and 11th, amid European worries that Kyiv could be pushed into unfavorable terms; France said Europeans would be represented there. Canada the same day added 38 entities and 24 individuals to its Russia sanctions list."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "韓國時報（法新社）",
+      "en": "The Korea Times (AFP)"
+     },
+     "url": "https://www.koreatimes.co.kr/world/20261109/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks"
+    },
+    {
+     "name": {
+      "zh": "Meduza",
+      "en": "Meduza"
+     },
+     "url": "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普質疑期中選舉公正　民調支持度32%",
+    "en": "Trump questions midterm fairness; approval at 32%"
+   },
+   "body": {
+    "zh": "川普 9 日在社群平台「真實社群」發文，質疑上週舉行的期中選舉是否誠實公正，並在未提出證據的情況下指稱提前投票數據異常，使共和黨不可能勝選。民主黨在這次選舉中拿下參眾兩院多數；川普在選舉當晚曾向《紐約時報》表示願意接受結果。路透/益普索 10 日公布的民調顯示，川普支持度為 32%，與前兩次調查持平，僅比其任內最低點高 1 個百分點；受訪者對其處理生活成本的支持度只有 21%。",
+    "en": "Trump posted on Truth Social on the 9th questioning whether last week's midterm elections were honest and fair, asserting without evidence that early-voting data were abnormal and made a Republican win impossible. Democrats won majorities in both chambers of Congress in the vote; on election night Trump had told The New York Times he was willing to accept the results. A Reuters/Ipsos poll published on the 10th put his approval at 32%, unchanged from the previous two surveys and one point above his career low, with just 21% approving of his handling of the cost of living."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100002.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100010.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "COP31安塔利亞開幕　氣候資金爭議浮現",
+    "en": "COP31 opens in Antalya amid climate finance dispute"
+   },
+   "body": {
+    "zh": "聯合國氣候峰會 COP31 於 9 日在土耳其安塔利亞開幕，由土耳其擔任主席國、澳洲主導談判，開幕式延後約一個半小時，領袖峰會訂於 11、12 日舉行。聯合國秘書長古特瑞斯呼籲各國領袖「認真起來」，並說世界已進入氣候極端的新時代。開發中國家要求把氣候資金列入正式議程，非洲國家則推動將調適資金增為三倍，但歐盟官員表示此次峰會缺乏追加出資承諾的政治意願。美國川普政府未派官員出席，改由國會議員組團與會。",
+    "en": "The UN climate summit COP31 opened in Antalya, Turkey, on the 9th, with Turkey holding the presidency and Australia leading negotiations; the opening ceremony started about 90 minutes late, and a leaders' summit is set for the 11th and 12th. UN Secretary-General Antonio Guterres urged leaders to \"get serious,\" saying the world has entered a new age of climate extremes. Developing countries pressed to put climate finance on the formal agenda and African nations pushed to triple adaptation finance, while an EU official said there is no political will for additional funding pledges at this summit. The Trump administration sent no officials, though a US congressional delegation is attending."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Turkish Minute",
+      "en": "Turkish Minute"
+     },
+     "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "土耳其煉鋼廠爆炸　至少16死10人受困",
+    "en": "Turkish steel plant blast kills 16; 10 trapped"
+   },
+   "body": {
+    "zh": "土耳其西部伊茲密爾省阿利阿加區的哈巴斯鋼鐵廠 9 日中午發生爆炸，總統艾爾段在內閣會議後表示已有 16 人罹難。省長辦公室指出，14 名傷者送醫、其中 3 人傷勢嚴重，另有 10 人仍受困瓦礫中，搜救持續進行。初步調查顯示，一座天車在液態鋼鑄造過程中斷裂並掉入電弧爐，當局已展開調查。",
+    "en": "An explosion tore through the Habas iron and steel plant in the Aliaga district of Izmir province in western Turkey around noon on the 9th, and President Tayyip Erdogan said after a cabinet meeting that 16 people had been killed. The governor's office said 14 injured people were taken to hospital, three in serious condition, while 10 people remained trapped under rubble as search and rescue work continued. Initial findings indicate an overhead crane snapped and fell into an arc furnace during liquid steel casting, and authorities have opened an investigation."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Al-Monitor（路透）",
+      "en": "Al-Monitor (Reuters)"
+     },
+     "url": "https://www.al-monitor.com/originals/2026/11/steel-plant-blast-kills-16-western-turkey"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "黃仁勳風波輝達跌逾4%　超微大漲13%",
+    "en": "Nvidia falls 4% on Huang probe as AMD jumps 13%"
+   },
+   "body": {
+    "zh": "輝達 9 日在董事會宣布就執行長黃仁勳與一名被美方情報界認定可能為中國間諜女子的關係展開獨立調查後，股價開盤一度重挫逾 8%，終場跌約 4.3%，為道瓊成分股中表現最差者。黃仁勳在致員工信中坦承外遇並致歉，承諾全面配合調查；分析師提醒輝達面臨「關鍵人物風險」。同日其他晶片股普遍走強，超微獲奧本海默調升評等大漲 13.3%，博通漲 8.8%，美光漲 6.3%。",
+    "en": "Nvidia shares tumbled more than 8% at the open on the 9th after its board said it would independently investigate CEO Jensen Huang's relationship with a woman US intelligence believes may be a Chinese spy, and closed down about 4.3%, the worst performer in the Dow. Huang admitted an extramarital affair in a memo to staff, apologized and pledged full cooperation with the review, while analysts flagged \"key-person risk\" for the chipmaker. Other chip stocks broadly rallied the same day: AMD jumped 13.3% after an Oppenheimer upgrade, Broadcom rose 8.8% and Micron 6.3%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Kiplinger",
+      "en": "Kiplinger"
+     },
+     "url": "https://www.kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
+    },
+    {
+     "name": {
+      "zh": "Yahoo Finance",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html"
+    },
+    {
+     "name": {
+      "zh": "ABC 新聞",
+      "en": "ABC News"
+     },
+     "url": "https://abcnews.com/Business/nvidia-stock-falls-after-company-opens-probe-ceo/story?id=137970524"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普淡化再攻伊朗　布蘭特油價重挫5.85%",
+    "en": "Brent sinks 5.85% as Trump plays down new Iran strikes"
+   },
+   "body": {
+    "zh": "川普表示只要談判持續進展就不太可能再攻擊伊朗，國際油價 9 日大跌，布蘭特原油收每桶 92.57 美元、跌 5.75 美元（5.85%），西德州原油收 86.85 美元、跌 3.98 美元（4.38%），盤後布蘭特跌幅擴大至逾 7 美元、創 8 月底以來新低。據報伊拉克原油可經荷莫茲海峽靠阿曼一側出口，加上摩根大通估計 10 月全球供給過剩約每日 140 萬桶，賣壓加重。不過荷莫茲海峽周邊船隻遇襲及沙烏地能源設施受攻擊，限制了跌幅；布蘭特上週已累計下跌 16%。",
+    "en": "Oil prices slumped on the 9th after Trump said new attacks on Iran were unlikely as long as talks progress: Brent settled at US$92.57 a barrel, down US$5.75 or 5.85%, and WTI at US$86.85, down US$3.98 or 4.38%, with Brent extending losses to more than US$7 after settlement to its lowest since late August. Reports that Iraqi crude can exit via the Oman side of the Strait of Hormuz, and a JPMorgan estimate of a global surplus of about 1.4 million barrels a day in October, added to the selling. Attacks on ships near Hormuz and on Saudi energy facilities limited the decline; Brent had already fallen 16% last week."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6654824"
+    },
+    {
+     "name": {
+      "zh": "Offshore Technology",
+      "en": "Offshore Technology"
+     },
+     "url": "https://www.offshore-technology.com/news/oil-prices-fall-trump-no-strikes-iran/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "10月出口967.6億美元　連36紅創新高",
+    "en": "Taiwan's October exports hit record US$96.76 billion"
+   },
+   "body": {
+    "zh": "財政部 9 日公布，10 月出口 967.6 億美元、年增 58.9%，單月首度突破 900 億美元並創歷史新高，已連續 36 個月正成長，為史上最長成長週期。進口 688.9 億美元、年增 75.1%，出超 278.8 億美元，同創單月新高。資通與視聽產品出口 476 億美元、年增 72.9%，電子零組件 326.8 億美元、年增 61.4%；財政部指 AI 應用擴散至半導體並逢第四季旺季是主要動能，前 10 月累計出口達 7,582.9 億美元。",
+    "en": "Taiwan's Ministry of Finance said on the 9th that October exports rose 58.9% from a year earlier to US$96.76 billion, the first month above US$90 billion and an all-time record, extending growth to 36 straight months, the longest streak on record. Imports rose 75.1% to US$68.89 billion, leaving a record monthly surplus of US$27.88 billion. Exports of ICT and audiovisual products rose 72.9% to US$47.6 billion and electronic components 61.4% to US$32.68 billion; the ministry cited AI demand spreading across semiconductors plus the fourth-quarter peak season, with January-October exports totaling US$758.29 billion."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611090213.aspx"
+    },
+    {
+     "name": {
+      "zh": "壹蘋新聞網",
+      "en": "Nextapple"
+     },
+     "url": "https://news.nextapple.com/finance/20261109/64F97F5611EBF2109770E43CB45D2292"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中國PPI年增5.7%　CPI放緩至0.7%",
+    "en": "China's October PPI up 5.7%; CPI slows to 0.7%"
+   },
+   "body": {
+    "zh": "中國國家統計局 9 日公布，10 月消費者物價指數（CPI）年增 0.7%、月持平，前 10 月平均年增 0.9%。生產者物價指數（PPI）年增 5.7%、月增 0.7%，工業生產者購進價格年增 7.9%。統計局指出，國際能源價格上揚推升石油與天然氣開採、煤炭等行業價格，國內汽油價格月漲 4.2%，但雞蛋、鮮菜與鮮果價格下跌，抵銷部分漲幅。",
+    "en": "China's National Bureau of Statistics said on the 9th that the October consumer price index rose 0.7% from a year earlier and was flat on the month, averaging 0.9% for January-October. The producer price index rose 5.7% year on year and 0.7% month on month, while industrial purchase prices climbed 7.9%. The bureau said higher international energy prices lifted oil and gas extraction and coal prices and domestic gasoline rose 4.2% on the month, while falling prices for eggs, fresh vegetables and fruit offset part of the increase."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中國環球電視網",
+      "en": "CGTN"
+     },
+     "url": "https://news.cgtn.com/news/2026-11-09/China-s-October-CPI-up-0-7-PPI-rises-5-7--1RVFvJks2Fa/p.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中美各延長貿易休兵措施　APEC前夕",
+    "en": "US, China extend trade truce steps ahead of APEC"
+   },
+   "body": {
+    "zh": "中國商務部 9 日宣布，自 10 日起再暫停 2 個月對美方實體的部分出口管制措施，國務院關稅稅則委員會也將對美商品 24% 的加徵關稅續停 2 個月、保留 10%，交通部則暫停對美國船舶收取特別港務費至明年 1 月 10 日。美國貿易代表署同時將 178 項商品的 301 關稅排除期限延長至明年 1 月 9 日，並延後對中國船舶收取港口費。分析指出，相關措施正值 18、19 日在深圳舉行的 APEC 非正式領袖會議前夕，預料川習將在會議期間再度會面。",
+    "en": "China's Commerce Ministry said on the 9th it will suspend some export control measures on US entities for another two months from the 10th, while the State Council Tariff Commission extended the suspension of a 24% additional tariff on US goods for two months and kept a 10% levy, and the transport ministry paused special port fees on US vessels until January 10. The US Trade Representative likewise extended Section 301 tariff exclusions for 178 products to January 9 and postponed port fees on Chinese ships. Analysts noted the moves come ahead of the informal APEC leaders' meeting in Shenzhen on November 18-19, where Trump and Xi are expected to meet again."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5603/9867824"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-09",
+   "close": 41661.7,
+   "change": 1960.06,
+   "pct": 4.94,
+   "open": 40347.28,
+   "high": 42349.36,
+   "low": 40347.28,
+   "prev": 39701.64,
+   "turnover": {
+    "zh": "8,379.29 億元",
+    "en": "NT$837.93 billion"
+   },
+   "headline": {
+    "zh": "台股飆1,960點　史上第二大收盤漲點",
+    "en": "TAIEX soars 1,960 points, second-biggest gain ever"
+   },
+   "body": {
+    "zh": "11 月 9 日加權指數終場漲 1,960.06 點、收 41,661.70 點，漲幅 4.94%，為史上第二大收盤漲點，盤中一度大漲 2,647.72 點至 42,349.36 點；上市個股 821 家上漲、233 家下跌、58 家持平，上市櫃共 237 檔漲停。台積電收 2,235 元、漲 100 元（4.68%），聯發科、台達電、國巨、南亞等漲停，鴻海漲 14.5 元至 239 元；櫃買指數收 321.97 點、漲 5.9%。國安基金第 10 度獲授權進場、金管會限空措施上路，加上上週五費半反彈 4.21%，帶動指數報復性反彈；但外資仍賣超逾 900 億元，新台幣收 32.882 元、貶值 1.14 角。",
+    "en": "On November 9 the TAIEX rose 1,960.06 points, or 4.94%, to 41,661.70, its second-largest closing point gain on record, after rallying as much as 2,647.72 points to 42,349.36 intraday; 821 listed stocks rose, 233 fell and 58 were unchanged, and 237 listed and OTC stocks hit limit-up. TSMC closed at NT$2,235, up NT$100 or 4.68%, MediaTek, Delta, Yageo and Nan Ya hit limit-up and Hon Hai rose NT$14.5 to NT$239, while the TPEx index closed at 321.97, up 5.9%. The 10th authorization of the National Stabilization Fund, the FSC's short-selling curbs and Friday's 4.21% SOX rebound fueled the rally, but foreign investors still sold more than NT$90 billion and the Taiwan dollar weakened NT$0.114 to 32.882."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -900.56
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 267.48
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -312.18
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -945.26,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 8 個交易日賣超、累計約 7,957 億元，並連 22 個交易日賣超台積電；外資台指期淨空單增至 101,771 口、創新高。",
+    "en": "Foreign investors were net sellers for an eighth straight session, totaling about NT$795.7 billion, and sold TSMC for a 22nd straight session; their net short TAIEX futures position rose to a record 101,771 contracts."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611090124.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611090134.aspx"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9866962"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261109002843-260410"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3268934"
+    },
+    {
+     "name": {
+      "zh": "公視新聞網",
+      "en": "PTS News"
+     },
+     "url": "https://news.pts.org.tw/article/834992"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-09",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 52389.75,
+     "change": 1104.02,
+     "pct": 2.15
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7549.94,
+     "change": 173.08,
+     "pct": 2.35
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25253.14,
+     "change": 673.71,
+     "pct": 2.74
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10033.93,
+     "change": 643.68,
+     "pct": 6.85
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 388.62,
+     "change": 13.18,
+     "pct": 3.51
+    }
+   ],
+   "headline": {
+    "zh": "美股：道瓊飆1,104點　費半大漲6.85%",
+    "en": "US close, Nov 9: Dow jumps 1,104, SOX up 6.85%"
+   },
+   "body": {
+    "zh": "週一（9 日）美股為最近一個完整交易日，油價大跌緩解通膨疑慮、晶片股領漲，道瓊大漲 1,104.02 點，標普 500 漲 2.35%，那指漲 2.74% 並脫離修正區間，標普 11 大類股全數收紅、工業類股漲 4.59%。費半大漲 6.85%，超微漲 13.3%、博通漲 8.8%，台積電 ADR 收 388.62 美元、漲 3.51%；輝達則因執行長風波逆勢跌約 4.3%。10 年期美債殖利率小升至約 4.88%，CME FedWatch 顯示市場預期聯準會 12 月升息一碼的機率約 84%，焦點轉向週二公布的 10 月 CPI。",
+    "en": "Monday, November 9 was the latest completed US session: a slide in oil prices eased inflation worries and chipmakers led gains, with the Dow up 1,104.02 points, the S&P 500 up 2.35% and the Nasdaq up 2.74%, leaving correction territory; all 11 S&P sectors rose, led by industrials at 4.59%. The SOX jumped 6.85%, with AMD up 13.3% and Broadcom 8.8%, and the TSMC ADR rose 3.51% to US$388.62, while Nvidia fell about 4.3% amid scrutiny of its CEO. The 10-year Treasury yield edged up to about 4.88%, CME FedWatch put the odds of a quarter-point Fed hike in December at about 84%, and attention turned to Tuesday's October CPI."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo Finance",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-9-222339218.html"
+    },
+    {
+     "name": {
+      "zh": "Kiplinger",
+      "en": "Kiplinger"
+     },
+     "url": "https://www.kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
+    },
+    {
+     "name": {
+      "zh": "鏡週刊（三立）",
+      "en": "Mirror Media (SETN)"
+     },
+     "url": "https://www.mirrormedia.mg/external/setn_1936251"
+    },
+    {
+     "name": {
+      "zh": "優分析",
+      "en": "UAnalyze"
+     },
+     "url": "https://uanalyze.com.tw/articles/7820358782"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr9%E6%97%A5%E4%B8%8A%E6%BC%B213-18%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%853-51-%E6%8A%98%E5%8F%B0%E8%82%A12555-72%E5%85%83-214627491.html"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週二 11/10 晚間",
+     "en": "Tue, Nov 10, evening"
+    },
+    "text": {
+     "zh": "美國公布 10 月消費者物價指數（CPI），為聯準會 12 月會議前焦點數據",
+     "en": "US releases October CPI, a key reading before the Fed's December meeting"
+    }
+   },
+   {
+    "time": {
+     "zh": "週二 11/10–週三 11/11",
+     "en": "Tue, Nov 10 – Wed, Nov 11"
+    },
+    "text": {
+     "zh": "美方斡旋的俄烏談判在阿布達比舉行",
+     "en": "US-mediated Russia-Ukraine talks in Abu Dhabi"
+    }
+   },
+   {
+    "time": {
+     "zh": "週二 11/10",
+     "en": "Tue, Nov 10"
+    },
+    "text": {
+     "zh": "G7 外長巴黎會議第二天，烏克蘭外長出席烏克蘭議題會議；中國對美暫停部分管制措施即日生效",
+     "en": "Second day of G7 foreign ministers' talks in Paris, with Ukraine's foreign minister joining a Ukraine session; China's extended suspension of some US measures takes effect"
+    }
+   },
+   {
+    "time": {
+     "zh": "週三 11/11–週四 11/12",
+     "en": "Wed, Nov 11 – Thu, Nov 12"
+    },
+    "text": {
+     "zh": "COP31 領袖峰會於土耳其安塔利亞登場",
+     "en": "COP31 leaders' summit in Antalya, Turkey"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "Kiplinger",
+     "en": "Kiplinger"
+    },
+    "url": "https://www.kiplinger.com/investing/stocks/dow-adds-1-104-points-even-as-nvidia-stock-sinks-stock-market-today"
+   },
+   {
+    "name": {
+     "zh": "Meduza",
+     "en": "Meduza"
+    },
+    "url": "https://meduza.io/en/news/2026/11/03/trilateral-talks-between-russia-ukraine-and-us-set-for-november-10-11-in-abu-dhabi"
+   },
+   {
+    "name": {
+     "zh": "韓國時報（法新社）",
+     "en": "The Korea Times (AFP)"
+    },
+    "url": "https://www.koreatimes.co.kr/world/20261109/g7-ministers-press-rubio-on-iran-ukraine-at-paris-talks"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5603/9867824"
+   },
+   {
+    "name": {
+     "zh": "Turkish Minute",
+     "en": "Turkish Minute"
+    },
+    "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-03",
+     43307.54
+    ],
+    [
+     "2026-11-04",
+     42948.91
+    ],
+    [
+     "2026-11-05",
+     41574.72
+    ],
+    [
+     "2026-11-06",
+     39701.64
+    ],
+    [
+     "2026-11-09",
+     41661.7
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-03",
+     25372.01
+    ],
+    [
+     "2026-11-04",
+     25736.51
+    ],
+    [
+     "2026-11-05",
+     24315.0
+    ],
+    [
+     "2026-11-06",
+     24579.42
+    ],
+    [
+     "2026-11-09",
+     25253.14
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-03",
+     10600.4
+    ],
+    [
+     "2026-11-04",
+     10268.65
+    ],
+    [
+     "2026-11-05",
+     9011.14
+    ],
+    [
+     "2026-11-06",
+     9390.25
+    ],
+    [
+     "2026-11-09",
+     10033.93
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鏡週刊",
+     "en": "Mirror Media"
+    },
+    "url": "https://www.mirrormedia.mg/external/amp/setn_1930061"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611030149.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6644206"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5628516"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Nextapple"
+    },
+    "url": "https://news.nextapple.com/finance/20261104/A0E4C2F0C1BBCBEDF87F499A159B21E3"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1936251"
+   }
+  ]
+ }
+}

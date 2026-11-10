@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-09",
+ "latest": "2026-11-10",
  "days": [
+  {
+   "date": "2026-11-10",
+   "summary": {
+    "zh": "川普稱伊朗戰爭實質結束；台股飆1,960點",
+    "en": "Trump: Iran war 'effectively over'; TAIEX soars 1,960"
+   }
+  },
   {
    "date": "2026-11-09",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "美期中選舉開票；川普稱年底停對以援助",
     "en": "US midterm count begins; Trump says Israel aid to end"
-   }
-  },
-  {
-   "date": "2026-11-03",
-   "summary": {
-    "zh": "美國期中選舉投票；台股重挫 1,612 點",
-    "en": "US midterms vote; TAIEX plunges 1,612 points"
    }
   }
  ]
