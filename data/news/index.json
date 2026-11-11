@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-10",
+ "latest": "2026-11-11",
  "days": [
+  {
+   "date": "2026-11-11",
+   "summary": {
+    "zh": "俄烏阿布達比會談；美CPI偏熱、台股再漲千點",
+    "en": "Russia-Ukraine talks; hot US CPI; TAIEX up 1,050"
+   }
+  },
   {
    "date": "2026-11-10",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "民主黨奪回參眾兩院；道瓊飆漲1,569點",
     "en": "Democrats win Congress; Dow soars 1,569 points"
-   }
-  },
-  {
-   "date": "2026-11-04",
-   "summary": {
-    "zh": "美期中選舉開票；川普稱年底停對以援助",
-    "en": "US midterm count begins; Trump says Israel aid to end"
    }
   }
  ]

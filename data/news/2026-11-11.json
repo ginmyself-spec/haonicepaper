@@ -1,0 +1,765 @@
+{
+ "date": "2026-11-11",
+ "updated": "2026-11-11T08:06:25+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "俄烏阿布達比會談；美CPI偏熱、台股再漲千點",
+  "en": "Russia-Ukraine talks; hot US CPI; TAIEX up 1,050"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "俄烏美阿布達比會談　安全保證成焦點",
+    "en": "Russia, Ukraine meet in Abu Dhabi as US mediates"
+   },
+   "body": {
+    "zh": "美國斡旋的俄羅斯與烏克蘭代表團 10 日在阿布達比展開為期兩天的閉門會談，美方由特使魏科夫與庫許納出席，俄方由克里姆林宮助理梅丁斯基率團。克宮發言人裴斯科夫表示會談聚焦安全保證，歐洲官員不參與；澤倫斯基形容首日會談具建設性，並說談判代表已向他報告人道議題、安全保證與降低衝突升級等內容，強調任何保證都必須真正有效。美方另提議把結束戰爭與建立新的歐洲安全架構相連結，俄國外長拉夫羅夫表示歡迎，歐盟外交與安全政策高級代表卡拉斯則說歐洲早有安全架構，問題在於俄羅斯不遵守。",
+    "en": "US-mediated talks between Russian and Ukrainian delegations opened in Abu Dhabi on the 10th and are set to run two days behind closed doors, with US envoys Steve Witkoff and Jared Kushner attending and Kremlin aide Vladimir Medinsky leading Russia's team. Kremlin spokesman Dmitry Peskov said the talks focus on security guarantees and that European officials are not taking part; Volodymyr Zelensky called the first day constructive, saying negotiators briefed him on humanitarian issues, security guarantees and de-escalation steps, and insisted any guarantees must be genuinely effective. Washington has also proposed linking an end to the war with a new European security architecture, which Russian Foreign Minister Sergei Lavrov welcomed, while EU foreign policy chief Kaja Kallas said Europe already has such an architecture and the problem is that Russia does not abide by it."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611110008.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "盧比歐：制裁奏效　暫不需對伊大規模動武",
+    "en": "Rubio: sanctions working, no need for major Iran strikes"
+   },
+   "body": {
+    "zh": "美國國務卿盧比歐 10 日在巴黎出席七國集團（G7）外長會議後表示，美國對伊朗的經濟制裁與海上封鎖成效顯著，目前沒有必要重啟大規模軍事行動，但若伊朗越過紅線，美軍已做好準備；會中歐洲成員國敦促美方避免讓局勢進一步升級。伊朗最高國家安全委員會秘書雷札伊對媒體表示，德黑蘭與華府目前沒有進行任何談判，伊方仍在等待美方對其條件給出明確回應。同日阿布達比國家石油公司（ADNOC）表示，一艘船隻在阿聯水域遇襲受損，英國海事貿易行動辦公室（UKMTO）也通報阿曼外海一艘油輪遭不明物體擊中。",
+    "en": "US Secretary of State Marco Rubio said in Paris on the 10th, after a G7 foreign ministers' meeting, that economic sanctions and the naval blockade on Iran are working well, so there is currently no need to restart large-scale military operations, though US forces are ready if Iran crosses a red line; European members urged Washington during the meeting to avoid further escalation. Mohsen Rezaei, secretary of Iran's Supreme National Security Council, told a broadcaster that Tehran and Washington are not holding any negotiations and that Iran is still awaiting a clear US response to its conditions. The same day, ADNOC said a vessel was damaged in an attack in UAE waters, and the UK Maritime Trade Operations centre reported a tanker struck by an unknown projectile off Oman."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611110006.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611110009.aspx"
+    },
+    {
+     "name": {
+      "zh": "海灣時報",
+      "en": "Khaleej Times"
+     },
+     "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-10-2026"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "眾院擱置赫格塞斯彈劾案　211比204",
+    "en": "House shelves Hegseth impeachment, 211-204"
+   },
+   "body": {
+    "zh": "美國聯邦眾議院 10 日以 211 票對 204 票，通過將共和黨籍眾議員馬西提出的戰爭部長赫格塞斯彈劾案送交委員會，等同擱置此案。馬西提出 8 項彈劾條款，指控赫格塞斯未經國會授權對伊朗開戰並濫用職權等，他表示此舉是出於原則。赫格塞斯當天舉行 5 月以來首場記者會，批評彈劾案是一場「政治作秀」，並說他支持對伊朗的每項任務、願意再做一次。預料明年 1 月出任議長的民主黨眾院領袖傑佛瑞斯則表示，民主黨掌控國會後將讓赫格塞斯下台。",
+    "en": "The US House of Representatives voted 211-204 on the 10th to refer Republican Rep. Thomas Massie's impeachment resolution against Secretary of War Pete Hegseth to committee, effectively shelving it. Massie's eight articles accuse Hegseth of waging war on Iran without congressional authorization and abusing his power, among other charges, and he said he acted on principle. At his first press conference since May, Hegseth called the effort a \"political spectacle\" and said he backs every mission in the Iran war and would do it again. Democratic leader Hakeem Jeffries, expected to become speaker in January, has said Democrats will push Hegseth out once they control Congress."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "星條旗報",
+      "en": "Stars and Stripes"
+     },
+     "url": "https://www.stripes.com/theaters/us/2026-11-10/house-vote-hegseth-impeachment-massie-23427346.html"
+    },
+    {
+     "name": {
+      "zh": "ABC 新聞",
+      "en": "ABC News"
+     },
+     "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100369.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "納吉返家居家監禁　陸兆福辭交通部長",
+    "en": "Najib begins house arrest; Loke quits cabinet"
+   },
+   "body": {
+    "zh": "馬來西亞高等法院 10 日批准前首相納吉以居家監禁方式服完 SRC 國際公司案的剩餘刑期，期限至 2028 年 8 月 23 日，期滿後須返回加影監獄服 1MDB 案的 15 年徒刑；納吉已就 1MDB 案定罪提出上訴。納吉當晚在警方護送下返抵吉隆坡住所。曾承諾納吉返家即辭職的民主行動黨秘書長陸兆福，當天宣布即時辭去交通部長職務。",
+    "en": "Malaysia's High Court on the 10th allowed former prime minister Najib Razak to serve the rest of his SRC International sentence under house arrest until August 23, 2028, after which he must return to Kajang Prison to serve a 15-year term in the 1MDB case, a conviction he is appealing. Najib arrived at his Kuala Lumpur home that night under police escort. Anthony Loke, secretary-general of the Democratic Action Party, who had pledged to quit once Najib went home, resigned as transport minister with immediate effect the same day."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100373.aspx"
+    },
+    {
+     "name": {
+      "zh": "馬來郵報",
+      "en": "Malay Mail"
+     },
+     "url": "https://www.malaymail.com/news/malaysia/2026/11/06/transport-minister-anthony-loke-resigns-as-najib-returns-home-to-begin-house-arrest/242230"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "歐盟援烏軍訓團延至2028　已訓逾10萬人",
+    "en": "EU extends Ukraine training mission to 2028"
+   },
+   "body": {
+    "zh": "歐盟理事會 10 日宣布，在完成策略檢討後，將歐盟援烏軍事協助任務（EUMAM Ukraine）的授權延長至 2028 年 11 月 15 日，並將在烏克蘭設立辦公室，直接與烏軍部隊及國際夥伴協調，使訓練內容符合烏方需求。歐盟將從歐洲和平基金撥出近 3 億歐元支應延長期間的經費。該任務自 2022 年應烏克蘭請求成立以來，已培訓逾 10 萬名烏克蘭軍人，並將持續與美國、英國、加拿大、挪威及北約相關機制協調。",
+    "en": "The EU Council said on the 10th that, following a strategic review, it is extending the mandate of the EU Military Assistance Mission in Ukraine (EUMAM Ukraine) to November 15, 2028, and will open an office in Ukraine to coordinate directly with Ukrainian units and international partners so training matches Kyiv's needs. The EU will allocate nearly 300 million euros from the European Peace Facility to fund the extended mission. Since it was set up at Ukraine's request in 2022, the mission has trained more than 100,000 Ukrainian soldiers, and it will keep coordinating with the United States, Britain, Canada, Norway and NATO structures."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100344.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "德軍禁用中國商用無人機　憂國安風險",
+    "en": "German military bans Chinese commercial drones"
+   },
+   "body": {
+    "zh": "據德國《明鏡周刊》報導，德國聯邦國防軍基於國家安全考量，即日起禁止在營區與訓練場使用市售的中國製無人機。報導指出，各部隊近年依 2024 年的策略自行採購，核准清單中包括多款大疆（DJI）機型，但因缺乏完整採購紀錄，軍方決定全面禁用並儘快汰除。德國國防部在非上班時間未回應路透社置評請求；波蘭今年 2 月也曾以感測器可能蒐集敏感資訊為由，禁止中國製車輛進入軍事設施。",
+    "en": "Germany's armed forces have immediately banned commercially available Chinese-made drones at barracks and training grounds over national security concerns, Der Spiegel reported. Units had bought the drones in recent years under a 2024 strategy whose approved list included several DJI models, but because procurement records were incomplete, the military opted for a blanket ban and a rapid phase-out. The defence ministry did not respond to a Reuters request for comment outside working hours; Poland in February barred Chinese-made vehicles from its military sites, citing concerns that their sensors could gather sensitive data."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611110010.aspx"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "美10月CPI月增0.4%　升息預期升溫",
+    "en": "US October CPI up 0.4%, rate-hike bets rise"
+   },
+   "body": {
+    "zh": "美國勞工部公布 10 月消費者物價指數（CPI）月增 0.4%，高於市場預期的 0.3%，但較 9 月的 0.6% 放緩；剔除食品與能源的核心 CPI 月增 0.3%，也高於預期的 0.2%；由於去年 10 月政府停擺影響資料蒐集，此次未公布年增率。聯準會理事華勒表態支持 12 月至少升息一碼，達拉斯聯邦準備銀行總裁羅根則認為至少還需再升息兩碼。CME FedWatch 顯示市場已完全反映 12 月 8 至 9 日會議升息一碼，升息兩碼的機率升至 11.8%，2 年期美債殖利率大漲約 18.9 個基點至 4.736%。",
+    "en": "The US Labor Department said October CPI rose 0.4% month on month, above the 0.3% expected but slower than September's 0.6%, while core CPI excluding food and energy rose 0.3% against a 0.2% forecast; no year-on-year rate was published because last October's government shutdown disrupted data collection. Fed Governor Christopher Waller said he backs at least a quarter-point hike in December, and Dallas Fed President Lorie Logan said at least two more quarter-point hikes are needed. CME FedWatch showed markets fully pricing a quarter-point hike at the December 8-9 meeting, with the odds of a half-point move rising to 11.8%, and the 2-year Treasury yield jumped about 18.9 basis points to 4.736%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100366.aspx"
+    },
+    {
+     "name": {
+      "zh": "GV Wire（路透）",
+      "en": "GV Wire (Reuters)"
+     },
+     "url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/"
+    },
+    {
+     "name": {
+      "zh": "TheStreet",
+      "en": "TheStreet"
+     },
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "輝達再跌5.47%　晶片流中國報導發酵",
+    "en": "Nvidia falls 5.47% on China chip report"
+   },
+   "body": {
+    "zh": "美國科技媒體 The Information 報導，一名與輝達執行長黃仁勳有私人關係的中國女商人及其家族網絡，協助至少 75 億美元、約 24 萬顆 H100、H200 與部分 A100 晶片流向中國企業；路透表示無法獨立證實，輝達未立即回應。輝達董事會已於 8 日展開內部調查。輝達股價 10 日收跌 5.47% 至 168.89 美元，盤中一度重挫 7.2%、市值短暫跌破 4 兆美元，兩個交易日累計下跌 9.6%。",
+    "en": "US tech outlet The Information reported that a Chinese businesswoman with a personal relationship with Nvidia CEO Jensen Huang, and her family network, helped route at least US$7.5 billion of Nvidia chips, roughly 240,000 H100, H200 and some A100 units, to Chinese companies; Reuters said it could not independently verify the report and Nvidia did not immediately comment. Nvidia's board opened an internal investigation on the 8th. Nvidia shares closed down 5.47% at US$168.89 on the 10th after falling as much as 7.2%, briefly pushing its market value below US$4 trillion, for a two-session drop of 9.6%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100372.aspx"
+    },
+    {
+     "name": {
+      "zh": "工商時報",
+      "en": "Commercial Times"
+     },
+     "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+    },
+    {
+     "name": {
+      "zh": "GV Wire（路透）",
+      "en": "GV Wire (Reuters)"
+     },
+     "url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Anthropic擬IPO　估值上看1.4兆",
+    "en": "Anthropic sets IPO terms, eyes $1.4 trillion value"
+   },
+   "body": {
+    "zh": "AI 公司 Anthropic 10 日向美國證管會提交更新後的公開說明書，計劃出售 8.25 億股，每股價格區間 70 至 78 美元，募資最多 644 億美元，以區間上限計算的完全稀釋估值約 1.4 兆美元，未稀釋市值約 1 兆美元。Alphabet、輝達與超微等將透過另一筆私募認購 260 億美元股份，博通、美光、微軟與台積電也名列基石投資人，合計募資最多可達 904 億美元。路透指出，此估值略低於部分投資人先前預期，反映 AI 熱潮降溫。",
+    "en": "AI company Anthropic filed an updated prospectus with the SEC on the 10th, planning to sell 825 million shares at US$70 to US$78 each to raise up to US$64.4 billion, implying a fully diluted valuation of about US$1.4 trillion at the top of the range, or about US$1 trillion undiluted. Alphabet, Nvidia and AMD are among buyers of US$26 billion of shares in a separate private placement, with Broadcom, Micron, Microsoft and TSMC also named as cornerstone investors, bringing total fundraising to as much as US$90.4 billion. Reuters said the valuation is slightly below some investors' earlier expectations as enthusiasm for AI cools."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611100361.aspx"
+    },
+    {
+     "name": {
+      "zh": "TheStreet",
+      "en": "TheStreet"
+     },
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "台積電10月營收5868.9億　單月新高",
+    "en": "TSMC October revenue hits record NT$586.9bn"
+   },
+   "body": {
+    "zh": "台積電 10 日公布 10 月營收 5,868.9 億元，月增 14.7%、年增 59.7%，創單月歷史新高，並高於法人預估的 5,600 億至 5,700 億元；前 10 月累計營收約 4.48 兆元，年增 43.3%。台積電先前給出的第四季營收指引為 523 億至 543 億美元。台達電同日也公布 10 月營收 746.66 億元，創單月新高、首度突破 700 億元。",
+    "en": "TSMC reported October revenue of NT$586.89 billion on the 10th, up 14.7% from September and 59.7% from a year earlier, a monthly record that beat analysts' estimates of NT$560-570 billion; January-October revenue totaled about NT$4.48 trillion, up 43.3%. The company earlier guided fourth-quarter revenue of US$52.3 billion to US$54.3 billion. Delta Electronics also reported record October revenue of NT$74.666 billion, its first month above NT$70 billion."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6655551"
+    },
+    {
+     "name": {
+      "zh": "風傳媒",
+      "en": "Storm Media"
+     },
+     "url": "https://www.storm.mg/article/11180250"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "油價跌至兩個月低點　布蘭特收91.49美元",
+    "en": "Oil hits two-month low; Brent settles at $91.49"
+   },
+   "body": {
+    "zh": "國際油價 10 日續跌，布蘭特原油期貨收每桶 91.49 美元、跌 1.08 美元（1.2%），美國西德州原油收 86.04 美元、跌 0.81 美元（0.9%），雙雙創 8 月 31 日以來最低收盤，布蘭特盤中一度跌破 90 美元。盧比歐向 G7 盟友表示，制裁與海上封鎖已發揮作用，川普不需對伊朗展開大規模作戰，緩解市場對中東供應中斷的擔憂。",
+    "en": "Oil prices extended losses on the 10th, with Brent futures settling at US$91.49 a barrel, down US$1.08 or 1.2%, and US WTI crude at US$86.04, down 81 cents or 0.9%, both their lowest closes since August 31, after Brent briefly dipped below US$90 intraday. Secretary of State Marco Rubio told G7 allies that sanctions and the naval blockade are working and President Trump does not need major combat operations against Iran, easing fears of Middle East supply disruptions."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Oklahoma Energy Today（美聯社）",
+      "en": "Oklahoma Energy Today (AP)"
+     },
+     "url": "https://okenergytoday.com/2026/11/two-month-low-hit-by-oil-prices-as-u-s-suggests-easing-military-action/"
+    },
+    {
+     "name": {
+      "zh": "CNBC",
+      "en": "CNBC"
+     },
+     "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-10",
+   "close": 42711.92,
+   "change": 1050.22,
+   "pct": 2.52,
+   "open": 42130.33,
+   "high": 43135.92,
+   "low": 41930.03,
+   "prev": 41661.7,
+   "turnover": {
+    "zh": "1 兆 33.39 億元",
+    "en": "NT$1.003 trillion"
+   },
+   "otc": {
+    "close": 332.97,
+    "change": 11.0,
+    "pct": 3.42
+   },
+   "breadth": {
+    "up": 534,
+    "down": 497,
+    "flat": 78
+   },
+   "headline": {
+    "zh": "台股再漲1,050點　投信買超368億",
+    "en": "TAIEX adds 1,050 as trusts buy NT$36.8bn"
+   },
+   "body": {
+    "zh": "11 月 10 日加權指數終場漲 1,050.22 點、收 42,711.92 點，漲幅 2.52%，連 2 日大漲逾千點，盤中最高達 43,135.92 點後漲幅收斂，成交值約 1 兆 33.39 億元；上市個股 534 家上漲、497 家下跌、78 家持平。台積電漲 50 元、收 2,285 元（2.24%），台達電連 2 日漲停至 1,275 元，日月光投控漲 7.84%，AI 電源、散熱與 PCB 族群走強；櫃買指數收 332.97 點、漲 3.42%。前一晚費半大漲 6.85%、油價下跌，加上國安基金進場與限空措施上路，推動指數延續反彈；不過外資連 9 日賣超，新台幣在央行尾盤防守下收 32.865 元、小升 1.7 分。",
+    "en": "On November 10 the TAIEX rose 1,050.22 points, or 2.52%, to 42,711.92, its second straight gain of more than 1,000 points, after hitting 43,135.92 intraday and trimming gains, with turnover of about NT$1.003 trillion; 534 listed stocks rose, 497 fell and 78 were unchanged. TSMC gained NT$50, or 2.24%, to NT$2,285, Delta Electronics hit limit-up for a second day at NT$1,275 and ASE Technology rose 7.84%, as AI power, thermal and PCB names rallied; the TPEx index closed at 332.97, up 3.42%. The prior night's 6.85% SOX surge, lower oil prices, the National Stabilization Fund and short-selling curbs extended the rebound, but foreign investors sold for a ninth straight session and the Taiwan dollar, helped by late central bank defense, closed slightly firmer at 32.865, up NT$0.017."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -341.17
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 368.29
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -175.36
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -148.23,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 9 個交易日賣超、10 月 29 日以來累計約 8,298 億元，外資台指期淨空單增至 103,473 口、再創新高；投信連 21 日買超，單日買超金額為今年第二大，買超首位為台積電。",
+    "en": "Foreign investors were net sellers for a ninth straight session, about NT$829.8 billion since October 29, and their net short TAIEX futures position rose to a record 103,473 contracts; investment trusts bought for a 21st straight day, their second-largest daily purchase this year, with TSMC their top buy."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報（中央社）",
+      "en": "Economic Daily News (CNA)"
+     },
+     "url": "https://money.udn.com/money/story/5607/9869139"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6655565"
+    },
+    {
+     "name": {
+      "zh": "風傳媒",
+      "en": "Storm Media"
+     },
+     "url": "https://www.storm.mg/article/11180250"
+    },
+    {
+     "name": {
+      "zh": "工商時報",
+      "en": "Commercial Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261110003772-260410"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261110003362-260410"
+    },
+    {
+     "name": {
+      "zh": "新頭殼",
+      "en": "Newtalk"
+     },
+     "url": "https://newtalk.tw/news/view/2026-11-10/1070339"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611100293.aspx"
+    },
+    {
+     "name": {
+      "zh": "方格子",
+      "en": "Vocus"
+     },
+     "url": "https://vocus.cc/article/6af2c20afd897800019bee6a"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-10",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 52231.89,
+     "change": -157.86,
+     "pct": -0.3
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7520.93,
+     "change": -29.01,
+     "pct": -0.38
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25065.88,
+     "change": -187.26,
+     "pct": -0.74
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 9998.33,
+     "change": -35.6,
+     "pct": -0.35
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 396.48,
+     "change": null,
+     "pct": 2.02
+    }
+   ],
+   "headline": {
+    "zh": "美股：CPI高於預期　四大指數齊跌",
+    "en": "US close, Nov 10: hot CPI pulls indexes lower"
+   },
+   "body": {
+    "zh": "週二（10 日）美股為最近一個完整交易日，10 月 CPI 高於預期，加上多位聯準會官員偏鷹發言強化 12 月升息預期，道瓊跌 157.86 點、標普 500 跌 0.38%、那指跌 0.74%，費半小跌 0.35%，標普科技類股跌 1.4%、為 11 大類股中表現最差。輝達重挫 5.47%，微軟跌 2.2%；台積電 ADR 則逆勢上漲 2.02%、收 396.48 美元，日月光 ADR 漲 3.26%。10 年期美債殖利率升至約 5%，紐約證交所與那斯達克下跌家數約為上漲家數的 2.3 倍。",
+    "en": "Tuesday, November 10 was the latest completed US session: a hotter-than-expected October CPI and hawkish remarks from several Fed officials reinforced bets on a December hike, sending the Dow down 157.86 points, the S&P 500 down 0.38% and the Nasdaq down 0.74%, while the SOX slipped 0.35% and S&P technology fell 1.4%, the worst of 11 sectors. Nvidia sank 5.47% and Microsoft lost 2.2%, while the TSMC ADR bucked the trend, rising 2.02% to US$396.48, and the ASE ADR gained 3.26%. The 10-year Treasury yield climbed to about 5%, and decliners outnumbered advancers by about 2.3 to 1 on both the NYSE and Nasdaq."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "工商時報",
+      "en": "Commercial Times"
+     },
+     "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/123398/9870769"
+    },
+    {
+     "name": {
+      "zh": "GV Wire（路透）",
+      "en": "GV Wire (Reuters)"
+     },
+     "url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/"
+    },
+    {
+     "name": {
+      "zh": "TheStreet",
+      "en": "TheStreet"
+     },
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週三 11/11",
+     "en": "Wed, Nov 11"
+    },
+    "text": {
+     "zh": "美國退伍軍人節，美國債券市場休市（股市照常交易）",
+     "en": "US Veterans Day: bond market closed, stock markets open"
+    }
+   },
+   {
+    "time": {
+     "zh": "週三 11/11",
+     "en": "Wed, Nov 11"
+    },
+    "text": {
+     "zh": "美方斡旋的俄烏阿布達比會談進入第二天",
+     "en": "Second day of US-mediated Russia-Ukraine talks in Abu Dhabi"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/12 晚間 21:30",
+     "en": "Thu, Nov 12, 21:30"
+    },
+    "text": {
+     "zh": "美國公布每週初領失業救濟金人數",
+     "en": "US weekly initial jobless claims"
+    }
+   },
+   {
+    "time": {
+     "zh": "週五 11/13 清晨 05:30",
+     "en": "Fri, Nov 13, 05:30"
+    },
+    "text": {
+     "zh": "思科（Cisco）召開 2027 會計年度第一季財報電話會議",
+     "en": "Cisco holds its fiscal Q1 2027 earnings call"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "Yardeni QuickTakes",
+     "en": "Yardeni QuickTakes"
+    },
+    "url": "https://www.yardeniquicktakes.com/economic-week-ahead-november-9-13/"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/aopl/202611110008.aspx"
+   },
+   {
+    "name": {
+     "zh": "思科投資人關係",
+     "en": "Cisco Investor Relations"
+    },
+    "url": "https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-04",
+     42948.91
+    ],
+    [
+     "2026-11-05",
+     41574.72
+    ],
+    [
+     "2026-11-06",
+     39701.64
+    ],
+    [
+     "2026-11-09",
+     41661.7
+    ],
+    [
+     "2026-11-10",
+     42711.92
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-04",
+     25736.51
+    ],
+    [
+     "2026-11-05",
+     24315.0
+    ],
+    [
+     "2026-11-06",
+     24579.42
+    ],
+    [
+     "2026-11-09",
+     25253.14
+    ],
+    [
+     "2026-11-10",
+     25065.88
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-04",
+     10268.65
+    ],
+    [
+     "2026-11-05",
+     9011.14
+    ],
+    [
+     "2026-11-06",
+     9390.25
+    ],
+    [
+     "2026-11-09",
+     10033.93
+    ],
+    [
+     "2026-11-10",
+     9998.33
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6644206"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5628516"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Nextapple"
+    },
+    "url": "https://news.nextapple.com/finance/20261104/A0E4C2F0C1BBCBEDF87F499A159B21E3"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1936251"
+   },
+   {
+    "name": {
+     "zh": "經濟日報（中央社）",
+     "en": "Economic Daily News (CNA)"
+    },
+    "url": "https://money.udn.com/money/story/5607/9869139"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+   }
+  ]
+ }
+}
