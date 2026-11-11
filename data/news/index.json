@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-11",
+ "latest": "2026-11-12",
  "days": [
+  {
+   "date": "2026-11-12",
+   "summary": {
+    "zh": "俄烏同意大規模換俘；台股飆1,545點",
+    "en": "Russia, Ukraine agree swap; TAIEX soars 1,545"
+   }
+  },
   {
    "date": "2026-11-11",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "艾森柯特獲67席推薦；費半單日崩跌12%",
     "en": "Eisenkot gets 67 nods; SOX plunges 12%"
-   }
-  },
-  {
-   "date": "2026-11-05",
-   "summary": {
-    "zh": "民主黨奪回參眾兩院；道瓊飆漲1,569點",
-    "en": "Democrats win Congress; Dow soars 1,569 points"
    }
   }
  ]

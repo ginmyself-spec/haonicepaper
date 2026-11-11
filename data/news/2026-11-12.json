@@ -1,0 +1,723 @@
+{
+ "date": "2026-11-12",
+ "updated": "2026-11-12T07:54:30+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "俄烏同意大規模換俘；台股飆1,545點",
+  "en": "Russia, Ukraine agree swap; TAIEX soars 1,545"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "俄烏阿布達比會談落幕　同意大規模換俘",
+    "en": "Russia-Ukraine talks end with deal on big prisoner swap"
+   },
+   "body": {
+    "zh": "美國斡旋的俄烏阿布達比會談 11 日結束兩天議程，雙方同意進行大規模戰俘交換，但未就終戰取得突破；美國特使庫許納表示確切人數將於 12 日敲定，俄媒塔斯社稱交換可望在兩到三週內進行。俄方首席代表梅丁斯基說雙方在部分議題上達成相互理解、近期將再談，烏方代表烏梅洛夫則表示會談以人道議題為主，烏方代表團隨後與歐洲官員會面。庫許納形容會談艱難但有成果，領土問題最難解決，安全架構則有進展；澤倫斯基稱第二天會談具建設性，並重申歐洲安全不能撇開歐洲討論。庫許納與魏科夫預定前往莫斯科會見普丁，再赴都柏林與澤倫斯基會面。",
+    "en": "Two days of US-mediated Russia-Ukraine talks in Abu Dhabi ended on the 11th with agreement on a large-scale prisoner-of-war exchange but no breakthrough on ending the war; US envoy Jared Kushner said the exact numbers would be finalised on the 12th, and Russia's TASS said the swap could take place within two to three weeks. Russia's chief negotiator Vladimir Medinsky said the sides reached mutual understanding on some issues and would talk again soon, while Ukraine's Rustem Umerov said the talks were largely humanitarian, after which his delegation met European officials. Kushner called the meeting tough but productive, saying territory remains the hardest issue while progress was made on a security framework; Volodymyr Zelensky called the second day constructive and repeated that European security cannot be discussed without Europe. Kushner and Steve Witkoff are due to travel to Moscow to meet Vladimir Putin and then to Dublin to meet Zelensky."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+     "name": {
+      "zh": "澳洲廣播公司",
+      "en": "ABC News (Australia)"
+     },
+     "url": "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462"
+    },
+    {
+     "name": {
+      "zh": "莫斯科時報",
+      "en": "The Moscow Times"
+     },
+     "url": "https://www.themoscowtimes.com/2026/11/11/russia-and-ukraine-wrap-up-final-day-of-abu-dhabi-peace-talks-a94227"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普退伍軍人節談伊朗　要求全面勝利",
+    "en": "Trump vows 'total victory' over Iran on Veterans Day"
+   },
+   "body": {
+    "zh": "美國總統川普 11 日在阿靈頓國家公墓的退伍軍人節活動上表示，美國要的是全面勝利而非 93% 的勝利，並稱衝突很快就會結束；他說已有 18 名美軍在對伊朗衝突中喪生，並主張是伊朗自 1979 年起就對美國發動戰爭。伊朗最高國家安全委員會秘書雷札伊則表示，德黑蘭不會把任何濃縮核材料運出國境，而美方要求最終協議須包含交出高濃縮鈾庫存。伊朗革命衛隊另稱又有兩艘油輪在荷莫茲海峽觸雷起火，美軍則表示南側航道安全暢通；德黑蘭堅持須各戰線全面停火後才會展開談判。",
+    "en": "Speaking at a Veterans Day event at Arlington National Cemetery on the 11th, US President Donald Trump said the US wants a total victory rather than a 93% victory and that the conflict will end soon; he said 18 American service members have died in the Iran conflict and argued that Iran has been waging war on America since 1979. Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said Tehran will not send any enriched nuclear material out of the country, while Washington wants a final deal that includes surrendering Iran's highly enriched uranium stockpile. Iran's Revolutionary Guard also said two more tankers hit mines and caught fire in the Strait of Hormuz, while the US military said the southern shipping lanes are safe and open; Tehran says talks can begin only after fighting stops on all fronts."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "雅虎新聞",
+      "en": "Yahoo News"
+     },
+     "url": "https://www.yahoo.com/news/politics/articles/trump-honors-vets-vows-total-173326985.html"
+    },
+    {
+     "name": {
+      "zh": "CBS 新聞",
+      "en": "CBS News"
+     },
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "以色列新國會宣誓　艾森柯特喊停協商",
+    "en": "New Knesset sworn in; Eisenkot halts Likud talks"
+   },
+   "body": {
+    "zh": "以色列第 26 屆國會 10 日宣誓就職，獲總統赫佐格授權組閣的前參謀總長艾森柯特此前獲 67 名議員推薦，納坦雅胡則獲 46 席推薦。納坦雅胡在就職當天演說中指控阿拉伯政黨企圖毀滅以色列，並再度呼籲組成團結政府；艾森柯特回應稱這場演說讓他確信納坦雅胡不適任總理，所屬政黨隨即取消原訂與聯合黨的協商。艾森柯特有 28 天組閣期限，總統可再延長最多 14 天，若組閣失敗將由納坦雅胡嘗試。",
+    "en": "Israel's 26th Knesset was sworn in on the 10th; former military chief Gadi Eisenkot, tasked by President Isaac Herzog with forming a government, had earlier received 67 lawmakers' recommendations against 46 for Benjamin Netanyahu. In a speech that day, Netanyahu accused Arab parties of seeking Israel's destruction and renewed his call for a unity government; Eisenkot said the speech convinced him Netanyahu is unfit to be prime minister, and his party cancelled scheduled coalition talks with Likud. Eisenkot has 28 days to form a government, extendable by up to 14 days, after which Netanyahu would get a chance if he fails."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "民眾日報",
+      "en": "Mknews"
+     },
+     "url": "https://mknews.com.tw/2026/11/1016303/"
+    },
+    {
+     "name": {
+      "zh": "Just Security（美聯社）",
+      "en": "Just Security (AP)"
+     },
+     "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "COP31領袖峰會　古特瑞斯籲淘汰化石燃料",
+    "en": "Guterres urges fossil fuel phase-out at COP31"
+   },
+   "body": {
+    "zh": "聯合國秘書長古特瑞斯 11 日在土耳其安塔利亞舉行的 COP31 領袖峰會上表示，氣候危機正跑在人類前面，全球排放量在 2025 年創新高、過去四年為有紀錄以來最熱，呼籲逐步淘汰煤、油、氣並加速轉向潔淨能源。他也批評化石燃料遊說勢力拖延行動，並指出伊朗戰事推升油價，顯示依賴化石燃料同樣傷害經濟。地主國土耳其推動自願性電氣化倡議，目標在 2035 年將電力占全球能源消費比重提高到 35%；美國連續第二年未派官員出席，法、德、義、加、日領袖也缺席。",
+    "en": "Speaking at the COP31 leaders' summit in Antalya, Turkey, on the 11th, UN Secretary-General António Guterres said the climate crisis is outrunning the world, noting that global emissions hit a record in 2025 and the past four years were the hottest on record, and called for phasing out coal, oil and gas and speeding the shift to clean energy. He criticised the fossil fuel lobby for delaying action and said oil price spikes linked to the Iran war show that fossil fuel dependence also hurts economies. Host Turkey is promoting a voluntary electrification initiative aiming to raise electricity's share of global energy use to 35% by 2035; the US sent no officials for a second straight year, and the leaders of France, Germany, Italy, Canada and Japan also stayed away."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31"
+    },
+    {
+     "name": {
+      "zh": "海灣時報",
+      "en": "Khaleej Times"
+     },
+     "url": "https://www.khaleejtimes.com/world/cop31-opens-leaders-pressure-tackle-climate-crisis"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "駐英美軍士兵被捕　涉協助俄國情報",
+    "en": "US soldier held in UK on suspicion of aiding Russia"
+   },
+   "body": {
+    "zh": "英國警方 10 日在格洛斯特附近逮捕一名 41 歲美軍人員，依《2023 年國家安全法》以涉嫌協助外國情報機構及取得或洩露受保護資訊為由羈押，並在格洛斯特郡搜索兩處地點。倫敦警察廳反恐單位表示，行動與美國聯邦調查局及美軍密切合作，調查仍在進行中，且與 9 月費爾福德空軍基地疑涉伊朗的陰謀案無關。聯邦調查局局長帕特爾稱這是重要的逮捕行動，報導中未見俄方回應。",
+    "en": "British police on the 10th arrested a 41-year-old US military member near Gloucester on suspicion of assisting a foreign intelligence service and obtaining or disclosing protected information under the National Security Act 2023, and searched two locations in Gloucestershire. The Metropolitan Police's counterterrorism unit said it worked closely with the FBI and the US military, that the investigation is ongoing, and that the case is not linked to September's suspected Iran-linked plot at RAF Fairford. FBI Director Kash Patel called it an important arrest; no Russian response was reported."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage"
+    },
+    {
+     "name": {
+      "zh": "Just Security（BBC）",
+      "en": "Just Security (BBC)"
+     },
+     "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "APEC深圳峰會　日中領袖會談恐落空",
+    "en": "Japan-China summit at APEC looks unlikely"
+   },
+   "body": {
+    "zh": "日本共同社 10 日引述多名消息人士報導，日本首相高市早苗與中國國家主席習近平在 11 月 18 至 19 日深圳 APEC 峰會期間舉行正式會談的協調據報未能談攏。報導指出，自高市去年 11 月在國會答詢「台灣有事」後，中方拒絕會談的立場未變，日本恐成為唯一未與習近平會談的主要與會國。日本政府仍計畫爭取到最後一刻，外界認為握手或短暫接觸是較實際的目標；習近平預料也將在深圳與美國總統川普會面。",
+    "en": "Japan's Kyodo News reported on the 10th, citing several sources, that efforts to arrange formal talks between Japanese Prime Minister Sanae Takaichi and Chinese President Xi Jinping during the November 18-19 APEC summit in Shenzhen have reportedly failed. The report said China has not changed its refusal to meet since Takaichi's Diet remarks last November on a Taiwan contingency, and Japan may be the only major participating country without a meeting with Xi. Tokyo still plans to push until the last moment, with a handshake or brief contact seen as a more realistic goal; Xi is also expected to meet US President Donald Trump in Shenzhen."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://cna.com.tw/news/aopl/202611110155.aspx"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "輝達傳擬撤換黃仁勳　盤後重挫8%",
+    "en": "Nvidia reportedly moves to oust Huang; shares sink"
+   },
+   "body": {
+    "zh": "《華爾街日報》引述知情人士報導，輝達董事會正準備撤換執行長黃仁勳，最快 11 日開會決定，起因是他被指涉及兩段婚外情，其中一人據稱為中國間諜；《紐約時報》稍早報導另一段關係涉及公司醫療保健部門副總裁。輝達 11 日盤中收漲 2.87%，但消息傳出後盤後重挫約 8%，公司未立即回應，路透也無法立即證實報導。董事會先前已委託外部律師調查黃仁勳是否成為外國情報行動目標，分析師指出輝達目前沒有接班計畫。",
+    "en": "The Wall Street Journal, citing people familiar with the matter, reported that Nvidia's board is preparing to remove CEO Jensen Huang, possibly at a meeting as soon as the 11th, over two extramarital affairs, one allegedly with a Chinese spy; The New York Times earlier reported that the other relationship involved the company's vice president of healthcare. Nvidia closed the regular session on the 11th up 2.87% but fell about 8% after hours on the reports; the company did not immediately comment and Reuters could not immediately verify them. The board had already hired outside counsel to examine whether Huang was targeted by a foreign intelligence operation, and an analyst noted Nvidia has no succession plan in place."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Investing.com（路透）",
+      "en": "Investing.com (Reuters)"
+     },
+     "url": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991"
+    },
+    {
+     "name": {
+      "zh": "StockTitan",
+      "en": "StockTitan"
+     },
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+    },
+    {
+     "name": {
+      "zh": "韓國時報",
+      "en": "The Korea Times"
+     },
+     "url": "https://www.koreatimes.co.kr/world/20261112/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "台積電季配息升至9元　入股AI雙雄",
+    "en": "TSMC lifts dividend to NT$9, buys into AI labs"
+   },
+   "body": {
+    "zh": "台積電董事會 10 日通過第三季每股配發現金股利 9 元、創新高，除息日為 2027 年 3 月 11 日、4 月 8 日發放；第三季每股盈餘 29.43 元。董事會同時核准各最多 5 億美元，以首次公開發行價格認購 Anthropic 普通股及認購 OpenAI 特別股，並設立最多 5 億美元的投資公司進行半導體生態系策略投資。另核准約 409.3 億美元資本預算，用於先進製程、先進封裝與特殊製程產能及廠房建設。",
+    "en": "TSMC's board on the 10th approved a record third-quarter cash dividend of NT$9 per share, with an ex-dividend date of March 11, 2027 and payment on April 8; third-quarter EPS was NT$29.43. The board also approved up to US$500 million each to buy Anthropic common shares at its IPO price and OpenAI preferred shares, and set up an investment vehicle of up to US$500 million for strategic investments in the chip ecosystem. It further approved a capital budget of about US$40.93 billion for advanced-node, advanced packaging and specialty capacity and fab construction."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5612/9870125"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5612/9870159"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "CoreWeave財報亮眼　股價飆24.7%",
+    "en": "CoreWeave beats forecasts, stock jumps 24.7%"
+   },
+   "body": {
+    "zh": "AI 雲端業者 CoreWeave 公布第三季營收 36.61 億美元，年增約 168%，但淨虧損擴大至 7.09 億美元；營收積壓訂單約 1,325 億美元。公司將 2026 年全年營收預測上調至 130 億至 133 億美元，資本支出預估為 370 億至 390 億美元。股價 11 日大漲 24.7%，帶動 Nebius 漲 15.4%，緩解市場對 AI 支出可持續性的疑慮。",
+    "en": "AI cloud provider CoreWeave reported third-quarter revenue of US$3.661 billion, up about 168% year on year, while its net loss widened to US$709 million; its revenue backlog stood at about US$132.5 billion. The company raised its full-year 2026 revenue forecast to US$13.0-13.3 billion and expects capital spending of US$37-39 billion. Its shares soared 24.7% on the 11th, lifting Nebius 15.4% and easing worries about the durability of AI spending."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "美國證券交易委員會",
+      "en": "US SEC (company filing)"
+     },
+     "url": "https://www.sec.gov/Archives/edgar/data/0001769628/000176962826000461/coreweave3q26earningspress.htm"
+    },
+    {
+     "name": {
+      "zh": "MarketScreener（路透）",
+      "en": "MarketScreener (Reuters)"
+     },
+     "url": "https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "伊朗拒運出濃縮核料　油價自低點反彈",
+    "en": "Oil rebounds from two-month low on Iran stance"
+   },
+   "body": {
+    "zh": "國際油價 11 日自兩個月低點反彈，紐約西德州原油上漲 0.6%、收每桶 86.53 美元，布蘭特原油上漲 1.4%、收 92.76 美元。市場權衡伊朗戰事前景的分歧訊號：伊朗安全首長雷札伊表示不會讓任何濃縮核材料離境，荷莫茲海峽也再傳油輪遇襲，抵銷了美方稱戰事即將結束的說法。",
+    "en": "Oil rebounded from a two-month low on the 11th, with US WTI crude up 0.6% at US$86.53 a barrel and Brent up 1.4% at US$92.76. Traders weighed mixed signals on the Iran war: Iranian security chief Mohsen Rezaei said no enriched nuclear material will leave the country and new tanker incidents were reported in the Strait of Hormuz, offsetting US statements that the war will end soon."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611120009.aspx"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6659868"
+    },
+    {
+     "name": {
+      "zh": "CBS 新聞",
+      "en": "CBS News"
+     },
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "高盛預測聯準會3月再升息",
+    "en": "Goldman adds March Fed hike to its forecast"
+   },
+   "body": {
+    "zh": "高盛在美國 10 月 CPI 連續第三個月高於預期後，將原本預測 12 月結束的升息循環延長，預期聯準會明年 3 月將再升息 1 碼，並把開始降息的時間延後至 2027 年 12 月。高盛首席美國經濟學家梅里克認為，近期通膨數據可能使多數決策官員在 12 月點陣圖中顯示第三次升息。路透引述 CME FedWatch 指出，市場已完全反映 12 月 9 日升息 1 碼。",
+    "en": "After US October CPI came in hotter than expected for a third straight month, Goldman Sachs extended its forecast for the Fed's hiking cycle, which it previously expected to end in December, and now sees another quarter-point increase in March, while pushing back its expected start of rate cuts to December 2027. Goldman's chief US economist David Mericle said recent inflation readings will likely lead most policymakers to signal a third hike in the December dot plot. Reuters, citing CME FedWatch, said markets were fully pricing a quarter-point hike on December 9."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "WBOW（路透）",
+      "en": "WBOW (Reuters)"
+     },
+     "url": "https://1027wbow.com/2026/11/10/goldman-expects-additional-fed-rate-hike-in-march/"
+    },
+    {
+     "name": {
+      "zh": "StockTitan",
+      "en": "StockTitan"
+     },
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-11",
+   "close": 44257.15,
+   "change": 1545.23,
+   "pct": 3.62,
+   "open": 43135.76,
+   "high": 44257.15,
+   "low": 42708.05,
+   "prev": 42711.92,
+   "turnover": {
+    "zh": "8,491.65 億元",
+    "en": "NT$849.17 billion"
+   },
+   "otc": {
+    "close": 344.11,
+    "change": 11.14,
+    "pct": 3.35
+   },
+   "breadth": {
+    "up": 642,
+    "down": 374,
+    "flat": 90
+   },
+   "headline": {
+    "zh": "台股飆1,545點　收最高站上44K",
+    "en": "TAIEX soars 1,545 to close at day's high"
+   },
+   "body": {
+    "zh": "11 月 11 日加權指數開高走高，終場上漲 1,545.23 點、收 44,257.15 點，漲幅 3.62%，收在當日最高點，為史上第 6 大收盤漲點，並連 3 日上漲、站回 44,000 點；成交值 8,491.65 億元，上市個股 642 家上漲、374 家下跌、90 家持平。台積電漲 110 元、收 2,395 元（4.81%），聯發科漲 4.18% 至 3,990 元，台達電漲 1.57%、鴻海小漲 0.21%，PCB 與玻纖布族群多檔漲停；櫃買指數收 344.11 點、漲 3.35%。台積電 10 月營收創新高、董事會將季配息調升至 9 元並核准入股 Anthropic 與 OpenAI，帶動權值股走強，儘管前一晚美股因 CPI 偏熱收低。",
+    "en": "On November 11 the TAIEX opened higher and kept climbing, closing at the day's high of 44,257.15, up 1,545.23 points or 3.62%, its sixth-largest closing point gain on record and third straight rise, reclaiming the 44,000 level; turnover was NT$849.17 billion, with 642 listed stocks up, 374 down and 90 unchanged. TSMC rose NT$110, or 4.81%, to NT$2,395, MediaTek gained 4.18% to NT$3,990, Delta Electronics added 1.57% and Hon Hai edged up 0.21%, while several PCB and glass-fiber cloth stocks hit limit-up; the TPEx index closed at 344.11, up 3.35%. TSMC's record October revenue, its dividend increase to NT$9 and its approval of stakes in Anthropic and OpenAI lifted heavyweights, even though US stocks had closed lower the night before on hot CPI data."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -7.66
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 147.66
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": 62.57
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": 202.56,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 10 個交易日賣超，但賣超金額較前一日的 341.17 億元大幅縮小；投信連 22 日買超，自營商結束連 9 賣、轉為買超。",
+    "en": "Foreign investors were net sellers for a 10th straight session, but sharply less than the previous day's NT$34.117 billion; investment trusts bought for a 22nd straight day, and dealers ended a nine-day selling streak to turn net buyers."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611110130.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611110128.aspx"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市",
+      "en": "Yahoo Finance TW"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E9%80%A3%E5%8D%81%E8%B3%A3%E5%83%85%E5%B0%8F%E8%B3%A37-66%E5%84%84%E5%85%83-%E5%9B%9E%E8%A3%9C00981a-7-3%E8%90%AC%E5%BC%B5-102003229.html"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/12806/9872122"
+    },
+    {
+     "name": {
+      "zh": "方格子",
+      "en": "Vocus"
+     },
+     "url": "https://vocus.cc/article/6af406bdfd89780001d72cb9"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-11",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 52486.49,
+     "change": 254.6,
+     "pct": 0.49
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7619.38,
+     "change": 98.45,
+     "pct": 1.31
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25466.19,
+     "change": 400.31,
+     "pct": 1.6
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10564.11,
+     "change": 565.78,
+     "pct": 5.66
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 413.35,
+     "change": 16.87,
+     "pct": 4.25
+    }
+   ],
+   "headline": {
+    "zh": "美股：AI股反彈　費半飆5.66%",
+    "en": "US close, Nov 11: AI rebound lifts SOX 5.66%"
+   },
+   "body": {
+    "zh": "週三（11 日）美國退伍軍人節債市休市、股市照常交易，CoreWeave 財報優於預期緩解 AI 支出疑慮，道瓊漲 254.60 點、標普 500 漲 1.31%、那指漲 1.60%，費半大漲 5.66%、成分股全數上漲，標普科技類股漲 2.7%、為 11 大類股之冠，波動率指數 VIX 降至 17.49。輝達在連兩日重挫後收漲 2.87%，台積電 ADR 漲 4.25%、收 413.35 美元；不過收盤後傳出董事會準備撤換黃仁勳的報導，輝達盤後重挫約 8%。10 月 CPI 偏熱下，CME FedWatch 顯示 12 月升息 1 碼機率約九成。",
+    "en": "On Wednesday, November 11, the US bond market was closed for Veterans Day while stocks traded normally; CoreWeave's better-than-expected results eased worries about AI spending, lifting the Dow 254.60 points, the S&P 500 1.31% and the Nasdaq 1.60%, while the SOX jumped 5.66% with every component higher, S&P technology rose 2.7% to lead all 11 sectors, and the VIX fell to 17.49. Nvidia closed up 2.87% after two sharp declines and the TSMC ADR gained 4.25% to US$413.35, but after the close Nvidia sank about 8% on reports that its board is preparing to remove Jensen Huang. With October CPI running hot, CME FedWatch put the odds of a December quarter-point hike at about 90%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"
+    },
+    {
+     "name": {
+      "zh": "MarketScreener（路透）",
+      "en": "MarketScreener (Reuters)"
+     },
+     "url": "https://www.marketscreener.com/news/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries-ce785edbd18cf726"
+    },
+    {
+     "name": {
+      "zh": "StockTitan",
+      "en": "StockTitan"
+     },
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週四 11/12 15:00",
+     "en": "Thu, Nov 12, 15:00"
+    },
+    "text": {
+     "zh": "英國公布第三季 GDP 初值與 9 月工業生產",
+     "en": "UK preliminary Q3 GDP and September industrial output"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/12 晚間 21:30",
+     "en": "Thu, Nov 12, 21:30"
+    },
+    "text": {
+     "zh": "美國公布每週初領失業救濟金人數；克里夫蘭聯邦準備銀行總裁哈瑪克發表談話",
+     "en": "US weekly initial jobless claims; Cleveland Fed President Beth Hammack speaks"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/12 晚間 23:00",
+     "en": "Thu, Nov 12, 23:00"
+    },
+    "text": {
+     "zh": "美國 10 月成屋銷售；聯準會理事巴爾發表談話",
+     "en": "US October existing home sales; Fed Governor Michael Barr speaks"
+    }
+   },
+   {
+    "time": {
+     "zh": "週五 11/13 清晨 05:30",
+     "en": "Fri, Nov 13, 05:30"
+    },
+    "text": {
+     "zh": "思科（Cisco）召開 2027 會計年度第一季財報電話會議",
+     "en": "Cisco holds its fiscal Q1 2027 earnings call"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "深潮 TechFlow",
+     "en": "TechFlow"
+    },
+    "url": "https://www.techflowpost.com/en-US/newsletter/144210"
+   },
+   {
+    "name": {
+     "zh": "思科投資人關係",
+     "en": "Cisco Investor Relations"
+    },
+    "url": "https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-05",
+     41574.72
+    ],
+    [
+     "2026-11-06",
+     39701.64
+    ],
+    [
+     "2026-11-09",
+     41661.7
+    ],
+    [
+     "2026-11-10",
+     42711.92
+    ],
+    [
+     "2026-11-11",
+     44257.15
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-05",
+     24315.0
+    ],
+    [
+     "2026-11-06",
+     24579.42
+    ],
+    [
+     "2026-11-09",
+     25253.14
+    ],
+    [
+     "2026-11-10",
+     25065.88
+    ],
+    [
+     "2026-11-11",
+     25466.19
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-05",
+     9011.14
+    ],
+    [
+     "2026-11-06",
+     9390.25
+    ],
+    [
+     "2026-11-09",
+     10033.93
+    ],
+    [
+     "2026-11-10",
+     9998.33
+    ],
+    [
+     "2026-11-11",
+     10564.11
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1936251"
+   },
+   {
+    "name": {
+     "zh": "經濟日報（中央社）",
+     "en": "Economic Daily News (CNA)"
+    },
+    "url": "https://money.udn.com/money/story/5607/9869139"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611110130.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"
+   }
+  ]
+ }
+}
