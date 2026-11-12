@@ -1,0 +1,705 @@
+{
+ "date": "2026-11-13",
+ "updated": "2026-11-13T07:58:49+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "黃仁勳辭輝達CEO；台股跌1,165點",
+  "en": "Jensen Huang quits Nvidia; TAIEX falls 1,165"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "美特使會普丁後赴都柏林　俄烏美將再談",
+    "en": "US envoys meet Putin, then Zelensky; new three-way talks agreed"
+   },
+   "body": {
+    "zh": "美國特使魏科夫與庫許納 12 日在克里姆林宮會見俄羅斯總統普丁，魏科夫會後表示談判有進展，各方同意再舉行一輪俄烏美三方會談，並暗示歐洲代表可能加入；克宮助理烏沙科夫證實三方對話將延續，但淡化歐洲參與的說法，並說川普與普丁預定在深圳 APEC 峰會期間會面續談。普丁提議在頓巴斯的康斯坦丁尼夫卡設立臨時人道任務，讓平民撤離。兩名特使隨後飛往都柏林，向出席歐洲政治共同體峰會的澤倫斯基簡報；同日稍早俄烏互以無人機攻擊對方首都，基輔市長說一棟公寓起火、造成 1 死 7 傷，莫斯科市長則稱擊落 5 架無人機。",
+    "en": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on the 12th; Witkoff said afterwards that progress had been made and the sides agreed to another round of Russia-Ukraine-US talks, hinting that European representatives could join. Kremlin aide Yuri Ushakov confirmed the trilateral dialogue would continue but played down the idea of European participation, and said Donald Trump and Putin are due to continue talks when they meet at the APEC summit in Shenzhen. Putin proposed a temporary humanitarian mission in Kostiantynivka in the Donbas to let civilians leave. The envoys then flew to Dublin to brief Volodymyr Zelensky, who was attending the European Political Community summit; earlier that day Russia and Ukraine traded drone attacks on each other's capitals, with Kyiv's mayor reporting an apartment fire that killed one and injured seven and Moscow's mayor saying five drones were shot down."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Liga.net",
+      "en": "Liga.net"
+     },
+     "url": "https://news.liga.net/en/politics/news/after-meeting-with-putin-witkoff-announced-a-new-meeting-between-ukraine-russia-and-the-united-states-it-is-unclear-with-the-europeans"
+    },
+    {
+     "name": {
+      "zh": "基輔獨立報",
+      "en": "Kyiv Independent"
+     },
+     "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+    },
+    {
+     "name": {
+      "zh": "美國廣播公司",
+      "en": "ABC News"
+     },
+     "url": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611120305.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普：不需與伊朗協議　伊朗籲考慮退出NPT",
+    "en": "Trump says no Iran deal needed; Iranian body urges NPT exit review"
+   },
+   "body": {
+    "zh": "川普 12 日在社群平台發文表示，美國不需要與伊朗達成協議，稱美方已掌握伊朗的資金與荷莫茲海峽，並指示副總統范斯改為專注國內打擊舞弊，而非與德黑蘭談判；《華爾街日報》前一天曾報導范斯考慮與伊朗高層安全官員面對面會談。同日，負責遴選最高領袖的伊朗專家會議發表聲明，稱考慮退出《禁止核武擴散條約》（NPT）並修改國防準則已是「必然需要」，並警告若再遭攻擊將立即回應。伊朗國會議長卡利巴夫則表示，華府必須就伊朗最新提案作出並宣布決定；伊朗先前已拒絕美方將 60% 濃縮鈾移往第三國的提議。",
+    "en": "Trump posted on social media on the 12th that the US does not need a deal with Iran, saying Washington already has Iran's money and the Strait of Hormuz, and directed Vice President JD Vance to focus on domestic anti-fraud efforts instead of negotiations with Tehran; the Wall Street Journal had reported a day earlier that Vance was weighing face-to-face talks with a senior Iranian security official. The same day Iran's Assembly of Experts, which selects the supreme leader, said in a statement that considering withdrawal from the Nuclear Non-Proliferation Treaty (NPT) and revising defence doctrine had become an inevitable necessity, warning that any new attack would bring an immediate response. Parliament Speaker Mohammad Bagher Ghalibaf said Washington must make and announce a decision on Iran's latest proposal; Tehran has rejected a US proposal to move its 60%-enriched uranium to a third country."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "阿拉伯新聞",
+      "en": "Arab News"
+     },
+     "url": "https://www.arabnews.com/middle-east/trump-says-us-does-not-need-a-deal-with-iran-3011447"
+    },
+    {
+     "name": {
+      "zh": "阿聯國家報",
+      "en": "The National"
+     },
+     "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"
+    },
+    {
+     "name": {
+      "zh": "塔斯社",
+      "en": "TASS"
+     },
+     "url": "https://tass.com/world/2217265"
+    },
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "胡塞稱襲擊沙國油管　沙方攔截多枚飛彈",
+    "en": "Houthis claim Saudi pipeline strikes; Riyadh reports intercepts"
+   },
+   "body": {
+    "zh": "葉門青年運動（胡塞）發言人薩雷亞 12 日宣稱，以無人機攻擊沙烏地阿拉伯東西輸油管第 7 號加壓站，並以彈道飛彈攻擊延布（Yanbu）石油設施，另襲擊一座機場與邊境附近的空軍基地，但相關說法未獲獨立證實。沙國領導的聯軍表示，11 日晚間摧毀 2 枚射向西部的彈道飛彈及 2 架無人機，12 日上午再於利雅德地區與東部各攔截 1 架無人機；沙國民防單位說，飛彈碎片落在距麥加約 35 公里處。由於伊朗封鎖荷莫茲海峽，通往紅海延布港的東西輸油管已成沙國出口要道，胡塞則多次否認以聖城為目標。",
+    "en": "Houthi spokesman Yahya Saree claimed on the 12th that the group hit Pumping Station No. 7 on Saudi Arabia's East-West Pipeline with a drone and the Yanbu oil facility with a ballistic missile, and also struck an airport and an airbase near the border, claims that have not been independently verified. The Saudi-led coalition said it destroyed two ballistic missiles aimed at the west and two drones on the night of the 11th, and intercepted one drone each in the Riyadh region and the east on the morning of the 12th; Saudi civil defence said missile debris fell about 35 km from Mecca. With Iran blockading the Strait of Hormuz, the pipeline to the Red Sea port of Yanbu has become a key Saudi export route, and the Houthis have repeatedly denied targeting the holy cities."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "新阿拉伯人報（法新社）",
+      "en": "The New Arab (AFP)"
+     },
+     "url": "https://www.newarab.com/news/yemens-houthis-say-targeted-saudi-east-west-pipeline-yanbu"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普揚言加倍對墨關稅　要求攔阻移民隊伍",
+    "en": "Trump threatens to double Mexico tariffs over migrant caravan"
+   },
+   "body": {
+    "zh": "川普 12 日在社群平台發文，要求墨西哥立即阻止北上的移民隊伍，否則對墨西哥的關稅將「立即加倍」；《墨西哥新聞日報》指出，可能受影響的包括去年依 232 條款對墨國鋼鋁與汽車課徵的關稅，墨方正於貿易談判中爭取調降。這支以宏都拉斯人為主的移民隊伍規模說法不一，從 1,000 多人到近 2,000 人，主體位於恰帕斯州的維斯特拉（Huixtla），先以墨西哥城為目標。墨西哥總統薛恩鮑姆表示，自川普 2025 年 1 月展開第二任期以來，沒有任何移民隊伍抵達墨國北部邊境，政府將以勸說而非武力因應，並協助移民安全返鄉。",
+    "en": "Trump posted on the 12th that Mexico must immediately stop a northbound migrant caravan or tariffs on Mexico would be doubled at once; Mexico News Daily said the duties at stake include last year's Section 232 tariffs on Mexican steel, aluminium and vehicles, which Mexico is seeking to reduce in trade talks. Estimates of the mostly Honduran caravan range from just over 1,000 to nearly 2,000 people; its main group is in Huixtla, Chiapas, and is first heading for Mexico City. Mexican President Claudia Sheinbaum said no caravan has reached Mexico's northern border since Trump began his second term in January 2025, and that her government will rely on persuasion rather than force and offer migrants a safe return home."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "墨西哥新聞日報",
+      "en": "Mexico News Daily"
+     },
+     "url": "https://mexiconewsdaily.com/politics/trump-threatens-double-tariffs-mexico-migrant-caravan/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "教宗良十四世返秘魯　梵蒂岡估300萬人夾道",
+    "en": "Pope Leo returns to Peru; Vatican says 3 million line route"
+   },
+   "body": {
+    "zh": "教宗良十四世 11 日抵達利馬，展開南美三國之行的最後一站秘魯，梵蒂岡估計約 300 萬人沿車隊路線歡迎；他在向秘魯總統藤森惠子及政府官員致詞時，形容此行是「回到故鄉」。他曾長年在秘魯服務，並於 2015 年取得秘魯國籍。12 日他在利馬主教座堂前廣場發表演說並與秘魯主教團會面，13 日將前往奇克拉約，後續行程還包括普卡爾帕與庫斯科；此行先前已訪問烏拉圭與阿根廷。",
+    "en": "Pope Leo XIV arrived in Lima on the 11th for Peru, the final leg of his three-nation South America trip, and the Vatican estimated some 3 million people lined his motorcade route; addressing President Keiko Fujimori and officials, he described the visit as a return to his homeland. He served in Peru for many years and became a Peruvian citizen in 2015. On the 12th he spoke in the square outside Lima's cathedral and met Peru's bishops, and he travels to Chiclayo on the 13th, with Pucallpa and Cusco also on the itinerary; the trip earlier took him to Uruguay and Argentina."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CBS 新聞",
+      "en": "CBS News"
+     },
+     "url": "https://www.cbsnews.com/news/pope-leo-peru-homeland-south-america-trip/"
+    },
+    {
+     "name": {
+      "zh": "美國雜誌",
+      "en": "America Magazine"
+     },
+     "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/12/pope-leo-peru-lima/"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "黃仁勳辭輝達執行長　克瑞斯暫代",
+    "en": "Jensen Huang quits as Nvidia CEO; Kress steps in"
+   },
+   "body": {
+    "zh": "輝達董事會 12 日宣布，黃仁勳辭去總裁、執行長及董事職務並即刻生效，由財務長克瑞斯（Colette Kress）擔任臨時執行長並續兼財務長，前新思科技執行長瓊斯（Harvey C. Jones）出任公司首位董事長，董事會將就內外部人選遴選常任執行長。公司聲明未說明辭職原因；多家媒體先前報導黃仁勳涉及婚外情，其中一名對象被指與涉嫌走私受管制 AI 晶片至中國的 Megaspeed 有關，相關說法仍屬指控。輝達股價開盤一度重挫約 14%，收盤跌 4.34% 至 166.19 美元；公司表示第三季財報仍將於台灣時間 11 月 18 日清晨發布。",
+    "en": "Nvidia's board announced on the 12th that Jensen Huang had resigned as president, CEO and director, effective immediately; CFO Colette Kress becomes interim CEO while remaining CFO, former Synopsys CEO Harvey C. Jones becomes the company's first board chair, and the board will consider internal and external candidates for a permanent CEO. The statement gave no reason; media had earlier reported that Huang had extramarital relationships, one of them with a person linked to Megaspeed, a firm accused of smuggling export-controlled AI chips to China, allegations that remain unproven. Nvidia shares fell as much as about 14% at the open and closed down 4.34% at US$166.19; the company said its third-quarter results will still be released early on November 18, Taiwan time."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "輝達新聞室",
+      "en": "NVIDIA Newsroom"
+     },
+     "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+    },
+    {
+     "name": {
+      "zh": "Tom's Hardware",
+      "en": "Tom's Hardware"
+     },
+     "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 財經",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "思科營收年增24%　上調全年財測",
+    "en": "Cisco revenue up 24%; full-year outlook raised"
+   },
+   "body": {
+    "zh": "思科 12 日美股盤後公布截至 10 月 24 日的 2027 會計年度第一季財報，營收約 185 億美元、年增 24%，調整後每股盈餘 1.40 美元，皆優於市場預期，其中網通業務營收成長 43%。公司預估第二季營收 180 億至 182 億美元，並將全年營收財測上調至 748 億至 758 億美元、調整後每股盈餘 5.47 至 5.53 美元。思科預期本年度來自超大型雲端業者的 AI 基礎設施營收約 90 億美元，超過上一年度的兩倍；財報公布後股價盤後上漲約 4.9%。",
+    "en": "Cisco reported after the US close on the 12th that revenue for its fiscal first quarter of 2027, ended October 24, rose 24% to about US$18.5 billion and adjusted EPS was US$1.40, both above expectations, with networking revenue up 43%. It guided second-quarter revenue of US$18.0-18.2 billion and raised its full-year forecast to US$74.8-75.8 billion in revenue and US$5.47-5.53 in adjusted EPS. Cisco expects about US$9 billion this fiscal year in AI infrastructure revenue from hyperscalers, more than double the prior year, and its shares rose about 4.9% after hours."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "investingLive",
+      "en": "investingLive"
+     },
+     "url": "https://investinglive.com/stocks/cisco-beats-and-lifts-fy27-view-as-ai-revenue-from-hyperscalers-set-to-more-than-double"
+    },
+    {
+     "name": {
+      "zh": "GuruFocus",
+      "en": "GuruFocus"
+     },
+     "url": "https://www.gurufocus.com/news/9195899/cisco-systems-csco-reports-q1-earnings-beat-shares-rise-49-after-hours"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "沙國設施遇襲　布蘭特油價漲3.3%",
+    "en": "Attacks on Saudi sites lift Brent 3.3%"
+   },
+   "body": {
+    "zh": "12 日國際油價走高，布蘭特原油期貨收每桶 95.82 美元、上漲 3.06 美元或 3.3%，西德州原油收 88.74 美元、上漲 2.21 美元或 2.6%。中央社報導，沙烏地阿拉伯能源設施遇襲情勢惡化，荷莫茲海峽航運受阻，加深供應疑慮。阿聯《國家報》指出，川普發文稱不需與伊朗達成協議後，油價抹去稍早因沙國將產量提高到接近戰前水準而出現的跌幅。",
+    "en": "Oil prices rose on the 12th, with Brent crude futures settling at US$95.82 a barrel, up US$3.06 or 3.3%, and West Texas Intermediate at US$88.74, up US$2.21 or 2.6%. CNA reported that worsening attacks on Saudi energy infrastructure and disrupted shipping through the Strait of Hormuz deepened supply worries. The National said prices erased an earlier decline, driven by Saudi Arabia raising output to near pre-war levels, after Trump posted that no deal with Iran was needed."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611130013.aspx"
+    },
+    {
+     "name": {
+      "zh": "阿聯國家報",
+      "en": "The National"
+     },
+     "url": "https://www.thenationalnews.com/news/us/2026/11/12/iran-deal-trump/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美10年債殖利率升至5.1%　Fed官員偏鷹",
+    "en": "US 10-year yield hits 5.1% as Fed officials lean hawkish"
+   },
+   "body": {
+    "zh": "美國 10 年期公債殖利率 12 日上升約 10 個基點至 5.10%，盤中一度達 5.12%，30 年期殖利率盤中升至 5.44%。舊金山聯準銀行總裁戴利表示，她傾向認為仍需進一步緊縮，芝加哥聯準銀行總裁古斯比則形容目前處於不穩定的時刻；在週二消費者物價指數高於預期後，分析師紛紛預測升息次數更多、幅度更大。勞工部數據顯示，截至 11 月 7 日當週初領失業救濟金人數增加 9,000 人至 20 萬人，高於預期的 19.5 萬人。",
+    "en": "The US 10-year Treasury yield rose about 10 basis points to 5.10% on the 12th after touching 5.12% intraday, while the 30-year yield reached 5.44% during the session. San Francisco Fed President Mary Daly said her bias is that further tightening will be needed, and Chicago Fed President Austan Goolsbee described the current moment as precarious; after Tuesday's hotter-than-expected consumer price data, analysts have moved to forecast more and larger rate hikes. Labor Department data showed initial jobless claims rose 9,000 to 200,000 in the week ended November 7, above the 195,000 expected."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 財經",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "英國第三季GDP成長0.7%　服務業帶動",
+    "en": "UK GDP grows 0.7% in Q3, led by services"
+   },
+   "body": {
+    "zh": "英國國家統計局 12 日公布，第三季實質 GDP 初估季增 0.7%，高於第二季修正後的 0.5%，年增 1.9%。服務業成長 0.9% 為主要動力，其中行政支援服務增 4.1%、資訊通訊增 2.1%；製造業成長 0.9%，營建業則因私人住宅新建工程減少而下滑 0.7%。單月來看，9 月 GDP 成長 0.2%，8 月修正為持平。",
+    "en": "The UK Office for National Statistics said on the 12th that real GDP grew 0.7% quarter on quarter in the third quarter in its first estimate, up from a revised 0.5% in the second quarter, and was 1.9% higher than a year earlier. Services, up 0.9%, were the main driver, with administrative and support services up 4.1% and information and communication up 2.1%; manufacturing grew 0.9%, while construction fell 0.7% on weaker private housing new work. Monthly GDP rose 0.2% in September, with August revised to no growth."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "英國國家統計局",
+      "en": "Office for National Statistics"
+     },
+     "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/julytoseptember2026"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-12",
+   "close": 43091.87,
+   "change": -1165.28,
+   "pct": -2.63,
+   "open": 44180.46,
+   "high": 44525.24,
+   "low": 42943.5,
+   "prev": 44257.15,
+   "turnover": {
+    "zh": "10,132.93 億元",
+    "en": "NT$1,013.29 billion"
+   },
+   "otc": {
+    "close": 335.73,
+    "change": -8.38,
+    "pct": -2.44
+   },
+   "breadth": {
+    "up": 277,
+    "down": 730,
+    "flat": 75
+   },
+   "headline": {
+    "zh": "台股重挫1,165點　台積電跌55元",
+    "en": "TAIEX tumbles 1,165; TSMC down NT$55"
+   },
+   "body": {
+    "zh": "11 月 12 日加權指數開高，早盤一度上漲 268 點、達 44,525.24 點，但午後賣壓擴大，終場下跌 1,165.28 點、收 43,091.87 點，跌幅 2.63%，盤中高低差逾 1,500 點；成交值 10,132.93 億元，上市個股 277 家上漲、730 家下跌、75 家持平。台積電跌 55 元、收 2,340 元（2.30%），聯發科跌 140 元至 3,850 元，台達電跌 55 元至 1,240 元，鴻海跌 2 元至 240 元；電子零組件類股重挫 5.97%，南電、景碩、聯茂跌停，玻璃陶瓷類股則逆勢上漲 5.93%。櫃買指數收 335.73 點、跌 8.38 點（2.44%）。市場人士認為，短線大漲後獲利了結，加上輝達高層人事異動傳聞與輝達盤後重挫，衝擊 AI 供應鏈與半導體類股信心。",
+    "en": "On November 12 the TAIEX opened higher and rose as much as 268 points to 44,525.24 in the morning, but selling intensified in the afternoon and it closed down 1,165.28 points, or 2.63%, at 43,091.87, with an intraday range of more than 1,500 points; turnover was NT$1,013.29 billion, with 277 listed stocks up, 730 down and 75 unchanged. TSMC fell NT$55, or 2.30%, to NT$2,340, MediaTek lost NT$140 to NT$3,850, Delta Electronics dropped NT$55 to NT$1,240 and Hon Hai slipped NT$2 to NT$240; electronic components sank 5.97% with Nan Ya PCB, Kinsus and ITEQ limit-down, while glass and ceramics bucked the trend, up 5.93%. The TPEx index closed at 335.73, down 8.38 points or 2.44%. Market participants cited profit-taking after a sharp short-term rally, along with talk of a leadership change at Nvidia and its after-hours slump, which hurt sentiment toward the AI supply chain and chip stocks."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -6.84
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 123.85
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -65.41
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": 51.6,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資連 11 個交易日賣超，但金額僅 6.84 億元；投信連 23 日買超；自營商賣超 65.41 億元，其中自行買賣賣超 29.81 億元、避險賣超 35.60 億元。",
+    "en": "Foreign investors were net sellers for an 11th straight session, though only NT$684 million; investment trusts bought for a 23rd straight day; dealers sold a net NT$6.541 billion, NT$2.981 billion on their own account and NT$3.560 billion for hedging."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 新聞",
+      "en": "Yahoo News TW"
+     },
+     "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市",
+      "en": "Yahoo Finance TW"
+     },
+     "url": "https://tw.stock.yahoo.com/quote/%5ETWII"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611120202.aspx"
+    },
+    {
+     "name": {
+      "zh": "風傳媒",
+      "en": "Storm Media"
+     },
+     "url": "https://www.storm.mg/article/11180942"
+    },
+    {
+     "name": {
+      "zh": "民眾日報",
+      "en": "Mknews"
+     },
+     "url": "https://mknews.com.tw/2026/11/1017069/"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9874197"
+    },
+    {
+     "name": {
+      "zh": "方格子",
+      "en": "Vocus"
+     },
+     "url": "https://vocus.cc/article/6af575ccfd897800015e220e"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-12",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 52297.09,
+     "change": -189.4,
+     "pct": -0.36
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7592.4,
+     "change": -26.98,
+     "pct": -0.35
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25366.09,
+     "change": -100.1,
+     "pct": -0.39
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10506.67,
+     "change": -57.44,
+     "pct": -0.54
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 405.49,
+     "change": -7.86,
+     "pct": -1.9
+    }
+   ],
+   "headline": {
+    "zh": "美股：黃仁勳請辭　四大指數收黑",
+    "en": "US close, Nov 12: Huang exit; all four indexes fall"
+   },
+   "body": {
+    "zh": "週四（12 日）輝達宣布黃仁勳辭職，加上 10 年期美債殖利率升至 5.10%、油價走高，美股四大指數全數收低：道瓊跌 189.40 點（0.36%）、標普 500 跌 0.35%、那指跌 0.39%，費半跌 0.54%，羅素 2000 則跌 1.66%。輝達開盤一度重挫約 14%，收跌 4.34%；資金轉向競爭對手，超微漲 5.86%、博通漲 5.54%，美超微則因傳出美國司法部調查與黃樂有關的實體涉嫌走私其產品至中國，重挫 11.3%。台積電 ADR 跌 1.90%、收 405.49 美元；市場也在等待週五公布的生產者物價指數。",
+    "en": "On Thursday, November 12, Nvidia's announcement of Jensen Huang's resignation, a rise in the 10-year Treasury yield to 5.10% and higher oil prices sent all four major US indexes lower: the Dow fell 189.40 points (0.36%), the S&P 500 0.35%, the Nasdaq 0.39% and the SOX 0.54%, while the Russell 2000 lost 1.66%. Nvidia plunged about 14% at the open and closed down 4.34%; money rotated into rivals, with AMD up 5.86% and Broadcom up 5.54%, while Super Micro Computer sank 11.3% on reports that the US Justice Department is investigating entities linked to Alice Huang over alleged smuggling of its products to China. The TSMC ADR fell 1.90% to US$405.49, and investors are awaiting Friday's producer price index."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+    },
+    {
+     "name": {
+      "zh": "MoneyDJ 理財網",
+      "en": "MoneyDJ"
+     },
+     "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=892b336a-85f5-4708-8300-261f6a67b21a"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 財經",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-slides-jensen-huang-resigns-invest-165632931.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市",
+      "en": "Yahoo Finance TW"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr12%E6%97%A5%E4%B8%8B%E8%B7%8C7-86%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-90-%E6%8A%98%E5%8F%B0%E8%82%A12667-23%E5%85%83-214559071.html"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週五 11/13 晚間 21:30",
+     "en": "Fri, Nov 13, 21:30"
+    },
+    "text": {
+     "zh": "美國公布 10 月生產者物價指數（PPI）",
+     "en": "US October producer price index (PPI)"
+    }
+   },
+   {
+    "time": {
+     "zh": "週五 11/13（美國時間）",
+     "en": "Fri, Nov 13 (US time)"
+    },
+    "text": {
+     "zh": "聯準會官員鮑曼與舊金山聯準銀行總裁戴利預定發表談話",
+     "en": "Fed officials Michelle Bowman and San Francisco Fed President Mary Daly are scheduled to speak"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "美國勞工統計局",
+     "en": "US Bureau of Labor Statistics"
+    },
+    "url": "https://www.bls.gov/schedule/news_release/ppi.htm"
+   },
+   {
+    "name": {
+     "zh": "Global Macro Week Ahead",
+     "en": "Global Macro Week Ahead"
+    },
+    "url": "https://analysisofficial.substack.com/p/global-macro-week-ahead-nov-913-2026"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-06",
+     39701.64
+    ],
+    [
+     "2026-11-09",
+     41661.7
+    ],
+    [
+     "2026-11-10",
+     42711.92
+    ],
+    [
+     "2026-11-11",
+     44257.15
+    ],
+    [
+     "2026-11-12",
+     43091.87
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-06",
+     24579.42
+    ],
+    [
+     "2026-11-09",
+     25253.14
+    ],
+    [
+     "2026-11-10",
+     25065.88
+    ],
+    [
+     "2026-11-11",
+     25466.19
+    ],
+    [
+     "2026-11-12",
+     25366.09
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-06",
+     9390.25
+    ],
+    [
+     "2026-11-09",
+     10033.93
+    ],
+    [
+     "2026-11-10",
+     9998.33
+    ],
+    [
+     "2026-11-11",
+     10564.11
+    ],
+    [
+     "2026-11-12",
+     10506.67
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1936251"
+   },
+   {
+    "name": {
+     "zh": "經濟日報（中央社）",
+     "en": "Economic Daily News (CNA)"
+    },
+    "url": "https://money.udn.com/money/story/5607/9869139"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611110130.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   }
+  ]
+ }
+}

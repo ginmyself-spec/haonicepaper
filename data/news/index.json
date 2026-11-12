@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-12",
+ "latest": "2026-11-13",
  "days": [
+  {
+   "date": "2026-11-13",
+   "summary": {
+    "zh": "黃仁勳辭輝達CEO；台股跌1,165點",
+    "en": "Jensen Huang quits Nvidia; TAIEX falls 1,165"
+   }
+  },
   {
    "date": "2026-11-12",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "白宮幕僚長換米勒；台股重挫1,873點",
     "en": "Miller named chief of staff; TAIEX sinks 1,873"
-   }
-  },
-  {
-   "date": "2026-11-06",
-   "summary": {
-    "zh": "艾森柯特獲67席推薦；費半單日崩跌12%",
-    "en": "Eisenkot gets 67 nods; SOX plunges 12%"
    }
   }
  ]
