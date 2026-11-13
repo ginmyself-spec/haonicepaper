@@ -90,15 +90,18 @@ def fnum(v):
 
 
 def taifex_ts(cdate, hhmmss, night):
-    """期交所時間為台北時間；夜盤跨午夜後（00:00–05:00）日期要加一天。"""
+    """期交所時間為台北時間 HHMMSS；夜盤跨午夜後（00:00–05:00）日期要加一天，午夜那根 K 棒標為 240000。"""
     t = str(hhmmss).strip().replace(":", "")
-    if t.isdigit() and int(t) > 10**9:  # 已是 Unix 時間（秒或毫秒）
-        return int(t) / (1000 if int(t) > 10**11 else 1)
-    t = t.zfill(4) + "00" if len(t) <= 4 else t.zfill(6)
-    if not (len(str(cdate)) == 8 and t.isdigit() and len(t) == 6):
+    if not t.isdigit() or not (len(str(cdate)) == 8 and str(cdate).isdigit()):
         return None
-    dt = datetime.strptime(f"{cdate}{t}", "%Y%m%d%H%M%S").replace(tzinfo=TPE)
-    if night and dt.hour < 12:
+    t = t.zfill(4) + "00" if len(t) <= 4 else t.zfill(6)
+    if len(t) != 6:
+        return None
+    h, m, sec = int(t[:2]), int(t[2:4]), int(t[4:])
+    if m > 59 or sec > 59 or h > 29:
+        return None
+    dt = datetime.strptime(str(cdate), "%Y%m%d").replace(tzinfo=TPE) + timedelta(hours=h, minutes=m, seconds=sec)
+    if night and h < 12:
         dt += timedelta(days=1)
     return dt.timestamp()
 
@@ -126,10 +129,7 @@ def taifex_session(market):
         q = rt.get("Quote") or {}
         if str(q.get("CDate", "")).isdigit() and len(str(q.get("CDate"))) == 8:
             cdate = str(q["CDate"])
-        ticks = rt.get("Ticks") or rt.get("ChartData") or []
-        if ticks:
-            print(f"taifex {sym} CDate={cdate} ticks={len(ticks)} first={ticks[0]!r} last={ticks[-1]!r}", file=sys.stderr)
-        for t in ticks:
+        for t in rt.get("Ticks") or rt.get("ChartData") or []:
             if isinstance(t, (list, tuple)) and len(t) >= 5:
                 tm, c = t[0], t[4]
             elif isinstance(t, dict):
