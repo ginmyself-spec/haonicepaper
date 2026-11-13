@@ -2,14 +2,14 @@
 "use strict";
 var UI = {
   zh:{title:"每日Hao報",sponsor:"贊助本站",sponsorTitle:"支持每日Hao報",sponsorText:"本站免費閱讀、不放廣告。如果這份報紙對你有幫助，歡迎小額贊助，支持每天持續更新。",sponsorTw:"國內贊助",sponsorTwSub:"台灣付款方式",sponsorIntl:"海外贊助",sponsorIntlSub:"PayPal／國際信用卡",sponsorPending:"贊助連結尚未設定（此提示只在預覽時顯示）",subname:"HAONICEPAPER · TAIPEI",archive:"往期回顧",archiveTitle:"近 7 日報紙",taipei:"台北",newyork:"紐約",
-      sections:"國際要聞 · 國際財經 · 股市摘要",taiex:"台股加權指數",ixic:"那斯達克綜合指數",sox:"費城半導體指數",
+      sections:"國際要聞 · 國際財經 · 股市摘要",taiex:"台股加權指數",txf:"台指期（近月）",daySess:"日盤",nightSess:"夜盤",noQuote:"暫無報價，等待下一次更新",ixic:"那斯達克綜合指數",sox:"費城半導體指數",
       loading:"載入今日版面…",sources:"本期資料來源",visits:"瀏覽統計",pv:"瀏覽人次",uv:"訪客人數",
-      legalTitle:"免責聲明與隱私",legal:["本站內容由 AI 自動彙整公開新聞報導，每則均附原始出處。摘要為本站改寫，原文著作權屬各媒體所有。AI 整理可能有錯誤或遺漏，請以原始報導及主管機關公告為準。","本站並非證券投資顧問事業，所有內容僅供資訊參考，不構成任何投資建議，亦非買賣任何有價證券之推介。投資前請自行判斷並承擔風險。","指數報價取自公開資料（Yahoo Finance），延遲至少 20 分鐘，可能因來源異常而暫停更新或出現誤差；收盤數字以臺灣證券交易所及各交易所公告為準。一週走勢圖中的推算值已於圖下註明。","本站與所引用之媒體、交易所及資料提供者均無合作或隸屬關係；外部連結內容由各網站自行負責。","對於使用或無法使用本站資訊所生之任何直接或間接損失，本站不負賠償責任。",
+      legalTitle:"免責聲明與隱私",legal:["本站內容由 AI 自動彙整公開新聞報導，每則均附原始出處。摘要為本站改寫，原文著作權屬各媒體所有。AI 整理可能有錯誤或遺漏，請以原始報導及主管機關公告為準。","本站並非證券投資顧問事業，所有內容僅供資訊參考，不構成任何投資建議，亦非買賣任何有價證券之推介。投資前請自行判斷並承擔風險。","指數報價取自公開資料（台股與美股指數來自 Yahoo Finance，台指期來自臺灣期貨交易所行情網站），延遲至少 20 分鐘，可能因來源異常而暫停更新或出現誤差；收盤與結算數字以臺灣證券交易所、臺灣期貨交易所及各交易所公告為準。一週走勢圖中的推算值已於圖下註明。","本站與所引用之媒體、交易所及資料提供者均無合作或隸屬關係；外部連結內容由各網站自行負責。","對於使用或無法使用本站資訊所生之任何直接或間接損失，本站不負賠償責任。",
  "贊助為自願性質，不提供任何對價、投資資訊或特別服務，亦非公益捐款，無法開立捐款收據。款項由第三方支付平台處理，本站不經手也不保存任何付款資料。","隱私：本站不設會員、不蒐集個人資料。瀏覽人次由第三方服務「不蒜子」統計，字型由 Google Fonts 提供，這些服務可能記錄您的 IP 位址等連線資訊。語言與指數選擇只存在您的瀏覽器中。"],
       world:"國際要聞",finance:"國際財經",markets:"股市摘要",items:"則",lead:"頭條",
       st:{live:"交易中",pre:"盤前",post:"盤後",closed:"已收盤",off:"休市"},
       cd:function(h,m){return "美股開盤倒數 "+h+" 小時 "+m+" 分";},cdLive:"美股交易中",cdDone:"美股今日已收盤",
-      noteLive:"指數每 10 分鐘自動更新，網頁每分鐘讀取一次，數字變動時會閃爍提示。報價來源 Yahoo Finance，延遲至少 20 分鐘。漲紅跌綠依台灣慣例。",
+      noteLive:"指數每 10 分鐘自動更新，網頁每分鐘讀取一次，數字變動時會閃爍提示。報價來源 Yahoo Finance 與臺灣期貨交易所，延遲至少 20 分鐘；台指期為近月合約，漲跌相對期交所參考價。漲紅跌綠依台灣慣例。",
       noteSnap:"目前顯示收盤快照；部署到 GitHub Pages 後會改為每 10 分鐘自動更新。漲紅跌綠依台灣慣例。",
       asOf:"報價時間",updated:"更新於",tw:"台股",us:"美股",session:"交易日",
       range:"框線為盤中高低，實體為開盤至收盤，虛線為前一日收盤。",open:"開",high:"高",low:"低",close:"收",prev:"前收",
@@ -19,14 +19,14 @@ var UI = {
       viewing:"正在瀏覽 ",past:"（往期）",latest:"最新",
       trend:"一週走勢",segTAIEX:"台股加權",segIXIC:"那斯達克",segSOX:"費城半導體",weekChg:"一週漲跌",last:"最新",dayChg:"單日",liveTag:"盤中",table:"查看數據表",dateH:"日期",chooser:"選擇指數",noTrend:"這一期沒有走勢資料。"},
   en:{title:"HaoNicePaper",sponsor:"Support us",sponsorTitle:"Support HaoNicePaper",sponsorText:"This paper is free to read and carries no ads. If it helps you, a small contribution keeps the daily editions coming.",sponsorTw:"Support from Taiwan",sponsorTwSub:"Taiwan payment methods",sponsorIntl:"Support from abroad",sponsorIntlSub:"PayPal / international cards",sponsorPending:"Sponsor links not set yet (shown in preview only)",subname:"每日Hao報 · TAIPEI",archive:"Past editions",archiveTitle:"Last 7 days",taipei:"Taipei",newyork:"New York",
-      sections:"World · Business & Finance · Markets",taiex:"TAIEX",ixic:"Nasdaq Composite",sox:"PHLX Semiconductor",
+      sections:"World · Business & Finance · Markets",taiex:"TAIEX",txf:"TAIEX futures (near month)",daySess:"Day session",nightSess:"Night session",noQuote:"No quote yet; waiting for the next update",ixic:"Nasdaq Composite",sox:"PHLX Semiconductor",
       loading:"Loading today's edition…",sources:"Sources in this edition",visits:"Readership",pv:"Page views",uv:"Visitors",
-      legalTitle:"Disclaimer & privacy",legal:["Content is compiled automatically by AI from published news reports, and every item links to its original source. Summaries are written by this site; copyright in the original articles belongs to their publishers. AI compilation may contain errors or omissions, so rely on the original reports and official announcements.","This site is not a licensed investment adviser. Everything here is for information only and is not investment advice or a recommendation to buy or sell any security. Make your own decisions and bear your own risk.","Index quotes come from public data (Yahoo Finance), are delayed by at least 20 minutes, and may pause or contain errors if the source fails. Official closing values are those published by the Taiwan Stock Exchange and other exchanges. Derived values in the one-week chart are noted below it.","This site is not affiliated with any of the news outlets, exchanges or data providers it cites. Linked sites are responsible for their own content.","This site accepts no liability for any direct or indirect loss arising from use of, or inability to use, its information.",
+      legalTitle:"Disclaimer & privacy",legal:["Content is compiled automatically by AI from published news reports, and every item links to its original source. Summaries are written by this site; copyright in the original articles belongs to their publishers. AI compilation may contain errors or omissions, so rely on the original reports and official announcements.","This site is not a licensed investment adviser. Everything here is for information only and is not investment advice or a recommendation to buy or sell any security. Make your own decisions and bear your own risk.","Index quotes come from public data (stock indices from Yahoo Finance, TAIEX futures from the Taiwan Futures Exchange quote site), are delayed by at least 20 minutes, and may pause or contain errors if the source fails. Official closing and settlement values are those published by the Taiwan Stock Exchange, the Taiwan Futures Exchange and other exchanges. Derived values in the one-week chart are noted below it.","This site is not affiliated with any of the news outlets, exchanges or data providers it cites. Linked sites are responsible for their own content.","This site accepts no liability for any direct or indirect loss arising from use of, or inability to use, its information.",
  "Contributions are voluntary and buy no goods, investment information or special service. They are not charitable donations and no donation receipt can be issued. Payments are handled by third-party payment platforms; this site never handles or stores payment details.","Privacy: there are no accounts and no personal data is collected. Page views are counted by the third-party service Busuanzi and fonts are served by Google Fonts; these services may log connection details such as your IP address. Your language and index choices are stored only in your browser."],
       world:"World",finance:"Business & Finance",markets:"Markets",items:"stories",lead:"Top story",
       st:{live:"Open",pre:"Pre-market",post:"After hours",closed:"Closed",off:"Closed"},
       cd:function(h,m){return "US open in "+h+"h "+m+"m";},cdLive:"US market open",cdDone:"US session over",
-      noteLive:"Indices refresh every 10 minutes and the page checks every minute, flashing when a number changes. Quotes from Yahoo Finance, delayed at least 20 minutes. Red = up, green = down (Taiwan convention).",
+      noteLive:"Indices refresh every 10 minutes and the page checks every minute, flashing when a number changes. Quotes from Yahoo Finance and the Taiwan Futures Exchange, delayed at least 20 minutes; TAIEX futures show the near-month contract, with change measured against TAIFEX's reference price. Red = up, green = down (Taiwan convention).",
       noteSnap:"Showing closing snapshots; once deployed to GitHub Pages these refresh every 10 minutes. Red = up, green = down (Taiwan convention).",
       asOf:"As of",updated:"Updated",tw:"Taiwan",us:"US",session:"Session",
       range:"Box: intraday high–low. Bar: open to close. Dashed line: previous close.",open:"O",high:"H",low:"L",close:"C",prev:"Prev",
@@ -228,7 +228,8 @@ function animateNumber(el, from, to){
 function renderQuotes(animate, old){
   if (!quotes) return;
   document.querySelectorAll(".quote").forEach(function(box){
-    var sym = box.getAttribute("data-sym"), q = quotes.items[sym]; if (!q) return;
+    var sym = box.getAttribute("data-sym"), q = quotes.items[sym];
+    if (!q) { box.querySelector('[data-f="time"]').textContent = t("noQuote"); return; }
     var prev = old && old.items && old.items[sym] ? old.items[sym].price : null;
     var pv = box.querySelector('[data-f="price"]'), ch = box.querySelector('[data-f="chg"]');
     if (animate && prev != null && prev !== q.price) {
@@ -239,7 +240,8 @@ function renderQuotes(animate, old){
     } else { pv.textContent = fmt(q.price); }
     ch.className = "q-chg num " + cls(q.change);
     ch.textContent = arrow(q.change) + fmt(Math.abs(q.change)) + "　" + sign(q.pct) + fmt(Math.abs(q.pct)) + "%";
-    box.querySelector('[data-f="time"]').textContent = t("asOf") + " " + timeStr(q.time);
+    var sess = q.session === "night" ? t("nightSess") : (q.session === "day" ? t("daySess") : "");
+    box.querySelector('[data-f="time"]').textContent = t("asOf") + " " + timeStr(q.time) + (sess ? " · " + sess : "");
   });
 }
 
@@ -344,13 +346,18 @@ function tick(){
   document.getElementById("clk-tpe").textContent = tp.hm;
   document.getElementById("clk-ny").textContent = ny.hm;
   var tw = (wk(tp.wd) && tp.mins >= 540 && tp.mins < 810) ? ["live", st.live] : ["", st.closed];
+  // 台指期：日盤 08:45–13:45；夜盤 15:00–隔日 05:00（週一至週五開盤，週六清晨收盤）
+  var txf;
+  if (wk(tp.wd) && tp.mins >= 525 && tp.mins < 825) txf = ["live", t("daySess")];
+  else if ((wk(tp.wd) && tp.mins >= 900) || (["Tue","Wed","Thu","Fri","Sat"].indexOf(tp.wd) !== -1 && tp.mins < 300)) txf = ["live", t("nightSess")];
+  else txf = ["", st.closed];
   var us;
   if (!wk(ny.wd)) us = ["", st.off];
   else if (ny.mins >= 570 && ny.mins < 960) us = ["live", st.live];
   else if (ny.mins >= 240 && ny.mins < 570) us = ["pre", st.pre];
   else if (ny.mins >= 960 && ny.mins < 1200) us = ["pre", st.post];
   else us = ["", st.off];
-  document.querySelectorAll("[data-chip]").forEach(function(c){ var v = c.getAttribute("data-chip") === "tw" ? tw : us; c.className = "chip" + (v[0] ? " " + v[0] : ""); c.textContent = v[1]; });
+  document.querySelectorAll("[data-chip]").forEach(function(c){ var k = c.getAttribute("data-chip"), v = k === "tw" ? tw : (k === "txf" ? txf : us); c.className = "chip" + (v[0] ? " " + v[0] : ""); c.textContent = v[1]; });
   var cd = document.getElementById("countdown");
   if (wk(ny.wd) && ny.mins < 570) { var left = 570*60 - (ny.mins*60 + ny.s); var hh = Math.floor(left/3600), mm = Math.floor((left%3600)/60); cd.textContent = t("cd")(hh, (mm<10?"0":"")+mm); }
   else if (us[0] === "live") cd.textContent = t("cdLive");

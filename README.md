@@ -10,7 +10,7 @@ app.js                        網站程式（從 data/ 讀取內容並渲染）
 data/news/index.json          往期清單（最多 7 天，latest 為主頁預設日期）
 data/news/YYYY-MM-DD.json     每日內容（中英雙語，每則附出處）
 data/quotes.json              指數初始快照（報價更新失敗時的備援）
-scripts/update_quotes.py      抓取加權、那斯達克、費半指數（延遲 20 分鐘以上）
+scripts/update_quotes.py      抓取加權、台指期（近月）、那斯達克、費半指數（延遲 20 分鐘以上）
 scripts/validate_edition.py   檢查每日內容格式與安全（推送前必跑）
 .github/workflows/quotes.yml  交易時段每 10 分鐘更新報價，寫到 quotes 分支
 .github/workflows/validate.yml  每次更新 data/news 時自動檢查內容
@@ -26,7 +26,7 @@ scripts/validate_edition.py   檢查每日內容格式與安全（推送前必�
 
 ## 運作方式
 
-- **盤中報價**：GitHub Actions 在台股（台北 09:00–13:59）與美股（UTC 13–21）交易時段每 10 分鐘抓一次報價，以單一 commit 強制推到 `quotes` 分支（不會觸發 Pages 重建）。網頁每分鐘從 `raw.githubusercontent.com` 讀取，數字變動時有跳動與閃色提示。GitHub 排程可能延遲數分鐘，報價本身也約有延遲。
+- **盤中報價**：GitHub Actions 在平日 UTC 01–21（台北 09:00–隔日 05:59，涵蓋台股、台指期日盤與夜盤、美股）每 10 分鐘抓一次報價，台指期取自臺灣期貨交易所行情網站（近月合約，日盤與夜盤取較新的一筆），以單一 commit 強制推到 `quotes` 分支（不會觸發 Pages 重建）。網頁每分鐘從 `raw.githubusercontent.com` 讀取，數字變動時有跳動與閃色提示。GitHub 排程可能延遲數分鐘，報價本身也約有延遲。
 - **每日內容**：由 Claude 排程每天早上產生 `data/news/YYYY-MM-DD.json`、更新 `index.json` 並刪除 7 天前的檔案。
 - **瀏覽人次**：使用不蒜子（busuanzi）計數，只在 `*.github.io` 或 `site-domain` 設定的網域上載入。
 - **語言**：預設中文，右上角 EN 切換，選擇會記在瀏覽器。
@@ -54,11 +54,11 @@ scripts/validate_edition.py   檢查每日內容格式與安全（推送前必�
 
 ## 費用
 
-- repo 必須設為 **公開**：GitHub Pages 與標準 GitHub Actions 執行器在公開 repo 免費。若設為私人，報價更新每月約需 1,800 分鐘，會接近 GitHub Free 每月 2,000 分鐘的額度。
+- repo 必須設為 **公開**：GitHub Pages 與標準 GitHub Actions 執行器在公開 repo 免費。若設為私人，報價更新每月約需 2,800 分鐘，會超過 GitHub Free 每月 2,000 分鐘的額度。
 - Pages 限制：網站 1 GB、每月流量軟上限 100 GB；本站每期約 20 KB，只保留 7 天。
 - 公開 repo 若 60 天沒有任何活動，排程工作流程會被自動停用；每日內容更新會推送 commit，可維持啟用。
 - 每日內容由 Claude 排程產生，計入你的 Claude 方案用量，每天一次。
-- 不蒜子、Google Fonts、Yahoo Finance 資料免費；自訂網域需另付註冊商年費。
+- 不蒜子、Google Fonts、Yahoo Finance 與期交所行情網站資料免費；自訂網域需另付註冊商年費。
 
 ## 安全設計
 

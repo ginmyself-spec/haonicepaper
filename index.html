@@ -83,7 +83,7 @@ html[lang="en"] .masthead h1{font-family:var(--latin);letter-spacing:.02em;font-
 .edition{display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px 16px;font-family:var(--sans);font-size:13px;color:var(--ink-soft);padding:7px 0;border-bottom:1px solid var(--ink)}
 
 /* 行情帶 */
-.ticker{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:1px solid var(--ink)}
+.ticker{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--ink)}
 .quote{padding:10px 16px;display:grid;grid-template-columns:1fr auto;align-items:baseline;gap:0 12px}
 .quote + .quote{border-left:1px solid var(--rule)}
 .q-name{font-weight:600;font-size:15px}
@@ -98,6 +98,13 @@ html[lang="en"] .masthead h1{font-family:var(--latin);letter-spacing:.02em;font-
 .q-chg{font-family:var(--latin);font-size:15px;font-weight:600;justify-self:end}
 .q-meta{grid-column:1 / -1;font-family:var(--sans);font-size:12px;color:var(--ink-soft);line-height:1.5}
 .ticker-note{font-family:var(--sans);font-size:12px;color:var(--ink-soft);padding:6px 0 0;line-height:1.6}
+/* 四欄時數字與漲跌分兩行，避免窄欄擠在一起 */
+@media (min-width:961px){ .quote .q-chg{grid-column:1 / -1;justify-self:start} }
+@media (min-width:641px) and (max-width:960px){
+  .ticker{grid-template-columns:repeat(2,1fr)}
+  .quote:nth-child(odd){border-left:0}
+  .quote:nth-child(n+3){border-top:1px solid var(--rule)}
+}
 
 /* 版塊標題 */
 .section{padding-top:22px}
@@ -264,6 +271,11 @@ footer h5{margin:0 0 4px;font-size:13px;color:var(--ink);font-weight:500}
   <section class="ticker" aria-label="Indices">
     <div class="quote" data-sym="TAIEX">
       <span class="q-name" data-i18n="taiex">台股加權指數</span><span class="chip" data-chip="tw">—</span>
+      <span class="q-val num" data-f="price">—</span><span class="q-chg num" data-f="chg">—</span>
+      <span class="q-meta num" data-f="time"></span>
+    </div>
+    <div class="quote" data-sym="TXF">
+      <span class="q-name" data-i18n="txf">台指期（近月）</span><span class="chip" data-chip="txf">—</span>
       <span class="q-val num" data-f="price">—</span><span class="q-chg num" data-f="chg">—</span>
       <span class="q-meta num" data-f="time"></span>
     </div>
