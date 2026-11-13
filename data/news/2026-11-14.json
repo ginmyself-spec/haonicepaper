@@ -1,0 +1,657 @@
+{
+ "date": "2026-11-14",
+ "updated": "2026-11-14T07:56:13+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "烏軍千架無人機襲俄；台股反彈583點",
+  "en": "Ukraine's mass drone strike; TAIEX rebounds 583"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "烏軍近1,200架無人機襲俄　和談擬納歐洲",
+    "en": "Ukraine fires nearly 1,200 drones at Russia as talks eye Europe"
+   },
+   "body": {
+    "zh": "俄羅斯國防部 13 日表示，週四深夜至週五清晨共攔截 1,198 架烏克蘭長程無人機，為開戰以來規模最大的空襲之一；俄方地方官員說，三個地區共 7 人死亡、17 人受傷，伏爾加格勒州長則稱當地工業區有 4 人喪生。烏方指出，俄軍同晚發射 117 架無人機，敖德薩至少 2 人死亡，札波羅熱另有 13 人受傷。美國特使庫許納表示，普丁已同意讓歐洲加入後續談判，以處理戰後歐洲安全安排；克宮發言人佩斯科夫說俄方對與歐洲接觸持開放態度，但擴大形式的對話取決於歐洲的「真實意圖」。歐盟外交主管卡拉斯則主張先停火再推進談判，並警告不應討論俄方的安全要求。",
+    "en": "Russia's Defence Ministry said on the 13th that it intercepted 1,198 Ukrainian long-range drones between late Thursday and early Friday, one of the largest aerial attacks of the war; Russian regional officials reported seven dead and 17 wounded across three regions, and the Volgograd governor said four people were killed in an industrial area. Ukraine said Russia launched 117 drones the same night, killing at least two people in Odesa, while 13 were injured in Zaporizhzhia. US envoy Jared Kushner said Vladimir Putin had agreed to bring Europe into upcoming talks to address post-war European security arrangements; Kremlin spokesman Dmitry Peskov said Russia was open to contacts with Europeans but an expanded format would depend on Europe's \"true intentions\". EU foreign policy chief Kaja Kallas said Europe should insist on a ceasefire before going further and warned against discussing Russia's security demands."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "WSLS（美聯社）",
+      "en": "WSLS (AP)"
+     },
+     "url": "https://www.wsls.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/"
+    },
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "伊朗稱擊毀巴林美軍雷達　美軍否認",
+    "en": "Iran claims hit on US radar in Bahrain; US denies"
+   },
+   "body": {
+    "zh": "伊朗革命衛隊 13 日宣稱，其航太部隊摧毀美軍在巴林的預警雷達，以報復美方對伊朗希里克（Sirik）一座通訊塔的空襲，這是伊朗兩個多月來首度試圖攻擊海灣國家境內的軍事設施。美軍中央司令部則表示，擊落兩架飛向巴林的伊朗無人機，沒有人員傷亡或損失，並稱伊朗擊中雷達的說法不實。川普同日受訪時說，美國可在約三天內摧毀伊朗的橋梁與製造業，但應區域盟友要求暫緩；他前一天已表示美國不再需要與伊朗達成協議。財政部長貝森特則為現行策略辯護，稱其「正在奏效」。",
+    "en": "Iran's Revolutionary Guards said on the 13th that their aerospace force destroyed a US early-warning radar in Bahrain in retaliation for a US strike on a communications tower in Sirik, Iran, its first attempt in more than two months to hit a military site in a Gulf state. US Central Command said it shot down two Iranian drones heading for Bahrain, with no injuries or damage, and called the radar claim false. In an interview the same day, Donald Trump said the US could destroy Iran's bridges and manufacturing in about three days but was holding back at the request of regional allies; a day earlier he said the US no longer needs a deal with Iran. Treasury Secretary Scott Bessent defended the strategy, saying it is working."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Peoples Gazette",
+      "en": "Peoples Gazette"
+     },
+     "url": "https://gazettengr.com/iran-targets-u-s-military-site-in-bahrain-for-first-time-in-two-months/"
+    },
+    {
+     "name": {
+      "zh": "The National Desk",
+      "en": "The National Desk"
+     },
+     "url": "https://thenationaldesk.com/news/americas-news-now/trump-says-us-could-devastate-iran-in-three-days-as-diplomatic-efforts-stall-president"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "高市早苗將赴深圳APEC　任內首訪中國",
+    "en": "Takaichi to attend APEC in Shenzhen on first China trip"
+   },
+   "body": {
+    "zh": "日本副官房長官尾崎正直 13 日宣布，首相高市早苗將於 11 月 16 日至 19 日訪問菲律賓與中國，先在馬尼拉出席東協相關峰會，再赴深圳參加 APEC 峰會，這是她 2025 年 10 月上任以來首次訪中。日方表示將在 APEC 討論貿易投資、區域經濟整合、經濟與能源韌性及數位經濟；分析人士認為與習近平舉行雙邊會談的可能性很低，另據報導東京已向俄方提出與普丁會面的請求。中日關係自高市去年 11 月就台灣問題發言後持續緊繃，北京曾勸阻公民赴日並實施貿易限制；高市稱中國是「重要鄰國」，但會堅定表達日本立場。",
+    "en": "Japan's Deputy Chief Cabinet Secretary Masanao Ozaki announced on the 13th that Prime Minister Sanae Takaichi will visit the Philippines and China from November 16 to 19, attending ASEAN-related summits in Manila before the APEC summit in Shenzhen, her first trip to China since taking office in October 2025. Tokyo said she will raise trade and investment, regional integration, economic and energy resilience and the digital economy; analysts see a bilateral meeting with Xi Jinping as very unlikely, and Tokyo has reportedly asked Moscow for a meeting with Vladimir Putin. Relations have been strained since her remarks on Taiwan last November, after which Beijing warned its citizens against travel to Japan and imposed trade curbs; Takaichi called China an important neighbour but said Japan would firmly assert its positions."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Malay Mail（法新社）",
+      "en": "Malay Mail (AFP)"
+     },
+     "url": "https://www.malaymail.com/news/world/2026/11/13/japan-pm-takaichi-heads-to-china-for-first-visit-amid-deeply-strained-ties/243086"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中國傳不爭辦COP33　2028主辦國未定",
+    "en": "China reportedly won't bid to host COP33 in 2028"
+   },
+   "body": {
+    "zh": "法新社引述知情人士報導，中國在評估數月後，決定不爭取主辦 2028 年聯合國氣候峰會（COP33）；此消息最早由英國《衛報》披露。COP33 預計由亞太地區國家主辦，印度今年 4 月已撤回申辦，南韓先前曾表達興趣。被問及報導時，中國外交部發言人表示不了解相關情況。消息傳出時，COP31 正在土耳其安塔利亞舉行。",
+    "en": "AFP, citing people familiar with the matter, reported that China decided after months of deliberation not to bid to host the 2028 UN climate summit, COP33; The Guardian first reported the news. COP33 is expected to be held in the Asia-Pacific region; India withdrew its bid in April and South Korea had earlier shown interest. Asked about the report, a Chinese foreign ministry spokesperson said they were not aware of the situation. The news came as COP31 was under way in Antalya, Turkey."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社（法新社）",
+      "en": "CNA (AFP)"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611130313.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "FBI：北韓駭客偽造視訊　竊逾4億美元加密幣",
+    "en": "FBI: North Korean hackers used fake video calls to steal $400m"
+   },
+   "body": {
+    "zh": "美國聯邦調查局表示，與北韓有關的駭客過去 18 個月以名為「FaceStealer」的社交工程手法，竊取逾 4 億美元加密貨幣，美方已查扣相關雲端基礎設施及逾 900 段受害者視訊錄影。駭客利用遭盜用帳號發出視訊會議邀請，以預錄或深偽影像取得信任，再藉假的音訊錯誤誘導目標安裝惡意程式，並用被害人帳號接觸其聯絡人。美國司法部另宣布，經法院授權查扣並凍結逾 12 億美元與幣安駭客案相關的加密貨幣，稱這些資金用於支持北韓武器計畫。",
+    "en": "The FBI said North Korea-linked hackers stole more than $400 million in cryptocurrency over the past 18 months using a social-engineering scheme it calls FaceStealer, and US authorities seized the cloud infrastructure behind it along with more than 900 recorded victim webcam videos. The attackers sent video-meeting invitations from hijacked accounts, used prerecorded or deepfake footage to win trust, then triggered a fake audio error that led targets to install malware, before using victims' accounts to approach their contacts. The Justice Department separately announced a court-authorised seizure and restraint of more than $1.2 billion in crypto linked to the hack of the Binance exchange, saying the funds support North Korea's weapons programme."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "The Hacker News",
+      "en": "The Hacker News"
+     },
+     "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "輝達晶片案延燒　盧特尼克同意赴參院作證",
+    "en": "Nvidia chip row: Lutnick agrees to testify to Senate"
+   },
+   "body": {
+    "zh": "據美國官員表示，商務部長盧特尼克同意於 12 月 10 日出席參議院銀行委員會作證，說明 AI 晶片出口管制問題；此前黃仁勳已辭去輝達執行長。爭議焦點是新加坡公司 Megaspeed，美方懷疑其將先進輝達晶片轉往中國，但商務部遲未將其列入實體清單。財政部長貝森特 13 日受訪時說，財政部等機構數月來都主張將該公司列管，但「筆在商務部手上」；商務部未立即回應媒體詢問。",
+    "en": "Commerce Secretary Howard Lutnick has agreed to testify before the Senate Banking Committee on December 10 on AI chip export controls, a US official said, following Jensen Huang's resignation as Nvidia CEO. At issue is Singapore-based Megaspeed, which the US suspects of routing advanced Nvidia chips to China, and which Commerce apparently delayed adding to its Entity List. Treasury Secretary Scott Bessent told CNBC on the 13th that Treasury and other agencies had favoured listing the firm for months but that \"Commerce has the pen\"; the Commerce Department did not immediately respond to requests for comment."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CBS 新聞",
+      "en": "CBS News"
+     },
+     "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美PPI月增0.3%　年增6.5%近4年高",
+    "en": "US October PPI up 0.3%; annual rate highest since 2022"
+   },
+   "body": {
+    "zh": "美國勞工部 13 日公布，10 月最終需求生產者物價指數月增 0.3%，低於經濟學家預估的 0.4%，9 月漲幅則上修至 1.4%。年增率由 9 月的 6.3% 升至 6.5%，為 2022 年 11 月以來最大年增幅；商品價格上漲 0.5%，主要來自食品與基本有機化學品，服務價格上漲 0.2%，連續第五個月走高。聯準會上月將利率維持在 3.75% 至 4.00%，市場對 12 月升息 1 碼或 2 碼的看法分歧。",
+    "en": "The US Labor Department said on the 13th that the producer price index for final demand rose 0.3% in October, below the 0.4% economists expected, while September's gain was revised up to 1.4%. The annual rate rose to 6.5% from 6.3%, the largest since November 2022; goods prices rose 0.5%, mainly on food and basic organic chemicals, and services rose 0.2% for a fifth straight monthly increase. The Fed held rates at 3.75%-4.00% last month, and markets are split between a quarter-point and a half-point hike in December."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 財經（路透）",
+      "en": "Yahoo Finance (Reuters)"
+     },
+     "url": "https://finance.yahoo.com/economy/policy/articles/us-producer-prices-rise-further-134401757.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "SpaceX擬砸逾740億　建兩座AI園區",
+    "en": "SpaceX plans over $74bn for AI campuses in Texas, Arizona"
+   },
+   "body": {
+    "zh": "SpaceX 12 日表示，計劃投資逾 740 億美元，在南德州 Starbase 與亞利桑那州科奇斯郡興建兩座 AI 超級運算園區，其中亞利桑那園區約 500 億美元、全面建成後用電最高 6 吉瓦，德州園區逾 240 億美元並將自建含燃氣電廠在內的電力設施。兩案仍需地方核准，亞利桑那已有約 2,400 人連署反對，郡府將於 12 月舉行公聽會。SpaceX 第三季 AI 業務營收 76 億美元，占公司營收逾半。",
+    "en": "SpaceX said on the 12th that it plans to invest more than $74 billion in two AI supercomputing campuses at Starbase in South Texas and in Cochise County, Arizona; the Arizona site, about $50 billion, would draw up to 6 gigawatts when fully built, while the Texas campus, over $24 billion, would generate its own power including a gas-fired plant. Both still need local approval, and a petition with about 2,400 signatures opposes the Arizona permit ahead of a county hearing in December. SpaceX's AI business brought in $7.6 billion in the third quarter, more than half of company revenue."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "StockAnalysis",
+      "en": "StockAnalysis"
+     },
+     "url": "https://stockanalysis.com/news/spacex-74-billion-data-centers-texas-arizona/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "台積電第3季獲政府補助1,670億　創新高",
+    "en": "TSMC books record NT$167bn in Q3 government subsidies"
+   },
+   "body": {
+    "zh": "根據台積電第三季財報，公司第三季獲得美國、德國、日本與中國政府補助約新台幣 1,669.96 億元，前三季累計約 1,675.86 億元，創歷史新高。今年上半年台積電僅獲補助約 5.9 億元，第三季金額大幅跳升。補助由美國亞利桑那、德國 ESMC、日本 JASM 及南京廠等子公司取得，主要用於抵減不動產、廠房及設備成本，以及部分建置與營運費用。",
+    "en": "According to TSMC's third-quarter financial report, the company received about NT$166.996 billion in subsidies from the governments of the US, Germany, Japan and China in the quarter, bringing the nine-month total to a record of about NT$167.586 billion. TSMC had received only about NT$590 million in the first half, so the third-quarter figure marked a huge jump. The funds went to subsidiaries including TSMC Arizona, ESMC, JASM and TSMC Nanjing, mainly offsetting property, plant and equipment costs as well as some construction and operating expenses."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報（中央社）",
+      "en": "Economic Daily News (CNA)"
+     },
+     "url": "https://money.udn.com/money/story/5612/9877322"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "比特幣跌破7萬美元　8月以來首見",
+    "en": "Bitcoin slips below $70,000 for first time since August"
+   },
+   "body": {
+    "zh": "比特幣 13 日跌破 7 萬美元，盤中最低至 68,297 美元，跌幅一度達 4.4%，為 8 月 19 日以來最低。市場人士指出，美國通膨居高不下、預期聯準會 12 月再升息、油價偏高與機構賣壓是主要原因；CoinGlass 數據顯示，24 小時內逾 12 億美元多單遭強制平倉。以太幣同步跌破 2,000 美元，美國現貨比特幣 ETF 在 10 月 30 日至 11 月 11 日間淨流出逾 25 億美元。",
+    "en": "Bitcoin fell below $70,000 on the 13th, touching a low of $68,297, down as much as 4.4% and its lowest since August 19. Market participants cited sticky US inflation, expectations of another Fed hike in December, elevated oil prices and institutional selling; CoinGlass data showed more than $1.2 billion of bullish positions liquidated in 24 hours. Ether slipped below $2,000, and US spot bitcoin ETFs saw net outflows of more than $2.5 billion between October 30 and November 11."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Business Today（彭博）",
+      "en": "Business Today (Bloomberg)"
+     },
+     "url": "https://www.businesstoday.in/personal-finance/story/bitcoin-crashes-below-70000-for-first-time-since-august-hits-68297-as-inflation-fears-trigger-sell-off-567299-2026-11-13"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-13",
+   "close": 43675.12,
+   "change": 583.25,
+   "pct": 1.35,
+   "open": 43719.75,
+   "high": 44489.48,
+   "low": 43534.12,
+   "prev": 43091.87,
+   "turnover": {
+    "zh": "9,162.55 億元",
+    "en": "NT$916.26 billion"
+   },
+   "otc": {
+    "close": 342.41,
+    "change": 6.68,
+    "pct": 1.99
+   },
+   "headline": {
+    "zh": "台股反彈583點　外資終止連11賣",
+    "en": "TAIEX rebounds 583; foreigners end selling streak"
+   },
+   "body": {
+    "zh": "11 月 13 日加權指數跳空開高，盤中一度上漲 1,397.61 點、達 44,489.48 點，但隨後漲幅收斂，終場上漲 583.25 點、收 43,675.12 點，漲幅 1.35%，盤中高低差 955.36 點，成交值 9,162.55 億元；本週累計上漲 3,973.48 點（10.01%）。台積電漲 10 元、收 2,350 元，貢獻指數約 79 點，聯發科漲 270 元至 4,120 元，鴻海漲 1 元至 241 元，廣達跌 2 元至 276.5 元；類股方面，玻璃類股漲約 4%、塑膠逾 3.8%、金融 2.16%、電子約 1.2%，造紙與鋼鐵則跌逾 1%。櫃買指數收 342.41 點、漲 6.68 點（1.99%）。在前一日重挫 1,165 點後，三大法人同步買超，外資買超 288.36 億元，結束連續 11 個交易日賣超；盤中漲幅收斂主要反映獲利了結賣壓。",
+    "en": "On November 13 the TAIEX gapped higher and rose as much as 1,397.61 points to 44,489.48, but gains narrowed and it closed up 583.25 points, or 1.35%, at 43,675.12, with an intraday range of 955.36 points and turnover of NT$916.26 billion; it gained 3,973.48 points (10.01%) for the week. TSMC rose NT$10 to NT$2,350, contributing about 79 index points, MediaTek gained NT$270 to NT$4,120, Hon Hai added NT$1 to NT$241 and Quanta slipped NT$2 to NT$276.5; by sector, glass rose about 4%, plastics more than 3.8%, financials 2.16% and electronics about 1.2%, while paper and steel fell more than 1%. The TPEx index closed at 342.41, up 6.68 points or 1.99%. After the previous day's 1,165-point slide, all three major institutional groups were net buyers, with foreign investors buying NT$28.836 billion to end an 11-session selling streak; the fading of intraday gains mainly reflected profit-taking."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": 288.36
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 82.37
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": 68.92
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": 439.65,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資（含陸資）買超 288.36 億元，終止連續 11 個交易日賣超；三大法人同步買超。",
+    "en": "Foreign (incl. mainland) investors bought a net NT$28.836 billion, ending an 11-session selling streak; all three groups were net buyers."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 股市",
+      "en": "Yahoo Finance TW"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%9C%87%E7%9B%AA955%E9%BB%9E-%E6%94%B643675-12%E9%BB%9E%E4%B8%8A%E6%BC%B2583-25%E9%BB%9E-054304975.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B2%B7%E8%B6%85%E5%8F%B0%E8%82%A1439-65%E5%84%84%E5%85%83-071344826.html"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經雲",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3271594"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市",
+      "en": "Yahoo Finance TW"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E6%BC%B26-68%E9%BB%9E-054510802.html"
+    },
+    {
+     "name": {
+      "zh": "方格子",
+      "en": "Vocus"
+     },
+     "url": "https://vocus.cc/article/6af70054fd89780001aae360"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-13",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 52347.55,
+     "change": 50.46,
+     "pct": 0.1
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7561.67,
+     "change": -30.73,
+     "pct": -0.4
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 25136.27,
+     "change": -229.82,
+     "pct": -0.91
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 10146.32,
+     "change": -360.35,
+     "pct": -3.43
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 398.63,
+     "change": -6.86,
+     "pct": -1.69
+    }
+   ],
+   "headline": {
+    "zh": "美股：晶片股遭拋售　費半挫3.43%",
+    "en": "US close, Nov 13: chip selloff; SOX sinks 3.43%"
+   },
+   "body": {
+    "zh": "週五（13 日）美國 10 月生產者物價指數月增幅低於預期，美股一度開高，但 AI 與半導體股賣壓隨後擴大，指數翻黑：道瓊小漲 50.46 點（0.10%），為唯一收紅的主要指數，標普 500 跌 0.40%、那指跌 0.91%，費半重挫 3.43%、盤中跌幅一度達 3.91%。輝達收跌約 2%，延續黃仁勳去職後的跌勢、連續第六週下跌；前一日大漲的超微重挫 8.75%，博通跌 4.76%。台積電 ADR 跌 1.69%、收 398.63 美元；比特幣同日跌破 7 萬美元。",
+    "en": "On Friday, November 13, US stocks opened higher after October producer prices rose less than expected, but selling in AI and chip stocks spread and indexes turned lower: the Dow edged up 50.46 points (0.10%), the only major index to finish higher, while the S&P 500 fell 0.40%, the Nasdaq 0.91% and the SOX 3.43%, after being down as much as 3.91% intraday. Nvidia closed down about 2%, extending its slide after Jensen Huang's exit and posting a sixth straight weekly loss; AMD, which had rallied the day before, sank 8.75% and Broadcom lost 4.76%. The TSMC ADR fell 1.69% to US$398.63, and bitcoin dropped below $70,000 the same day."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中天新聞網",
+      "en": "CTi News"
+     },
+     "url": "https://ctinews.com/news/items/14a12Lvoxk"
+    },
+    {
+     "name": {
+      "zh": "壹蘋新聞網",
+      "en": "Nextapple"
+     },
+     "url": "https://news.nextapple.com/finance/20261114/5E5E00103E44F0B8E601853ED9316C73"
+    },
+    {
+     "name": {
+      "zh": "TheStreet",
+      "en": "TheStreet"
+     },
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-13-2026"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週一 11/16",
+     "en": "Mon, Nov 16"
+    },
+    "text": {
+     "zh": "日本公布第三季 GDP 初值",
+     "en": "Japan releases preliminary Q3 GDP"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/16",
+     "en": "Mon, Nov 16"
+    },
+    "text": {
+     "zh": "中國公布 10 月工業生產、社會消費品零售與 70 城房價",
+     "en": "China releases October industrial output, retail sales and 70-city home prices"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/16",
+     "en": "Mon, Nov 16"
+    },
+    "text": {
+     "zh": "央行總裁楊金龍赴立法院報告明年度預算",
+     "en": "Central bank governor Yang Chin-long presents next year's budget to the Legislative Yuan"
+    }
+   },
+   {
+    "time": {
+     "zh": "週二 11/17（美國時間）",
+     "en": "Tue, Nov 17 (US time)"
+    },
+    "text": {
+     "zh": "輝達公布財報",
+     "en": "Nvidia reports earnings"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "MoneyDJ 理財網",
+     "en": "MoneyDJ"
+    },
+    "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=3fd1cb13-7bc7-4df1-adf2-0fd232612c9d"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5613/9877807"
+   },
+   {
+    "name": {
+     "zh": "時報資訊",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261113002986-260410"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-09",
+     41661.7
+    ],
+    [
+     "2026-11-10",
+     42711.92
+    ],
+    [
+     "2026-11-11",
+     44257.15
+    ],
+    [
+     "2026-11-12",
+     43091.87
+    ],
+    [
+     "2026-11-13",
+     43675.12
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-09",
+     25253.14
+    ],
+    [
+     "2026-11-10",
+     25065.88
+    ],
+    [
+     "2026-11-11",
+     25466.19
+    ],
+    [
+     "2026-11-12",
+     25366.09
+    ],
+    [
+     "2026-11-13",
+     25136.27
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-09",
+     10033.93
+    ],
+    [
+     "2026-11-10",
+     9998.33
+    ],
+    [
+     "2026-11-11",
+     10564.11
+    ],
+    [
+     "2026-11-12",
+     10506.67
+    ],
+    [
+     "2026-11-13",
+     10146.32
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1936251"
+   },
+   {
+    "name": {
+     "zh": "經濟日報（中央社）",
+     "en": "Economic Daily News (CNA)"
+    },
+    "url": "https://money.udn.com/money/story/5607/9869139"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611110130.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市",
+     "en": "Yahoo Finance TW"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%9C%87%E7%9B%AA955%E9%BB%9E-%E6%94%B643675-12%E9%BB%9E%E4%B8%8A%E6%BC%B2583-25%E9%BB%9E-054304975.html"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   }
+  ]
+ }
+}

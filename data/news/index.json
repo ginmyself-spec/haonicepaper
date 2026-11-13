@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-13",
+ "latest": "2026-11-14",
  "days": [
+  {
+   "date": "2026-11-14",
+   "summary": {
+    "zh": "烏軍千架無人機襲俄；台股反彈583點",
+    "en": "Ukraine's mass drone strike; TAIEX rebounds 583"
+   }
+  },
   {
    "date": "2026-11-13",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "美軍再擊伊朗；國安基金第10度進場",
     "en": "US strikes Iran again; Taiwan fund steps in"
-   }
-  },
-  {
-   "date": "2026-11-07",
-   "summary": {
-    "zh": "白宮幕僚長換米勒；台股重挫1,873點",
-    "en": "Miller named chief of staff; TAIEX sinks 1,873"
    }
   }
  ]
