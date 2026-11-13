@@ -126,7 +126,10 @@ def taifex_session(market):
         q = rt.get("Quote") or {}
         if str(q.get("CDate", "")).isdigit() and len(str(q.get("CDate"))) == 8:
             cdate = str(q["CDate"])
-        for t in rt.get("Ticks") or rt.get("ChartData") or []:
+        ticks = rt.get("Ticks") or rt.get("ChartData") or []
+        if ticks:
+            print(f"taifex {sym} CDate={cdate} ticks={len(ticks)} first={ticks[0]!r} last={ticks[-1]!r}", file=sys.stderr)
+        for t in ticks:
             if isinstance(t, (list, tuple)) and len(t) >= 5:
                 tm, c = t[0], t[4]
             elif isinstance(t, dict):
