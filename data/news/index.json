@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-14",
+ "latest": "2026-11-15",
  "days": [
+  {
+   "date": "2026-11-15",
+   "summary": {
+    "zh": "伊朗稱3油輪觸雷；台股週漲逾一成",
+    "en": "Iran says 3 tankers hit mines; TAIEX up 10% on week"
+   }
+  },
   {
    "date": "2026-11-14",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "川普稱難再攻伊朗；輝達董事會查黃仁勳",
     "en": "Trump: Iran strikes unlikely; Nvidia board opens Huang probe"
-   }
-  },
-  {
-   "date": "2026-11-08",
-   "summary": {
-    "zh": "美軍再擊伊朗；國安基金第10度進場",
-    "en": "US strikes Iran again; Taiwan fund steps in"
    }
   }
  ]
