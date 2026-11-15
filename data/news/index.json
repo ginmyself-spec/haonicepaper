@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-15",
+ "latest": "2026-11-16",
  "days": [
+  {
+   "date": "2026-11-16",
+   "summary": {
+    "zh": "克宮：川習普19日會；伊朗再襲巴林",
+    "en": "Kremlin: Trump-Xi-Putin to meet Nov 19; Iran hits Bahrain again"
+   }
+  },
   {
    "date": "2026-11-15",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "川普稱伊朗戰爭實質結束；台股飆1,960點",
     "en": "Trump: Iran war 'effectively over'; TAIEX soars 1,960"
-   }
-  },
-  {
-   "date": "2026-11-09",
-   "summary": {
-    "zh": "川普稱難再攻伊朗；輝達董事會查黃仁勳",
-    "en": "Trump: Iran strikes unlikely; Nvidia board opens Huang probe"
    }
   }
  ]
