@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-16",
+ "latest": "2026-11-17",
  "days": [
+  {
+   "date": "2026-11-17",
+   "summary": {
+    "zh": "烏軍千架無人機襲俄；台股重挫2,635點",
+    "en": "Record drone barrage on Russia; TAIEX plunges 2,635"
+   }
+  },
   {
    "date": "2026-11-16",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "俄烏阿布達比會談；美CPI偏熱、台股再漲千點",
     "en": "Russia-Ukraine talks; hot US CPI; TAIEX up 1,050"
-   }
-  },
-  {
-   "date": "2026-11-10",
-   "summary": {
-    "zh": "川普稱伊朗戰爭實質結束；台股飆1,960點",
-    "en": "Trump: Iran war 'effectively over'; TAIEX soars 1,960"
    }
   }
  ]
