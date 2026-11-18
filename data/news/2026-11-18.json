@@ -1,0 +1,746 @@
+{
+ "date": "2026-11-18",
+ "updated": "2026-11-18T08:02:45+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "刻赤大橋路段崩塌；台股跌947點守4萬",
+  "en": "Kerch Bridge span falls; TAIEX drops 947, holds 40K"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "烏軍再襲刻赤大橋　公路段橋拱崩塌",
+    "en": "Ukraine hits Kerch Bridge again; road span collapses"
+   },
+   "body": {
+    "zh": "烏克蘭總參謀部表示，國防軍 17 日凌晨再度打擊連接俄羅斯本土與克里米亞的刻赤大橋，公路段一座橋拱與橋面崩塌、公路交通中斷，鐵路段仍矗立但一座拱受損；美聯社無法獨立查證相關影片。澤倫斯基形容這是「前所未有」的七階段行動，先癱瘓防空、雷達與電子戰設備，再以國產長程無人機及海王星、火烈鳥飛彈分別打擊公路與鐵路段。俄國調查委員會僅稱大橋遭無人機攻擊受損，克里米亞親俄首長阿克肖諾夫說鐵路交通已於 17 日下午恢復，克宮發言人佩斯科夫則表示大橋將會修復；俄國防部另稱一夜擊落 1,441 架烏軍無人機，連續第二晚遭大規模攻擊。",
+    "en": "Ukraine's General Staff said its forces struck the Kerch Bridge linking mainland Russia with Crimea again overnight into the 17th, collapsing an arch and a span of the road section and cutting road traffic, while the rail section stayed up with one arch damaged; AP could not independently verify videos of the attack. President Volodymyr Zelensky called it an unprecedented seven-stage operation that first knocked out air defences, radars and electronic-warfare gear, then used domestic long-range drones on the road section and Neptune and Flamingo missiles on the rail section. Russia's Investigative Committee said only that drones had damaged the bridge, Crimea's Russian-installed head Sergei Aksyonov said rail traffic resumed on Tuesday afternoon, and Kremlin spokesman Dmitry Peskov said the bridge would be restored; Russia's defence ministry said it downed 1,441 Ukrainian drones overnight, a second straight night of mass attacks."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "PBS（美聯社）",
+      "en": "PBS NewsHour (AP)"
+     },
+     "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea"
+    },
+    {
+     "name": {
+      "zh": "富比士",
+      "en": "Forbes"
+     },
+     "url": "https://www.forbes.com/sites/katyasoldak/2026/11/17/tuesday-november-17-russias-war-on-ukraine-news-and-information-from-ukraine/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "荷莫茲再傳油輪觸雷　美第3艘航艦抵中東",
+    "en": "More tankers hit near Hormuz; third US carrier arrives"
+   },
+   "body": {
+    "zh": "伊朗海軍 17 日聲明，一艘油輪在荷莫茲海峽附近觸雷起火，指其關閉導航系統、未與伊朗軍方協調即駛入管制海域，為不到 24 小時內第四起類似事件；伊方未公布船名與船員狀況，相關說法無法獨立證實。英國海事貿易行動辦公室（UKMTO）則通報，16 日一艘油輪在阿曼海薩卜以北約 7 海里處遇襲、機艙起火失去動力，船員平安。一名美國官員向半島電視台證實，航艦羅斯福號已抵達中東，使美軍中央司令部轄區內的航艦增至三艘。國際油價 17 日小漲，布蘭特原油收每桶 93.14 美元、漲 0.8%，伊朗總統裴澤斯基安則表示將透過外交尋求擺脫「不戰不和」的局面。",
+    "en": "Iran's navy said on the 17th that a tanker struck a mine and caught fire near the Strait of Hormuz after entering a restricted zone with its navigation systems off and without coordinating with Iranian forces, the fourth such incident in under 24 hours; it did not name the vessel or give the crew's status, and the claims could not be independently verified. Separately, UK Maritime Trade Operations reported that a tanker was attacked about 7 nautical miles north of Khasab, Oman, on the 16th and was disabled by an engine-room fire, with the crew safe. A US official confirmed to Al Jazeera that the carrier USS Theodore Roosevelt had arrived in the Middle East, bringing the number of US carriers in Central Command's area to three. Oil edged higher on the 17th, with Brent settling up 0.8% at US$93.14 a barrel, while Iranian President Masoud Pezeshkian said Iran is seeking through diplomacy to exit a situation of neither war nor peace."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "The Week",
+      "en": "The Week"
+     },
+     "url": "https://www.theweek.in/news/middle-east/2026/11/17/fourth-oil-tanker-fire-strait-of-hormuz.html"
+    },
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"
+    },
+    {
+     "name": {
+      "zh": "Rigzone（彭博）",
+      "en": "Rigzone (Bloomberg)"
+     },
+     "url": "https://www.rigzone.com/news/wire/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普抵馬尼拉　週四深圳晤習近平普丁",
+    "en": "Trump lands in Manila ahead of Thursday's Xi-Putin talks"
+   },
+   "body": {
+    "zh": "美國總統川普 17 日抵達菲律賓馬尼拉出席東協相關峰會，先與日本、印度、澳洲領袖舉行四方會談，並預定簽署美泰貿易協議；18 日將對菲律賓進行國是訪問，隨後轉往中國深圳出席亞太經合會（APEC）。白宮表示，19 日的美中俄三方會談將聚焦減少核武擴散，一名資深官員說川普有意談伊朗；川普 16 日稱也會談烏克蘭，但另有官員先前表示烏克蘭不在議程內。中國外交部發言人毛寧形容三方會談具「開創性意義」，川普則說北韓領導人金正恩「想要」與會，但「再看看」。美國前助理國防部長薛瑞福受訪表示，不預期川習會產生結論。",
+    "en": "US President Donald Trump arrived in Manila on the 17th for ASEAN-related summits, meeting leaders of Japan, India and Australia in a Quad session and planning to sign a trade deal with Thailand; on the 18th he makes a state visit to the Philippines before flying to Shenzhen, China, for APEC. The White House said the US-China-Russia meeting on the 19th will focus on curbing nuclear proliferation, and a senior official said Trump intends to raise Iran; Trump said on the 16th that Ukraine would also be discussed, though an official had earlier said it was not on the agenda. Chinese foreign ministry spokeswoman Mao Ning called the three-way talks groundbreaking, while Trump said North Korean leader Kim Jong Un would like to attend but that he would see what happens. Former US assistant defence secretary Randall Schriver told reporters he does not expect the Trump-Xi talks to produce conclusions."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CBS 新聞",
+      "en": "CBS News"
+     },
+     "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+    },
+    {
+     "name": {
+      "zh": "PBS（美聯社）",
+      "en": "PBS NewsHour (AP)"
+     },
+     "url": "https://www.pbs.org/newshour/politics/trumps-asia-reset-deals-in-manila-and-shenzhen-then-a-rare-nuclear-summit-with-xi-and-putin"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611180014.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美國安局機密內網停擺　消息稱無網攻跡象",
+    "en": "NSA's classified internal network goes down"
+   },
+   "body": {
+    "zh": "美國有線電視新聞網（CNN）17 日引述 6 名知情人士報導，美國國家安全局（NSA）員工用來在內部傳遞機密資訊的高度機密網路「NSA Net」發生停擺。消息人士說，目前沒有證據顯示遭到網路攻擊，該局正在釐清問題範圍，並讓人員錯開時段到班。報導未說明停擺從何時開始、持續多久，NSA 也未在報導中回應置評請求。",
+    "en": "CNN reported on the 17th, citing six people familiar with the matter, that NSA Net, the highly classified network National Security Agency staff use to share classified information internally, had gone down. The sources said there was no evidence of a cyberattack so far, and that the agency was working to understand the scope of the problem and had staggered staff arrivals. The report did not say when the outage began or how long it lasted, and no NSA response was included."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CP24（CNN）",
+      "en": "CP24 (CNN)"
+     },
+     "url": "https://www.cp24.com/news/world/2026/11/17/highly-classified-us-national-security-communications-network-goes-down-cnn-sources-say/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "日中關係降溫後　高市與中國閣員握手",
+    "en": "Takaichi shakes hands with Chinese minister in Manila"
+   },
+   "body": {
+    "zh": "日本首相高市早苗 17 日在馬尼拉出席東協加三領袖會議，大合照時與代替國務院總理李強出席的中國農業農村部長之間隔著菲律賓總統小馬可仕，會後高市主動上前搭話，對方起身與她握手。朝日新聞指出，這可能是 2025 年 11 月日中關係惡化以來，高市首度與中國閣員接觸；日本電視台則認為握手看似外交禮節。據報李強已於前一天返國，一名日本政府消息人士推測可能是為避免與高市碰面，兩國政府均未就此發表說明。",
+    "en": "Japanese Prime Minister Sanae Takaichi attended the ASEAN Plus Three leaders' meeting in Manila on the 17th, standing in the group photo with Philippine President Ferdinand Marcos Jr. between her and China's agriculture minister, who attended in place of Premier Li Qiang; afterwards Takaichi spoke to him first and he stood to shake her hand. The Asahi Shimbun said it may be Takaichi's first contact with a Chinese cabinet member since relations soured in November 2025, while Nippon TV said the handshake appeared to be diplomatic courtesy. Li reportedly returned to China the previous day, and a Japanese government source speculated he may have left to avoid meeting Takaichi; neither government commented."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611170247.aspx"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "輝達營收年增103%　董事會不讓黃仁勳回任",
+    "en": "Nvidia revenue doubles; board won't reinstate Huang"
+   },
+   "body": {
+    "zh": "輝達 17 日美股盤後公布 2027 會計年度第三季財報，營收 1,158.4 億美元、年增 103%，調整後每股盈餘 2.68 美元，均高於市場預估的約 1,090 億美元與 2.48 美元；本季營收財測為 1,300 億美元（上下 3%）、毛利率約 71% 至 72%，亦優於分析師預期的約 1,250 億美元。代理執行長克瑞斯首度主持法說會，形容 Vera Rubin 平台是公司史上量產最快的產品。董事長瓊斯表示董事會無意讓黃仁勳回任執行長，並拒絕評論其辭職原因與調查進度；輝達常規交易收跌 0.44%，盤後一度上漲約 4%。",
+    "en": "Nvidia reported fiscal 2027 third-quarter results after the US close on the 17th: revenue of US$115.84 billion, up 103% year on year, and adjusted EPS of US$2.68, both above expectations of about US$109 billion and US$2.48; it guided current-quarter revenue to US$130 billion plus or minus 3% with gross margin of about 71% to 72%, also above the roughly US$125 billion analysts expected. Interim CEO Colette Kress hosted her first earnings call and described the Vera Rubin ramp as the fastest in the company's history. Chairman Harvey Jones said the board does not intend to reinstate Jensen Huang as CEO and declined to discuss his resignation or the ongoing investigation; the stock closed down 0.44% in regular trading and rose as much as about 4% after hours."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "TheStreet",
+      "en": "TheStreet"
+     },
+     "url": "https://www.thestreet.com/latest-news/nvda-nvidia-corporation-q3-2027-earnings-stock-updates"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/6811/9885461"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Anthropic週三訂價　估值上看1.4兆",
+    "en": "Anthropic to price IPO Wednesday at up to $1.4tn"
+   },
+   "body": {
+    "zh": "人工智慧公司 Anthropic 預定 18 日（美東時間）為首次公開發行（IPO）訂價，19 日在那斯達克以代號 ANT 掛牌，承銷價區間維持每股 70 至 78 美元，發行 8.25 億股 A 類股。以區間上限計算，公開發行可募資約 644 億美元，另有 7 家晶片與雲端供應商將以 IPO 價格認購共 260 億美元的無表決權股，完全稀釋後估值約 1.4 兆美元。今年 6 月 SpaceX 募資 857 億美元，創下 IPO 紀錄；路透指出，掛牌前的觀望情緒也加重了 17 日美股賣壓。",
+    "en": "AI company Anthropic is due to price its initial public offering on the 18th, US time, and list on Nasdaq under the ticker ANT on the 19th, with the range unchanged at US$70 to US$78 a share for 825 million Class A shares. At the top of the range the public offering would raise about US$64.4 billion, and seven chip and cloud suppliers have agreed to buy a combined US$26 billion of non-voting shares at the IPO price, for a fully diluted valuation of about US$1.4 trillion. SpaceX raised a record US$85.7 billion in its June IPO; Reuters said jitters ahead of the listing added to Tuesday's selling on Wall Street."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 財經（Decrypt）",
+      "en": "Yahoo Finance (Decrypt)"
+     },
+     "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+    },
+    {
+     "name": {
+      "zh": "TradingKey",
+      "en": "TradingKey"
+     },
+     "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308817-anthropic-ipo-spacex-record-85-7-billion-pricing-wednesday-november-17-2026-tradingkey"
+    },
+    {
+     "name": {
+      "zh": "MarketScreener（路透）",
+      "en": "MarketScreener (Reuters)"
+     },
+     "url": "https://www.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美10月零售增0.2%　市場押注12月升息",
+    "en": "US retail sales up 0.2%; markets bet on December hike"
+   },
+   "body": {
+    "zh": "美國 10 月零售銷售月增 0.2%，略高於預期的 0.1%，排除汽車與汽油後增 0.5%，9 月數據上修至 0.8%；同日公布的工業生產走弱，進口物價則因油價走高而上升。全美住宅建築商協會（NAHB）房市指數降至 2012 年 4 月以來最低。聖路易聯準銀行一名官員主張宜早不宜晚升息，芝商所 FedWatch 顯示，市場估計 12 月升息 1 碼的機率達 95.4%。",
+    "en": "US retail sales rose 0.2% in October, slightly above the 0.1% expected, and 0.5% excluding autos and gasoline, with September revised to 0.8%; industrial output released the same day weakened, while import prices rose on higher petroleum costs. The National Association of Home Builders' sentiment index fell to its lowest since April 2012. A St. Louis Fed official called for rate hikes sooner rather than later, and CME FedWatch showed markets pricing a 95.4% chance of a quarter-point hike in December."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 財經",
+      "en": "Yahoo Finance"
+     },
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    },
+    {
+     "name": {
+      "zh": "Lufkin Daily News（路透）",
+      "en": "Lufkin Daily News (Reuters)"
+     },
+     "url": "https://lufkindailynews.com/news_reuters/business/wall-street-ends-lower-ahead-of-nvidia-results-focus-turns-to-anthropic-debut/article_5fec077b-4cb8-5b5b-8f29-e086f656a871.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "歐盟課冷軋鋼反傾銷稅　台廠稅率逾兩成",
+    "en": "EU slaps anti-dumping duties on cold-rolled steel"
+   },
+   "body": {
+    "zh": "歐盟 17 日起對來自台灣、印度、日本、土耳其與越南的冷軋扁鋼產品課徵反傾銷稅，中鋼等配合調查的台灣業者稅率約 20.7%，未配合調查者為 27%。其他國家方面，日本製鐵與 JFE 鋼鐵為 27.9%，印度 JSW 與塔塔鋼鐵為 9.5%，越南浦項為 16%，土耳其業者介於 3% 至 7.8%。歐盟執委會認定台灣與印度存在「特殊市場情況」，指台灣大量進口低價中國鋼材壓低價格，因此在計算傾銷差額時調整了兩國的國內價格。",
+    "en": "The EU began imposing anti-dumping duties on cold-rolled flat steel from Taiwan, India, Japan, Turkey and Vietnam on the 17th, with China Steel and other cooperating Taiwanese producers facing about 20.7% and non-cooperating ones 27%. Elsewhere, Nippon Steel and JFE Steel face 27.9%, India's JSW and Tata Steel 9.5%, POSCO Vietnam 16%, and Turkish producers 3% to 7.8%. The European Commission found particular market situations in Taiwan and India, citing large imports of cheap Chinese steel that depressed prices in Taiwan, and adjusted both countries' domestic prices when calculating dumping margins."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611170090.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "新台幣盤中破33元　終場反升收32.85元",
+    "en": "NT dollar breaks 33 intraday, closes firmer at 32.85"
+   },
+   "body": {
+    "zh": "新台幣 17 日以 32.89 元開出後一度貶破 33 元、最弱來到 33.015 元，隨後出口商逢高拋匯，終場兌美元反升 3.6 分、收 32.85 元，台北與元大外匯經紀公司合計成交約 38 億美元。中央社引述匯銀人士指出，央行在新台幣貶過約 32.9 元後開始進場調節，但 33 元未必是央行防線。外資當日賣超台股 380.94 億元，匯銀人士觀察匯出力道已趨緩，但是否轉為買超仍待觀察。",
+    "en": "The NT dollar opened at 32.89 on the 17th and briefly weakened past 33 to as low as 33.015 before exporters sold dollars, closing 3.6 NT cents firmer at 32.85 per US dollar on combined Taipei and Yuanta turnover of about US$3.8 billion. CNA quoted dealers as saying the central bank began smoothing the market once the currency weakened past about 32.9, though 33 is not necessarily its line of defence. Foreign investors sold a net NT$38.094 billion of Taiwan shares that day, and dealers said outflows had slowed but it was unclear whether foreigners would turn to buying."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611170264.aspx"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-17",
+   "close": 40092.11,
+   "change": -947.97,
+   "pct": -2.31,
+   "open": 40546.64,
+   "high": 41533.84,
+   "low": 39786.45,
+   "prev": 41040.08,
+   "turnover": {
+    "zh": "9,617.95 億元",
+    "en": "NT$961.80 billion"
+   },
+   "breadth": {
+    "up": 238,
+    "down": 799,
+    "flat": 74
+   },
+   "otc": {
+    "close": 306.61,
+    "change": -12.51,
+    "pct": -3.92
+   },
+   "headline": {
+    "zh": "台股跌947點守4萬　盤中震盪逾1,700點",
+    "en": "TAIEX falls 947 but holds 40,000 after 1,747-point swing"
+   },
+   "body": {
+    "zh": "加權指數 17 日以 40,546.64 點開低，早盤一度下跌逾 1,250 點、跌破 4 萬點至 39,786.45 點，隨後反彈至 41,533.84 點翻紅，但賣壓再現，終場下跌 947.97 點、收 40,092.11 點，跌幅 2.31%，成交值 9,617.95 億元；上市 238 家上漲、799 家下跌、74 家持平，櫃買指數跌 12.51 點（3.92%）收 306.61 點。權值股中，台積電跌 45 元收 2,170 元（2.03%），聯發科逆勢漲 45 元至 3,840 元，鴻海小漲 0.5 元至 219 元；輝達供應鏈賣壓沉重，ABF 載板欣興、南電、景碩與散熱股雙鴻、奇鋐、健策均跌停。媒體歸納賣壓來自前一交易日費半重挫 5.28%、美國收緊中國取得先進 AI 晶片的新規，以及輝達財報前的避險操作；三大法人合計賣超 547.25 億元，其中外資賣超 380.94 億元。",
+    "en": "The TAIEX opened lower at 40,546.64 on the 17th, fell more than 1,250 points early to 39,786.45 below the 40,000 mark, then rebounded to 41,533.84 in positive territory before selling resumed, closing down 947.97 points or 2.31% at 40,092.11 on turnover of NT$961.80 billion; 238 listed stocks rose, 799 fell and 74 were unchanged, while the TPEx index lost 12.51 points (3.92%) to 306.61. Among heavyweights, TSMC fell NT$45 to NT$2,170 (2.03%), MediaTek bucked the trend with a NT$45 gain to NT$3,840 and Hon Hai edged up NT$0.5 to NT$219; Nvidia suppliers were hit hard, with ABF substrate makers Unimicron, Nan Ya PCB and Kinsus and thermal names Auras, AVC and Jentech all closing limit-down. Media cited the SOX's 5.28% slide in the previous US session, new US curbs on China's access to advanced AI chips and hedging ahead of Nvidia's results; the three major institutional groups sold a net NT$54.725 billion, including NT$38.094 billion by foreign investors."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -380.94
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": -9.35
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -156.96
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -547.25,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "三大法人連續第二個交易日同步賣超，外資賣超金額較前一日的 701.89 億元縮減。",
+    "en": "All three groups were net sellers for a second straight session, though foreign selling shrank from NT$70.189 billion the day before."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611170159.aspx"
+    },
+    {
+     "name": {
+      "zh": "口袋證券",
+      "en": "Pocket Securities"
+     },
+     "url": "https://www.pocket.tw/school/articles/article-mwkcrh9n/"
+    },
+    {
+     "name": {
+      "zh": "NOWnews",
+      "en": "NOWnews"
+     },
+     "url": "https://www.nownews.com/news/6893055"
+    },
+    {
+     "name": {
+      "zh": "三立新聞網",
+      "en": "SETN"
+     },
+     "url": "https://inews.setn.com/news/1940365"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-17",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 50759.42,
+     "change": -848.75,
+     "pct": -1.64
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7340.53,
+     "change": -76.06,
+     "pct": -1.03
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 24328.38,
+     "change": -181.38,
+     "pct": -0.74
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 9642.88,
+     "change": 32.23,
+     "pct": 0.34
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 359.69,
+     "change": -13.76,
+     "pct": -3.68
+    }
+   ],
+   "headline": {
+    "zh": "美股：道瓊跌848點　費半逆勢收紅",
+    "en": "US close, Nov 17: Dow drops 848 as SOX edges up"
+   },
+   "body": {
+    "zh": "週二（17 日）美股主要指數收低，道瓊盤中一度重挫逾千點，終場跌 848.75 點（1.64%）收 50,759.42 點，標普 500 跌 1.03% 收 7,340.53 點，那指跌 0.74% 收 24,328.38 點；費城半導體指數則逆勢小漲 0.34% 收 9,642.88 點，台積電 ADR 跌 3.68% 收 359.69 美元。標普 500 各類股全數下跌，軟體股賣壓最重，Salesforce、Workday、Intuit 與 Adobe 跌 4.3% 至 9.5%，微軟跌 2.3%、摩根大通跌 2.4%；英特爾在輝達減持其持股 25% 後走低，輝達收跌 0.44%。市場同時消化聯準會 12 月升息預期升溫、房市信心探 2012 年以來低點，以及 Anthropic 掛牌前的觀望氣氛；輝達盤後公布財報與財測優於預期，股價盤後一度上漲約 4%。",
+    "en": "US stocks closed lower on Tuesday, November 17: the Dow, down more than 1,000 points at one stage, ended 848.75 points (1.64%) lower at 50,759.42, the S&P 500 fell 1.03% to 7,340.53 and the Nasdaq slipped 0.74% to 24,328.38, while the SOX edged up 0.34% to 9,642.88 and the TSMC ADR fell 3.68% to US$359.69. Every S&P 500 sector declined, led by software, with Salesforce, Workday, Intuit and Adobe down 4.3% to 9.5%, Microsoft off 2.3% and JPMorgan 2.4%; Intel fell after Nvidia cut its stake in the chipmaker by 25%, and Nvidia closed down 0.44%. Investors also weighed rising bets on a December Fed hike, homebuilder sentiment at its lowest since 2012 and caution ahead of Anthropic's listing; after the bell Nvidia's results and guidance beat expectations, sending the stock up as much as about 4% in extended trading."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/6811/9885461"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261118000938-260410"
+    },
+    {
+     "name": {
+      "zh": "MarketScreener（路透）",
+      "en": "MarketScreener (Reuters)"
+     },
+     "url": "https://www.marketscreener.com/news/wall-street-ends-lower-ahead-of-nvidia-earnings-anthropic-debut-ce785edcdc8df226"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週三 11/18 15:00",
+     "en": "Wed, Nov 18, 15:00"
+    },
+    "text": {
+     "zh": "英國公布 10 月消費者物價指數（CPI）",
+     "en": "UK releases October CPI"
+    }
+   },
+   {
+    "time": {
+     "zh": "週三 11/18（美東時間）",
+     "en": "Wed, Nov 18 (US Eastern)"
+    },
+    "text": {
+     "zh": "Anthropic 首次公開發行訂價，19 日那斯達克掛牌",
+     "en": "Anthropic prices its IPO ahead of Nasdaq debut on Nov 19"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/19 03:00",
+     "en": "Thu, Nov 19, 03:00"
+    },
+    "text": {
+     "zh": "美國聯準會公布 10 月 FOMC 會議紀要",
+     "en": "Fed releases minutes of October FOMC meeting"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/19",
+     "en": "Thu, Nov 19"
+    },
+    "text": {
+     "zh": "美中俄領袖於深圳 APEC 場邊舉行三方會談",
+     "en": "US, Chinese and Russian leaders meet on APEC sidelines in Shenzhen"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "LiteFinance",
+     "en": "LiteFinance"
+    },
+    "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-16112026-22112026/"
+   },
+   {
+    "name": {
+     "zh": "Newsquawk",
+     "en": "Newsquawk"
+    },
+    "url": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs"
+   },
+   {
+    "name": {
+     "zh": "TradingKey",
+     "en": "TradingKey"
+    },
+    "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308817-anthropic-ipo-spacex-record-85-7-billion-pricing-wednesday-november-17-2026-tradingkey"
+   },
+   {
+    "name": {
+     "zh": "CBS 新聞",
+     "en": "CBS News"
+    },
+    "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-11",
+     44257.15
+    ],
+    [
+     "2026-11-12",
+     43091.87
+    ],
+    [
+     "2026-11-13",
+     43675.12
+    ],
+    [
+     "2026-11-16",
+     41040.08
+    ],
+    [
+     "2026-11-17",
+     40092.11
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-11",
+     25466.19
+    ],
+    [
+     "2026-11-12",
+     25366.09
+    ],
+    [
+     "2026-11-13",
+     25136.27
+    ],
+    [
+     "2026-11-16",
+     24509.76
+    ],
+    [
+     "2026-11-17",
+     24328.38
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-11",
+     10564.11
+    ],
+    [
+     "2026-11-12",
+     10506.67
+    ],
+    [
+     "2026-11-13",
+     10146.32
+    ],
+    [
+     "2026-11-16",
+     9610.65
+    ],
+    [
+     "2026-11-17",
+     9642.88
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6646350"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5629867"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%B7%8C1374-19%E9%BB%9E-054556939.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5631141"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E8%B3%A3%E8%B6%85%E5%8F%B0%E8%82%A11140-06%E5%84%84%E5%85%83-071730955.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5632327"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611090096.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1936251"
+   },
+   {
+    "name": {
+     "zh": "經濟日報（中央社）",
+     "en": "Economic Daily News (CNA)"
+    },
+    "url": "https://money.udn.com/money/story/5607/9869139"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261111700401-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611110130.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5637726"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市",
+     "en": "Yahoo Finance TW"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E9%9C%87%E7%9B%AA955%E9%BB%9E-%E6%94%B643675-12%E9%BB%9E%E4%B8%8A%E6%BC%B2583-25%E9%BB%9E-054304975.html"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611160118.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   }
+  ]
+ }
+}
