@@ -5,7 +5,7 @@ var UI = {
       sections:"國際要聞 · 國際財經 · 股市摘要",taiex:"台股加權指數",txf:"台指期（近月）",daySess:"日盤",nightSess:"夜盤",noQuote:"暫無報價，等待下一次更新",ixic:"那斯達克綜合指數",sox:"費城半導體指數",
       loading:"載入今日版面…",sources:"本期資料來源",visits:"瀏覽統計",pv:"瀏覽人次",uv:"訪客人數",
       legalTitle:"免責聲明與隱私",legal:["本站內容由 AI 自動彙整公開新聞報導，每則均附原始出處。摘要為本站改寫，原文著作權屬各媒體所有。AI 整理可能有錯誤或遺漏，請以原始報導及主管機關公告為準。","本站並非證券投資顧問事業，所有內容僅供資訊參考，不構成任何投資建議，亦非買賣任何有價證券之推介。投資前請自行判斷並承擔風險。","指數報價取自公開資料（台股與美股指數來自 Yahoo Finance，台指期來自臺灣期貨交易所行情網站），延遲至少 20 分鐘，可能因來源異常而暫停更新或出現誤差；收盤與結算數字以臺灣證券交易所、臺灣期貨交易所及各交易所公告為準。一週走勢圖中的推算值已於圖下註明。","本站與所引用之媒體、交易所及資料提供者均無合作或隸屬關係；外部連結內容由各網站自行負責。","對於使用或無法使用本站資訊所生之任何直接或間接損失，本站不負賠償責任。",
- "贊助為自願性質，不提供任何對價、投資資訊或特別服務，亦非公益捐款，無法開立捐款收據。款項由第三方支付平台處理，本站不經手也不保存任何付款資料。","隱私：本站不設會員、不蒐集個人資料。瀏覽人次由第三方服務「不蒜子」統計，字型由 Google Fonts 提供，這些服務可能記錄您的 IP 位址等連線資訊。語言與指數選擇只存在您的瀏覽器中。"],
+ "贊助為自願性質，不提供任何對價、投資資訊或特別服務，亦非公益捐款，無法開立捐款收據。款項由第三方支付平台處理，本站不經手也不保存任何付款資料。","隱私：本站不設會員、不蒐集個人資料。瀏覽人次由第三方服務 Vercount（備援：不蒜子）統計，字型由 Google Fonts 提供，這些服務可能記錄您的 IP 位址等連線資訊。語言與指數選擇只存在您的瀏覽器中。"],
       world:"國際要聞",finance:"國際財經",markets:"股市摘要",items:"則",lead:"頭條",
       st:{live:"交易中",pre:"盤前",post:"盤後",closed:"已收盤",off:"休市"},
       cd:function(h,m){return "美股開盤倒數 "+h+" 小時 "+m+" 分";},cdLive:"美股交易中",cdDone:"美股今日已收盤",
@@ -15,14 +15,14 @@ var UI = {
       range:"框線為盤中高低，實體為開盤至收盤，虛線為前一日收盤。",open:"開",high:"高",low:"低",close:"收",prev:"前收",
       turnover:"成交",breadth:"漲跌家數",up:"漲",down:"跌",flat:"平",otc:"櫃買指數",flows:"三大法人買賣超",
       investor:"法人",index:"指數",closeH:"收盤",chgH:"漲跌",pctH:"幅度",calendar:"市場行事曆",
-      counterOff:"統計會在 GitHub Pages 正式網址上啟用。",counterOn:"由不蒜子統計，每次開啟頁面計一次。",
+      counterOff:"統計會在 GitHub Pages 正式網址上啟用。",counterOn:"由 Vercount 統計，每次開啟頁面計一次。",counterBsz:"由不蒜子統計，每次開啟頁面計一次。",counterWait:"統計載入中…",counterFail:"統計服務暫時無法連線，數字稍後會恢復顯示。",
       viewing:"正在瀏覽 ",past:"（往期）",latest:"最新",
       trend:"一週走勢",segTAIEX:"台股加權",segIXIC:"那斯達克",segSOX:"費城半導體",weekChg:"一週漲跌",last:"最新",dayChg:"單日",liveTag:"盤中",table:"查看數據表",dateH:"日期",chooser:"選擇指數",noTrend:"這一期沒有走勢資料。"},
   en:{title:"HaoNicePaper",sponsor:"Support us",sponsorTitle:"Support HaoNicePaper",sponsorText:"This paper is free to read and carries no ads. If it helps you, a small contribution keeps the daily editions coming.",sponsorTw:"Support from Taiwan",sponsorTwSub:"Taiwan payment methods",sponsorIntl:"Support from abroad",sponsorIntlSub:"PayPal / international cards",sponsorPending:"Sponsor links not set yet (shown in preview only)",subname:"每日Hao報 · TAIPEI",archive:"Past editions",archiveTitle:"Last 7 days",taipei:"Taipei",newyork:"New York",
       sections:"World · Business & Finance · Markets",taiex:"TAIEX",txf:"TAIEX futures (near month)",daySess:"Day session",nightSess:"Night session",noQuote:"No quote yet; waiting for the next update",ixic:"Nasdaq Composite",sox:"PHLX Semiconductor",
       loading:"Loading today's edition…",sources:"Sources in this edition",visits:"Readership",pv:"Page views",uv:"Visitors",
       legalTitle:"Disclaimer & privacy",legal:["Content is compiled automatically by AI from published news reports, and every item links to its original source. Summaries are written by this site; copyright in the original articles belongs to their publishers. AI compilation may contain errors or omissions, so rely on the original reports and official announcements.","This site is not a licensed investment adviser. Everything here is for information only and is not investment advice or a recommendation to buy or sell any security. Make your own decisions and bear your own risk.","Index quotes come from public data (stock indices from Yahoo Finance, TAIEX futures from the Taiwan Futures Exchange quote site), are delayed by at least 20 minutes, and may pause or contain errors if the source fails. Official closing and settlement values are those published by the Taiwan Stock Exchange, the Taiwan Futures Exchange and other exchanges. Derived values in the one-week chart are noted below it.","This site is not affiliated with any of the news outlets, exchanges or data providers it cites. Linked sites are responsible for their own content.","This site accepts no liability for any direct or indirect loss arising from use of, or inability to use, its information.",
- "Contributions are voluntary and buy no goods, investment information or special service. They are not charitable donations and no donation receipt can be issued. Payments are handled by third-party payment platforms; this site never handles or stores payment details.","Privacy: there are no accounts and no personal data is collected. Page views are counted by the third-party service Busuanzi and fonts are served by Google Fonts; these services may log connection details such as your IP address. Your language and index choices are stored only in your browser."],
+ "Contributions are voluntary and buy no goods, investment information or special service. They are not charitable donations and no donation receipt can be issued. Payments are handled by third-party payment platforms; this site never handles or stores payment details.","Privacy: there are no accounts and no personal data is collected. Page views are counted by the third-party service Vercount (fallback: Busuanzi) and fonts are served by Google Fonts; these services may log connection details such as your IP address. Your language and index choices are stored only in your browser."],
       world:"World",finance:"Business & Finance",markets:"Markets",items:"stories",lead:"Top story",
       st:{live:"Open",pre:"Pre-market",post:"After hours",closed:"Closed",off:"Closed"},
       cd:function(h,m){return "US open in "+h+"h "+m+"m";},cdLive:"US market open",cdDone:"US session over",
@@ -32,7 +32,7 @@ var UI = {
       range:"Box: intraday high–low. Bar: open to close. Dashed line: previous close.",open:"O",high:"H",low:"L",close:"C",prev:"Prev",
       turnover:"Turnover",breadth:"Advancers / decliners",up:"up",down:"down",flat:"flat",otc:"TPEx (OTC) index",flows:"Institutional net buying",
       investor:"Investor",index:"Index",closeH:"Close",chgH:"Change",pctH:"%",calendar:"Market calendar",
-      counterOff:"Counts go live on the GitHub Pages address.",counterOn:"Counted by Busuanzi, once per page load.",
+      counterOff:"Counts go live on the GitHub Pages address.",counterOn:"Counted by Vercount, once per page load.",counterBsz:"Counted by Busuanzi, once per page load.",counterWait:"Loading counts…",counterFail:"The counter service is unreachable right now; numbers will return once it recovers.",
       viewing:"Viewing ",past:" (archive)",latest:"latest",
       trend:"One-week trend",segTAIEX:"TAIEX",segIXIC:"Nasdaq",segSOX:"SOX",weekChg:"Week change",last:"Latest",dayChg:"Day",liveTag:"intraday",table:"Show data table",dateH:"Date",chooser:"Choose index",noTrend:"No trend data in this edition."}
 };
@@ -81,7 +81,7 @@ function renderStatic(){
   document.getElementById("lang-zh").setAttribute("aria-pressed", lang === "zh");
   document.getElementById("lang-en").setAttribute("aria-pressed", lang === "en");
   document.getElementById("ticker-note").textContent = (quotes && quotes.source === "live") ? t("noteLive") : t("noteSnap");
-  document.getElementById("counter-note").textContent = COUNTER_ON ? t("counterOn") : t("counterOff");
+  document.getElementById("counter-note").textContent = t(COUNTER_NOTE[COUNTER_STATE]);
   document.getElementById("legal").innerHTML = t("legal").map(function(x){ return "<li>" + esc(x) + "</li>"; }).join("");
 }
 
@@ -199,7 +199,7 @@ function loadDay(date){
 function dateFromHash(){ var m = /^#d-(\d{4}-\d{2}-\d{2})$/.exec(location.hash || ""); return m ? m[1] : null; }
 
 /* ---------- 跳動報價 ---------- */
-var COUNTER_ON = false;
+var COUNTER_STATE = "off", COUNTER_NOTE = {off:"counterOff", wait:"counterWait", vercount:"counterOn", busuanzi:"counterBsz", fail:"counterFail"};
 function meta(n){ var m = document.querySelector('meta[name="'+n+'"]'); return m ? (m.content || "").trim() : ""; }
 var SITE_REPO = meta("site-repo"), SITE_DOMAIN = meta("site-domain").toLowerCase();
 function onProdHost(){ var h = location.hostname.toLowerCase(); return /\.github\.io$/.test(h) || (SITE_DOMAIN && (h === SITE_DOMAIN || h === "www." + SITE_DOMAIN)); }
@@ -388,10 +388,41 @@ document.getElementById("lang-zh").addEventListener("click", function(){ setLang
 document.getElementById("lang-en").addEventListener("click", function(){ setLang("en"); });
 window.addEventListener("hashchange", function(){ var d = dateFromHash() || (index && index.latest); if (d && d !== currentDate) loadDay(d); });
 
-/* ---------- 瀏覽人次（只在 GitHub Pages 正式網址載入） ---------- */
+/* ---------- 瀏覽人次（只在 GitHub Pages 正式網址載入） ----------
+   先用 Vercount（與不蒜子相容的元素 ID，首次會同步不蒜子既有數字）；
+   若數秒內沒有數字，改載不蒜子；兩者都失敗時顯示說明，不留空白的「—」。 */
+var COUNTER_IDS = ["busuanzi_value_site_pv", "busuanzi_value_site_uv"];
+function counterFilled(){
+  return COUNTER_IDS.every(function(id){ var el = document.getElementById(id); return el && /\d/.test(el.textContent || ""); });
+}
+function setCounterState(st){ COUNTER_STATE = st; document.getElementById("counter-note").textContent = t(COUNTER_NOTE[st]); }
+function loadCounter(list){
+  if (!list.length) { setCounterState("fail"); return; }
+  var c = list[0], done = false, timer;
+  function check(){ if (done) return; if (counterFilled()) { done = true; clearTimeout(timer); setCounterState(c.name); } }
+  function next(){ if (done) return; done = true; clearTimeout(timer); loadCounter(list.slice(1)); }
+  var s = document.createElement("script"); s.async = true; s.src = c.src;
+  s.onerror = next;
+  s.onload = function(){
+    /* 動態載入時 DOMContentLoaded 早已觸發；若腳本只監聽該事件而沒有送出統計請求，補送一次事件 */
+    if (!c.kick) return;
+    setTimeout(function(){
+      if (done || counterFilled()) return;
+      var sent = false;
+      try { sent = performance.getEntriesByType("resource").some(function(e){ return c.kick.test(e.name); }); } catch(e) {}
+      if (!sent) { try { document.dispatchEvent(new Event("DOMContentLoaded")); } catch(e) {} }
+    }, 2500);
+  };
+  COUNTER_IDS.forEach(function(id){ var el = document.getElementById(id); if (el && window.MutationObserver) new MutationObserver(check).observe(el, {childList:true, characterData:true, subtree:true}); });
+  timer = setTimeout(function(){ if (counterFilled()) check(); else next(); }, c.wait);
+  document.body.appendChild(s);
+}
 if (onProdHost()) {
-  COUNTER_ON = true;
-  var s = document.createElement("script"); s.async = true; s.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"; document.body.appendChild(s);
+  COUNTER_STATE = "wait";
+  loadCounter([
+    {name:"vercount", src:"https://vercount.one/js", wait:8000, kick:/vercount\.one\/(?!js(\?|$))/},
+    {name:"busuanzi", src:"https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js", wait:10000}
+  ]);
 }
 
 /* ---------- 贊助按鈕 ---------- */

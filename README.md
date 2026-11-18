@@ -28,7 +28,7 @@ scripts/validate_edition.py   檢查每日內容格式與安全（推送前必�
 
 - **盤中報價**：GitHub Actions 在平日 UTC 01–21（台北 09:00–隔日 05:59，涵蓋台股、台指期日盤與夜盤、美股）每 10 分鐘抓一次報價，台指期取自臺灣期貨交易所行情網站（近月合約，日盤與夜盤取較新的一筆），以單一 commit 強制推到 `quotes` 分支（不會觸發 Pages 重建）。網頁每分鐘從 `raw.githubusercontent.com` 讀取，數字變動時有跳動與閃色提示。GitHub 排程可能延遲數分鐘，報價本身也約有延遲。
 - **每日內容**：由 Claude 排程每天早上產生 `data/news/YYYY-MM-DD.json`、更新 `index.json` 並刪除 7 天前的檔案。
-- **瀏覽人次**：使用不蒜子（busuanzi）計數，只在 `*.github.io` 或 `site-domain` 設定的網域上載入。
+- **瀏覽人次**：使用 Vercount 計數（與不蒜子相容，首次會同步不蒜子既有數字），若 8 秒內沒有數字則改用不蒜子（busuanzi），兩者都無法連線時顯示說明文字；只在 `*.github.io` 或 `site-domain` 設定的網域上載入。
 - **語言**：預設中文，右上角 EN 切換，選擇會記在瀏覽器。
 - **往期回顧**：右上角按鈕，向下捲動自動隱藏、往上捲動出現；點選後網址帶 `#d-YYYY-MM-DD` 可直接分享。
 
@@ -50,7 +50,7 @@ scripts/validate_edition.py   檢查每日內容格式與安全（推送前必�
 5. DNS 生效（最長約 24 小時）後，在 Pages 設定勾選 **Enforce HTTPS**。
 6. 修改 `index.html` 開頭兩個設定：`site-repo` 填 `帳號/repo名稱`，`site-domain` 填你的網域（不含 www）。否則自訂網域上的盤中報價會停在快照、瀏覽人次也不會計數。
 
-注意：不蒜子依網域計數，換網域後瀏覽人次會從 0 重新開始。
+注意：Vercount／不蒜子依網域計數，換網域後瀏覽人次會從 0 重新開始。
 
 ## 費用
 
@@ -62,11 +62,11 @@ scripts/validate_edition.py   檢查每日內容格式與安全（推送前必�
 
 ## 安全設計
 
-- 頁面以 Content-Security-Policy 限制只能載入本站、Google Fonts、不蒜子與 raw.githubusercontent.com 的資源。
+- 頁面以 Content-Security-Policy 限制只能載入本站、Google Fonts、Vercount、不蒜子與 raw.githubusercontent.com 的資源。
 - 所有內容以純文字插入，外部連結只允許 http/https，並加上 `noopener noreferrer`。
 - `validate_edition.py` 拒絕含 HTML 標籤、`javascript:` 或非 https 出處的內容。
 - 報價只採用延遲 20 分鐘以上的公開資料，單日漲跌超過 15% 視為異常不採用。
-- 不蒜子為第三方腳本，若該服務遭入侵可能影響頁面；如需更高安全性可改用 GoatCounter。
+- Vercount 與不蒜子為第三方腳本，若該服務遭入侵可能影響頁面；如需更高安全性可改用 GoatCounter。
 
 ## 贊助按鈕設定
 
