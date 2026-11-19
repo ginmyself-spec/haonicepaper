@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-19",
+ "latest": "2026-11-20",
  "days": [
+  {
+   "date": "2026-11-20",
+   "summary": {
+    "zh": "美中俄峰會發宣言；台股重挫1,768點",
+    "en": "Trump-Xi-Putin declaration; TAIEX plunges 1,768"
+   }
+  },
   {
    "date": "2026-11-19",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "烏軍千架無人機襲俄；台股反彈583點",
     "en": "Ukraine's mass drone strike; TAIEX rebounds 583"
-   }
-  },
-  {
-   "date": "2026-11-13",
-   "summary": {
-    "zh": "黃仁勳辭輝達CEO；台股跌1,165點",
-    "en": "Jensen Huang quits Nvidia; TAIEX falls 1,165"
    }
   }
  ]
