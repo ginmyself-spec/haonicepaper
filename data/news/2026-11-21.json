@@ -1,0 +1,748 @@
+{
+ "date": "2026-11-21",
+ "updated": "2026-11-21T07:51:36+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "俄襲基輔三橋；台股崩2,393點週跌17.5%",
+  "en": "Russia hits Kyiv bridges; TAIEX crashes 2,393, down 17.5% on week"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "俄軍飛彈襲基輔三座橋　波蘭稱領空遭侵犯",
+    "en": "Russian strikes hit three Kyiv bridges; Poland reports airspace breach"
+   },
+   "body": {
+    "zh": "俄羅斯 19 日深夜至 20 日對烏克蘭發動大規模空襲，澤倫斯基稱俄方動用逾 400 架無人機與 110 枚飛彈，其中 27 枚彈道飛彈全未被攔截；基輔連接聶伯河兩岸的三座橋梁受損，多區停電，全國至少 8 人死亡、逾 20 人受傷。普丁先前誓言對克里米亞大橋遇襲作出「更痛苦」的回應，俄國防部則稱攔截 310 架烏軍無人機。波蘭國防部長表示，疑似兩枚飛彈與一架無人機進入波蘭東南部領空，總理圖斯克稱這是「蓄意挑釁」，北約秘書長呂特形容情況明顯危險。",
+    "en": "Russia launched a massive air assault on Ukraine overnight into the 20th; Zelensky said it involved more than 400 drones and 110 missiles, none of the 27 ballistic missiles being intercepted. Three bridges linking the two banks of the Dnipro in Kyiv were damaged, several districts lost power, and at least 8 people were killed and more than 20 injured nationwide. Putin had vowed a \"much more painful\" response to the Crimean Bridge attacks, and Russia's Defence Ministry said it downed 310 Ukrainian drones. Poland's defence minister said what were believed to be two missiles and a drone entered southeastern Polish airspace; Prime Minister Donald Tusk called it an intentional provocation, and NATO Secretary General Mark Rutte said it was clearly dangerous."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CBS 新聞",
+      "en": "CBS News"
+     },
+     "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
+    {
+     "name": {
+      "zh": "基輔郵報",
+      "en": "Kyiv Post"
+     },
+     "url": "https://www.kyivpost.com/post/90676"
+    },
+    {
+     "name": {
+      "zh": "The National",
+      "en": "The National"
+     },
+     "url": "https://www.thenationalnews.com/news/europe/2026/11/20/russia-strikes-three-kyiv-bridges-after-putin-vows-revenge-for-crimea-attack/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美參院否決限縮伊朗戰爭權　川普：年後再決定",
+    "en": "US Senate blocks Iran war-powers curb; Trump defers next step"
+   },
+   "body": {
+    "zh": "美國參議院 19 日以 51 比 48 否決一項依《戰爭權力決議》要求川普停止對伊朗敵對行動、或取得國會授權的決議案，共和黨參議員柯林斯、莫考斯基與保羅投贊成票，民主黨費特曼投反對票；這是期中選舉後首次就此表決。民主黨參議員凱恩認為選舉結果已顯示戰爭不得人心，共和黨方面則有人認為反覆表決無助解決根本問題。川普受訪表示不急於做決定，將在新年過後再看情勢；五角大廈官員向國會表示，截至 11 月 13 日戰爭花費達 483 億美元。",
+    "en": "The US Senate voted 51-48 on the 19th to reject a War Powers Resolution measure directing President Trump to end hostilities with Iran or obtain congressional authorization; Republicans Susan Collins, Lisa Murkowski and Rand Paul voted in favor, while Democrat John Fetterman voted against, in the first such vote since the midterm elections. Democratic Senator Tim Kaine said the election results showed the war was unpopular, while some Republicans argued repeated votes did not address the underlying problem. Trump said he was not rushing into a decision and would see what happens after the new year; a Pentagon official told lawmakers the war had cost US$48.3 billion as of November 13."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/amp/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
+    },
+    {
+     "name": {
+      "zh": "中東之眼",
+      "en": "Middle East Eye"
+     },
+     "url": "https://www.middleeasteye.net/news/senate-vote-curb-trump-war-iran-fails-again"
+    },
+    {
+     "name": {
+      "zh": "Just Security",
+      "en": "Just Security"
+     },
+     "url": "https://www.justsecurity.org/165471/early-edition-november-20-2026/"
+    },
+    {
+     "name": {
+      "zh": "海灣新聞",
+      "en": "Gulf News"
+     },
+     "url": "https://gulfnews.com/world/mena/us-israel-war-on-iran-saudi-faces-houthi-missiles-trump-delays-iran-decision-1.500754425"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "荷莫茲海峽近乎停航　又一油輪遭擊起火",
+    "en": "Hormuz traffic near standstill as another tanker is hit"
+   },
+   "body": {
+    "zh": "英國海事貿易行動辦公室（UKMTO）通報，一艘駛離海峽的油輪在距荷莫茲海峽約 8 浬處遭投射物擊中起火，攻擊來源不明。國際貨幣基金組織 PortWatch 資料顯示，11 月 15 日通過海峽的船隻僅 2 艘，危機前平均每日約 85 艘。伊朗革命衛隊發言人表示，除非美方以可驗證方式滿足伊朗條件，否則不會重開海峽；卡達與阿曼持續居中傳遞美伊雙方條件，目前尚無協議。針對胡塞組織飛彈波及利雅德，沙烏地外交部則表示不會容忍針對其領土與國家資產的攻擊，並呼籲聯合國安理會常任理事國採取行動。",
+    "en": "The UK Maritime Trade Operations agency reported that an outbound tanker caught fire after being struck by a projectile about 8 nautical miles from the Strait of Hormuz; the attacker was not identified. IMF PortWatch data recorded only 2 transits through the strait on November 15, against a pre-crisis average of about 85 a day. A spokesman for Iran's Revolutionary Guards said Iran would not reopen the strait unless the US met its conditions in a verifiable way, while Qatari and Omani mediators continue to pass terms between Washington and Tehran with nothing yet agreed. Responding to Houthi missile strikes on Riyadh, Saudi Arabia's Foreign Ministry said it would not tolerate attacks on its territory and national assets and urged the permanent members of the UN Security Council to act."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Straits Daily Brief",
+      "en": "Straits Daily Brief"
+     },
+     "url": "https://straits.live/briefs/2026-11-20"
+    },
+    {
+     "name": {
+      "zh": "海灣新聞",
+      "en": "Gulf News"
+     },
+     "url": "https://gulfnews.com/world/mena/us-israel-war-on-iran-saudi-faces-houthi-missiles-trump-delays-iran-decision-1.500754425"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "愛沙尼亞關閉對俄陸路邊境　俄批新鐵幕",
+    "en": "Estonia to shut Russia road border; Moscow cites 'Iron Curtain'"
+   },
+   "body": {
+    "zh": "愛沙尼亞 20 日宣布，自 12 月 1 日起以安全理由關閉與俄羅斯之間的公路口岸，為期至少六個月，屆時再決定是否延長，鐵路貨運不受影響但仍須通關檢查。愛國內政部長塔羅指稱，俄國情治單位恐嚇並試圖吸收愛國公民，愛方先前也指控俄方企圖縱火攻擊一家無人機製造商，克里姆林宮否認。俄外交部發言人札哈羅娃批評此舉形同築起「新鐵幕」，並表示若愛方執行，俄方將採取政治與外交措施。依愛國警方資料，今年約有 76 萬人次經由該邊境往來。",
+    "en": "Estonia announced on the 20th that it will close its road border crossings with Russia on security grounds from December 1 for at least six months, after which it will decide whether to extend the measure; rail freight is unaffected but remains subject to customs checks. Interior Minister Igor Taro said Russian security services were intimidating and trying to recruit Estonian citizens, and Tallinn had earlier accused Russia of an attempted arson attack on a drone maker, which the Kremlin denied. Russian Foreign Ministry spokeswoman Maria Zakharova said the move amounted to erecting a new Iron Curtain and that Russia would take political and diplomatic measures if Estonia goes ahead. Estonian police data show about 760,000 border crossings so far this year."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "莫斯科時報（路透）",
+      "en": "The Moscow Times (Reuters)"
+     },
+     "url": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333"
+    },
+    {
+     "name": {
+      "zh": "Business Recorder（路透）",
+      "en": "Business Recorder (Reuters)"
+     },
+     "url": "https://www.brecorder.com/news/40450002/estonia-to-close-border-with-russia-moscow-decries-new-iron-curtain"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "氣旋阿克萬登陸奧里薩　強度弱於預期",
+    "en": "Cyclone Akvan makes landfall in Odisha, weaker than forecast"
+   },
+   "body": {
+    "zh": "氣旋「阿克萬」20 日上午 8 時至 11 時 20 分（當地時間）間於印度奧里薩邦戈帕爾布爾港附近登陸，早於印度氣象局預測的中午，實際持續風速每小時 70 至 80 公里、陣風約 90 公里，低於原先預報的 90 至 100 公里。這是 31 年來首度有氣旋在 11 月登陸奧里薩沿海。氣旋午後減弱為深低壓，奧里薩、西孟加拉與賈坎德邦的山洪警報持續至 21 日上午；鐵路當局先前已取消至少 28 班快車，報導未提及傷亡。",
+    "en": "Cyclone Akvan crossed the coast near Gopalpur port in India's Odisha state between 8 a.m. and 11:20 a.m. local time on the 20th, earlier than the India Meteorological Department's noon forecast, with actual sustained winds of 70-80 km/h gusting to about 90 km/h, below the forecast 90-100 km/h. It was the first November cyclone landfall on the Odisha coast in 31 years. The storm weakened to a deep depression by the afternoon, with flash-flood warnings for Odisha, West Bengal and Jharkhand in place until the morning of the 21st; railways had cancelled at least 28 express trains, and no casualties were reported in the coverage."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Down To Earth",
+      "en": "Down To Earth"
+     },
+     "url": "https://www.downtoearth.org.in/climate-change/cyclone-akvan-springs-a-surprise-on-odisha"
+    },
+    {
+     "name": {
+      "zh": "The Week",
+      "en": "The Week"
+     },
+     "url": "https://www.theweek.in/news/india/2026/11/20/cyclone-akvan-landfall-begins-along-andhra-odisha-coast-imd-issues-red-alert.html"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "傳SEC調查輝達會計　股價重挫14%",
+    "en": "Nvidia sinks 14% on report of SEC accounting probe"
+   },
+   "body": {
+    "zh": "路透 20 日引述兩名知情人士報導，美國證券交易委員會（SEC）執法人員正審視輝達可能存在的會計問題，但尚無法確認調查何時展開及具體範圍；SEC 拒絕置評，輝達未立即回應，報導也指出調查並不代表有不法行為。輝達股價當天收跌 14.01% 至 125.53 美元，為 2025 年 1 月以來最大單日跌幅並連七跌，較 10 月 6 日歷史高點已下跌約 46%。此前輝達執行長黃仁勳宣布卸任，已引發市場對領導層更迭的疑慮。",
+    "en": "Reuters reported on the 20th, citing two people briefed on the matter, that SEC enforcement staff are examining potential accounting issues at Nvidia, though it could not determine when the inquiry began or its exact scope; the SEC declined to comment, Nvidia did not immediately respond, and the report noted that investigations are not evidence of wrongdoing. Nvidia shares closed down 14.01% at US$125.53, their worst day since January 2025 and a seventh straight decline, leaving the stock about 46% below its October 6 record. CEO Jensen Huang's earlier announcement that he is stepping down had already raised concerns about the leadership transition."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "路透（KELO）",
+      "en": "Reuters (KELO)"
+     },
+     "url": "https://kelo.com/2026/11/20/exclusive-us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say/"
+    },
+    {
+     "name": {
+      "zh": "24/7 Wall St.",
+      "en": "24/7 Wall St."
+     },
+     "url": "https://247wallst.com/investing/2026/11/20/nvidia-stock-plunges-12-after-reuters-reports-an-sec-probe-of-its-accounting-its-nvidias-worst-day-since-deepseek-and-it-has-lost-2-7-trillion-since-october/"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "台股融資單日減491億　政院週末續開會",
+    "en": "Taiwan margin debt drops record NT$49bn; Cabinet meets again"
+   },
+   "body": {
+    "zh": "台股本週重挫 7,641.83 點、跌幅 17.5%，斷頭賣壓湧現，上市融資餘額 20 日單日減少 491.41 億元至 4,352.27 億元，創史上最大單日減幅，上市櫃合計減少約 637 億元。行政院長卓榮泰 20 日下午召集財經首長聽取股市與國際金融情勢報告，行政院表示 21 日將召開後續會議，以密切掌握國際市場動態並維持資本市場穩定。媒體報導官員正研議擴大限空或調整融資維持率計算方式等選項，但尚未正式宣布新措施。",
+    "en": "The TAIEX fell 7,641.83 points, or 17.5%, this week, triggering margin-call selling; margin loans on the main board fell by a record NT$49.141 billion on the 20th to NT$435.227 billion, and by about NT$63.7 billion including the OTC market. Premier Cho Jung-tai convened finance officials on the afternoon of the 20th for a briefing on the stock market and global financial conditions, and the Cabinet said a follow-up meeting would be held on the 21st to monitor international markets and keep the capital market stable. Media reported that officials are considering options such as wider short-selling curbs or changing how margin maintenance ratios are calculated, but no new measures have been announced."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "壹蘋新聞網",
+      "en": "Next Apple News"
+     },
+     "url": "https://news.nextapple.com/finance/20261120/38901D84CD9518A08BFB3181CE81917F"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9892043"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9892357"
+    },
+    {
+     "name": {
+      "zh": "新頭殼",
+      "en": "Newtalk"
+     },
+     "url": "https://newtalk.tw/news/view/2026-11-20/1072339"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Anthropic掛牌次日　股價跌8.5%",
+    "en": "Anthropic falls 8.5% on its second trading day"
+   },
+   "body": {
+    "zh": "Anthropic 20 日掛牌第二個交易日下跌 8.5%，收 88.91 美元，盤中一度跌至 83.05 美元、逼近 83 美元承銷價，但仍較承銷價高約 7.1%。科技股全面重挫拖累 AI 相關個股，彭博另報導蘋果正開發可自主執行任務的 AI 代理，蘋果股價當天下跌 1.9%。Seaport Research 首度給予 Anthropic「中立」評等。",
+    "en": "Anthropic fell 8.5% on its second trading day on the 20th to close at US$88.91, after dropping as low as US$83.05 intraday, near its US$83 offer price, though it remained about 7.1% above the IPO price. A broad tech sell-off weighed on AI-related stocks, and Bloomberg reported that Apple is developing an autonomous AI agent; Apple shares fell 1.9% on the day. Seaport Research initiated coverage of Anthropic with a Neutral rating."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CappNotes",
+      "en": "CappNotes"
+     },
+     "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "Fed官員再發鷹聲　美債殖利率反落",
+    "en": "Fed officials stay hawkish as Treasury yields fall"
+   },
+   "body": {
+    "zh": "費城聯準銀行總裁鮑爾森表示，對連續兩次會議升息持開放態度，聯準會理事庫克也警告，等待太久可能使政策落後於通膨。預測市場 Kalshi 顯示，12 月 9 日會議升息 1 碼的機率約九成。股市重挫帶動避險買盤，10 年期美債殖利率下跌 12 個基點至 4.92%，2 年期跌 13 個基點至 4.63%。密西根大學 11 月消費者信心終值為 51.5，一年期通膨預期 3.7%。",
+    "en": "Philadelphia Fed President Anna Paulson said she is open to raising rates at back-to-back meetings, and Fed Governor Lisa Cook warned that waiting risks falling behind the curve on inflation. Prediction market Kalshi priced about a 90% chance of a quarter-point hike at the December 9 meeting. Safe-haven buying amid the stock rout pushed the 10-year Treasury yield down 12 basis points to 4.92% and the 2-year down 13 basis points to 4.63%. The University of Michigan's final November consumer sentiment reading was 51.5, with one-year inflation expectations at 3.7%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CappNotes",
+      "en": "CappNotes"
+     },
+     "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "日本核心CPI升至2.2%　日銀升息預期升溫",
+    "en": "Japan core CPI rises to 2.2%, BOJ hike bets firm"
+   },
+   "body": {
+    "zh": "日本總務省 20 日公布，10 月排除生鮮食品的核心消費者物價指數年增 2.2%，高於 9 月的 2.1%，但略低於市場預期的 2.3%，已連續兩個月高於日銀 2% 目標；整體 CPI 年增 2.3%，排除生鮮食品與能源的指數則由 2.4% 降至 2.2%。日銀總裁植田和男日前表示，基本通膨大致符合目標，在金融條件仍寬鬆下將持續升息。LSEG 資料顯示市場預期 12 月會議升息 1 碼的機率約 72%，日圓兌美元小幅走高至約 159.20。",
+    "en": "Japan's internal affairs ministry reported on the 20th that October core CPI, excluding fresh food, rose 2.2% year on year, up from 2.1% in September but slightly below the 2.3% forecast, marking a second month above the Bank of Japan's 2% target; headline CPI rose 2.3%, while the index excluding fresh food and energy slowed to 2.2% from 2.4%. BOJ Governor Kazuo Ueda said earlier that underlying inflation is roughly consistent with the target and that the bank plans to keep raising rates while financial conditions remain accommodative. LSEG data put the probability of a quarter-point hike at the December meeting at about 72%, and the yen edged up to around 159.20 per dollar."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 股市（MoneyDJ）",
+      "en": "Yahoo Finance TW (MoneyDJ)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E6%97%A5%E6%9C%AC%E9%80%9A%E8%86%A8%E5%8D%87%E6%BA%AB-%E6%A0%B8%E5%BF%83cpi%E5%B9%B4%E5%A2%9E%E7%8E%87%E6%93%B4%E5%A4%A7-%E9%80%A32%E5%80%8B%E6%9C%88%E9%AB%98%E6%96%BC2-001800517.html"
+    },
+    {
+     "name": {
+      "zh": "FXStreet",
+      "en": "FXStreet"
+     },
+     "url": "https://www.fxstreet.hk/news/ri-yuan-xiao-fu-zou-gao-cpishu-ju-qiang-hua-ri-ben-yang-xing-12yue-jia-xi-yu-qi-202611200632"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-20",
+   "close": 36033.29,
+   "change": -2393.6,
+   "pct": -6.23,
+   "open": 37646.13,
+   "high": 37646.13,
+   "low": 35738.68,
+   "prev": 38426.89,
+   "turnover": {
+    "zh": "8,773.50 億元",
+    "en": "NT$877.35 billion"
+   },
+   "otc": {
+    "close": 263.31,
+    "change": -22.02,
+    "pct": -7.72
+   },
+   "headline": {
+    "zh": "史上第三大跌點　台股崩2,393點週跌17.5%",
+    "en": "TAIEX crashes 2,393 points, down 17.5% on week"
+   },
+   "body": {
+    "zh": "加權指數 20 日以 37,646.13 點、下跌 780.76 點開出即為盤中高點，隨後賣壓一路擴大，最低 35,738.68 點，終場下跌 2,393.60 點、收 36,033.29 點，跌幅 6.23%，為史上收盤第三大跌點，成交值 8,773.50 億元；上市 1,325 家下跌、其中 179 家跌停，櫃買指數重挫 22.02 點（7.72%）收 263.31 點，本週加權指數累計下跌 7,641.83 點（17.50%）。權值股中，台積電跌 100 元收 2,000 元（4.76%），盤中一度跌至 1,970 元、尾盤出現大量買單；聯發科跌停至 3,350 元，台達電跌停至 900 元，鴻海跌 10.5 元收 210 元，日月光投控跌 47 元收 457 元。媒體指出，AI 類股利空不斷、輝達領導層更迭的不確定性、Anthropic 上市未能提振 AI 信心，以及融資斷頭與去槓桿賣壓，共同導致重挫，金管會第二波限空措施當天上路仍未能止跌。",
+    "en": "The TAIEX opened down 780.76 points at 37,646.13, which proved to be the session high, and selling then deepened to a low of 35,738.68 before it closed down 2,393.60 points, or 6.23%, at 36,033.29, the third-largest point drop on record, on turnover of NT$877.35 billion; 1,325 listed stocks fell, 179 of them limit-down, and the TPEx index sank 22.02 points (7.72%) to 263.31, while the TAIEX lost 7,641.83 points (17.50%) for the week. Among heavyweights, TSMC fell NT$100 to NT$2,000 (4.76%) after touching NT$1,970 intraday before heavy late buying, MediaTek and Delta Electronics hit limit-down at NT$3,350 and NT$900, Hon Hai lost NT$10.5 to NT$210 and ASE Technology fell NT$47 to NT$457. Media cited a stream of negative AI news, uncertainty over Nvidia's leadership change, the failure of Anthropic's listing to revive AI sentiment, and forced margin selling and deleveraging, with the FSC's second round of short-selling curbs, in force from that day, failing to stem the slide."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -94.13
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": -87.49
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -340.84
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -522.46,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "自營商避險部位賣超 290.16 億元、自行買賣賣超 50.68 億元；外資本週連 5 日賣超，投信由前一日買超轉為賣超。",
+    "en": "Dealers' hedging accounts sold a net NT$29.016 billion and their proprietary accounts NT$5.068 billion; foreign investors were net sellers for a fifth straight day this week, and investment trusts swung to net selling after buying the previous day."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611200030.aspx"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E5%86%8D%E5%B4%A92393%E9%BB%9E%E5%89%B5%E8%BF%917%E6%9C%88%E6%96%B0%E4%BD%8E-%E6%9C%AC%E9%80%B1%E9%87%8D%E6%8C%AB7641%E9%BB%9E-063712992.html"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經雲",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3275531"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（東森新聞）",
+      "en": "Yahoo Finance TW (EBC)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C2393%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86%E9%87%8F%E6%80%A5%E6%8B%89-36k%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97-060000229.html"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9891475"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261120003150-260410"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-20",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 48147.33,
+     "change": -949.73,
+     "pct": -1.93
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 6910.39,
+     "change": -265.44,
+     "pct": -3.7
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 22617.73,
+     "change": -1261.47,
+     "pct": -5.28
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 8408.59,
+     "change": -1011.13,
+     "pct": -10.73
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 318.71,
+     "change": null,
+     "pct": -9.48
+    }
+   ],
+   "headline": {
+    "zh": "美股：費半崩10.7%　那指跌5.3%翻黑",
+    "en": "US close, Nov 20: SOX plunges 10.7%, Nasdaq down 5.3%"
+   },
+   "body": {
+    "zh": "週五（20 日）美股科技股遭大舉拋售，道瓊跌 949.73 點（1.93%）收 48,147.33 點，標普 500 跌 3.70% 收 6,910.39 點、連七個交易日下跌並較 10 月 6 日高點回落逾一成進入修正，那指跌 5.28% 收 22,617.73 點、今年以來轉為下跌，費城半導體指數重挫 10.73% 收 8,408.59 點，台積電 ADR 跌 9.48% 收 318.71 美元。路透報導 SEC 調查輝達會計問題後，輝達收跌 14.01%，超微與美光分別跌約 13.3% 與 13.9%，Anthropic 掛牌次日跌 8.5%。本週標普 500 累計下跌 8.6%、那指跌 10%；恐慌指數 VIX 大漲 26.2% 至 35.89，避險買盤使 10 年期美債殖利率降至 4.92%，布蘭特原油收在每桶 92.57 美元。",
+    "en": "Tech stocks were dumped on Friday, November 20: the Dow fell 949.73 points (1.93%) to 48,147.33, the S&P 500 dropped 3.70% to 6,910.39 for a seventh straight loss, entering a correction more than 10% below its October 6 high, the Nasdaq slid 5.28% to 22,617.73, turning negative for the year, and the SOX plunged 10.73% to 8,408.59, while the TSMC ADR fell 9.48% to US$318.71. After Reuters reported an SEC probe of Nvidia's accounting, Nvidia closed down 14.01%, AMD and Micron lost about 13.3% and 13.9%, and Anthropic fell 8.5% on its second trading day. For the week the S&P 500 fell 8.6% and the Nasdaq 10%; the VIX jumped 26.2% to 35.89, safe-haven buying pulled the 10-year Treasury yield down to 4.92%, and Brent crude settled at US$92.57 a barrel."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "美聯社（myMotherLode）",
+      "en": "AP (myMotherLode)"
+     },
+     "url": "https://mymotherlode.com/news/national/11327378/how-major-us-stock-indexes-fared-friday-11-20-2026.html"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+    },
+    {
+     "name": {
+      "zh": "CappNotes",
+      "en": "CappNotes"
+     },
+     "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+    },
+    {
+     "name": {
+      "zh": "路透（KELO）",
+      "en": "Reuters (KELO)"
+     },
+     "url": "https://kelo.com/2026/11/20/exclusive-us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say/"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週六 11/21",
+     "en": "Sat, Nov 21"
+    },
+    "text": {
+     "zh": "行政院續召財經首長會議，因應台股重挫與國際金融情勢",
+     "en": "Cabinet holds follow-up meeting of finance officials on the stock rout"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/23 09:00",
+     "en": "Mon, Nov 23, 09:00"
+    },
+    "text": {
+     "zh": "台股開盤，金管會第二波限空措施持續適用",
+     "en": "Taiwan market reopens with the FSC's second-round short-selling curbs in place"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/23 16:30–17:30",
+     "en": "Mon, Nov 23, 16:30-17:30"
+    },
+    "text": {
+     "zh": "德國、歐元區與英國公布 11 月製造業及服務業 PMI 初值",
+     "en": "Germany, eurozone and UK flash November manufacturing and services PMIs"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/23 22:45",
+     "en": "Mon, Nov 23, 22:45"
+    },
+    "text": {
+     "zh": "美國公布 11 月 S&P Global 綜合 PMI 初值；美股 26 日感恩節休市",
+     "en": "US S&P Global flash composite PMI for November; US markets shut Nov 26 for Thanksgiving"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "新頭殼",
+     "en": "Newtalk"
+    },
+    "url": "https://newtalk.tw/news/view/2026-11-20/1072339"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/7251/9892357"
+   },
+   {
+    "name": {
+     "zh": "LiteFinance",
+     "en": "LiteFinance"
+    },
+    "url": "https://www.litefinance.org/blog/analysts-opinions/weekly-economic-calendar-for-23112026-29112026/"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-16",
+     41040.08
+    ],
+    [
+     "2026-11-17",
+     40092.11
+    ],
+    [
+     "2026-11-18",
+     40194.91
+    ],
+    [
+     "2026-11-19",
+     38426.89
+    ],
+    [
+     "2026-11-20",
+     36033.29
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-16",
+     24509.76
+    ],
+    [
+     "2026-11-17",
+     24328.38
+    ],
+    [
+     "2026-11-18",
+     24429.88
+    ],
+    [
+     "2026-11-19",
+     23879.2
+    ],
+    [
+     "2026-11-20",
+     22617.73
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-16",
+     9610.65
+    ],
+    [
+     "2026-11-17",
+     9642.88
+    ],
+    [
+     "2026-11-18",
+     9652.8
+    ],
+    [
+     "2026-11-19",
+     9419.72
+    ],
+    [
+     "2026-11-20",
+     8408.59
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611160118.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611180143.aspx"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Next Apple News"
+    },
+    "url": "https://news.nextapple.com/finance/20261119/D5668A473D862BBC70D1A2D2EB154ABC"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611190149.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5647048"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+   },
+   {
+    "name": {
+     "zh": "中時新聞網",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+   }
+  ]
+ }
+}
