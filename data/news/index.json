@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-21",
+ "latest": "2026-11-22",
  "days": [
+  {
+   "date": "2026-11-22",
+   "summary": {
+    "zh": "油輪遭擊伊朗襲巴林；金管會全面禁空",
+    "en": "Tankers hit, Iran strikes Bahrain; FSC bans shorting"
+   }
+  },
   {
    "date": "2026-11-21",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "克宮：川習普19日會；伊朗再襲巴林",
     "en": "Kremlin: Trump-Xi-Putin to meet Nov 19; Iran hits Bahrain again"
-   }
-  },
-  {
-   "date": "2026-11-15",
-   "summary": {
-    "zh": "伊朗稱3油輪觸雷；台股週漲逾一成",
-    "en": "Iran says 3 tankers hit mines; TAIEX up 10% on week"
    }
   }
  ]
