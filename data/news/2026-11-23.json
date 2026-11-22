@@ -1,0 +1,746 @@
+{
+ "date": "2026-11-23",
+ "updated": "2026-11-23T07:53:13+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "COP31無共識閉幕；伊朗再襲巴林",
+  "en": "COP31 ends without deal; Iran strikes Bahrain again"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "伊朗再襲巴林二人傷　荷莫茲油輪又遇襲",
+    "en": "Iran strikes Bahrain again, two hurt; more tanker incidents"
+   },
+   "body": {
+    "zh": "巴林內政部表示，伊朗 21 日的攻擊擊中一處民用工業設施引發火災，其後更新稱一名巴林公民與一名巴基斯坦籍居民受傷、後者情況危急，巴林國防軍 22 日另攔截多波空襲；伊朗革命衛隊稱目標是巴林境內美軍愛國者飛彈陣地，並宣稱再擊落一架美軍 MQ-1 無人機，美軍中央司令部則否認伊朗所稱擊傷美軍 F-16 的說法。英國海事貿易行動辦公室 22 日通報阿曼灣一起涉及油輪與軍方的事件，伊朗海軍稱兩艘走「未授權航線」的油輪在加內姆島以北觸雷，兩者是否為同一事件尚未確認。沙烏地、科威特、卡達與阿聯等國譴責伊朗攻擊巴林；川普向福斯新聞表示，若新年前未達成協議，美方將在新年後恢復對伊朗軍事行動，伊朗外長阿拉格齊則稱談判應獲得機會，但封鎖須先解除。",
+    "en": "Bahrain's interior ministry said Iran's attack on the 21st hit a civilian industrial facility and started a fire, later updating that a Bahraini citizen and a Pakistani resident were injured, the latter critically, while Bahrain's defence force intercepted further waves of attacks on the 22nd; Iran's Revolutionary Guards said they targeted US Patriot missile sites in Bahrain and claimed to have downed another US MQ-1 drone, while US Central Command rejected Iran's claim to have damaged a US F-16. The UK Maritime Trade Operations agency reported an incident involving a tanker and military forces in the Gulf of Oman on the 22nd, and Iran's navy said two tankers using \"unauthorized routes\" hit mines north of Ghanem Island; it was not confirmed whether these were the same incident. Saudi Arabia, Kuwait, Qatar and the UAE were among those condemning the attack on Bahrain; Trump told Fox News the US would resume military action against Iran after the New Year if no deal is reached, while Iranian Foreign Minister Abbas Araghchi said talks should be given a chance but the blockade must be lifted first."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "海灣新聞",
+      "en": "Gulf News"
+     },
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"
+    },
+    {
+     "name": {
+      "zh": "ABC 新聞",
+      "en": "ABC News"
+     },
+     "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "COP31無共識閉幕　化石燃料措辭成死結",
+    "en": "COP31 ends without a deal, deadlocked over fossil fuels"
+   },
+   "body": {
+    "zh": "在土耳其安塔利亞舉行的聯合國氣候峰會 COP31 延長兩天後於 22 日閉幕，因多國正式反對最終文本，大會主席庫魯姆宣布未能達成協議、決定不予通過，聯合國稱這是史上會期最長的氣候峰會。歐盟表示文本完全未提及化石燃料或轉型脫離化石燃料，無法接受；巴拿馬與馬紹爾群島也拒絕支持，巴基斯坦則呼籲繼續尋求共識，代表非洲集團的迦納表示不會阻擋共識，代表阿拉伯聯盟的沙烏地為文本中的碳捕存內容辯護。聯合國秘書長古特瑞斯形容結果令人深感失望，強調科學並無模糊空間；聯合國氣候變化綱要公約執行秘書史蒂爾則提到公正轉型協議等進展，下屆 COP32 將在衣索比亞阿迪斯阿貝巴舉行。",
+    "en": "The UN climate summit COP31 in Antalya, Türkiye, closed on the 22nd after two days of overtime; with several countries formally objecting to the final text, summit president Murat Kurum said there was no agreement and the decisions were not adopted, in what the UN called the longest climate summit on record. The EU said it could not accept a text with no reference to fossil fuels or transitioning away from them; Panama and the Marshall Islands also withheld support, Pakistan urged continued work toward consensus, Ghana, for the African Group, said it would not block consensus, and Saudi Arabia, for the Arab League, defended the text's references to carbon capture and storage. UN Secretary-General António Guterres called the outcome deeply disappointing and stressed there is no ambiguity in the science; UN climate chief Simon Stiell pointed to progress such as an agreement on just transition, and COP32 will be held in Addis Ababa, Ethiopia."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "聯合國新聞",
+      "en": "UN News"
+     },
+     "url": "https://news.un.org/en/story/2026/11/1168855"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611220188.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄襲基輔近郊公寓　澤倫斯基催交愛國者",
+    "en": "Russian strike hits flats near Kyiv; Zelensky presses for Patriots"
+   },
+   "body": {
+    "zh": "俄軍 22 日清晨空襲基輔以北的迪梅爾，一棟五層公寓部分倒塌，救難人員尋獲兩具遺體，國際文傳電訊社引述自由電台稱仍有 11 人下落不明、包括兩名兒童；札波羅熱市另有一名男子在砲擊中喪生。澤倫斯基在 Telegram 表示，俄軍過去一週對 20 個州發動約 2,700 架攻擊無人機、約 1,460 枚導引炸彈與 165 枚飛彈，並呼籲美國批准交付盟國已透過北約協調機制付款的愛國者攔截飛彈。俄國防部則稱擊中敖德薩東北方一艘貨輪、札波羅熱一處電力設施與煉油廠等目標，並宣稱攻占哈爾科夫州一處村莊，相關說法無法獨立查證。",
+    "en": "A Russian strike early on the 22nd partly collapsed a five-storey apartment building in Dymer, north of Kyiv; rescuers recovered two bodies, and Interfax, citing Radio Liberty, said 11 people including two children were still missing, while a man was killed by shelling in the city of Zaporizhzhia. Zelensky said on Telegram that Russia had launched about 2,700 attack drones, about 1,460 guided bombs and 165 missiles against 20 regions over the past week, and urged the US to approve delivery of Patriot interceptors that partners had already paid for through a NATO-coordinated programme. Russia's defence ministry said it hit a cargo ship northeast of Odesa, a power facility in Zaporizhzhia and an oil refinery among other targets, and claimed to have taken a village in Kharkiv region; the claims could not be independently verified."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "半島電視台",
+      "en": "Al Jazeera"
+     },
+     "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄貨輪遭無人機擊中　漂入芬蘭海域續燃",
+    "en": "Drone-hit Russian cargo ship burns on in Finnish waters"
+   },
+   "body": {
+    "zh": "芬蘭海岸防衛隊 22 日表示，21 日在波羅的海遭無人機擊中的俄羅斯貨輪「斯巴達二號」火勢延燒整夜，船隻已漂入芬蘭海域下錨，16 名船員已撤至附近一艘俄國船上。芬蘭國防軍表示，該船是在戈格蘭島以西的國際水域受損，攻擊很可能由烏克蘭發動，與俄方官員的說法相符。這艘長 121 公尺的船屬於為俄國防部提供物流服務的公司，20 日自聖彼得堡出發前往加里寧格勒，美國財政部已將其列入制裁；愛沙尼亞海軍司令表示，芬蘭灣不排除再發生攻擊。",
+    "en": "Finland's coast guard said on the 22nd that a fire aboard the Russian cargo ship Sparta II, hit by drones in the Baltic Sea on the 21st, burned through the night after the ship drifted into Finnish waters and anchored there, with its 16 crew evacuated to a nearby Russian vessel. Finland's defence forces said the ship was damaged in international waters west of Gogland island and that the attack was likely carried out by Ukraine, consistent with an account from Russian officials. The 121-metre ship, owned by a company that provides logistics for Russia's defence ministry, left St Petersburg on the 20th bound for Kaliningrad and is under US Treasury sanctions; Estonia's navy commander said further attacks in the Gulf of Finland could not be ruled out."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "The Star（路透）",
+      "en": "The Star (Reuters)"
+     },
+     "url": "https://www.thestar.com.my/news/world/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "法國連六週末示威　抗議物價與公共服務",
+    "en": "France sees sixth straight weekend of cost-of-living protests"
+   },
+   "body": {
+    "zh": "法國各地 21 日連續第六個週末舉行示威，訴求改善公共服務，並抗議生活成本上升與社會不平等；主辦單位稱全國約 15 萬人參加，內政部估計為 8.25 萬人，兩者都低於前一週。這波運動 9 月中由高中生爭取學習條件開始，逐漸擴及物價、公共服務與警察暴力等議題，國會 20 日通過強化員警用槍法律保障的法案，遭左派強烈批評。示威大致和平但偶有暴力，法新社依證人、律師與非政府組織紀錄統計，抗議以來至少 31 人遭安全部隊重傷，官方未公布傷亡數字。",
+    "en": "Protests were held across France on the 21st for a sixth straight weekend, calling for better public services and against rising living costs and inequality; organisers put national turnout at about 150,000 and the interior ministry at 82,500, both lower than the week before. The movement began in mid-September with high-school students seeking better learning conditions and has widened to prices, public services and police violence, and a bill passed by parliament on the 20th strengthening legal protection for officers who use weapons drew sharp criticism from the left. The protests have been largely peaceful with sporadic violence; an AFP tally based on witnesses, lawyers and NGO records counts at least 31 people seriously injured by security forces since they began, and no official figures have been published."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611220058.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "巴西南部超級胞風暴　4死162傷",
+    "en": "Supercell storm in southern Brazil kills 4, injures 162"
+   },
+   "body": {
+    "zh": "巴西南部南大河州農業小鎮圖潘西雷坦 21 日遭強烈風暴侵襲，民防單位表示死亡人數增至 4 人、受傷人數由 60 人增至 162 人。強風掀翻數千棟建物屋頂，約 8,000 戶住宅、多所學校與一家醫院受損，數千根電線桿倒塌，國家氣象研究所測得最大陣風每小時 114 公里。民防單位將這場風暴歸類為超級胞，不排除當地曾形成龍捲風；該州自 16 日起已有約 30 個城鎮受強風、冰雹與豪雨影響。",
+    "en": "A violent storm struck the farming town of Tupanciretã in Rio Grande do Sul, southern Brazil, on the 21st; civil defence said the death toll rose to four and the number injured from 60 to 162. Strong winds ripped the roofs off thousands of buildings, damaging about 8,000 homes, several schools and a hospital and toppling thousands of utility poles, with the national weather institute recording gusts of up to 114 km/h. Civil defence classified the storm as a supercell and did not rule out that a tornado formed; about 30 municipalities in the state have been hit by wind, hail and heavy rain since the 16th."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "華視新聞（中央社）",
+      "en": "CTS News (CNA)"
+     },
+     "url": "https://news.cts.com.tw/cna/international/202611/202611223103970.html"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "台股禁空今上路　證交所邀券商研議穩市",
+    "en": "Taiwan short-selling ban takes effect; TWSE meets brokers"
+   },
+   "body": {
+    "zh": "金管會 21 日宣布的五項措施 23 日起實施，包括上市櫃股票全面禁止平盤以下放空、融券保證金成數由 130% 提高至 150%、暫停受理新權證發行申請，並鼓勵企業實施庫藏股與召回出借股票。證交所與櫃買中心 22 日邀集十大券商討論穩定市場，研議將融資維持率由 130% 調降至 120%，但未作成決定，任何調整須經金管會核准；國安基金表示已自 6 日起進場。行政院長卓榮泰預定 23 日邀財金、科技與產業代表開會；上週五上市融資餘額降至 4,352.27 億元，單日減少 491.41 億元。",
+    "en": "Five measures announced by the FSC on the 21st take effect on the 23rd: a full ban on short selling below the reference price for listed and OTC stocks, a rise in the short-sale margin requirement from 130% to 150%, a suspension of new warrant applications, and encouragement of company buybacks and recalls of lent shares. The stock exchange and the TPEx met the ten largest brokers on the 22nd to discuss market stability, including cutting the margin-loan maintenance ratio from 130% to 120%, but made no decision, and any change needs FSC approval; the National Stabilization Fund said it has been buying since the 6th. Premier Cho Jung-tai was scheduled to meet finance, technology and industry representatives on the 23rd; listed margin-loan balances fell to NT$435.227 billion last Friday, down NT$49.141 billion in a day."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "聯合新聞網（中央社）",
+      "en": "UDN (CNA)"
+     },
+     "url": "https://udn.com/news/story/7251/9894512"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9895427"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5599/9895493"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中韓同步出手穩市　亞洲盤美股期貨反彈",
+    "en": "China, South Korea act to steady markets; US futures rebound"
+   },
+   "body": {
+    "zh": "中國滬深北三大交易所宣布將融資買入的最低保證金比例由 100% 降至 80%，30 日起生效；南韓則放寬企業每日買回庫藏股上限三個月，並加強監控非法放空三個月。週一亞洲時段，標普 500 期貨上漲 1.1%、那斯達克 100 期貨上漲 1.8%，但三星電子與 SK 海力士盤前報價分別下跌 5.6% 與 6%。日本 23 日因國定假日休市，美國本週將公布 PCE 物價指數與第三季 GDP 修正值。",
+    "en": "China's three stock exchanges said they will cut the minimum margin ratio for margin buying from 100% to 80% from the 30th, and South Korea relaxed daily limits on company share buybacks for three months alongside three months of tighter monitoring of illegal short selling. In early Asian trading on Monday, S&P 500 futures rose 1.1% and Nasdaq 100 futures 1.8%, while Samsung Electronics and SK Hynix were indicated down 5.6% and 6% before the open. Japan's markets are closed on the 23rd for a national holiday, and the US releases the PCE price index and a revision to third-quarter GDP this week."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5599/9895493"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9895427"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "輝達風暴擴大　美情報總監稱涉諜案調查中",
+    "en": "Nvidia turmoil widens as US spy chief confirms inquiry"
+   },
+   "body": {
+    "zh": "路透引述兩名知情人士報導，美國證管會對輝達的調查聚焦潛在會計問題，證管會拒絕評論，輝達未回應；輝達上週五股價重挫 14%，收 125.84 美元。美國國家情報總監克萊頓 22 日受訪時表示，輝達晶片是重要目標，相關案件正在調查中，司法部長布蘭奇則稱正在調查新加坡美速（Megaspeed）前負責人黃姓女子與該公司，美方懷疑她為中國從事情報工作。中國否認她是間諜，美速表示她已於 2025 年 8 月離職且公司合法經營，已卸任執行長的黃仁勳否認有違法行為；財長貝森特表示黃仁勳現已是外部人士，輝達的法遵文化需要檢視。",
+    "en": "Reuters, citing two people familiar with the matter, reported that the SEC's investigation of Nvidia is focused on potential accounting issues; the SEC declined to comment and Nvidia did not respond, after its shares sank 14% to US$125.84 last Friday. Director of National Intelligence Jay Clayton said in interviews on the 22nd that Nvidia chips are a prized target and that the matter is under investigation, while Justice Department chief Todd Blanche said the US is investigating Alice Huang, a former head of Singapore-based Megaspeed, and the company; US officials suspect she worked for Chinese intelligence. China denies she is a spy, Megaspeed says she left in August 2025 and that it operates lawfully, and former CEO Jensen Huang denies any illegal conduct; Treasury Secretary Scott Bessent said Huang is now an outsider and Nvidia's compliance culture needs to be examined."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611233001.aspx"
+    },
+    {
+     "name": {
+      "zh": "Business Standard（路透）",
+      "en": "Business Standard (Reuters)"
+     },
+     "url": "https://www.business-standard.com/world-news/us-sec-s-nvidia-probe-focuses-on-potential-accounting-irregularities-126112200089_1.html"
+    },
+    {
+     "name": {
+      "zh": "Malay Mail（法新社）",
+      "en": "Malay Mail (AFP)"
+     },
+     "url": "https://www.malaymail.com/amp/news/world/2026/11/22/nvidia-under-sec-scrutiny-as-fallout-from-jensen-huangs-resignation-widens/244254"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5599/9895493"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "北京10月社零重挫12.1%　上海連7月衰退",
+    "en": "Beijing October retail sales plunge 12.1%; Shanghai falls again"
+   },
+   "body": {
+    "zh": "北京 10 月社會消費品零售總額年減 12.1%，為 2025 年 1 月以來最大單月跌幅，1 至 10 月累計年減 2.1%，其中汽車類年減 20.7%、家電類年減 10.6%。上海 10 月社零年減 4.5%，已連續七個月負成長，汽車類年減 21.1%。全中國 10 月社零為人民幣 4 兆 6,463 億元，年增 0.4%，扣除汽車後年增 2.5%。",
+    "en": "Beijing's retail sales fell 12.1% year on year in October, the steepest monthly drop since January 2025, leaving January-October sales down 2.1%, with autos down 20.7% and home appliances down 10.6%. Shanghai's October retail sales fell 4.5%, a seventh straight monthly decline, with autos down 21.1%. Nationwide, October retail sales were RMB 4.6463 trillion, up 0.4% year on year, or 2.5% excluding autos."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "華視新聞（中央社）",
+      "en": "CTS News (CNA)"
+     },
+     "url": "https://news.cts.com.tw/cna/international/202611/202611223103949.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "台電砸1,096億　強化大台南科學園區電網",
+    "en": "Taipower plans NT$109.6bn grid upgrade for Tainan science parks"
+   },
+   "body": {
+    "zh": "台電規劃投入 1,096 億元，強化大台南科學園區的輸配電建設。經濟日報指出，台積電在當地的 1 奈米製程為受惠對象之一。",
+    "en": "Taipower plans to invest NT$109.6 billion in transmission and distribution for the Greater Tainan science park area. The Economic Daily News said TSMC's 1-nanometre production there is among the beneficiaries."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9895427"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-20",
+   "close": 36033.29,
+   "change": -2393.6,
+   "pct": -6.23,
+   "open": 37646.13,
+   "high": 37646.13,
+   "low": 35738.68,
+   "prev": 38426.89,
+   "turnover": {
+    "zh": "8,773.50 億元",
+    "en": "NT$877.35 billion"
+   },
+   "otc": {
+    "close": 263.31,
+    "change": -22.02,
+    "pct": -7.72
+   },
+   "headline": {
+    "zh": "史上第三大跌點　台股崩2,393點週跌17.5%",
+    "en": "TAIEX crashes 2,393 points, down 17.5% on week"
+   },
+   "body": {
+    "zh": "加權指數 20 日以 37,646.13 點、下跌 780.76 點開出即為盤中高點，隨後賣壓一路擴大，最低 35,738.68 點，終場下跌 2,393.60 點、收 36,033.29 點，跌幅 6.23%，為史上收盤第三大跌點，成交值 8,773.50 億元；上市 1,325 家下跌、其中 179 家跌停，櫃買指數重挫 22.02 點（7.72%）收 263.31 點，本週加權指數累計下跌 7,641.83 點（17.50%）。權值股中，台積電跌 100 元收 2,000 元（4.76%），盤中一度跌至 1,970 元、尾盤出現大量買單；聯發科跌停至 3,350 元，台達電跌停至 900 元，鴻海跌 10.5 元收 210 元，日月光投控跌 47 元收 457 元。媒體指出，AI 類股利空不斷、輝達領導層更迭的不確定性、Anthropic 上市未能提振 AI 信心，以及融資斷頭與去槓桿賣壓，共同導致重挫，金管會第二波限空措施當天上路仍未能止跌。",
+    "en": "The TAIEX opened down 780.76 points at 37,646.13, which proved to be the session high, and selling then deepened to a low of 35,738.68 before it closed down 2,393.60 points, or 6.23%, at 36,033.29, the third-largest point drop on record, on turnover of NT$877.35 billion; 1,325 listed stocks fell, 179 of them limit-down, and the TPEx index sank 22.02 points (7.72%) to 263.31, while the TAIEX lost 7,641.83 points (17.50%) for the week. Among heavyweights, TSMC fell NT$100 to NT$2,000 (4.76%) after touching NT$1,970 intraday before heavy late buying, MediaTek and Delta Electronics hit limit-down at NT$3,350 and NT$900, Hon Hai lost NT$10.5 to NT$210 and ASE Technology fell NT$47 to NT$457. Media cited a stream of negative AI news, uncertainty over Nvidia's leadership change, the failure of Anthropic's listing to revive AI sentiment, and forced margin selling and deleveraging, with the FSC's second round of short-selling curbs, in force from that day, failing to stem the slide."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -94.13
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": -87.49
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -340.84
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -522.46,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "自營商避險部位賣超 290.16 億元、自行買賣賣超 50.68 億元；外資本週連 5 日賣超，投信由前一日買超轉為賣超。",
+    "en": "Dealers' hedging accounts sold a net NT$29.016 billion and their proprietary accounts NT$5.068 billion; foreign investors were net sellers for a fifth straight day this week, and investment trusts swung to net selling after buying the previous day."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5648628"
+    },
+    {
+     "name": {
+      "zh": "三立新聞網",
+      "en": "SETN"
+     },
+     "url": "https://setn.com/news/1942814"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611200030.aspx"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%BE%8C%E7%84%A6%E9%BB%9E-%E5%8F%B0%E8%82%A1%E5%86%8D%E5%B4%A92393%E9%BB%9E%E5%89%B5%E8%BF%917%E6%9C%88%E6%96%B0%E4%BD%8E-%E6%9C%AC%E9%80%B1%E9%87%8D%E6%8C%AB7641%E9%BB%9E-063712992.html"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經雲",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3275531"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（東森新聞）",
+      "en": "Yahoo Finance TW (EBC)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E8%B7%8C2393%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%BE%E7%9B%A4%E7%88%86%E9%87%8F%E6%80%A5%E6%8B%89-36k%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97-060000229.html"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9891475"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261120003150-260410"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-20",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 48147.33,
+     "change": -949.73,
+     "pct": -1.93
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 6910.39,
+     "change": -265.44,
+     "pct": -3.7
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 22617.73,
+     "change": -1261.47,
+     "pct": -5.28
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 8408.59,
+     "change": -1011.13,
+     "pct": -10.73
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 318.71,
+     "change": null,
+     "pct": -9.48
+    }
+   ],
+   "headline": {
+    "zh": "美股：費半崩10.7%　那指跌5.3%翻黑",
+    "en": "US close, Nov 20: SOX plunges 10.7%, Nasdaq down 5.3%"
+   },
+   "body": {
+    "zh": "週五（20 日）美股科技股遭大舉拋售，道瓊跌 949.73 點（1.93%）收 48,147.33 點，標普 500 跌 3.70% 收 6,910.39 點、連七個交易日下跌並較 10 月 6 日高點回落逾一成進入修正，那指跌 5.28% 收 22,617.73 點、今年以來轉為下跌，費城半導體指數重挫 10.73% 收 8,408.59 點，台積電 ADR 跌 9.48% 收 318.71 美元。路透報導 SEC 調查輝達會計問題後，輝達收跌 14.01%，超微與美光分別跌約 13.3% 與 13.9%，Anthropic 掛牌次日跌 8.5%。本週標普 500 累計下跌 8.6%、那指跌 10%；恐慌指數 VIX 大漲 26.2% 至 35.89，避險買盤使 10 年期美債殖利率降至 4.92%，布蘭特原油收在每桶 92.57 美元。",
+    "en": "Tech stocks were dumped on Friday, November 20: the Dow fell 949.73 points (1.93%) to 48,147.33, the S&P 500 dropped 3.70% to 6,910.39 for a seventh straight loss, entering a correction more than 10% below its October 6 high, the Nasdaq slid 5.28% to 22,617.73, turning negative for the year, and the SOX plunged 10.73% to 8,408.59, while the TSMC ADR fell 9.48% to US$318.71. After Reuters reported an SEC probe of Nvidia's accounting, Nvidia closed down 14.01%, AMD and Micron lost about 13.3% and 13.9%, and Anthropic fell 8.5% on its second trading day. For the week the S&P 500 fell 8.6% and the Nasdaq 10%; the VIX jumped 26.2% to 35.89, safe-haven buying pulled the 10-year Treasury yield down to 4.92%, and Brent crude settled at US$92.57 a barrel."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "FINCHANNEL（美聯社數據）",
+      "en": "FINCHANNEL (AP data)"
+     },
+     "url": "https://finchannel.com/nasdaq-falls-5-3-as-sp-500-and-dow-enter-corrections/142573/american-business-trends/stock-prices/2026/11/"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9893976"
+    },
+    {
+     "name": {
+      "zh": "美聯社（myMotherLode）",
+      "en": "AP (myMotherLode)"
+     },
+     "url": "https://mymotherlode.com/news/national/11327378/how-major-us-stock-indexes-fared-friday-11-20-2026.html"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+    },
+    {
+     "name": {
+      "zh": "CappNotes",
+      "en": "CappNotes"
+     },
+     "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"
+    },
+    {
+     "name": {
+      "zh": "路透（KELO）",
+      "en": "Reuters (KELO)"
+     },
+     "url": "https://kelo.com/2026/11/20/exclusive-us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say/"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週一 11/23 09:00",
+     "en": "Mon, Nov 23, 09:00"
+    },
+    "text": {
+     "zh": "台股開盤，上市櫃股票全面平盤下禁空、融券保證金成數 150% 與暫停新權證申請上路",
+     "en": "Taiwan market opens with the ban on shorting below the reference price, 150% short-sale margin and the halt to new warrant applications in force"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/23",
+     "en": "Mon, Nov 23"
+    },
+    "text": {
+     "zh": "行政院長卓榮泰邀財金、科技與產業代表開會",
+     "en": "Premier Cho Jung-tai meets finance, technology and industry representatives"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/23",
+     "en": "Mon, Nov 23"
+    },
+    "text": {
+     "zh": "日本股市因國定假日休市",
+     "en": "Japanese markets closed for a national holiday"
+    }
+   },
+   {
+    "time": {
+     "zh": "本週",
+     "en": "This week"
+    },
+    "text": {
+     "zh": "美國公布 PCE 物價指數與第三季 GDP 修正值",
+     "en": "US PCE price index and revised third-quarter GDP"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "聯合新聞網（中央社）",
+     "en": "UDN (CNA)"
+    },
+    "url": "https://udn.com/news/story/7251/9894512"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5607/9895427"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5599/9895493"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-16",
+     41040.08
+    ],
+    [
+     "2026-11-17",
+     40092.11
+    ],
+    [
+     "2026-11-18",
+     40194.91
+    ],
+    [
+     "2026-11-19",
+     38426.89
+    ],
+    [
+     "2026-11-20",
+     36033.29
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-16",
+     24509.76
+    ],
+    [
+     "2026-11-17",
+     24328.38
+    ],
+    [
+     "2026-11-18",
+     24429.88
+    ],
+    [
+     "2026-11-19",
+     23879.2
+    ],
+    [
+     "2026-11-20",
+     22617.73
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-16",
+     9610.65
+    ],
+    [
+     "2026-11-17",
+     9642.88
+    ],
+    [
+     "2026-11-18",
+     9652.8
+    ],
+    [
+     "2026-11-19",
+     9419.72
+    ],
+    [
+     "2026-11-20",
+     8408.59
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611160118.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611180143.aspx"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Next Apple News"
+    },
+    "url": "https://news.nextapple.com/finance/20261119/D5668A473D862BBC70D1A2D2EB154ABC"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611190149.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5647048"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+   },
+   {
+    "name": {
+     "zh": "中時新聞網",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+   }
+  ]
+ }
+}

@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-22",
+ "latest": "2026-11-23",
  "days": [
+  {
+   "date": "2026-11-23",
+   "summary": {
+    "zh": "COP31無共識閉幕；伊朗再襲巴林",
+    "en": "COP31 ends without deal; Iran strikes Bahrain again"
+   }
+  },
   {
    "date": "2026-11-22",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "烏軍千架無人機襲俄；台股重挫2,635點",
     "en": "Record drone barrage on Russia; TAIEX plunges 2,635"
-   }
-  },
-  {
-   "date": "2026-11-16",
-   "summary": {
-    "zh": "克宮：川習普19日會；伊朗再襲巴林",
-    "en": "Kremlin: Trump-Xi-Putin to meet Nov 19; Iran hits Bahrain again"
    }
   }
  ]
