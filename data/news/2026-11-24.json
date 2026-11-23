@@ -1,0 +1,699 @@
+{
+ "date": "2026-11-24",
+ "updated": "2026-11-24T07:50:25+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "黃仁勳回任費半飆14%；台股彈778點",
+  "en": "Huang returns, SOX soars 14%; TAIEX up 778"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "伊朗誓反制美封鎖　川普稱破封船將沉海",
+    "en": "Iran vows to counter US blockade; Trump warns blockade-runners will sink"
+   },
+   "body": {
+    "zh": "川普 22 日受訪時表示，若伊朗船隻試圖突破美軍對伊朗港口的海上封鎖，下場將是沉入海底，並稱談判淪為空談，若無協議傾向在新年後下令新一輪打擊。伊朗外交部發言人巴蓋伊 23 日回應，指封鎖違反《聯合國憲章》，伊朗將以一切手段反制，並列出重開荷莫茲海峽的條件：解除美國制裁、結束封鎖並落實「伊斯蘭馬巴德備忘錄」承諾，川普則已宣布該備忘錄無效。英國海事貿易行動辦公室證實 22 日阿曼灣發生一起涉及油輪與軍方的事件，美軍中央司令部截至 23 日尚未評論。",
+    "en": "Asked on November 22 about Iranian ships trying to break the US naval blockade of Iran's ports, Trump said they would end up at the bottom of the sea, called the talks empty, and said that without a deal he leaned toward ordering new strikes after the New Year. Iranian foreign ministry spokesman Esmaeil Baghaei said on the 23rd that the blockade violates the UN Charter and Tehran will use every means to counter it, setting out its conditions for reopening Hormuz: lifting US sanctions, ending the blockade and honouring the Islamabad memorandum, which Trump has declared void. UKMTO confirmed an incident involving a tanker and military forces in the Gulf of Oman on the 22nd; US Central Command had not commented as of the 23rd."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "歐洲新聞台",
+      "en": "Euronews"
+     },
+     "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611230016.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄艦利比亞港口遭無人艇襲　艦身翻覆",
+    "en": "Russian corvette capsizes after drone attack at Libyan port"
+   },
+   "body": {
+    "zh": "利比亞東部當局表示，22 日一艘停靠班加西附近海軍基地的俄羅斯軍艦疑遭無人水面載具攻擊發生爆炸，路透引述衛星影像指為俄海軍護衛艦「水星號」，艦體大部分翻覆；另有消息人士稱一艘懸掛馬爾他旗的商船在外海也遭擊中，兩船船員獲救，東部政府稱 10 名俄方與利方船員受傷。東部政府譴責攻擊侵犯利比亞主權，強調利比亞不是俄烏戰爭的一方；的黎波里的團結政府也警告外國軍事存在恐引來戰火外溢。烏克蘭駐美外交官在社群媒體暗示兩船「不會再為俄國戰爭機器服務」，澤倫斯基其後證實烏方發動攻擊，俄國政府尚未評論。",
+    "en": "Eastern Libyan authorities said a Russian warship docked at a naval base near Benghazi exploded on November 22 in a suspected sea-drone attack; Reuters, citing satellite imagery, identified it as the corvette Merkury and said most of it had capsized, while sources said a Maltese-flagged cargo ship was also hit offshore. Crews of both vessels were rescued, and the eastern government said 10 Russian and Libyan crew members were injured. It condemned the attack as a breach of Libyan sovereignty, stressing Libya is not party to the Russia-Ukraine war, and the Tripoli-based unity government warned that hosting foreign forces invites spillover. Ukraine's top diplomat in Washington hinted the ships would no longer serve Russia's war effort, and Zelensky later confirmed Ukraine carried out the strike; Moscow has not commented."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由歐洲電台",
+      "en": "RFE/RL"
+     },
+     "url": "https://www.rferl.org/a/benghazi-libya-russian-ship-sunk-drone-ukraine/33903623.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄無人機炸基輔州公寓　迪梅爾11死",
+    "en": "Russian drone strike on Dymer apartment block kills 11"
+   },
+   "body": {
+    "zh": "俄羅斯無人機擊中基輔以北約 45 公里迪梅爾鎮一棟五層公寓，各樓層住宅崩塌，搜救行動 23 日結束，死亡人數增至 11 人，包括一名 11 歲女孩，另至少 7 人受傷。救援人員從瓦礫中救出一名 7 歲男童與一名受困約 22 小時的 79 歲婦人，烏克蘭緊急救援部門表示防空警報與無人機威脅一再拖慢搜救。澤倫斯基先前表示，俄軍一週內對 20 個州發射約 2,700 架攻擊無人機、1,460 枚導引炸彈與 165 枚飛彈；俄方未就此次攻擊發表評論。",
+    "en": "A Russian drone hit a five-storey apartment building in Dymer, about 45 km north of Kyiv, collapsing flats on every floor; when the search ended on November 23 the death toll stood at 11, including an 11-year-old girl, with at least seven injured. Rescuers pulled out a seven-year-old boy and a 79-year-old woman who had been trapped for about 22 hours, and emergency officials said air-raid alerts and drone threats repeatedly slowed the work. Zelensky had said Russia launched about 2,700 attack drones, 1,460 guided bombs and 165 missiles at 20 regions in a week; Russia did not comment on the strike."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Daily Maverick（路透）",
+      "en": "Daily Maverick (Reuters)"
+     },
+     "url": "https://www.dailymaverick.co.za/article/2026-11-23-russian-attack-on-ukraines-dymer-in-kyiv-region-kills-11-official-says/"
+    },
+    {
+     "name": {
+      "zh": "基輔郵報",
+      "en": "Kyiv Post"
+     },
+     "url": "https://www.kyivpost.com/post/90969"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "無人機襲擊喀土穆　4死聯合國建物受損",
+    "en": "Drone strikes on Khartoum kill 4, damage UN building"
+   },
+   "body": {
+    "zh": "蘇丹首都喀土穆 23 日凌晨遭無人機攻擊，目標據報包括政府建築與機場，當地消息指至少 4 名平民死亡、9 人受傷，攻擊被歸咎於準軍事組織快速支援部隊（RSF）。聯合國表示一棟聯合國建築受損，駐蘇丹協調員布朗稱無人機攻擊正造成難以言喻的苦難。蘇丹軍方指無人機從衣索比亞起飛，衣國否認；聯合國人權辦公室統計，今年 1 月至 10 月底無人機攻擊已在蘇丹造成逾 1,630 名平民死亡。",
+    "en": "Drones struck Sudan's capital Khartoum early on November 23, reportedly targeting government buildings and the airport; local reports said at least four civilians were killed and nine injured, and the attacks were blamed on the paramilitary Rapid Support Forces. The UN said one of its buildings was damaged, and UN coordinator Denise Brown said drone strikes are causing untold suffering. Sudan's military said the drones were launched from Ethiopia, which Addis Ababa denies; the UN human rights office says drone attacks killed more than 1,630 civilians in Sudan from January to the end of October."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "澳洲廣播公司",
+      "en": "ABC News (Australia)"
+     },
+     "url": "https://www.abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普：促成黃仁勳回任　稱司法部查無犯罪",
+    "en": "Trump says he brokered Huang's return; DOJ found no crime"
+   },
+   "body": {
+    "zh": "川普 23 日接受 CNBC 訪問時表示，他親自與輝達董事會溝通，促成黃仁勳重返執行長職位，並稱司法部認定黃仁勳沒有犯罪，美方也依掌握資訊向董事會保證此舉不構成國安威脅。他說若輝達不讓黃仁勳回任，中國可能設法延攬他，但被追問時也承認並無任何跡象，僅提到習近平十分敬重黃仁勳。黃仁勳 11 月 12 日因婚外情曝光請辭，其中一名對象據報被美國情報單位懷疑為中國從事間諜活動，北京否認相關指控。",
+    "en": "Trump told CNBC on November 23 that he personally talked to Nvidia's board and helped bring Jensen Huang back as CEO, saying the Justice Department found Huang committed no crime and that the US assured the board, based on what it knew, that his return posed no national-security threat. He said China might try to recruit Huang if he were not reinstated, though when pressed he acknowledged there was no sign of that beyond Xi Jinping's great respect for him. Huang resigned on November 12 after an affair became public; one of the women involved is reportedly suspected by US intelligence of spying for China, which Beijing denies."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611240014.aspx"
+    },
+    {
+     "name": {
+      "zh": "經濟日報（中央社）",
+      "en": "Economic Daily News (CNA)"
+     },
+     "url": "https://money.udn.com/money/story/5599/9897565"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "黃仁勳重掌輝達　股價單日飆31%",
+    "en": "Huang reinstated as Nvidia CEO; stock soars 31%"
+   },
+   "body": {
+    "zh": "輝達董事會 23 日宣布，經一連串討論後一致同意黃仁勳即日起回任總裁、執行長暨董事，並表示在諮詢美國政府高層後確信此舉不構成國安風險；代理執行長柯蕾絲續任財務長，董事長瓊斯留任。黃仁勳表示很榮幸重返，將以更謙卑與更堅定的承諾承擔責任；外部獨立調查仍持續進行，公司另成立由獨立董事組成的國安與出口管制委員會。輝達股價當天收漲 31.48% 至 165.05 美元。",
+    "en": "Nvidia's board said on November 23 it had unanimously agreed, after a series of discussions, to reinstate Jensen Huang as president, CEO and director with immediate effect, adding that it was confident after consulting senior US officials that his return poses no national-security risk; interim CEO Colette Kress remains CFO and chairman Jones stays on. Huang said he was honoured to return and would take up the role with humility and stronger commitment; an independent outside investigation continues, and the company has set up a national security and export control committee of independent directors. Nvidia shares closed up 31.48% at US$165.05."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/125066/9897261"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611240012.aspx"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6670378"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "CrowdStrike換股併Zscaler　估值439億美元",
+    "en": "CrowdStrike to buy Zscaler in US$43.9bn stock deal"
+   },
+   "body": {
+    "zh": "資安業者 CrowdStrike 23 日公布第三季財報時宣布，將以全換股方式收購同業 Zscaler，交易價值約 439 億美元，每股 Zscaler 換 1.135 股 CrowdStrike，仍須取得監管機關等核准。CrowdStrike 財務長表示，交易完成後預期立即顯著增加每股自由現金流；公司同期營收 15.8 億美元、年增 28%。消息公布後 CrowdStrike 股價收跌 8.92%，Zscaler 大漲 17.67%。",
+    "en": "Cybersecurity firm CrowdStrike announced alongside its third-quarter results on November 23 that it will acquire rival Zscaler in an all-stock deal worth about US$43.9 billion, exchanging 1.135 CrowdStrike shares for each Zscaler share, subject to regulatory and other approvals. CrowdStrike's CFO said the deal should be significantly and immediately accretive to free cash flow per share on closing; quarterly revenue was US$1.58 billion, up 28%. CrowdStrike shares closed down 8.92% while Zscaler jumped 17.67%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "CrowdStrike 財報新聞稿（SEC）",
+      "en": "CrowdStrike release (SEC filing)"
+     },
+     "url": "https://www.sec.gov/Archives/edgar/data/0001535527/000153552726000035/crwd-20261123xex991.htm"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美對伊立場現軟化跡象　國際油價重挫",
+    "en": "Oil slides on signs of softer US stance on Iran"
+   },
+   "body": {
+    "zh": "國際油價 23 日大跌，紐約西德州中級原油 1 月期貨下跌 3.24 美元（3.88%）至每桶 80.17 美元，北海布蘭特原油 1 月期貨下跌 3.20 美元（3.46%）至每桶 89.37 美元。市場人士指出，美國對伊朗態度出現緩和跡象，波斯灣原油看來持續外運，加上多位分析師預期供給即將過剩，共同壓低油價。",
+    "en": "Oil prices fell sharply on November 23: January WTI dropped US$3.24 (3.88%) to US$80.17 a barrel and January Brent lost US$3.20 (3.46%) to US$89.37. Traders cited signs that the US stance on Iran is easing, crude that appears to keep flowing out of the Persian Gulf, and several analysts' expectations of an imminent supply glut."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611240011.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "金價五連跌後反彈　盤中一度漲4.2%",
+    "en": "Gold rebounds after five-day slide, up as much as 4.2%"
+   },
+   "body": {
+    "zh": "黃金價格先前連跌五天、跌至一年多來低點，23 日出現強勁反彈，在輝達宣布黃仁勳回任後漲幅擴大，現貨金價盤中最多上漲 4.2% 至每盎司 3,686.42 美元，銅價也同步大漲。報導指出，避險買盤逢低進場是金價止跌的主因。",
+    "en": "Gold, which had fallen for five straight days to its lowest in more than a year, rebounded strongly on November 23, extending gains after Nvidia announced Huang's return; spot gold rose as much as 4.2% to US$3,686.42 an ounce, and copper also jumped. Reports attributed the turnaround to safe-haven buyers stepping in at lower prices."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9897586"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "卓揆：國安基金仍有空間　融資維持率今降",
+    "en": "Premier says stabilisation fund has room; margin rule eased today"
+   },
+   "body": {
+    "zh": "行政院長卓榮泰 23 日與產業界座談時表示，國安基金仍有操作空間，政府願意正面檢討擴大規模，標題並指財政部長傾向增加融資額度以提升運用彈性；經濟部長龔明鑫轉述業者說法，部分 AI 訂單能見度已看到 2029 年。證交所宣布融資擔保維持率由 130% 降至 120%，自 24 日起實施。",
+    "en": "Premier Cho Jung-tai told an industry forum on November 23 that the National Stabilization Fund still has room to act and the government is willing to consider enlarging it, with the finance minister reported to favour raising its financing quota for more flexibility; Economy Minister Kung Ming-hsin relayed industry comments that some AI orders are visible out to 2029. The Taiwan Stock Exchange is lowering the margin maintenance ratio from 130% to 120%, effective November 24."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9897586"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9896497"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-23",
+   "close": 36811.89,
+   "change": 778.6,
+   "pct": 2.16,
+   "open": 35899.48,
+   "high": 37108.2,
+   "low": 35442.41,
+   "prev": 36033.29,
+   "turnover": {
+    "zh": "10,791.65 億元",
+    "en": "NT$1.079 trillion"
+   },
+   "otc": {
+    "close": 270.9,
+    "change": 7.59,
+    "pct": 2.88
+   },
+   "headline": {
+    "zh": "限空首日台股反彈778點　法人仍賣超",
+    "en": "TAIEX rebounds 778 on first day of short ban"
+   },
+   "body": {
+    "zh": "加權指數 23 日小跌開出、以 35,899.48 點開盤，盤中最低 35,442.41 點、最高 37,108.20 點，震盪逾 1,600 點，終場上漲 778.60 點（2.16%）收 36,811.89 點，成交值 10,791.65 億元，上市 658 家上漲、374 家下跌、80 家平盤；櫃買指數漲 7.59 點（2.88%）收 270.90 點。權值股中，台積電漲 30 元收 2,030 元，聯發科漲停至 3,685 元、台達電漲停至 990 元，聯電漲 9.96% 收 88.3 元，南亞亦漲停；金融類股則逆勢下跌 2.65%。當天是金管會平盤下全面禁空等新措施上路首日，國安基金也已進場，但三大法人仍合計賣超 511.77 億元。",
+    "en": "The TAIEX opened slightly lower at 35,899.48 on November 23 and swung more than 1,600 points between a low of 35,442.41 and a high of 37,108.20 before closing up 778.60 points (2.16%) at 36,811.89 on turnover of NT$1.079 trillion; 658 listed stocks rose, 374 fell and 80 were flat, while the TPEx index gained 7.59 points (2.88%) to 270.90. Among heavyweights, TSMC rose NT$30 to NT$2,030, MediaTek and Delta Electronics hit limit-up at NT$3,685 and NT$990, UMC gained 9.96% to NT$88.3 and Nan Ya Plastics also closed limit-up, while financial stocks fell 2.65%. It was the first day of the FSC's ban on shorting below the previous close and related curbs, with the National Stabilization Fund already in the market, yet the three major institutional groups were still net sellers of NT$51.177 billion."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -289.48
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": -32.28
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -190.01
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -511.77,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "自營商自行買賣賣超 28.99 億元、避險賣超 161.02 億元；櫃買市場三大法人則合計買超 46.22 億元。",
+    "en": "Dealers' proprietary accounts sold a net NT$2.899 billion and their hedging accounts NT$16.102 billion; on the TPEx, the three groups were net buyers of NT$4.622 billion."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2778-60%E9%BB%9E-055218204.html"
+    },
+    {
+     "name": {
+      "zh": "鏡週刊",
+      "en": "Mirror Media"
+     },
+     "url": "https://mirrormedia.mg/story/20261123edi026?amp="
+    },
+    {
+     "name": {
+      "zh": "NOWnews 今日新聞",
+      "en": "NOWnews"
+     },
+     "url": "https://www.nownews.com/news/6894765"
+    },
+    {
+     "name": {
+      "zh": "華視新聞（中央社）",
+      "en": "CTS News (CNA)"
+     },
+     "url": "https://news.cts.com.tw/cna/money/202611/202611233104305.html"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9896497"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E6%BC%B27-59%E9%BB%9E-055920218.html"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-23",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 49595.31,
+     "change": 1447.98,
+     "pct": 3.01
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7237.17,
+     "change": 326.78,
+     "pct": 4.73
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 24089.56,
+     "change": 1471.83,
+     "pct": 6.51
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 9588.05,
+     "change": 1179.46,
+     "pct": 14.03
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 363.6,
+     "change": null,
+     "pct": 14.08
+    }
+   ],
+   "headline": {
+    "zh": "美股：黃仁勳回任　費半飆14%那指漲6.5%",
+    "en": "US close, Nov 23: SOX soars 14%, Nasdaq up 6.5% on Huang's return"
+   },
+   "body": {
+    "zh": "週一（23 日）輝達宣布黃仁勳回任執行長，AI 與半導體股全面反彈，道瓊上漲 1,447.98 點（3.01%）收 49,595.31 點，標普 500 漲 4.73% 收 7,237.17 點，那指漲 6.51% 收 24,089.56 點，兩者漲幅皆為 2025 年 4 月以來最大，費城半導體指數狂漲 14.03% 收 9,588.05 點，台積電 ADR 漲 14.08% 收 363.6 美元。輝達收漲 31.48%，美光漲 19.04%、超微漲 6.85%，聯電 ADR 漲 19.52%；CrowdStrike 宣布併購 Zscaler 後股價下跌 8.92%。台指期夜盤則觸及漲停，收在 39,829 點、漲 8.65%；美股 26 日感恩節休市，27 日提前收盤。",
+    "en": "Monday's (November 23) news that Huang would return as Nvidia's CEO sparked a broad rebound in AI and chip stocks: the Dow rose 1,447.98 points (3.01%) to 49,595.31, the S&P 500 gained 4.73% to 7,237.17 and the Nasdaq jumped 6.51% to 24,089.56, both their biggest daily gains since April 2025, while the SOX soared 14.03% to 9,588.05 and the TSMC ADR climbed 14.08% to US$363.60. Nvidia closed up 31.48%, Micron gained 19.04%, AMD 6.85% and the UMC ADR 19.52%, while CrowdStrike fell 8.92% after announcing its Zscaler deal. TAIEX futures hit limit-up in the night session, closing up 8.65% at 39,829; US markets are closed on November 26 for Thanksgiving and close early on the 27th."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611240012.aspx"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5651136"
+    },
+    {
+     "name": {
+      "zh": "鉅亨網",
+      "en": "Anue"
+     },
+     "url": "https://news.cnyes.com/news/id/6670378"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/"
+    },
+    {
+     "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261124000983-260410"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週二 11/24 09:00",
+     "en": "Tue, Nov 24, 09:00"
+    },
+    "text": {
+     "zh": "台股開盤，融資擔保維持率由 130% 降至 120% 新制上路",
+     "en": "Taiwan market opens with the margin maintenance ratio cut from 130% to 120%"
+    }
+   },
+   {
+    "time": {
+     "zh": "週二 11/24",
+     "en": "Tue, Nov 24"
+    },
+    "text": {
+     "zh": "經濟部公布 10 月工業生產指數與批發、零售及餐飲業營業額",
+     "en": "Economic ministry releases October industrial production and wholesale, retail and restaurant sales"
+    }
+   },
+   {
+    "time": {
+     "zh": "週二 11/24",
+     "en": "Tue, Nov 24"
+    },
+    "text": {
+     "zh": "兆豐金、中電等多家公司舉行法說會；小米集團公布第三季財報",
+     "en": "Earnings calls from Mega Financial, CEC and others; Xiaomi reports third-quarter results"
+    }
+   },
+   {
+    "time": {
+     "zh": "週二 11/24 美股盤後",
+     "en": "Tue, Nov 24, after US close"
+    },
+    "text": {
+     "zh": "戴爾、惠普公布財報",
+     "en": "Dell and HP report earnings"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5607/9897641"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/7251/9896497"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-17",
+     40092.11
+    ],
+    [
+     "2026-11-18",
+     40194.91
+    ],
+    [
+     "2026-11-19",
+     38426.89
+    ],
+    [
+     "2026-11-20",
+     36033.29
+    ],
+    [
+     "2026-11-23",
+     36811.89
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-17",
+     24328.38
+    ],
+    [
+     "2026-11-18",
+     24429.88
+    ],
+    [
+     "2026-11-19",
+     23879.2
+    ],
+    [
+     "2026-11-20",
+     22617.73
+    ],
+    [
+     "2026-11-23",
+     24089.56
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-17",
+     9642.88
+    ],
+    [
+     "2026-11-18",
+     9652.8
+    ],
+    [
+     "2026-11-19",
+     9419.72
+    ],
+    [
+     "2026-11-20",
+     8408.59
+    ],
+    [
+     "2026-11-23",
+     9588.05
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611160118.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611180143.aspx"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Next Apple News"
+    },
+    "url": "https://news.nextapple.com/finance/20261119/D5668A473D862BBC70D1A2D2EB154ABC"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611190149.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5647048"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+   },
+   {
+    "name": {
+     "zh": "中時新聞網",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2778-60%E9%BB%9E-055218204.html"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611240012.aspx"
+   }
+  ]
+ }
+}
