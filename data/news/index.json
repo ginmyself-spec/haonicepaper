@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-24",
+ "latest": "2026-11-25",
  "days": [
+  {
+   "date": "2026-11-25",
+   "summary": {
+    "zh": "利雅德高樓再遇襲；台股飆3310點費半挫7.9%",
+    "en": "Riyadh tower hit again; TAIEX up 3,310, SOX down 7.9%"
+   }
+  },
   {
    "date": "2026-11-24",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "川普抵深圳晤習普；台股漲102點守4萬",
     "en": "Xi greets Trump in Shenzhen; TAIEX up 102, holds 40K"
-   }
-  },
-  {
-   "date": "2026-11-18",
-   "summary": {
-    "zh": "刻赤大橋路段崩塌；台股跌947點守4萬",
-    "en": "Kerch Bridge span falls; TAIEX drops 947, holds 40K"
    }
   }
  ]
