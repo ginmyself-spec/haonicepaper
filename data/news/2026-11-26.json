@@ -1,0 +1,783 @@
+{
+ "date": "2026-11-26",
+ "updated": "2026-11-26T07:58:00+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "美301擬對14經濟體課稅；台股重挫1927點",
+  "en": "US 301 tariffs proposed on 14 economies; TAIEX down 1,927"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "美301擬對14經濟體課稅　台日韓歐15%",
+    "en": "US 301 probe proposes tariffs on 14 economies; Taiwan at 15%"
+   },
+   "body": {
+    "zh": "美國貿易代表署 25 日公布歷時數月的製造業結構性產能過剩 301 調查報告，擬對中國、歐盟、日本、南韓、台灣、印度、越南等 14 個經濟體加徵關稅，美方資深官員表示提議稅率最高 20%，挪威與墨西哥的方案則尚未定案。台灣提議稅率最高 15%、不與最惠國稅率及既有 301 關稅疊加，與日本、南韓、歐盟、瑞士同屬最低級距；鋼鋁銅、汽車及零組件、木材、專利藥品與半導體等已適用 232 關稅的品項排除在外。美方將收集公眾意見至 2027 年 1 月 5 日前，並預計 1 月 25 日舉行公聽會；行政院強調這仍是提案，將在程序中爭取鞏固已談定的 15% 不疊加稅率。",
+    "en": "The US Trade Representative on November 25 released its months-long Section 301 report on structural overcapacity in manufacturing, proposing tariffs on 14 economies including China, the EU, Japan, South Korea, Taiwan, India and Vietnam; a senior US official said proposed rates run up to 20%, while proposals for Norway and Mexico were not finalised. Taiwan's proposed rate is up to 15%, not stacked on most-favoured-nation duties or existing 301 tariffs, putting it in the lowest tier with Japan, South Korea, the EU and Switzerland; items already under Section 232 tariffs, such as steel, aluminium and copper, autos and parts, wood products, patented drugs and semiconductors, are excluded. Public comments are due before January 5, 2027, with a hearing expected on January 25; Taiwan's Executive Yuan stressed it is only a proposal and said it will work through the process to lock in the agreed 15% non-stacked rate."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aipl/202611260002.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aipl/202611260005.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611250324.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "伊朗稱兩油輪荷莫茲觸雷　加強管控航道",
+    "en": "Iran says two tankers hit mines in Hormuz, tightens control"
+   },
+   "body": {
+    "zh": "伊朗革命衛隊 25 日表示，兩艘油輪在荷莫茲海峽試圖行經「未經授權的航線」時觸及水雷，發生爆炸並起火。伊朗陸軍發言人阿克拉米尼亞表示，已部署新系統加強對這條水道的監控與管制。針對美國的海上封鎖，伊朗副總統阿雷夫稱並不擔心，因為經由其他邊境的貨運量已大幅增加；總統裴澤斯基安則表示，政府將把更多預算與節約的能源用於改善貧困社區民生。",
+    "en": "Iran's Revolutionary Guards said on November 25 that two oil tankers struck naval mines, exploded and caught fire while trying to use an \"unauthorized route\" through the Strait of Hormuz. Iranian army spokesman Mohammad Akraminia said new systems had been deployed to tighten surveillance and control of the waterway. On the US naval blockade, Vice President Mohammad Reza Aref said Iran was not worried because cargo through other borders had risen sharply, while President Masoud Pezeshkian said the government would direct more budget and energy savings to living standards in poorer communities."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Just Security 每日要聞（彙整路透等）",
+      "en": "Just Security Early Edition (citing Reuters et al.)"
+     },
+     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "胡塞稱襲沙國煉油廠及港口　聯軍稱攔截",
+    "en": "Houthis claim strikes on Saudi refinery, ports; coalition says intercepted"
+   },
+   "body": {
+    "zh": "葉門胡塞組織 25 日宣稱攻擊沙烏地阿拉伯東部省的拉斯坦努拉煉油廠，發言人薩里耶稱造成火災；沙國主導的聯軍則表示，防空系統在當地攔截並摧毀 4 架無人機，未證實煉油廠遭擊中。胡塞組織當晚又宣稱對吉達與吉贊兩座港口發動攻擊，稱是回應聯軍當天空襲荷台達港，沙方尚未回應。此前 24 日利雅德一棟高樓遇襲，沙國民防單位稱造成 11 人受傷。",
+    "en": "Yemen's Houthis said on November 25 they attacked Saudi Arabia's Ras Tanura refinery in the Eastern Province, with spokesman Yahya Saree saying it caused fires; the Saudi-led coalition said air defences intercepted and destroyed four drones over the area and did not confirm a hit on the refinery. Later that evening the Houthis said they struck the ports of Jeddah and Jazan in response to a coalition airstrike on Hodeidah port earlier in the day, and Saudi Arabia had not responded. A day earlier a Riyadh skyscraper was hit, injuring 11 people according to Saudi civil defence."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Just Security 每日要聞（彙整路透等）",
+      "en": "Just Security Early Edition (citing Reuters et al.)"
+     },
+     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    },
+    {
+     "name": {
+      "zh": "新浪國際熱點小時報",
+      "en": "Sina international hourly digest"
+     },
+     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w3yn.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "俄軍襲敖德薩2死　普丁揚言報復",
+    "en": "Russian strike kills 2 in Odesa; Putin vows retaliation"
+   },
+   "body": {
+    "zh": "烏克蘭敖德薩州長基珀表示，俄軍 25 日的攻擊造成 2 人死亡、3 人受傷，傷者包括一名兒童；基輔市長克里契科則說，一棟多層公寓遭攻擊起火，2 人受傷。普丁 24 日指烏克蘭不顧美國總統川普的要求，仍持續攻擊俄國煉油廠，並稱俄方的報復措施「不可避免」；烏方的立場是，俄國停止攻擊能源設施，烏克蘭才會停手。德國總理梅爾茨 25 日在聯邦議院表示俄羅斯對歐洲安全的威脅正在升高，並為國防支出與持續援烏辯護。",
+    "en": "Odesa regional governor Oleh Kiper said a Russian attack on November 25 killed two people and injured three, including a child, while Kyiv Mayor Vitali Klitschko said a strike set a multi-storey apartment block on fire and injured two. Putin said on the 24th that Ukraine kept attacking Russian oil refineries despite US President Donald Trump's requests, calling Russian retaliation \"inevitable\"; Ukraine has said it will stop hitting Russian energy targets only if Russia does the same. German Chancellor Friedrich Merz told the Bundestag on the 25th that Russia's threat to European security is escalating and defended defence spending and continued aid to Ukraine."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Just Security 每日要聞（彙整路透等）",
+      "en": "Just Security Early Edition (citing Reuters et al.)"
+     },
+     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "以軍空襲加薩　哈瑪斯官員與妻兒身亡",
+    "en": "Israeli strike in Gaza kills Hamas official and family"
+   },
+   "body": {
+    "zh": "據哈瑪斯掌管的加薩內政部與醫護人員表示，以色列 25 日空襲加薩市西部海灘難民營一處公寓，炸死哈瑪斯內部安全部門負責人阿布埃魯夫上校及其妻子與兩名子女，卡拉馬社區的另一波空襲也造成 1 人死亡。以色列軍方表示，攻擊目標是數名武裝人員。聯合國同日發出警告，指以色列對巴勒斯坦人犯下暴行罪的風險日益升高。",
+    "en": "Gaza's Hamas-run interior ministry and medics said an Israeli strike on November 25 hit an apartment in the Beach refugee camp in western Gaza City, killing Colonel Mohammad Abuelouf, head of Hamas's internal security service, along with his wife and two children; a separate strike in the Karama neighbourhood killed one more person. The Israeli military said it had targeted several militants. The United Nations warned the same day of a growing risk of Israel committing atrocity crimes against Palestinians."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Just Security 每日要聞（彙整路透等）",
+      "en": "Just Security Early Edition (citing Reuters et al.)"
+     },
+     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611250326.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "索羅門與澳洲簽約　不再續簽中國安全協議",
+    "en": "Solomons signs Australia treaty, won't renew China pact"
+   },
+   "body": {
+    "zh": "索羅門群島 25 日與澳洲簽署條約，內容將排除外國在索國設立軍事或安全基地。總理瓦勒被問及 2022 年與中國簽訂的安全協議時，以保密協議為由不予回應；一名外交官員表示，索國上月已告知中方，該協議明年到期後不會續約。報導未見北京對此的回應。",
+    "en": "The Solomon Islands signed a treaty with Australia on November 25 that would preclude any foreign military or security base in the country. Prime Minister Matthew Wale declined to discuss the 2022 security pact with China, citing a nondisclosure agreement; a diplomatic official said the Solomons told China last month the pact would not be renewed when it expires next year. No response from Beijing was reported."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Just Security 每日要聞（彙整路透等）",
+      "en": "Just Security Early Edition (citing Reuters et al.)"
+     },
+     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/video/globalview/4357593"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "美GDP上修至4.3%　PCE年增3.8%",
+    "en": "US Q3 GDP revised up to 4.3%; PCE inflation 3.8%"
+   },
+   "body": {
+    "zh": "美國經濟分析局 25 日公布，第三季實質 GDP 年化成長率上修 0.9 個百分點至 4.3%，主因投資加速與政府支出回升，出口減少則部分抵銷。10 月 PCE 物價指數年增 3.8%，追平 5 月創下的 3 年高點，能源與非耐久財價格漲幅擴大；核心 PCE 月增 0.3%，連續第 3 個月持平此一增幅。聯準會已於 9 月升息、10 月按兵不動，The Company Chronicle 引述 CME FedWatch 指交易員預期 12 月升息機率達 97%。",
+    "en": "The Bureau of Economic Analysis said on November 25 that third-quarter real GDP growth was revised up 0.9 percentage point to an annualised 4.3%, driven by faster investment and a pickup in government spending, partly offset by lower exports. The October PCE price index rose 3.8% year on year, matching May's three-year high, as energy and non-durable goods prices accelerated; core PCE rose 0.3% on the month for a third straight month. The Fed hiked in September and held in October, and The Company Chronicle, citing CME FedWatch, said traders price a 97% chance of a December hike."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611250343.aspx"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+    },
+    {
+     "name": {
+      "zh": "The Company Chronicle",
+      "en": "The Company Chronicle"
+     },
+     "url": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "標普啟動90天評估　考慮調降輝達評等",
+    "en": "S&P puts Nvidia's AA rating under 90-day review"
+   },
+   "body": {
+    "zh": "彭博報導，標普全球評級 25 日宣布對輝達的 AA 信用評等展開 90 天評估，並將其列入負向觀察名單，原因是執行長黃仁勳離職後又回任，引發管理與治理層面的疑慮。標普表示，若調降原則上僅限一級，除非調查結果或揭露資訊讓其認定公司聲譽或未來業務前景受損。輝達股價當天一度重挫逾 9%，終場收跌 3.9% 至 149.30 美元。",
+    "en": "Bloomberg reported that S&P Global Ratings on November 25 began a 90-day review of Nvidia's AA credit rating and placed it on negative watch, citing management and governance concerns raised by CEO Jensen Huang's departure and return. S&P said any downgrade would likely be limited to one notch unless investigation findings or disclosures lead it to conclude the company's reputation or business prospects have been harmed. Nvidia shares fell more than 9% intraday before closing down 3.9% at US$149.30."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611263001.aspx"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/123398/9902571"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中東襲擊加劇　布蘭特原油漲3.5%",
+    "en": "Middle East attacks lift Brent 3.5%"
+   },
+   "body": {
+    "zh": "中東攻擊事件升溫，讓近幾個月逐步恢復的原油運輸前景再蒙陰影，國際油價 25 日走高。紐約西德州中級原油 2027 年 1 月期貨上漲 2% 至每桶 83.68 美元，北海布蘭特原油 1 月期貨上漲 3.5% 至每桶 94.61 美元。伊朗同日表示有兩艘油輪在荷莫茲海峽觸雷起火，胡塞組織也宣稱攻擊沙國煉油廠。",
+    "en": "Escalating attacks in the Middle East clouded the outlook for crude shipping, which had been gradually recovering in recent months, pushing oil prices higher on November 25. January 2027 WTI rose 2% to US$83.68 a barrel and January Brent gained 3.5% to US$94.61. The same day Iran said two tankers hit mines in the Strait of Hormuz and the Houthis claimed an attack on a Saudi refinery."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611260011.aspx"
+    },
+    {
+     "name": {
+      "zh": "Just Security 每日要聞（彙整路透等）",
+      "en": "Just Security Early Edition (citing Reuters et al.)"
+     },
+     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "惠普營收增9.3%　AI PC占出貨近6成",
+    "en": "HP revenue up 9.3%; AI PCs near 60% of shipments"
+   },
+   "body": {
+    "zh": "惠普（HP Inc.）24 日美股盤後公布 2026 會計年度第四季財報，營收 160 億美元、年增 9.3%，非 GAAP 每股盈餘 0.83 美元、年減 10.8%，但高於公司原先財測；個人電腦事業營收年增 14%，列印事業年減 1%。代理執行長布魯薩德表示 AI PC 已占當季出貨近六成，公司正因應記憶體與儲存成本壓力；惠普預估 2027 年度非 GAAP 每股盈餘 3.15 至 3.45 美元。惠普股價 25 日上漲 11.49%。",
+    "en": "HP Inc. reported fiscal 2026 fourth-quarter results after the US close on November 24: revenue of US$16.0 billion, up 9.3%, and non-GAAP EPS of US$0.83, down 10.8% but above its prior outlook; Personal Systems revenue rose 14% while Printing fell 1%. Interim CEO Bruce Broussard said AI PCs made up nearly 60% of shipments and that HP is addressing memory and storage cost pressures; the company guided fiscal 2027 non-GAAP EPS of US$3.15 to US$3.45. HP shares rose 11.49% on November 25."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "惠普財報新聞稿（SEC）",
+      "en": "HP release (SEC filing)"
+     },
+     "url": "https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "金管會：57件庫藏股執行中　上限332億",
+    "en": "FSC: 57 buybacks under way, up to NT$33.3bn"
+   },
+   "body": {
+    "zh": "台股 25 日重挫 1,926.92 點，金管會發布新聞稿指出，截至 24 日仍有 57 件庫藏股執行中（上市 19 件、上櫃 38 件），最大可買回金額約 332.65 億元，其中 47 件是 11 月 6 日以來新增。金管會自 9 日起分三波限制借券賣出與放空，24 日整體信用戶維持率為 172.39%。截至 25 日 13 時 30 分，台股 11 月以來累計下跌 15.52%，跌幅在亞洲主要市場中僅次於南韓的 17.97%。",
+    "en": "After the TAIEX tumbled 1,926.92 points on November 25, the Financial Supervisory Commission said 57 share buybacks were still under way as of the 24th (19 listed, 38 OTC), with a maximum of about NT$33.27 billion, 47 of them launched since November 6. The FSC has curbed securities-lending sales and short selling in three rounds since the 9th, and the overall margin maintenance ratio stood at 172.39% on the 24th. As of 1:30 p.m. on the 25th, Taiwan stocks were down 15.52% in November, second only to South Korea's 17.97% among major Asian markets."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB-%E9%87%91%E7%AE%A1%E6%9C%83-57%E4%BB%B6%E5%BA%AB%E8%97%8F%E8%82%A1%E5%9F%B7%E8%A1%8C%E4%B8%AD-%E6%9C%80%E5%A4%A7%E5%8F%AF%E8%B2%B7%E5%9B%9E%E9%81%94332%E5%84%84-125653512.html"
+    },
+    {
+     "name": {
+      "zh": "聯合新聞網",
+      "en": "UDN"
+     },
+     "url": "https://udn.com/news/story/7251/9901869"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-25",
+   "close": 38195.43,
+   "change": -1926.92,
+   "pct": -4.8,
+   "open": 39983.91,
+   "high": 39983.91,
+   "low": 36681.9,
+   "prev": 40122.35,
+   "turnover": {
+    "zh": "1 兆 1,881.99 億元",
+    "en": "NT$1.188 trillion"
+   },
+   "headline": {
+    "zh": "關稅與AI疑慮夾擊　台股重挫1927點",
+    "en": "TAIEX plunges 1,927 points on tariff and AI worries"
+   },
+   "body": {
+    "zh": "加權指數 25 日以 39,983.91 點開出即為全日高點，盤中一度重挫 3,440.45 點至 36,681.90 點，約 10 時 20 分後跌幅收斂，終場下跌 1,926.92 點（4.80%）收 38,195.43 點，為史上第 6 大收盤跌點並跌破年線；成交值放大至 1 兆 1,881.99 億元，上市 39 家上漲、1,053 家下跌、19 家平盤。台積電跌 80 元至 2,150 元，聯發科鎖跌停於 3,645 元，鴻海跌 8.83% 至 206.5 元，台達電跌 2.76% 至 1,055 元，聯電、創意也收跌停，金融股下跌 6.31%。市場受前一日美股費半重挫、美國擬對 14 個經濟體加徵關稅等消息衝擊，外資賣超 1,236.55 億元、自 16 日起連續第 8 個交易日賣超，外資台指期淨空單增至 105,709 口。",
+    "en": "The TAIEX opened at its session high of 39,983.91 on November 25 and plunged as much as 3,440.45 points to 36,681.90 before losses narrowed after about 10:20 a.m., closing down 1,926.92 points (4.80%) at 38,195.43, the sixth-largest point drop on record and below its 240-day moving average; turnover swelled to NT$1.188 trillion, with 39 listed stocks up, 1,053 down and 19 flat. TSMC fell NT$80 to NT$2,150, MediaTek was locked limit-down at NT$3,645, Hon Hai lost 8.83% to NT$206.5 and Delta Electronics 2.76% to NT$1,055, UMC and GUC also closed limit-down, and financials fell 6.31%. The market was hit by the previous day's slump in US chip stocks and the US plan for new tariffs on 14 economies; foreign investors sold a net NT$123.66 billion, their eighth straight day of net selling since the 16th, and raised net short TAIEX futures positions to 105,709 contracts."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -1236.55
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 535.32
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": -128.33
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -829.56,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "投信買超 535.32 億元，是三大法人中唯一買超；外資賣超 1,236.55 億元為最多。",
+    "en": "Investment trusts were the only net buyers at NT$53.53 billion; foreign investors were the largest net sellers at NT$123.66 billion."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611250141.aspx"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%87%8D%E6%8C%AB1926%E9%BB%9E%E6%91%9C%E7%A0%B4%E5%B9%B4%E7%B7%9A-%E5%8F%B2%E4%B8%8A%E7%AC%AC6%E5%A4%A7%E8%B7%8C%E9%BB%9E%E6%88%90%E4%BA%A4%E6%94%BE%E9%87%8F%E9%80%BE%E5%85%86-065950184.html"
+    },
+    {
+     "name": {
+      "zh": "新頭殼",
+      "en": "Newtalk"
+     },
+     "url": "https://newtalk.tw/news/view/2026-11-25/1073695"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（MoneyDJ）",
+      "en": "Yahoo Finance TW (MoneyDJ)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/11-25%E9%9B%86%E4%B8%AD%E5%B8%82%E5%A0%B4%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%90%88%E8%A8%88%E8%B3%A3%E8%B6%85829-56%E5%84%84%E5%85%83-070600575.html"
+    },
+    {
+     "name": {
+      "zh": "NOWnews 今日新聞",
+      "en": "NOWnews"
+     },
+     "url": "https://www.nownews.com/news/6895401"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-25",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 50182.95,
+     "change": 164.25,
+     "pct": 0.33
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7182.78,
+     "change": -18.31,
+     "pct": -0.25
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 23585.8,
+     "change": -147.73,
+     "pct": -0.62
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 8774.86,
+     "change": -57.64,
+     "pct": -0.65
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 342.34,
+     "change": -6.86,
+     "pct": -1.96
+    }
+   ],
+   "headline": {
+    "zh": "美股：道瓊收復千點跌幅　那指跌0.6%",
+    "en": "US close, Nov 25: Dow erases 1,100-point drop; Nasdaq off 0.6%"
+   },
+   "body": {
+    "zh": "週三（25 日）美國提出新關稅方案、10 月 PCE 顯示通膨未降溫，加上 AI 科技股賣壓，道瓊開盤後一度重挫約 1,105 點、那指盤中跌幅達 4.6%，費半一度下跌約 8%。隨後 AI 股賣壓緩和，經濟日報並指有報導稱美方官員告知國會，沒有證據顯示有中國科技業人士受情報單位指使接近黃仁勳，逢低買盤在感恩節前進場，道瓊終場上漲 164.25 點（0.33%）收 50,182.95 點，標普 500 跌 0.25% 收 7,182.78 點，那指跌 147.73 點（0.62%）收 23,585.80 點，費半跌 0.65% 收 8,774.86 點。個股方面，輝達收跌 3.9%、美光跌約 4.5%，惠普因財報優於預期大漲 11.49%，台積電 ADR 跌 1.96% 收 342.34 美元。台指期夜盤上漲 274 點收 38,397 點；美股 26 日感恩節休市，27 日提前收盤。",
+    "en": "On Wednesday (November 25) a new US tariff proposal, October PCE data showing sticky inflation and selling in AI tech stocks sent the Dow down about 1,105 points shortly after the open, the Nasdaq down as much as 4.6% and the SOX down about 8% intraday. As AI selling eased, helped according to Economic Daily News by a report that US officials told Congress there was no evidence a Chinese tech figure was directed by intelligence services to approach Jensen Huang, bargain hunters stepped in ahead of Thanksgiving: the Dow closed up 164.25 points (0.33%) at 50,182.95, the S&P 500 slipped 0.25% to 7,182.78, the Nasdaq fell 147.73 points (0.62%) to 23,585.80 and the SOX lost 0.65% to 8,774.86. Nvidia closed down 3.9% and Micron about 4.5%, HP jumped 11.49% on better-than-expected results, and the TSMC ADR fell 1.96% to US$342.34. TAIEX futures rose 274 points to 38,397 in the night session; US markets are closed on November 26 for Thanksgiving and close early on the 27th."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/123398/9902571"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5653621"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+    },
+    {
+     "name": {
+      "zh": "The Company Chronicle",
+      "en": "The Company Chronicle"
+     },
+     "url": "https://thecompanychronicle.com/story/stocks-close-dow-erases-1100-point-loss-nasdaq-sp500-slip-november-25-2026"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週四 11/26 08:30",
+     "en": "Thu, Nov 26, 08:30"
+    },
+    "text": {
+     "zh": "行政院副院長鄭麗君率經濟部會就美國 301 產能過剩調查提案召開記者會",
+     "en": "Vice Premier Cheng Li-chiun and economic ministers hold a press conference on the US Section 301 overcapacity proposal"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/26",
+     "en": "Thu, Nov 26"
+    },
+    "text": {
+     "zh": "南韓央行公布利率決策",
+     "en": "Bank of Korea interest-rate decision"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/26 20:30",
+     "en": "Thu, Nov 26, 20:30"
+    },
+    "text": {
+     "zh": "歐洲央行公布 10 月貨幣政策會議紀要",
+     "en": "ECB publishes the account of its October monetary policy meeting"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/26–週五 11/27",
+     "en": "Thu, Nov 26 – Fri, Nov 27"
+    },
+    "text": {
+     "zh": "美股 26 日感恩節休市，27 日提前收盤",
+     "en": "US markets closed on Nov 26 for Thanksgiving; early close on Nov 27"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/aipl/202611260005.aspx"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/5607/9902562"
+   },
+   {
+    "name": {
+     "zh": "金十數據（時事新聞轉載）",
+     "en": "Jin10 (via Shishi Xinwen)"
+    },
+    "url": "https://shishixinwen.news/news/jin10/20261126065000001800"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5653621"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-19",
+     38426.89
+    ],
+    [
+     "2026-11-20",
+     36033.29
+    ],
+    [
+     "2026-11-23",
+     36811.89
+    ],
+    [
+     "2026-11-24",
+     40122.35
+    ],
+    [
+     "2026-11-25",
+     38195.43
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-19",
+     23879.2
+    ],
+    [
+     "2026-11-20",
+     22617.73
+    ],
+    [
+     "2026-11-23",
+     24089.56
+    ],
+    [
+     "2026-11-24",
+     23733.54
+    ],
+    [
+     "2026-11-25",
+     23585.8
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-19",
+     9419.72
+    ],
+    [
+     "2026-11-20",
+     8408.59
+    ],
+    [
+     "2026-11-23",
+     9588.05
+    ],
+    [
+     "2026-11-24",
+     8832.5
+    ],
+    [
+     "2026-11-25",
+     8774.86
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值。",
+   "en": "All points shown are published closing values; none are derived."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611160118.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611180143.aspx"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Next Apple News"
+    },
+    "url": "https://news.nextapple.com/finance/20261119/D5668A473D862BBC70D1A2D2EB154ABC"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611190149.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5647048"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+   },
+   {
+    "name": {
+     "zh": "中時新聞網",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2778-60%E9%BB%9E-055218204.html"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611240012.aspx"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B23310-46%E9%BB%9E-054610731.html"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261125700361-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611250141.aspx"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/123398/9902571"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5653621"
+   }
+  ]
+ }
+}

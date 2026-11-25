@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-25",
+ "latest": "2026-11-26",
  "days": [
+  {
+   "date": "2026-11-26",
+   "summary": {
+    "zh": "美301擬對14經濟體課稅；台股重挫1927點",
+    "en": "US 301 tariffs proposed on 14 economies; TAIEX down 1,927"
+   }
+  },
   {
    "date": "2026-11-25",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "美中俄峰會發宣言；台股重挫1,768點",
     "en": "Trump-Xi-Putin declaration; TAIEX plunges 1,768"
-   }
-  },
-  {
-   "date": "2026-11-19",
-   "summary": {
-    "zh": "川普抵深圳晤習普；台股漲102點守4萬",
-    "en": "Xi greets Trump in Shenzhen; TAIEX up 102, holds 40K"
    }
   }
  ]
