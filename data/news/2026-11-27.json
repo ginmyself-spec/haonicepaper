@@ -1,0 +1,764 @@
+{
+ "date": "2026-11-27",
+ "updated": "2026-11-27T07:50:56+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "科威特遇襲2義人亡；台股反彈956點",
+  "en": "Kuwait strike kills 2 Italians; TAIEX up 956"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "科威特遭無人機襲擊　2義大利技師喪生",
+    "en": "Drone strike in Kuwait kills two Italian technicians"
+   },
+   "body": {
+    "zh": "科威特國防部表示，一處重要防空設施 26 日遭無人機攻擊，2 名義大利籍人員傷重不治，另有 1 名科威特陸軍上尉與 1 名巴基斯坦人受傷，並指攻擊來自伊朗。義大利外長塔加尼在參議院說明，罹難者是德國萊茵金屬旗下義大利子公司的技師，正在當地防空監測站進行維護，義方將向伊朗駐義使館交涉。伊朗武裝部隊發言人謝卡爾奇否認伊朗在該地區發動任何攻擊或軍事行動，伊朗駐羅馬使館也在 X 平台否認涉案。",
+    "en": "Kuwait's defence ministry said a drone hit a key air-defence facility on November 26, killing two Italian nationals and injuring a Kuwaiti army captain and a Pakistani national, and blamed Iran. Italian Foreign Minister Antonio Tajani told the Senate the dead were technicians from the Italian unit of Germany's Rheinmetall doing maintenance at an air-defence monitoring site, and said Italy would raise the matter with Iran's embassy. Iranian armed forces spokesman Abolfazl Shekarchi denied that Iran had carried out any attack or military operation in the area, and Iran's embassy in Rome also rejected the accusation on X."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270008.aspx"
+    },
+    {
+     "name": {
+      "zh": "海灣新聞",
+      "en": "Gulf News"
+     },
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-refinery-attack-kills-worker-iran-denies-deadly-kuwait-strike-1.500761343"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "沙國吉贊煉油廠遇襲　1死多傷部分停工",
+    "en": "Saudi Jazan refinery hit; one dead, some units halted"
+   },
+   "body": {
+    "zh": "沙烏地阿拉伯能源部 26 日表示，沙烏地阿美位於南部吉贊的煉油廠遭空中飛行物擊中並起火，造成 1 名尼泊爾籍工人死亡、數人受傷，部分作業暫停，火勢其後受控。能源部聲明未點名攻擊者，沙國主導的聯軍發言人馬爾基則指是胡塞組織所為，稱攻擊平民將招致堅決的軍事回應；聯軍並稱已摧毀荷台達一處被用於這次攻擊的飛彈發射平台。吉贊煉油廠鄰近葉門邊境，設計日處理量最高 40 萬桶原油；胡塞組織 25 日曾宣稱攻擊拉斯坦努拉、吉達與吉贊等地。",
+    "en": "Saudi Arabia's energy ministry said on November 26 that Saudi Aramco's Jazan refinery in the south was struck by an airborne projectile and caught fire, killing a Nepali worker and injuring several people; some operations were temporarily halted and the fire was later brought under control. The ministry did not name an attacker, but Saudi-led coalition spokesman Turki al-Malki blamed the Houthis and said targeting civilians would meet a firm military response; the coalition said it destroyed a missile launch platform in Hodeidah used in the attack. The Jazan refinery, near the Yemeni border, is designed to process up to 400,000 barrels of crude a day; on November 25 the Houthis had claimed attacks on Ras Tanura, Jeddah and Jazan."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270010.aspx"
+    },
+    {
+     "name": {
+      "zh": "海灣新聞",
+      "en": "Gulf News"
+     },
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-refinery-attack-kills-worker-iran-denies-deadly-kuwait-strike-1.500761343"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "川普稱已促普丁停止侵略歐洲　盼速達協議",
+    "en": "Trump says he urged Putin to halt aggression in Europe"
+   },
+   "body": {
+    "zh": "美國總統川普 26 日在社群平台「真實社群」發文，表示已敦促俄羅斯總統普丁停止在歐洲領土上的一切軍事侵略，並認為俄烏可以很快達成協議；他說 19 日在中國與普丁會談時，花了很多時間討論這件事。烏克蘭總統澤倫斯基則表示，烏方掌握情資顯示俄羅斯正準備在未來幾天發動新一波大規模空襲。俄烏戰爭已持續 4 年 9 個月，目前仍未見停火跡象。",
+    "en": "US President Donald Trump posted on Truth Social on November 26 that he had urged Russian President Vladimir Putin to stop all military aggression on European territory and that Russia and Ukraine could reach a deal quickly, adding that he spent much of his November 19 talks with Putin in China on the issue. Ukrainian President Volodymyr Zelensky said Ukraine has information that Russia is preparing a new mass strike in the coming days. The war has lasted four years and nine months with no sign of a ceasefire."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611260320.aspx"
+    },
+    {
+     "name": {
+      "zh": "英文虎報",
+      "en": "The Standard (HK)"
+     },
+     "url": "https://www.thestandard.com.hk/news/article/349809/Morning-Recap-November-27-2026"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "烏情報：北韓暫停向俄運交KN-23飛彈",
+    "en": "Ukraine intel: North Korea halts KN-23 deliveries to Russia"
+   },
+   "body": {
+    "zh": "烏克蘭國防部情報總局 26 日表示，北韓在一場外交爭議後暫停部分對俄軍事合作，包括停止運交 KN-23 彈道飛彈與砲彈、暫停俄國軍機飛越北韓領空，並指這是金正恩直接作出的決定。該局說，起因是俄方一名副外長稱克里姆林宮將協助緩和朝鮮半島緊張，北韓外相崔善姬隨後要求俄方釐清對南韓政策；北韓也擱置俄方把駐俄北韓兵力由約 8,500 人增至 5 萬人的要求。路透表示無法獨立證實上述說法，俄國國防部與北韓使館未回應。",
+    "en": "Ukraine's military intelligence directorate said on November 26 that North Korea has suspended part of its military cooperation with Russia after a diplomatic dispute, halting deliveries of KN-23 ballistic missiles and artillery shells and overflights by Russian military aircraft, in a decision it said Kim Jong Un made directly. It said the trigger was a Russian deputy foreign minister's remark that the Kremlin would help ease tensions on the Korean Peninsula, after which Foreign Minister Choe Son Hui demanded Moscow clarify its South Korea policy; Pyongyang also shelved a Russian request to raise its troop presence in Russia from about 8,500 to 50,000. Reuters said it could not independently verify the claims, and Russia's defence ministry and North Korean embassies did not respond."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270003.aspx"
+    },
+    {
+     "name": {
+      "zh": "SBS 新聞",
+      "en": "SBS News"
+     },
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008865958"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美GDP大幅上修　川普要求調查數據",
+    "en": "Trump demands probe after big GDP upgrade"
+   },
+   "body": {
+    "zh": "美國第三季實質 GDP 年化成長率由 3.4% 上修至 4.3% 後，總統川普 26 日在真實社群發文，質疑為何正確數據沒有在選舉前公布，稱這是重大且刻意的錯誤，要求立即展開調查。美國經濟分析局先前說明，上修主要反映投資加速與政府支出回升，部分被出口下滑抵銷。民主黨在稍早的期中選舉中取得國會控制權。",
+    "en": "After US third-quarter real GDP growth was revised up from an annualised 3.4% to 4.3%, President Trump posted on Truth Social on November 26 asking why the correct figures were not released before the election, calling it a big and deliberate error and demanding an immediate investigation. The Bureau of Economic Analysis had said the revision mainly reflected faster investment and a rebound in government spending, partly offset by weaker exports. Democrats won control of Congress in the earlier midterm elections."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270011.aspx"
+    },
+    {
+     "name": {
+      "zh": "長橋證券",
+      "en": "Longbridge"
+     },
+     "url": "https://longbridge.com/zh-HK/news/306945380"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "日擬增5年防衛費至56.3兆日圓",
+    "en": "Japan weighs ¥56.3 trillion five-year defence budget"
+   },
+   "body": {
+    "zh": "據日本媒體 26 日報導，日本政府考慮將 2027 年度起 5 年的防衛費總額由 43 兆日圓提高到 56.3 兆日圓（約新台幣 11.6 兆元），首相高市早苗最快 27 日拍板，並在年底前修訂安保三文件。防衛省原本要求 75 至 80 兆日圓，首相官邸則以約 55 至 60 兆日圓為目標；執政黨人士提醒，考量日圓走弱與通膨，即使約 60 兆日圓實質上也等於縮減。日方計畫向要求防衛支出達 GDP 3.5% 的美國說明，將經濟安全相關支出一併計入。",
+    "en": "Japanese media reported on November 26 that the government is considering raising total defence spending for the five years from fiscal 2027 to ¥56.3 trillion from ¥43 trillion, with Prime Minister Sanae Takaichi possibly signing off as early as November 27, ahead of a year-end revision of three security documents. The defence ministry had sought ¥75–80 trillion while the prime minister's office aimed for about ¥55–60 trillion; a ruling-party official warned that even ¥60 trillion would amount to a real cut given the weak yen and inflation. Tokyo plans to tell Washington, which wants defence spending at 3.5% of GDP, that it is also counting economic-security spending."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611260301.aspx"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "東京11月核心CPI升至2.9%　低於預期",
+    "en": "Tokyo November core CPI rises to 2.9%, below forecast"
+   },
+   "body": {
+    "zh": "日本 27 日上午公布，11 月東京都區部扣除生鮮食品的核心消費者物價指數（CPI）年增 2.9%，高於前月的 2.6%，但低於市場預期的 3.0%；整體 CPI 年增 2.8%，扣除生鮮食品與能源的指數年增 2.3%。東京 CPI 被視為全國物價走勢的領先指標，日本央行下次決策會議約在 3 週後。數據公布後美元兌日圓在 159.28 附近，反應有限。",
+    "en": "Data released on the morning of November 27 showed Tokyo's core CPI, excluding fresh food, rose 2.9% year on year in November, up from 2.6% in October but below the 3.0% forecast; headline CPI rose 2.8% and the index excluding fresh food and energy rose 2.3%. Tokyo prices are seen as a leading indicator for nationwide inflation, with the Bank of Japan's next policy decision about three weeks away. The dollar traded near ¥159.28 after the release, with little reaction."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "FXStreet",
+      "en": "FXStreet"
+     },
+     "url": "https://www.fxstreet.hk/news/kuai-xun-ri-ben-dong-jing-11yue-cpitong-zhang-lu-sheng-zhi-28-202611262333"
+    },
+    {
+     "name": {
+      "zh": "investingLive",
+      "en": "investingLive"
+     },
+     "url": "https://investinglive.com/stock-market-update/nikkei-and-kospi-rebound-over-1-as-asia-follows-wall-street-s-comeback-bok-decision-next/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "南韓升息1碼至3.25%　上修明年成長率",
+    "en": "Bank of Korea hikes to 3.25%, lifts growth outlook"
+   },
+   "body": {
+    "zh": "南韓央行 26 日宣布將基準利率調升 1 碼至 3.25%，為 2024 年 11 月以來最高，也是繼 7 月、8 月後今年第三度升息，符合多數經濟學家預期。央行將今年經濟成長預測由 3.3% 上修至 3.9%、明年由 2.9% 上修至 4.1%；10 月 CPI 年增 2.8%，高於 2% 目標。總裁申鉉松表示，及早行動可減少日後的緊縮幅度，並認為仍需進一步升息才能讓通膨回到目標。",
+    "en": "The Bank of Korea raised its base rate by 25 basis points to 3.25% on November 26, the highest since November 2024 and its third hike this year after July and August, in line with most economists' expectations. It raised its growth forecast for this year from 3.3% to 3.9% and for next year from 2.9% to 4.1%; October consumer prices rose 2.8%, above the 2% target. Governor Shin Hyun-song said acting early could limit later tightening and that further hikes are needed to bring inflation back to target."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5599/9904613"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5653797"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中東供應疑慮再起　布蘭特收漲1.2%",
+    "en": "Mideast supply fears lift Brent 1.2%"
+   },
+   "body": {
+    "zh": "胡塞組織宣稱攻擊沙國最大煉油廠拉斯坦努拉、伊朗稱有船隻在荷莫茲海峽觸雷，市場再度擔憂原油供應中斷。北海布蘭特原油期貨 26 日上漲 1.96 美元（1.2%），結算價每桶 96.57 美元；紐約西德州中級原油因感恩節未結算，美東時間下午 1 時 21 分報每桶 84.84 美元、上漲 1.16 美元（1.39%）。",
+    "en": "Supply worries returned after the Houthis said they hit Saudi Arabia's largest refinery at Ras Tanura and Iran said a vessel struck a mine in the Strait of Hormuz. Brent crude futures rose US$1.96 (1.2%) on November 26 to settle at US$96.57 a barrel; US WTI did not settle because of Thanksgiving and was up US$1.16 (1.39%) at US$84.84 at 1:21 p.m. ET."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611270009.aspx"
+    },
+    {
+     "name": {
+      "zh": "Denver Gazette（路透）",
+      "en": "Denver Gazette (Reuters)"
+     },
+     "url": "https://www.denvergazette.com/2026/11/26/houthis-claim-attack-on-saudi-arabias-largest-refinery/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "美股休市日　歐股全面大漲逾2%",
+    "en": "European stocks jump over 2% as US takes holiday"
+   },
+   "body": {
+    "zh": "美股 26 日感恩節休市，全球股市延續前一日美股尾盤的反彈。據 FX168 報導，歐洲 STOXX 600 指數上漲 2.03%，德國 DAX 漲 2.34%、法國 CAC 40 漲 1.86%、英國富時 100 漲 1.99%；亞股方面，日經 225 指數漲 0.86%，南韓綜合指數在前一日重挫 6.2% 後小漲 0.29%。現貨黃金下跌近 0.5% 至每盎司 3,571.66 美元，金價 25 日曾短暫跌破 3,500 美元，為 2025 年 9 月以來首見。",
+    "en": "With US markets closed for Thanksgiving on November 26, global stocks extended Wall Street's late rebound from the previous day. According to FX168, Europe's STOXX 600 rose 2.03%, Germany's DAX 2.34%, France's CAC 40 1.86% and Britain's FTSE 100 1.99%; in Asia the Nikkei 225 gained 0.86% and the KOSPI edged up 0.29% after a 6.2% plunge the day before. Spot gold fell nearly 0.5% to US$3,571.66 an ounce after briefly dipping below US$3,500 on November 25 for the first time since September 2025."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "英為財情（FX168）",
+      "en": "Investing.com HK (FX168)"
+     },
+     "url": "https://hk.investing.com/news/forex-news/article-1778841"
+    },
+    {
+     "name": {
+      "zh": "BNN Bloomberg（美聯社）",
+      "en": "BNN Bloomberg (AP)"
+     },
+     "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "歐盟達共識　德科斯接掌歐洲央行",
+    "en": "EU backs Hernández de Cos to lead the ECB"
+   },
+   "body": {
+    "zh": "據 Politico 報導，歐盟領袖 26 日在布魯塞爾峰會達成政治共識，由西班牙央行前總裁德科斯（Pablo Hernández de Cos）在拉加德 2 月 7 日卸任後接任歐洲央行總裁；荷蘭總理葉頓同意支持法、德、西三國擬定的方案。依協議，德國經濟學家布倫納邁爾將出任首席經濟學家，法國的布恩負責市場業務。歐洲議會預定 12 月 7 日舉行聽證，歐盟領袖預計 12 月 17 日正式定案。",
+    "en": "EU leaders reached a political agreement at their Brussels summit on November 26 for former Bank of Spain governor Pablo Hernández de Cos to succeed Christine Lagarde as ECB president when she steps down on February 7, Politico reported, after Dutch Prime Minister Rob Jetten backed a deal drafted by France, Germany and Spain. Under the deal, Germany's Markus Brunnermeier would become chief economist and France's Laurence Boone would take the markets portfolio. The European Parliament is due to hold a hearing on December 7, and EU leaders are expected to finalise the deal on December 17."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Anadolu（A News）",
+      "en": "Anadolu (A News)"
+     },
+     "url": "https://www.anews.com.tr/european-union/2026/11/26/eu-reaches-consensus-on-spains-hernandez-de-cos-as-next-ecb-chief-report"
+    },
+    {
+     "name": {
+      "zh": "長橋證券",
+      "en": "Longbridge"
+     },
+     "url": "https://longbridge.com/zh-HK/news/306945380"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-26",
+   "close": 39151.81,
+   "change": 956.38,
+   "pct": 2.5,
+   "open": 38435.99,
+   "high": 39459.95,
+   "low": 38435.99,
+   "prev": 38195.43,
+   "turnover": {
+    "zh": "8,174.67 億元",
+    "en": "NT$817.47 billion"
+   },
+   "headline": {
+    "zh": "301疑慮緩解　台股反彈956點",
+    "en": "TAIEX rebounds 956 points as 301 worries ease"
+   },
+   "body": {
+    "zh": "加權指數 26 日以 38,435.99 點開出即為全日低點，盤中最多上漲 1,264.52 點至 39,459.95 點，終場上漲 956.38 點（2.50%）收 39,151.81 點，收復 3.9 萬點，成交值 8,174.67 億元，上市 1,206 家上漲、121 家下跌。台積電逆勢跌 5 元至 2,145 元，聯發科漲 1.65% 至 3,705 元，鴻海漲 4.84% 至 216.5 元，台達電漲 6.16% 至 1,120 元；PCB、載板、記憶體、被動元件與低軌衛星族群走強，欣興、國巨亮燈漲停，櫃買指數大漲 5.03% 收 289.84 點。市場認為美國 301 調查結果緩解疑慮，美股 26 日則因感恩節休市；外資仍賣超 491.81 億元，連續 9 個交易日賣超、累計約 4,708 億元，自營商轉為買超，終止連 8 賣。",
+    "en": "The TAIEX opened at its session low of 38,435.99 on November 26, rose as much as 1,264.52 points to 39,459.95 and closed up 956.38 points (2.50%) at 39,151.81, back above 39,000, on turnover of NT$817.47 billion, with 1,206 listed stocks up and 121 down. TSMC bucked the rally, slipping NT$5 to NT$2,145, while MediaTek rose 1.65% to NT$3,705, Hon Hai 4.84% to NT$216.5 and Delta Electronics 6.16% to NT$1,120; PCB, substrate, memory, passive-component and low-orbit satellite names led, Unimicron and Yageo hit limit-up, and the TPEx index jumped 5.03% to 289.84. Traders said the US Section 301 outcome eased worries, while US markets were closed for Thanksgiving; foreign investors still sold a net NT$49.18 billion, their ninth straight day of net selling for a cumulative total of about NT$470.8 billion, while dealers turned net buyers, ending an eight-day selling streak."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -491.81
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 230.51
+    },
+    {
+     "name": {
+      "zh": "自營商",
+      "en": "Dealers"
+     },
+     "value": 128.65
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -132.65,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "投信買超 230.51 億元、連 3 買，自營商買超 128.65 億元；外資賣超 491.81 億元，使三大法人合計賣超 132.65 億元。",
+    "en": "Investment trusts bought a net NT$23.05 billion, their third straight day of buying, and dealers NT$12.87 billion; foreign investors sold NT$49.18 billion, leaving the three groups net sellers of NT$13.27 billion."
+   },
+   "otc": {
+    "close": 289.84,
+    "change": 13.87,
+    "pct": 5.03
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611260262.aspx"
+    },
+    {
+     "name": {
+      "zh": "ETtoday 財經",
+      "en": "ETtoday Finance"
+     },
+     "url": "https://finance.ettoday.net/news/3278905"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（MoneyDJ）",
+      "en": "Yahoo Finance TW (MoneyDJ)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/11-26%E9%9B%86%E4%B8%AD%E5%B8%82%E5%A0%B4%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%90%88%E8%A8%88%E8%B3%A3%E8%B6%85132-65%E5%84%84%E5%85%83-070700394.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E6%AB%83%E8%B2%B7%E7%9B%A4%E5%BE%8C-%E6%BC%B213-87%E9%BB%9E-054326739.html"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9903771"
+    },
+    {
+     "name": {
+      "zh": "三立新聞網",
+      "en": "SETN"
+     },
+     "url": "https://inews.setn.com/news/1945036"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-25",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 50182.95,
+     "change": 164.25,
+     "pct": 0.33
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7182.78,
+     "change": -18.31,
+     "pct": -0.25
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 23585.8,
+     "change": -147.73,
+     "pct": -0.62
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 8774.86,
+     "change": -57.64,
+     "pct": -0.65
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 342.34,
+     "change": -6.86,
+     "pct": -1.96
+    }
+   ],
+   "headline": {
+    "zh": "美股感恩節休市　表列25日收盤",
+    "en": "US closed for Thanksgiving; Nov 25 closes shown"
+   },
+   "body": {
+    "zh": "美股與債市 26 日因感恩節全面休市，表列為 25 日收盤：道瓊上漲 0.33% 收 50,182.95 點，標普 500 跌 0.25%、那指跌 0.62%、費半跌 0.65%，台積電 ADR 跌 1.96% 收 342.34 美元；當天道瓊盤中曾重挫約 1,105 點，尾盤在逢低買盤下翻紅。據美聯社報導，休市期間標普 500 期貨上漲 0.3%、道瓊期貨上漲 0.2%。美股 27 日（黑色星期五）恢復交易，但提前於美東時間下午 1 時收盤，即台北時間 28 日凌晨 2 時。",
+    "en": "US stock and bond markets were closed for Thanksgiving on November 26, so the table shows November 25 closes: the Dow rose 0.33% to 50,182.95 while the S&P 500 fell 0.25%, the Nasdaq 0.62% and the SOX 0.65%, and the TSMC ADR lost 1.96% to US$342.34; that day the Dow had fallen about 1,105 points intraday before bargain hunting lifted it into positive territory. According to AP, S&P 500 futures were up 0.3% and Dow futures 0.2% during the holiday. US markets reopen on Friday, November 27 (Black Friday), with stocks closing early at 1 p.m. ET, or 2 a.m. on November 28 Taipei time."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/123398/9902571"
+    },
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5653621"
+    },
+    {
+     "name": {
+      "zh": "BNN Bloomberg（美聯社）",
+      "en": "BNN Bloomberg (AP)"
+     },
+     "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市",
+      "en": "Yahoo Finance TW"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%84%9F%E6%81%A9%E7%AF%80%E4%BC%91%E5%B8%82-%E5%A4%A9-%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E6%8F%90%E5%89%8D%E8%87%B3%E7%BE%8E%E6%9D%B1%E4%B8%8B%E5%8D%881%E6%99%82%E6%94%B6%E7%9B%A4-234613616.html"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週五 11/27",
+     "en": "Fri, Nov 27"
+    },
+    "text": {
+     "zh": "日本政府最快拍板 2027 年度起 5 年防衛費總額",
+     "en": "Japan may approve its five-year defence budget from fiscal 2027"
+    }
+   },
+   {
+    "time": {
+     "zh": "週五 11/27 晚間",
+     "en": "Fri, Nov 27, evening"
+    },
+    "text": {
+     "zh": "美股黑色星期五恢復交易，縮短交易時間",
+     "en": "US stocks reopen for a shortened Black Friday session"
+    }
+   },
+   {
+    "time": {
+     "zh": "週六 11/28 02:00",
+     "en": "Sat, Nov 28, 02:00"
+    },
+    "text": {
+     "zh": "美股提前收盤（美東 27 日下午 1 時），美債市於 03:00 收市",
+     "en": "US stocks close early (1 p.m. ET Nov 27); bond market closes at 03:00"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/aopl/202611260301.aspx"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市",
+     "en": "Yahoo Finance TW"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E6%84%9F%E6%81%A9%E7%AF%80%E4%BC%91%E5%B8%82-%E5%A4%A9-%E9%BB%91%E8%89%B2%E6%98%9F%E6%9C%9F%E4%BA%94%E6%8F%90%E5%89%8D%E8%87%B3%E7%BE%8E%E6%9D%B1%E4%B8%8B%E5%8D%881%E6%99%82%E6%94%B6%E7%9B%A4-234613616.html"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-20",
+     36033.29
+    ],
+    [
+     "2026-11-23",
+     36811.89
+    ],
+    [
+     "2026-11-24",
+     40122.35
+    ],
+    [
+     "2026-11-25",
+     38195.43
+    ],
+    [
+     "2026-11-26",
+     39151.81
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-19",
+     23879.2
+    ],
+    [
+     "2026-11-20",
+     22617.73
+    ],
+    [
+     "2026-11-23",
+     24089.56
+    ],
+    [
+     "2026-11-24",
+     23733.54
+    ],
+    [
+     "2026-11-25",
+     23585.8
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-19",
+     9419.72
+    ],
+    [
+     "2026-11-20",
+     8408.59
+    ],
+    [
+     "2026-11-23",
+     9588.05
+    ],
+    [
+     "2026-11-24",
+     8832.5
+    ],
+    [
+     "2026-11-25",
+     8774.86
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值；美股 26 日感恩節休市，美股指數最新一點為 25 日。",
+   "en": "All points shown are published closing values; none are derived. US markets were closed on Nov 26 for Thanksgiving, so the latest US point is Nov 25."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611160118.aspx"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611170136.aspx"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611180143.aspx"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Next Apple News"
+    },
+    "url": "https://news.nextapple.com/finance/20261119/D5668A473D862BBC70D1A2D2EB154ABC"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611190149.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5647048"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+   },
+   {
+    "name": {
+     "zh": "中時新聞網",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2778-60%E9%BB%9E-055218204.html"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611240012.aspx"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B23310-46%E9%BB%9E-054610731.html"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261125700361-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611250141.aspx"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/123398/9902571"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5653621"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611260262.aspx"
+   }
+  ]
+ }
+}

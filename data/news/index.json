@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-26",
+ "latest": "2026-11-27",
  "days": [
+  {
+   "date": "2026-11-27",
+   "summary": {
+    "zh": "科威特遇襲2義人亡；台股反彈956點",
+    "en": "Kuwait strike kills 2 Italians; TAIEX up 956"
+   }
+  },
   {
    "date": "2026-11-26",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "俄襲基輔三橋；台股崩2,393點週跌17.5%",
     "en": "Russia hits Kyiv bridges; TAIEX crashes 2,393, down 17.5% on week"
-   }
-  },
-  {
-   "date": "2026-11-20",
-   "summary": {
-    "zh": "美中俄峰會發宣言；台股重挫1,768點",
-    "en": "Trump-Xi-Putin declaration; TAIEX plunges 1,768"
    }
   }
  ]
