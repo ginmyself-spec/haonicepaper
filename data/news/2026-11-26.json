@@ -1,23 +1,23 @@
 {
  "date": "2026-11-26",
- "updated": "2026-11-26T07:58:00+08:00",
+ "updated": "2026-11-26T08:52:31+08:00",
  "edition": {
   "zh": "晨間版",
   "en": "Morning edition"
  },
  "lead_summary": {
-  "zh": "美301擬對14經濟體課稅；台股重挫1927點",
-  "en": "US 301 tariffs proposed on 14 economies; TAIEX down 1,927"
+  "zh": "301台灣列最低級距；飛彈射向利雅德遭攔截",
+  "en": "Taiwan in lowest 301 tier; missiles aimed at Riyadh downed"
  },
  "world": [
   {
    "title": {
-    "zh": "美301擬對14經濟體課稅　台日韓歐15%",
-    "en": "US 301 probe proposes tariffs on 14 economies; Taiwan at 15%"
+    "zh": "政院：301提案台灣列最低級距　15%不疊加",
+    "en": "Taiwan: 301 proposal puts it in lowest tier, 15% non-stacked"
    },
    "body": {
-    "zh": "美國貿易代表署 25 日公布歷時數月的製造業結構性產能過剩 301 調查報告，擬對中國、歐盟、日本、南韓、台灣、印度、越南等 14 個經濟體加徵關稅，美方資深官員表示提議稅率最高 20%，挪威與墨西哥的方案則尚未定案。台灣提議稅率最高 15%、不與最惠國稅率及既有 301 關稅疊加，與日本、南韓、歐盟、瑞士同屬最低級距；鋼鋁銅、汽車及零組件、木材、專利藥品與半導體等已適用 232 關稅的品項排除在外。美方將收集公眾意見至 2027 年 1 月 5 日前，並預計 1 月 25 日舉行公聽會；行政院強調這仍是提案，將在程序中爭取鞏固已談定的 15% 不疊加稅率。",
-    "en": "The US Trade Representative on November 25 released its months-long Section 301 report on structural overcapacity in manufacturing, proposing tariffs on 14 economies including China, the EU, Japan, South Korea, Taiwan, India and Vietnam; a senior US official said proposed rates run up to 20%, while proposals for Norway and Mexico were not finalised. Taiwan's proposed rate is up to 15%, not stacked on most-favoured-nation duties or existing 301 tariffs, putting it in the lowest tier with Japan, South Korea, the EU and Switzerland; items already under Section 232 tariffs, such as steel, aluminium and copper, autos and parts, wood products, patented drugs and semiconductors, are excluded. Public comments are due before January 5, 2027, with a hearing expected on January 25; Taiwan's Executive Yuan stressed it is only a proposal and said it will work through the process to lock in the agreed 15% non-stacked rate."
+    "zh": "美國貿易代表署公布製造業產能過剩 301 調查報告、擬對 14 個經濟體加徵關稅後，行政院 26 日凌晨發布新聞稿，並由副院長鄭麗君率經濟部長龔明鑫、財政部長莊翠雲等人於上午 8 時 30 分召開記者會說明。政院表示，台灣提議稅率為 15%、不與最惠國稅率疊加，也不再疊加強迫勞動 301 關稅，與日本、南韓、歐盟、瑞士同屬最低級距；報告另列出若諮商未獲美方滿意時的 25% 替代稅率。政院強調這仍是提案，公眾意見收集至 2027 年 1 月 5 日、公聽會 1 月 25 日起舉行，終判前台灣傳產與農產品輸美仍適用 10% 不疊加稅率；經貿工作小組表示將在程序中持續鞏固既有談判成果。",
+    "en": "After the US Trade Representative released its Section 301 report on manufacturing overcapacity proposing tariffs on 14 economies, Taiwan's Executive Yuan issued a statement early on November 26 and Vice Premier Cheng Li-chiun, with Economy Minister Kung Ming-hsin, Finance Minister Chuang Tsui-yun and others, held a briefing at 8:30 a.m. The cabinet said Taiwan's proposed rate is 15%, not stacked on most-favoured-nation duties or the forced-labour 301 tariff, in the lowest tier alongside Japan, South Korea, the EU and Switzerland; the report also lists a 25% alternative rate if Washington is dissatisfied with consultations. The cabinet stressed it is only a proposal, with public comments due by January 5, 2027 and hearings from January 25, and Taiwan's traditional industrial and farm exports keep paying the 10% non-stacked rate until a final decision; the trade working group said it will keep working to lock in the results already negotiated."
    },
    "sources": [
     {
@@ -25,7 +25,7 @@
       "zh": "中央社",
       "en": "CNA"
      },
-     "url": "https://www.cna.com.tw/news/aipl/202611260002.aspx"
+     "url": "https://www.cna.com.tw/news/aipl/202611260015.aspx"
     },
     {
      "name": {
@@ -36,10 +36,81 @@
     },
     {
      "name": {
+      "zh": "中時新聞網",
+      "en": "China Times"
+     },
+     "url": "https://www.chinatimes.com/realtimenews/20261126000157-260407"
+    },
+    {
+     "name": {
       "zh": "中央社",
       "en": "CNA"
      },
-     "url": "https://www.cna.com.tw/news/aopl/202611250324.aspx"
+     "url": "https://www.cna.com.tw/news/aipl/202611260002.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "聯軍攔截2枚飛彈　胡塞再瞄準利雅德",
+    "en": "Coalition downs two Houthi missiles aimed at Riyadh"
+   },
+   "body": {
+    "zh": "沙烏地阿拉伯主導的聯軍發言人馬爾基 26 日清晨在 X 平台表示，防空系統攔截並摧毀胡塞組織朝首都利雅德發射的 2 枚彈道飛彈；新華社報導市中心可聽到巨大爆炸聲，目前未見傷亡或損害報告。聯軍稱 25 日另擊落一架飛向吉達伊斯蘭港的無人機，並摧毀一枚射向西部地區的巡弋飛彈，吉贊港則遭擊中、受輕微損害但無平民受傷。胡塞組織宣稱攻擊兩座港口是報復聯軍空襲荷台達港，尚未就利雅德飛彈表態。",
+    "en": "Saudi-led coalition spokesman Turki al-Maliki said on X early on November 26 that air defences intercepted and destroyed two ballistic missiles fired by the Houthis toward Riyadh; Xinhua reported loud explosions in the city centre, with no casualties or damage reported so far. The coalition said that on the 25th it also downed a drone heading for Jeddah Islamic Port and destroyed a cruise missile aimed at the western region, while Jazan Port was hit and slightly damaged with no civilian injuries. The Houthis said the port attacks were retaliation for coalition strikes on Hodeidah port and have not commented on the Riyadh missiles."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "安納多盧通訊社",
+      "en": "Anadolu Agency"
+     },
+     "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-2-houthi-ballistic-missiles-launched-toward-riyadh/4138108"
+    },
+    {
+     "name": {
+      "zh": "新華社",
+      "en": "Xinhua"
+     },
+     "url": "https://english.news.cn/20261126/f80e816a56354e7f933ee5889c1cdb5d/c.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "CNN：美情報機構疑遭駭　初步指向中國",
+    "en": "CNN: US intelligence agencies hit by suspected hack linked to China"
+   },
+   "body": {
+    "zh": "美國有線電視新聞網（CNN）引述 4 名消息人士報導，中央情報局（CIA）與國家情報總監辦公室（ODNI）疑似遭駭，受影響的是用於公開來源情報分析、存放非機密資料的系統。ODNI 官員表示關鍵功能與機密系統未受干擾，CIA 拒絕評論；兩名消息人士稱初步跡象指向中國，但尚不清楚是否涉及中國政府，入侵發生時間及是否已修補也未明。",
+    "en": "CNN, citing four sources, reported that the CIA and the Office of the Director of National Intelligence appear to have been breached, affecting systems used for open-source intelligence analysis that held unclassified information. An ODNI official said key functions and classified systems were not disrupted and the CIA declined to comment; two sources said early indications point to China, though it is unclear whether the Chinese government was involved, when the breach occurred or whether it has been fixed."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611260010.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "金正恩視察核設施　要求多地部署戰術核武",
+    "en": "Kim inspects nuclear sites, calls for tactical nukes in several areas"
+   },
+   "body": {
+    "zh": "北韓官方朝中社 26 日報導，領導人金正恩視察核材料生產與核武研究設施，表示應在多個地區部署戰術核武。據路透報導，金正恩稱北韓正有系統地擴大核材料產能，並強調儘管外界呼籲無核化，北韓的擁核國地位不容談判。報導未說明視察日期。",
+    "en": "North Korea's state news agency KCNA reported on November 26 that leader Kim Jong Un inspected nuclear-material production and weapons research facilities and said tactical nuclear weapons should be deployed in multiple areas. According to Reuters, Kim said Pyongyang is systematically expanding its nuclear-material production capacity and that its status as a nuclear state is not negotiable despite calls for denuclearisation. The report did not give the date of the visit."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611260014.aspx"
     }
    ]
   },
@@ -49,27 +120,8 @@
     "en": "Iran says two tankers hit mines in Hormuz, tightens control"
    },
    "body": {
-    "zh": "伊朗革命衛隊 25 日表示，兩艘油輪在荷莫茲海峽試圖行經「未經授權的航線」時觸及水雷，發生爆炸並起火。伊朗陸軍發言人阿克拉米尼亞表示，已部署新系統加強對這條水道的監控與管制。針對美國的海上封鎖，伊朗副總統阿雷夫稱並不擔心，因為經由其他邊境的貨運量已大幅增加；總統裴澤斯基安則表示，政府將把更多預算與節約的能源用於改善貧困社區民生。",
-    "en": "Iran's Revolutionary Guards said on November 25 that two oil tankers struck naval mines, exploded and caught fire while trying to use an \"unauthorized route\" through the Strait of Hormuz. Iranian army spokesman Mohammad Akraminia said new systems had been deployed to tighten surveillance and control of the waterway. On the US naval blockade, Vice President Mohammad Reza Aref said Iran was not worried because cargo through other borders had risen sharply, while President Masoud Pezeshkian said the government would direct more budget and energy savings to living standards in poorer communities."
-   },
-   "sources": [
-    {
-     "name": {
-      "zh": "Just Security 每日要聞（彙整路透等）",
-      "en": "Just Security Early Edition (citing Reuters et al.)"
-     },
-     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "胡塞稱襲沙國煉油廠及港口　聯軍稱攔截",
-    "en": "Houthis claim strikes on Saudi refinery, ports; coalition says intercepted"
-   },
-   "body": {
-    "zh": "葉門胡塞組織 25 日宣稱攻擊沙烏地阿拉伯東部省的拉斯坦努拉煉油廠，發言人薩里耶稱造成火災；沙國主導的聯軍則表示，防空系統在當地攔截並摧毀 4 架無人機，未證實煉油廠遭擊中。胡塞組織當晚又宣稱對吉達與吉贊兩座港口發動攻擊，稱是回應聯軍當天空襲荷台達港，沙方尚未回應。此前 24 日利雅德一棟高樓遇襲，沙國民防單位稱造成 11 人受傷。",
-    "en": "Yemen's Houthis said on November 25 they attacked Saudi Arabia's Ras Tanura refinery in the Eastern Province, with spokesman Yahya Saree saying it caused fires; the Saudi-led coalition said air defences intercepted and destroyed four drones over the area and did not confirm a hit on the refinery. Later that evening the Houthis said they struck the ports of Jeddah and Jazan in response to a coalition airstrike on Hodeidah port earlier in the day, and Saudi Arabia had not responded. A day earlier a Riyadh skyscraper was hit, injuring 11 people according to Saudi civil defence."
+    "zh": "伊朗革命衛隊 25 日表示，兩艘油輪在荷莫茲海峽試圖行經「未經授權的航線」時觸及水雷，發生爆炸並起火；伊朗陸軍發言人阿克拉米尼亞表示已部署新系統加強監控這條水道。針對美國的海上封鎖，伊朗副總統阿雷夫稱並不擔心，因經由其他邊境的貨運量已大幅增加；金十數據報導，伊朗副總統也表示政府計畫讓基本民生物資價格至少穩定 3 個月。",
+    "en": "Iran's Revolutionary Guards said on November 25 that two oil tankers struck naval mines, exploded and caught fire while trying to use an \"unauthorized route\" through the Strait of Hormuz, and army spokesman Mohammad Akraminia said new systems had been deployed to tighten surveillance of the waterway. On the US naval blockade, Vice President Mohammad Reza Aref said Iran was not worried because cargo through other borders had risen sharply; Jin10 reported that he also said the government plans to keep prices of basic goods stable for at least three months."
    },
    "sources": [
     {
@@ -79,83 +131,45 @@
      },
      "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
     },
+    {
+     "name": {
+      "zh": "金十數據（時事新聞轉載）",
+      "en": "Jin10 (via Shishi Xinwen)"
+     },
+     "url": "https://shishixinwen.news/news/jin10/20261126063120895800"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "烏俄擬分批換俘逾千人　俄願續三方會談",
+    "en": "Ukraine, Russia plan phased swap of 1,000+; Moscow open to talks"
+   },
+   "body": {
+    "zh": "烏克蘭總統辦公室主任布達諾夫表示，烏俄雙方各逾 1,000 人的換俘將分階段進行，首批預計 11 月底或 12 月初展開，第一階段可望在 12 月 25 日前完成。俄羅斯副外長里亞布科夫表示，莫斯科願意繼續俄美烏三方會談，但下一輪時間未定，並稱俄美將在年底前討論敏感議題。另據路透，俄軍 25 日攻擊敖德薩州造成 2 人死亡。",
+    "en": "Andriy Budanov, head of Ukraine's presidential office, said a swap of more than 1,000 prisoners on each side will take place in phases, with the first batch expected in late November or early December and the first stage due to be completed by December 25. Russian Deputy Foreign Minister Sergei Ryabkov said Moscow is willing to continue trilateral talks with the US and Ukraine, though the next round has not been scheduled, and that Russia and the US will discuss sensitive issues before year-end. Separately, Reuters reported a Russian strike on the Odesa region on the 25th killed two people."
+   },
+   "sources": [
     {
      "name": {
       "zh": "新浪國際熱點小時報",
       "en": "Sina international hourly digest"
      },
-     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w3yn.html"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "俄軍襲敖德薩2死　普丁揚言報復",
-    "en": "Russian strike kills 2 in Odesa; Putin vows retaliation"
-   },
-   "body": {
-    "zh": "烏克蘭敖德薩州長基珀表示，俄軍 25 日的攻擊造成 2 人死亡、3 人受傷，傷者包括一名兒童；基輔市長克里契科則說，一棟多層公寓遭攻擊起火，2 人受傷。普丁 24 日指烏克蘭不顧美國總統川普的要求，仍持續攻擊俄國煉油廠，並稱俄方的報復措施「不可避免」；烏方的立場是，俄國停止攻擊能源設施，烏克蘭才會停手。德國總理梅爾茨 25 日在聯邦議院表示俄羅斯對歐洲安全的威脅正在升高，並為國防支出與持續援烏辯護。",
-    "en": "Odesa regional governor Oleh Kiper said a Russian attack on November 25 killed two people and injured three, including a child, while Kyiv Mayor Vitali Klitschko said a strike set a multi-storey apartment block on fire and injured two. Putin said on the 24th that Ukraine kept attacking Russian oil refineries despite US President Donald Trump's requests, calling Russian retaliation \"inevitable\"; Ukraine has said it will stop hitting Russian energy targets only if Russia does the same. German Chancellor Friedrich Merz told the Bundestag on the 25th that Russia's threat to European security is escalating and defended defence spending and continued aid to Ukraine."
-   },
-   "sources": [
-    {
-     "name": {
-      "zh": "Just Security 每日要聞（彙整路透等）",
-      "en": "Just Security Early Edition (citing Reuters et al.)"
-     },
-     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "以軍空襲加薩　哈瑪斯官員與妻兒身亡",
-    "en": "Israeli strike in Gaza kills Hamas official and family"
-   },
-   "body": {
-    "zh": "據哈瑪斯掌管的加薩內政部與醫護人員表示，以色列 25 日空襲加薩市西部海灘難民營一處公寓，炸死哈瑪斯內部安全部門負責人阿布埃魯夫上校及其妻子與兩名子女，卡拉馬社區的另一波空襲也造成 1 人死亡。以色列軍方表示，攻擊目標是數名武裝人員。聯合國同日發出警告，指以色列對巴勒斯坦人犯下暴行罪的風險日益升高。",
-    "en": "Gaza's Hamas-run interior ministry and medics said an Israeli strike on November 25 hit an apartment in the Beach refugee camp in western Gaza City, killing Colonel Mohammad Abuelouf, head of Hamas's internal security service, along with his wife and two children; a separate strike in the Karama neighbourhood killed one more person. The Israeli military said it had targeted several militants. The United Nations warned the same day of a growing risk of Israel committing atrocity crimes against Palestinians."
-   },
-   "sources": [
-    {
-     "name": {
-      "zh": "Just Security 每日要聞（彙整路透等）",
-      "en": "Just Security Early Edition (citing Reuters et al.)"
-     },
-     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+     "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908w44b.html"
     },
     {
      "name": {
-      "zh": "中央社",
-      "en": "CNA"
+      "zh": "長橋證券（智通財經）",
+      "en": "Longbridge (Zhitong Finance)"
      },
-     "url": "https://www.cna.com.tw/news/aopl/202611250326.aspx"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "索羅門與澳洲簽約　不再續簽中國安全協議",
-    "en": "Solomons signs Australia treaty, won't renew China pact"
-   },
-   "body": {
-    "zh": "索羅門群島 25 日與澳洲簽署條約，內容將排除外國在索國設立軍事或安全基地。總理瓦勒被問及 2022 年與中國簽訂的安全協議時，以保密協議為由不予回應；一名外交官員表示，索國上月已告知中方，該協議明年到期後不會續約。報導未見北京對此的回應。",
-    "en": "The Solomon Islands signed a treaty with Australia on November 25 that would preclude any foreign military or security base in the country. Prime Minister Matthew Wale declined to discuss the 2022 security pact with China, citing a nondisclosure agreement; a diplomatic official said the Solomons told China last month the pact would not be renewed when it expires next year. No response from Beijing was reported."
-   },
-   "sources": [
+     "url": "https://longbridge.com/zh-CN/news/306832692"
+    },
     {
      "name": {
       "zh": "Just Security 每日要聞（彙整路透等）",
       "en": "Just Security Early Edition (citing Reuters et al.)"
      },
      "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
-    },
-    {
-     "name": {
-      "zh": "中央社",
-      "en": "CNA"
-     },
-     "url": "https://www.cna.com.tw/video/globalview/4357593"
     }
    ]
   }
@@ -163,12 +177,111 @@
  "finance": [
   {
    "title": {
+    "zh": "日韓股市開高反彈　日經漲逾800點",
+    "en": "Japan, Korea stocks rebound; Nikkei up more than 800"
+   },
+   "body": {
+    "zh": "美股 25 日在感恩節前收復盤中跌幅後，亞股 26 日早盤走高。日經 225 指數以 57,429 點開出、上漲 418 點，盤中一度擴大漲幅至 843 點、報 57,854 點；南韓綜合指數開盤上漲 1.01% 至 4,745.1 點，隨後漲幅擴大至 1.33%。南韓央行同日召開利率會議，市場普遍預期升息 1 碼至 3.25%。",
+    "en": "Asian stocks rose in early trade on November 26 after Wall Street recovered from its intraday slump on the 25th ahead of Thanksgiving. Japan's Nikkei 225 opened up 418 points at 57,429 and extended gains to 843 points at 57,854, while South Korea's KOSPI opened 1.01% higher at 4,745.1 and later rose 1.33%. The Bank of Korea holds a rate meeting the same day, with markets widely expecting a 25-basis-point hike to 3.25%."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5653650"
+    },
+    {
+     "name": {
+      "zh": "長橋證券（巴士的報）",
+      "en": "Longbridge (Bastille Post)"
+     },
+     "url": "https://longbridge.com/zh-HK/news/306838914"
+    },
+    {
+     "name": {
+      "zh": "VOCO News",
+      "en": "VOCO News"
+     },
+     "url": "https://news.vocofm.com/%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/211612/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "標普列輝達負向觀察　盧比歐傳向川普示警",
+    "en": "S&P puts Nvidia on watch; Rubio reportedly warns Trump"
+   },
+   "body": {
+    "zh": "彭博報導，標普全球評級對輝達 AA 信用評等展開 90 天評估並列入負向觀察，原因是執行長黃仁勳離職又回任引發治理疑慮，若調降原則上僅限一級。《紐約郵報》則報導，國務卿盧比歐認為黃仁勳與輝達不利美國對中政策，曾向川普示警輝達構成國安威脅；副總統范斯則公開力挺黃仁勳，稱他並未遭調查、也不需要特赦。輝達股價 25 日收跌 3.9% 至 149.30 美元。",
+    "en": "Bloomberg reported that S&P Global Ratings began a 90-day review of Nvidia's AA rating and placed it on negative watch over governance concerns raised by CEO Jensen Huang's departure and return, saying any cut would likely be one notch. The New York Post reported that Secretary of State Marco Rubio believes Huang and Nvidia undermine US China policy and has warned Trump the company is a national-security threat, while Vice President JD Vance publicly backed Huang, saying he is not under investigation and needs no pardon. Nvidia shares closed down 3.9% at US$149.30 on the 25th."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611263001.aspx"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611260004.aspx"
+    },
+    {
+     "name": {
+      "zh": "長橋證券（智通財經）",
+      "en": "Longbridge (Zhitong Finance)"
+     },
+     "url": "https://longbridge.com/zh-CN/news/306832692"
+    },
+    {
+     "name": {
+      "zh": "The Motley Fool",
+      "en": "The Motley Fool"
+     },
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "中東襲擊不斷　布蘭特原油收漲3.5%",
+    "en": "Middle East attacks lift Brent 3.5% at settle"
+   },
+   "body": {
+    "zh": "胡塞組織襲擊沙國港口與煉油設施、伊朗稱油輪在荷莫茲海峽觸雷，使近幾個月逐步恢復的原油運輸前景再蒙陰影。紐約西德州中級原油 1 月期貨 25 日上漲 1.63 美元（1.99%），結算價每桶 83.68 美元；北海布蘭特原油上漲 3.21 美元（3.51%），收每桶 94.61 美元。智通財經另引述數據指出，亞洲買家 12 月採購的美國原油降至約 1,600 萬至 1,800 萬桶，為 2018 年以來最低。",
+    "en": "Houthi attacks on Saudi ports and oil facilities and Iran's report of tankers hitting mines in the Strait of Hormuz clouded the outlook for crude shipping, which had been gradually recovering. January WTI rose US$1.63 (1.99%) on November 25 to settle at US$83.68 a barrel, and Brent gained US$3.21 (3.51%) to US$94.61. Zhitong Finance also cited data showing Asian buyers' December purchases of US crude fell to about 16 to 18 million barrels, the lowest since 2018."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/afe/202611260011.aspx"
+    },
+    {
+     "name": {
+      "zh": "長橋證券（智通財經）",
+      "en": "Longbridge (Zhitong Finance)"
+     },
+     "url": "https://longbridge.com/zh-CN/news/306832692"
+    }
+   ]
+  },
+  {
+   "title": {
     "zh": "美GDP上修至4.3%　PCE年增3.8%",
     "en": "US Q3 GDP revised up to 4.3%; PCE inflation 3.8%"
    },
    "body": {
-    "zh": "美國經濟分析局 25 日公布，第三季實質 GDP 年化成長率上修 0.9 個百分點至 4.3%，主因投資加速與政府支出回升，出口減少則部分抵銷。10 月 PCE 物價指數年增 3.8%，追平 5 月創下的 3 年高點，能源與非耐久財價格漲幅擴大；核心 PCE 月增 0.3%，連續第 3 個月持平此一增幅。聯準會已於 9 月升息、10 月按兵不動，The Company Chronicle 引述 CME FedWatch 指交易員預期 12 月升息機率達 97%。",
-    "en": "The Bureau of Economic Analysis said on November 25 that third-quarter real GDP growth was revised up 0.9 percentage point to an annualised 4.3%, driven by faster investment and a pickup in government spending, partly offset by lower exports. The October PCE price index rose 3.8% year on year, matching May's three-year high, as energy and non-durable goods prices accelerated; core PCE rose 0.3% on the month for a third straight month. The Fed hiked in September and held in October, and The Company Chronicle, citing CME FedWatch, said traders price a 97% chance of a December hike."
+    "zh": "美國經濟分析局 25 日公布，第三季實質 GDP 年化成長率上修 0.9 個百分點至 4.3%，主因投資加速與政府支出回升。10 月 PCE 物價指數月增 0.3%、年增 3.8%，追平 5 月創下的 3 年高點；據金十數據，核心 PCE 年增 3.3%、略高於預期。聯準會同日發布的褐皮書顯示經濟溫和成長、消費支出持平，多數企業回報薪資壓力上升；The Company Chronicle 引述 CME FedWatch 指交易員預期 12 月升息機率達 97%。",
+    "en": "The Bureau of Economic Analysis said on November 25 that third-quarter real GDP growth was revised up 0.9 percentage point to an annualised 4.3%, driven by faster investment and a pickup in government spending. The October PCE price index rose 0.3% on the month and 3.8% on the year, matching May's three-year high; Jin10 said core PCE rose 3.3% year on year, slightly above expectations. The Fed's Beige Book released the same day showed modest growth with flat consumer spending and rising wage pressure reported by firms, and The Company Chronicle, citing CME FedWatch, said traders price a 97% chance of a December hike."
    },
    "sources": [
     {
@@ -180,10 +293,17 @@
     },
     {
      "name": {
-      "zh": "The Motley Fool",
-      "en": "The Motley Fool"
+      "zh": "金十數據（時事新聞轉載）",
+      "en": "Jin10 (via Shishi Xinwen)"
      },
-     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
+     "url": "https://shishixinwen.news/news/jin10/20261126063120895800"
+    },
+    {
+     "name": {
+      "zh": "長橋證券（智通財經）",
+      "en": "Longbridge (Zhitong Finance)"
+     },
+     "url": "https://longbridge.com/zh-CN/news/306832692"
     },
     {
      "name": {
@@ -196,12 +316,12 @@
   },
   {
    "title": {
-    "zh": "標普啟動90天評估　考慮調降輝達評等",
-    "en": "S&P puts Nvidia's AA rating under 90-day review"
+    "zh": "美批准SpaceX百萬顆衛星　建太空資料中心",
+    "en": "US approves 1 million SpaceX satellites for space data centres"
    },
    "body": {
-    "zh": "彭博報導，標普全球評級 25 日宣布對輝達的 AA 信用評等展開 90 天評估，並將其列入負向觀察名單，原因是執行長黃仁勳離職後又回任，引發管理與治理層面的疑慮。標普表示，若調降原則上僅限一級，除非調查結果或揭露資訊讓其認定公司聲譽或未來業務前景受損。輝達股價當天一度重挫逾 9%，終場收跌 3.9% 至 149.30 美元。",
-    "en": "Bloomberg reported that S&P Global Ratings on November 25 began a 90-day review of Nvidia's AA credit rating and placed it on negative watch, citing management and governance concerns raised by CEO Jensen Huang's departure and return. S&P said any downgrade would likely be limited to one notch unless investigation findings or disclosures lead it to conclude the company's reputation or business prospects have been harmed. Nvidia shares fell more than 9% intraday before closing down 3.9% at US$149.30."
+    "zh": "美國聯邦通訊委員會（FCC）25 日表示，已授權 SpaceX 部署名為 Starmind、多達 100 萬顆衛星的星系，用於建置太空資料中心，以支援人工智慧運算需求。依執照條件，SpaceX 須在 2033 年 11 月前開始部署，2035 年 11 月前完成 10%、2038 年 11 月前完成一半；SpaceX 主張衛星幾乎可全天候使用太陽能。中央社指出，目前在軌衛星約 1.7 萬顆，SpaceX 是否真會發射百萬顆仍不明。",
+    "en": "The US Federal Communications Commission said on November 25 it had authorised SpaceX to deploy a constellation of up to 1 million satellites, called Starmind, to build space-based data centres for AI computing demand. Under the licence, SpaceX must begin deployment by November 2033, reach 10% by November 2035 and half by November 2038; SpaceX argues the satellites can run on near-constant solar power. CNA noted that about 17,000 satellites are currently in orbit and it is unclear whether SpaceX will actually launch a million."
    },
    "sources": [
     {
@@ -209,99 +329,7 @@
       "zh": "中央社",
       "en": "CNA"
      },
-     "url": "https://www.cna.com.tw/news/aopl/202611263001.aspx"
-    },
-    {
-     "name": {
-      "zh": "經濟日報",
-      "en": "Economic Daily News"
-     },
-     "url": "https://money.udn.com/money/story/123398/9902571"
-    },
-    {
-     "name": {
-      "zh": "The Motley Fool",
-      "en": "The Motley Fool"
-     },
-     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "中東襲擊加劇　布蘭特原油漲3.5%",
-    "en": "Middle East attacks lift Brent 3.5%"
-   },
-   "body": {
-    "zh": "中東攻擊事件升溫，讓近幾個月逐步恢復的原油運輸前景再蒙陰影，國際油價 25 日走高。紐約西德州中級原油 2027 年 1 月期貨上漲 2% 至每桶 83.68 美元，北海布蘭特原油 1 月期貨上漲 3.5% 至每桶 94.61 美元。伊朗同日表示有兩艘油輪在荷莫茲海峽觸雷起火，胡塞組織也宣稱攻擊沙國煉油廠。",
-    "en": "Escalating attacks in the Middle East clouded the outlook for crude shipping, which had been gradually recovering in recent months, pushing oil prices higher on November 25. January 2027 WTI rose 2% to US$83.68 a barrel and January Brent gained 3.5% to US$94.61. The same day Iran said two tankers hit mines in the Strait of Hormuz and the Houthis claimed an attack on a Saudi refinery."
-   },
-   "sources": [
-    {
-     "name": {
-      "zh": "中央社",
-      "en": "CNA"
-     },
-     "url": "https://www.cna.com.tw/news/afe/202611260011.aspx"
-    },
-    {
-     "name": {
-      "zh": "Just Security 每日要聞（彙整路透等）",
-      "en": "Just Security Early Edition (citing Reuters et al.)"
-     },
-     "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "惠普營收增9.3%　AI PC占出貨近6成",
-    "en": "HP revenue up 9.3%; AI PCs near 60% of shipments"
-   },
-   "body": {
-    "zh": "惠普（HP Inc.）24 日美股盤後公布 2026 會計年度第四季財報，營收 160 億美元、年增 9.3%，非 GAAP 每股盈餘 0.83 美元、年減 10.8%，但高於公司原先財測；個人電腦事業營收年增 14%，列印事業年減 1%。代理執行長布魯薩德表示 AI PC 已占當季出貨近六成，公司正因應記憶體與儲存成本壓力；惠普預估 2027 年度非 GAAP 每股盈餘 3.15 至 3.45 美元。惠普股價 25 日上漲 11.49%。",
-    "en": "HP Inc. reported fiscal 2026 fourth-quarter results after the US close on November 24: revenue of US$16.0 billion, up 9.3%, and non-GAAP EPS of US$0.83, down 10.8% but above its prior outlook; Personal Systems revenue rose 14% while Printing fell 1%. Interim CEO Bruce Broussard said AI PCs made up nearly 60% of shipments and that HP is addressing memory and storage cost pressures; the company guided fiscal 2027 non-GAAP EPS of US$3.15 to US$3.45. HP shares rose 11.49% on November 25."
-   },
-   "sources": [
-    {
-     "name": {
-      "zh": "惠普財報新聞稿（SEC）",
-      "en": "HP release (SEC filing)"
-     },
-     "url": "https://www.sec.gov/Archives/edgar/data/0000047217/000004721726000054/hp103126exhibit991q426.htm"
-    },
-    {
-     "name": {
-      "zh": "The Motley Fool",
-      "en": "The Motley Fool"
-     },
-     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/"
-    }
-   ]
-  },
-  {
-   "title": {
-    "zh": "金管會：57件庫藏股執行中　上限332億",
-    "en": "FSC: 57 buybacks under way, up to NT$33.3bn"
-   },
-   "body": {
-    "zh": "台股 25 日重挫 1,926.92 點，金管會發布新聞稿指出，截至 24 日仍有 57 件庫藏股執行中（上市 19 件、上櫃 38 件），最大可買回金額約 332.65 億元，其中 47 件是 11 月 6 日以來新增。金管會自 9 日起分三波限制借券賣出與放空，24 日整體信用戶維持率為 172.39%。截至 25 日 13 時 30 分，台股 11 月以來累計下跌 15.52%，跌幅在亞洲主要市場中僅次於南韓的 17.97%。",
-    "en": "After the TAIEX tumbled 1,926.92 points on November 25, the Financial Supervisory Commission said 57 share buybacks were still under way as of the 24th (19 listed, 38 OTC), with a maximum of about NT$33.27 billion, 47 of them launched since November 6. The FSC has curbed securities-lending sales and short selling in three rounds since the 9th, and the overall margin maintenance ratio stood at 172.39% on the 24th. As of 1:30 p.m. on the 25th, Taiwan stocks were down 15.52% in November, second only to South Korea's 17.97% among major Asian markets."
-   },
-   "sources": [
-    {
-     "name": {
-      "zh": "Yahoo 股市（中央社）",
-      "en": "Yahoo Finance TW (CNA)"
-     },
-     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB-%E9%87%91%E7%AE%A1%E6%9C%83-57%E4%BB%B6%E5%BA%AB%E8%97%8F%E8%82%A1%E5%9F%B7%E8%A1%8C%E4%B8%AD-%E6%9C%80%E5%A4%A7%E5%8F%AF%E8%B2%B7%E5%9B%9E%E9%81%94332%E5%84%84-125653512.html"
-    },
-    {
-     "name": {
-      "zh": "聯合新聞網",
-      "en": "UDN"
-     },
-     "url": "https://udn.com/news/story/7251/9901869"
+     "url": "https://www.cna.com.tw/news/ait/202611260012.aspx"
     }
    ]
   }
@@ -496,22 +524,22 @@
   "calendar": [
    {
     "time": {
-     "zh": "週四 11/26 08:30",
-     "en": "Thu, Nov 26, 08:30"
-    },
-    "text": {
-     "zh": "行政院副院長鄭麗君率經濟部會就美國 301 產能過剩調查提案召開記者會",
-     "en": "Vice Premier Cheng Li-chiun and economic ministers hold a press conference on the US Section 301 overcapacity proposal"
-    }
-   },
-   {
-    "time": {
      "zh": "週四 11/26",
      "en": "Thu, Nov 26"
     },
     "text": {
-     "zh": "南韓央行公布利率決策",
-     "en": "Bank of Korea interest-rate decision"
+     "zh": "南韓央行公布利率決策，市場普遍預期升息 1 碼至 3.25%",
+     "en": "Bank of Korea rate decision; markets widely expect a hike to 3.25%"
+    }
+   },
+   {
+    "time": {
+     "zh": "週四 11/26 15:00",
+     "en": "Thu, Nov 26, 15:00"
+    },
+    "text": {
+     "zh": "德國公布 12 月 GfK 消費者信心指數",
+     "en": "Germany December GfK consumer confidence"
     }
    },
    {
@@ -538,13 +566,6 @@
   "calendar_sources": [
    {
     "name": {
-     "zh": "中央社",
-     "en": "CNA"
-    },
-    "url": "https://www.cna.com.tw/news/aipl/202611260005.aspx"
-   },
-   {
-    "name": {
      "zh": "經濟日報",
      "en": "Economic Daily News"
     },
@@ -556,6 +577,13 @@
      "en": "Jin10 (via Shishi Xinwen)"
     },
     "url": "https://shishixinwen.news/news/jin10/20261126065000001800"
+   },
+   {
+    "name": {
+     "zh": "VOCO News",
+     "en": "VOCO News"
+    },
+    "url": "https://news.vocofm.com/%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/211612/"
    },
    {
     "name": {
