@@ -1,6 +1,13 @@
 {
- "latest": "2026-11-27",
+ "latest": "2026-11-28",
  "days": [
+  {
+   "date": "2026-11-28",
+   "summary": {
+    "zh": "美軍擊癱闖封鎖船；台股漲156點",
+    "en": "US disables blockade runner; TAIEX up 156"
+   }
+  },
   {
    "date": "2026-11-27",
    "summary": {
@@ -41,13 +48,6 @@
    "summary": {
     "zh": "油輪遭擊伊朗襲巴林；金管會全面禁空",
     "en": "Tankers hit, Iran strikes Bahrain; FSC bans shorting"
-   }
-  },
-  {
-   "date": "2026-11-21",
-   "summary": {
-    "zh": "俄襲基輔三橋；台股崩2,393點週跌17.5%",
-    "en": "Russia hits Kyiv bridges; TAIEX crashes 2,393, down 17.5% on week"
    }
   }
  ]

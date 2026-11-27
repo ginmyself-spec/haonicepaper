@@ -1,0 +1,762 @@
+{
+ "date": "2026-11-28",
+ "updated": "2026-11-28T07:56:09+08:00",
+ "edition": {
+  "zh": "晨間版",
+  "en": "Morning edition"
+ },
+ "lead_summary": {
+  "zh": "美軍擊癱闖封鎖船；台股漲156點",
+  "en": "US disables blockade runner; TAIEX up 156"
+ },
+ "world": [
+  {
+   "title": {
+    "zh": "美軍擊癱闖伊朗封鎖貨輪　伊朗揚言突破",
+    "en": "US disables ship running Iran blockade; Tehran vows to break it"
+   },
+   "body": {
+    "zh": "美軍中央司令部 27 日表示，美軍飛機 26 日以精準彈藥擊中帛琉籍貨輪「Pacific Archer」號船尾，使其失去動力，船上平民船員無人受傷，美方指該船自伊朗阿巴斯港出發、企圖突破封鎖。伊朗海軍司令伊拉尼 27 日在國營電視表示，伊朗將採取行動打破海上封鎖。美國自 4 月起封鎖伊朗港口，夏季談判期間一度解除、7 月恢復，中央司令部稱 7 月以來已讓 158 艘商船改道；據美聯社統計，這至少是春季以來第 15 艘遭公開擊癱的船隻。",
+    "en": "US Central Command said on November 27 that a US aircraft fired precision munitions at the stern of the Palau-flagged M/V Pacific Archer on November 26, disabling its propulsion without harming the civilian crew, and said the ship had left Iran's Bandar Abbas and tried to run the blockade. Iranian navy commander Shahram Irani said on state TV on November 27 that Iran would act to break the naval blockade. The US has blockaded Iranian ports since April, lifting it during talks in the summer and resuming it in July; CENTCOM says it has redirected 158 merchant ships since July, and by AP's count the Pacific Archer is at least the 15th vessel publicly disabled since spring."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "1News（美聯社）",
+      "en": "1News (AP)"
+     },
+     "url": "https://www.1news.co.nz/2026/11/28/us-military-strikes-ship-attempting-to-evade-iranian-port-blockade/"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "科威特無人機襲擊　聯合國秘書長籲克制",
+    "en": "UN chief condemns Kuwait drone strike, urges restraint"
+   },
+   "body": {
+    "zh": "據中央社 28 日凌晨引述外電報導，聯合國秘書長古特瑞斯 27 日譴責在科威特造成 2 名義大利技師死亡的無人機攻擊，向科威特表達聲援並哀悼罹難者。聯合國發言人杜加里克表示，古特瑞斯對區域緊張升高深表憂心，呼籲各方保持克制、避免進一步破壞區域和平與安全，並警告敵對行動若重啟將帶來毀滅性後果。科威特指攻擊來自伊朗，伊朗軍方則否認與這起致命攻擊有關。",
+    "en": "UN Secretary-General António Guterres on November 27 condemned the drone attack in Kuwait that killed two Italian technicians, expressing solidarity with Kuwait and condolences to the victims' families, CNA reported early on November 28, citing wire services. UN spokesman Stéphane Dujarric said Guterres was deeply concerned about rising regional tensions, urged all parties to exercise restraint and avoid actions that further undermine regional peace and security, and warned that renewed hostilities would have devastating consequences. Kuwait has blamed Iran for the attack, while Iran's military denied any link to it."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611280004.aspx"
+    },
+    {
+     "name": {
+      "zh": "自由時報",
+      "en": "Liberty Times"
+     },
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5655964"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "紐西蘭大選最終結果　執政聯盟未過半",
+    "en": "NZ final count: ruling coalition loses majority"
+   },
+   "body": {
+    "zh": "紐西蘭 27 日公布大選最終計票結果，計入約 48.5 萬張特別票後，總理盧克森領導的國家黨由初步的 42 席降為 40 席，與行動黨 13 席、紐西蘭優先黨 12 席合計 65 席，在 130 席國會中差 1 席過半。左派陣營工黨 36 席、綠黨 17 席、毛利黨 5 席共 58 席；由華裔黨魁黃秋蕾領導的機會黨首度跨過 5% 門檻取得 7 席，成為組閣關鍵。盧克森表示將與兩個執政夥伴及機會黨展開談判，並說談判將具挑戰性；黃秋蕾表示會先與第一大黨接觸，並提出包括氣候環境政策、政治獻金上限在內的 5 項底線。",
+    "en": "New Zealand released the final count of its general election on November 27: after about 485,000 special votes were added, Prime Minister Christopher Luxon's National Party fell from a preliminary 42 seats to 40, giving it, ACT (13) and NZ First (12) a combined 65 seats, one short of a majority in the 130-seat parliament. The left bloc of Labour (36), the Greens (17) and Te Pāti Māori (5) holds 58 seats, while the Opportunity Party, led by Qiu Huang, cleared the 5% threshold for the first time with 7 seats and now holds the balance of power. Luxon said talks would begin with his two partners and the Opportunity Party and called them challenging; Huang said she would talk first with the largest party and set out five bottom lines, including climate and environment policy and caps on political donations."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由時報",
+      "en": "Liberty Times"
+     },
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5655850"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "義外長駁澤倫斯基　稱利比亞攻擊未獲通報",
+    "en": "Italy rejects Zelensky claim it was told of Libya strike"
+   },
+   "body": {
+    "zh": "義大利外長塔加尼 27 日接受 Sky TG24 訪問時表示，各方事前都沒有獲知烏克蘭 22 日在利比亞班加西港攻擊俄國軍艦一事，並直言澤倫斯基的說法不是事實。澤倫斯基在 26 日公布的 BBC 專訪中表示，烏軍在境外行動前都會與夥伴協調；烏方表示這次行動以 7 艘國產無人艇擊中俄國海軍輕型護衛艦「水星號」。塔加尼 26 日也在國會表示義方不認同這項決定，呼籲各方停止在利比亞領土與水域的軍事行動，同時說義國對俄國在利比亞西部擴大軍事存在同樣感到憂心。",
+    "en": "Italian Foreign Minister Antonio Tajani told Sky TG24 on November 27 that none of Ukraine's partners had been informed in advance of its November 22 attack on a Russian warship at Libya's port of Benghazi, saying Volodymyr Zelensky's account was not true. In a BBC interview published on November 26, Zelensky said Ukrainian forces coordinate with partners before operating abroad; Ukraine says the operation used seven domestically made naval drones to hit the Russian corvette Merkury. Tajani told parliament on November 26 that Italy did not agree with the decision and urged all sides to halt military action in Libyan territory and waters, while also voicing concern about Russia's growing military presence in western Libya."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "基輔獨立報",
+      "en": "Kyiv Independent"
+     },
+     "url": "https://kyivindependent.com/zelensky-says-ukraine-aligns-naval-strikes-with-partners-italy-denies-coordination-over-libya-attack/"
+    },
+    {
+     "name": {
+      "zh": "Africanews（美聯社）",
+      "en": "Africanews (AP)"
+     },
+     "url": "https://www.africanews.com/2026/11/27/italy-not-informed-about-ukraine-drone-strike-on-russian-ships-in-libya/"
+    },
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270281.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "沙國空襲葉門塔伊茲　胡塞稱11死",
+    "en": "Houthis say Saudi strike in Taiz kills 11"
+   },
+   "body": {
+    "zh": "葉門胡塞組織旗下的薩巴通訊社 27 日引述當地消息指稱，沙烏地阿拉伯戰機空襲西南部塔伊茲省圖爾巴市一棟住宅大樓，造成 11 名居民死亡，其中多數是兒童。中央社的報導未見沙國或其主導聯軍對此說法的回應。報導指出，胡塞組織前一日曾攻擊沙國煉油廠；沙國主導的聯軍支持葉門國際承認的政府，胡塞組織則獲伊朗支持。",
+    "en": "The Houthi-run Saba news agency said on November 27, citing local sources, that Saudi warplanes struck a residential building in Al-Turba in Taiz province, killing 11 residents, most of them children. CNA's report carried no response to the claim from Saudi Arabia or the coalition it leads. The report noted that the Houthis had attacked a Saudi refinery the previous day; the Saudi-led coalition backs Yemen's internationally recognised government, while the Houthis are backed by Iran."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270227.aspx"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "感恩節風暴襲美東　近50萬戶停電",
+    "en": "Thanksgiving storm leaves nearly 500,000 without power"
+   },
+   "body": {
+    "zh": "挾帶強風、豪雨與降雪的感恩節風暴 26 日侵襲美國東部，據 PowerOutage.us 統計，27 日仍有近 50 萬用戶停電，其中賓州約 12.2 萬戶最嚴重，紐約州約 4.5 萬戶，密蘇里州東部積雪最深約 38 公分、約 7.2 萬戶停電。FlightAware 資料顯示約 1,600 個航班延誤、逾 500 班取消。紐約梅西百貨感恩節遊行因天候延到隔天舉行，據報導是遊行史上首度因天氣改期。",
+    "en": "A Thanksgiving storm bringing high winds, heavy rain and snow hit the eastern United States on November 26, and nearly 500,000 customers were still without power on November 27, according to PowerOutage.us, with Pennsylvania worst hit at about 122,000, New York State about 45,000, and eastern Missouri, where up to about 38 cm of snow fell, about 72,000. FlightAware data showed about 1,600 flights delayed and more than 500 cancelled. New York's Macy's Thanksgiving Day Parade was pushed back a day because of the weather, reportedly the first weather postponement in its history."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611280005.aspx"
+    },
+    {
+     "name": {
+      "zh": "自由時報",
+      "en": "Liberty Times"
+     },
+     "url": "https://news.ltn.com.tw/news/world/breakingnews/5655968"
+    }
+   ]
+  }
+ ],
+ "finance": [
+  {
+   "title": {
+    "zh": "韓股大漲4.3%　穩定基金擴大有望",
+    "en": "Kospi jumps 4.3% on hopes of bigger rescue fund"
+   },
+   "body": {
+    "zh": "南韓 KOSPI 指數 27 日上漲 204.47 點（4.34%），收在 4,915.68 點，重返 4,900 點之上；KOSDAQ 指數大漲 8.13% 至 708.99 點，盤中一度觸發買進側車機制。市場期待當局擴大現行 10.8 兆韓元的股市穩定基金，外資買超 1.13 兆韓元、散戶賣超 1.77 兆韓元，三星電子收漲 4.55%、SK 海力士漲 5.41%。KOSPI 在 25 日曾重挫 6.2%；韓元 27 日收在 1 美元兌 1,338.60 韓元，升值 5.40 韓元。",
+    "en": "South Korea's Kospi rose 204.47 points, or 4.34%, to 4,915.68 on November 27, back above 4,900, while the Kosdaq surged 8.13% to 708.99, briefly triggering a buy-side sidecar. Hopes that authorities will expand the 10.8 trillion won market stabilisation fund drew foreign net buying of 1.13 trillion won as retail investors sold 1.77 trillion won; Samsung Electronics rose 4.55% and SK Hynix 5.41%. The Kospi had plunged 6.2% on November 25, and the won closed 5.40 stronger at 1,338.60 per dollar on November 27."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "韓國經濟新聞 KED",
+      "en": "KED Global"
+     },
+     "url": "https://www.kedglobal.com/korean-stock-market/newsView/ked202611270007"
+    },
+    {
+     "name": {
+      "zh": "Digital Today",
+      "en": "Digital Today"
+     },
+     "url": "https://www.digitaltoday.co.kr/en/view/131873/kospi-back-above-4900-on-market-stabilisation-fund-hopes-kosdaq-surges-8-13-percent"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "國際油價27日回落　布蘭特跌1.17%",
+    "en": "Oil slips on Nov 27; Brent down 1.17%"
+   },
+   "body": {
+    "zh": "紐約商品交易所 1 月輕原油期貨 27 日下跌 0.60 美元（0.72%），收每桶 83.08 美元；倫敦洲際交易所 1 月布蘭特原油期貨下跌 1.13 美元（1.17%），收每桶 95.44 美元。據新浪財經整理的隔夜要聞，伊拉克石油部長表示正與 OPEC 協商產量上限，俄羅斯外長則表示希望把石油運輸納入停火協議。",
+    "en": "New York light crude for January fell 60 cents, or 0.72%, to settle at US$83.08 a barrel on November 27, while ICE Brent for January dropped US$1.13, or 1.17%, to US$95.44. According to Sina Finance's overnight digest, Iraq's oil minister said the country is negotiating an output cap with OPEC, and Russia's foreign minister said Moscow wants oil transport included in a ceasefire agreement."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "澎湃新聞（新華社）",
+      "en": "The Paper (Xinhua)"
+     },
+     "url": "https://www.thepaper.cn/newsDetail_forward_34579490"
+    },
+    {
+     "name": {
+      "zh": "新浪財經",
+      "en": "Sina Finance"
+     },
+     "url": "https://k.sina.cn/article_5953740931_162dee083067046qkg.html"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "主計總處上修GDP　今年估成長13.28%",
+    "en": "DGBAS lifts Taiwan 2026 growth forecast to 13.28%"
+   },
+   "body": {
+    "zh": "行政院主計總處 27 日將 2026 年經濟成長率預測較 8 月上修 2.23 個百分點至 13.28%，為 1979 年以來最高，並預估 2027 年成長 6.51%。主計總處同時預估今年平均每人 GDP 為 46,767 美元，2027 年將達 50,779 美元、首度突破 5 萬美元。",
+    "en": "Taiwan's statistics agency DGBAS on November 27 raised its 2026 economic growth forecast by 2.23 percentage points from August to 13.28%, the highest since 1979, and forecast 6.51% growth for 2027. It also projected per-capita GDP of US$46,767 this year and US$50,779 in 2027, which would be the first time above US$50,000."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9906946"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "輝達晶片現蹤上海資料中心　涉黃樂",
+    "en": "Nvidia Blackwell chips found at Shanghai data center"
+   },
+   "body": {
+    "zh": "據彭博 27 日報導，兩家中國公司 11 月向監管機關提交的文件顯示，上海一處與爭議人物黃樂及 Megaspeed 有關的資料中心裝有輝達 Blackwell 晶片，包括 GB300 NVL72 機櫃，其中上海碩曜以這批設備抵押取得 9,600 萬元人民幣貸款。這是首度有文件顯示 Blackwell 處理器流向與黃樂相關的資料中心，而這類晶片未經美方許可不得出口到中國；黃仁勳先前曾表示，這類系統體積龐大、不易走私。另據經濟日報引述 CNBC 報導，含輝達晶片產品的賣方將停止供貨給向中國企業出租算力的新興 AI 雲端業者，可能影響鴻海、廣達、緯創等廠商訂單。",
+    "en": "Filings submitted to Chinese regulators in November show Nvidia Blackwell chips, including a GB300 NVL72 rack, installed at a Shanghai data center linked to controversial figure Huang Le and Megaspeed, Bloomberg reported on November 27; one company, Shanghai Shuoyao, pledged the equipment as collateral for a 96 million yuan loan. It is the first documentation of Blackwell processors reaching a data center tied to Huang Le, and the chips cannot be exported to China without US permission; Nvidia CEO Jensen Huang has said such systems are too bulky to smuggle easily. Separately, Economic Daily News, citing CNBC, said sellers of products with Nvidia chips will stop supplying emerging AI cloud firms that rent compute to Chinese companies, which could affect orders at Foxconn, Quanta and Wistron."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611273002.aspx"
+    },
+    {
+     "name": {
+      "zh": "經濟日報",
+      "en": "Economic Daily News"
+     },
+     "url": "https://money.udn.com/money/story/5607/9906946"
+    }
+   ]
+  },
+  {
+   "title": {
+    "zh": "燃油價格飆漲　挪威北歐大西洋航空聲請破產",
+    "en": "Norse Atlantic files for bankruptcy as fuel costs soar"
+   },
+   "body": {
+    "zh": "挪威低成本長程航空公司北歐大西洋航空 27 日表示，旗下 12 架波音 787 機隊的租約遭終止，公司對此提出異議，數小時後董事會宣布將聲請破產。法新社報導指出，中東戰爭推升航空燃油價格，加重公司財務壓力；該公司 25 日曾警告財務岌岌可危，26 日取消所有航班，27 日機隊再度停飛。波羅的海航空 9 月已聲請美國破產法第 11 章保護，西班牙 Plus Ultra 航空也在 24 日停止營運。",
+    "en": "Norwegian low-cost long-haul carrier Norse Atlantic said on November 27 that the leases on its fleet of 12 Boeing 787s had been terminated, which it disputed, and hours later its board announced it would file for bankruptcy. AFP said the Middle East war had driven jet fuel prices sharply higher and worsened the airline's finances; it warned on November 25 that its finances were precarious, cancelled all flights on November 26 and grounded its fleet again on November 27. Air Baltic filed for US Chapter 11 protection in September, and Spain's Plus Ultra ceased operations on November 24."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "中央社",
+      "en": "CNA"
+     },
+     "url": "https://www.cna.com.tw/news/aopl/202611270285.aspx"
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "tw": {
+   "session": "2026-11-27",
+   "close": 39308.08,
+   "change": 156.27,
+   "pct": 0.4,
+   "open": 39168.57,
+   "high": 39495.41,
+   "low": 38890.53,
+   "prev": 39151.81,
+   "turnover": {
+    "zh": "6,660.69 億元",
+    "en": "NT$666.07 billion"
+   },
+   "breadth": {
+    "up": 438,
+    "down": 551,
+    "flat": 97
+   },
+   "headline": {
+    "zh": "台積電尾盤撐盤　台股漲156點",
+    "en": "TSMC props up TAIEX for 156-point gain"
+   },
+   "body": {
+    "zh": "加權指數 27 日以 39,168.57 點開出，盤中最低 38,890.53 點、最高 39,495.41 點，終場上漲 156.27 點（0.40%）收 39,308.08 點，成交值 6,660.69 億元，較前一日的 8,174.67 億元明顯萎縮；上市 438 家上漲、551 家下跌、97 家平盤，週線大漲 3,274 點。台積電漲 35 元（1.63%）收 2,180 元，尾盤撐住指數，台達電漲 0.45% 至 1,125 元，聯發科跌 0.67% 至 3,680 元，金融類股跌 1.03%；華通等低軌衛星股走強，櫃買指數則下跌 1.40% 收 285.77 點。市場人士指出，美股感恩節休市、黑色星期五提前收盤，加上 28 日九合一選舉前的觀望氣氛，外資缺席使量能縮小；外資賣超 296.28 億元，較前一日的 491.81 億元縮小，投信則買超 85.19 億元。",
+    "en": "The TAIEX opened at 39,168.57 on November 27, traded between 38,890.53 and 39,495.41, and closed up 156.27 points (0.40%) at 39,308.08 on turnover of NT$666.07 billion, well below the previous day's NT$817.47 billion; 438 listed stocks rose, 551 fell and 97 were unchanged, and the index gained 3,274 points on the week. TSMC rose NT$35 (1.63%) to NT$2,180, holding the index up late in the session, Delta Electronics added 0.45% to NT$1,125 and MediaTek slipped 0.67% to NT$3,680, while financials fell 1.03%; low-orbit satellite names such as Compeq were strong, but the TPEx index fell 1.40% to 285.77. Traders said the US Thanksgiving holiday and shortened Black Friday session, plus caution before the November 28 local elections, kept foreign investors on the sidelines and volume thin; foreign investors sold a net NT$29.63 billion, down from NT$49.18 billion the day before, while investment trusts bought NT$8.52 billion."
+   },
+   "flows_unit": {
+    "zh": "億元",
+    "en": "NT$100m"
+   },
+   "flows": [
+    {
+     "name": {
+      "zh": "外資",
+      "en": "Foreign investors"
+     },
+     "value": -296.28
+    },
+    {
+     "name": {
+      "zh": "投信",
+      "en": "Investment trusts"
+     },
+     "value": 85.19
+    },
+    {
+     "name": {
+      "zh": "自營商（自行買賣）",
+      "en": "Dealers (proprietary)"
+     },
+     "value": 20.32
+    },
+    {
+     "name": {
+      "zh": "自營商（避險）",
+      "en": "Dealers (hedging)"
+     },
+     "value": -22.27
+    },
+    {
+     "name": {
+      "zh": "合計",
+      "en": "Total"
+     },
+     "value": -213.04,
+     "total": true
+    }
+   ],
+   "flows_note": {
+    "zh": "外資賣超 296.28 億元，較前一日縮小，據永豐金證券整理為連續 10 日賣超；投信買超 85.19 億元；自營商自行買賣買超 20.32 億元、避險部位賣超 22.27 億元，三大法人合計賣超 213.04 億元。",
+    "en": "Foreign investors sold a net NT$29.63 billion, less than the day before and, per SinoPac Securities, their 10th straight day of net selling; investment trusts bought NT$8.52 billion; dealers bought NT$2.03 billion on their own account and sold NT$2.23 billion in hedging positions, leaving the three groups net sellers of NT$21.30 billion."
+   },
+   "otc": {
+    "close": 285.77,
+    "change": -4.07,
+    "pct": -1.4
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "Yahoo 股市（中央社）",
+      "en": "Yahoo Finance TW (CNA)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2156-27%E9%BB%9E-055247704.html"
+    },
+    {
+     "name": {
+      "zh": "Yahoo 股市（MoneyDJ）",
+      "en": "Yahoo Finance TW (MoneyDJ)"
+     },
+     "url": "https://tw.stock.yahoo.com/news/11-27%E9%9B%86%E4%B8%AD%E5%B8%82%E5%A0%B4%E4%B8%89%E5%A4%A7%E6%B3%95%E4%BA%BA%E5%90%88%E8%A8%88%E8%B3%A3%E8%B6%85213-04%E5%84%84%E5%85%83-070500733.html"
+    },
+    {
+     "name": {
+      "zh": "鏡週刊（三立新聞）",
+      "en": "Mirror Media (SETN)"
+     },
+     "url": "https://www.mirrormedia.mg/external/setn_1945592"
+    },
+    {
+     "name": {
+      "zh": "大紀元",
+      "en": "The Epoch Times"
+     },
+     "url": "https://epochtimes.com/b5/26/11/27/n14896142.htm"
+    },
+    {
+     "name": {
+      "zh": "品傳媒",
+      "en": "PIN News"
+     },
+     "url": "https://more-news.tw/780210/"
+    },
+    {
+     "name": {
+      "zh": "永豐金證券",
+      "en": "SinoPac Securities"
+     },
+     "url": "https://sinotrade.com.tw/richclub/MarketTrends/-1127%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E7%BE%8E%E8%82%A1%E6%84%9F%E6%81%A9%E7%AF%80%E4%BC%91%E5%B8%82-%E5%8F%B0%E8%82%A1%E9%9C%87%E7%9B%AA%E6%94%B6%E6%BC%B2-156-%E9%BB%9E-%E5%A4%96%E8%B3%87%E9%80%A3%E7%BA%8C-10-%E6%97%A5%E8%B3%A3%E8%B6%85-%E6%8A%95%E6%9C%AC%E6%AF%94%E9%8E%96%E5%AE%9A-%E4%B8%AD%E7%A0%82---%E9%87%91%E5%83%8F%E9%9B%BB---%E4%B8%AD%E8%8F%AF%E9%9B%BB--6b09452e21692a00c7c00e3a"
+    }
+   ]
+  },
+  "us": {
+   "session": "2026-11-27",
+   "rows": [
+    {
+     "name": {
+      "zh": "道瓊工業",
+      "en": "Dow Jones"
+     },
+     "close": 50774.94,
+     "change": 591.99,
+     "pct": 1.18
+    },
+    {
+     "name": {
+      "zh": "標普 500",
+      "en": "S&P 500"
+     },
+     "close": 7297.49,
+     "change": 114.71,
+     "pct": 1.6
+    },
+    {
+     "name": {
+      "zh": "那斯達克",
+      "en": "Nasdaq Composite"
+     },
+     "close": 24129.5,
+     "change": 543.7,
+     "pct": 2.31
+    },
+    {
+     "name": {
+      "zh": "費城半導體",
+      "en": "PHLX Semiconductor"
+     },
+     "close": 9186.71,
+     "change": 411.84,
+     "pct": 4.69
+    },
+    {
+     "name": {
+      "zh": "台積電 ADR",
+      "en": "TSMC ADR"
+     },
+     "close": 353.34,
+     "change": 11.0,
+     "pct": 3.21
+    }
+   ],
+   "headline": {
+    "zh": "AI股反彈　費半大漲4.69%",
+    "en": "AI rebound lifts SOX 4.69%"
+   },
+   "body": {
+    "zh": "美股 27 日黑色星期五提前於美東時間下午 1 時收盤，AI 與半導體股在先前大跌後吸引逢低買盤：道瓊上漲 591.99 點（1.18%）收 50,774.94 點，標普 500 漲 1.60%，那斯達克漲 2.31% 重返 24,000 點之上，費城半導體指數大漲 4.69%，台積電 ADR 漲 3.21% 收 353.34 美元，日月光 ADR 漲 6.27%。輝達尾盤小漲 0.8%，Meta 漲逾 3%、亞馬遜漲約 4%，Anthropic 漲近 11%。全週標普 500 上漲 5.6%、道瓊漲 5.5%、那指漲 6.7%，標普為 2025 年 4 月以來最大單週漲幅，道瓊則是 2022 年 10 月以來最大單週漲幅。",
+    "en": "US stocks closed early at 1 p.m. ET on Black Friday, November 27, as AI and chip stocks drew bargain hunters after earlier steep losses: the Dow rose 591.99 points (1.18%) to 50,774.94, the S&P 500 gained 1.60%, the Nasdaq rose 2.31% to get back above 24,000, the SOX jumped 4.69%, the TSMC ADR climbed 3.21% to US$353.34 and the ASE ADR 6.27%. Nvidia edged up 0.8% late in the day, Meta rose more than 3%, Amazon about 4% and Anthropic nearly 11%. For the week the S&P 500 rose 5.6%, the Dow 5.5% and the Nasdaq 6.7%, the S&P's biggest weekly gain since April 2025 and the Dow's biggest since October 2022."
+   },
+   "sources": [
+    {
+     "name": {
+      "zh": "自由財經",
+      "en": "LTN Finance"
+     },
+     "url": "https://ec.ltn.com.tw/article/breakingnews/5655972"
+    },
+    {
+     "name": {
+      "zh": "新頭殼",
+      "en": "Newtalk"
+     },
+     "url": "https://newtalk.tw/news/view/2026-11-28/1074193"
+    },
+    {
+     "name": {
+      "zh": "FTNN 新聞網",
+      "en": "FTNN"
+     },
+     "url": "https://www.ftnn.com.tw/news/600317"
+    },
+    {
+     "name": {
+      "zh": "四季線上",
+      "en": "4gTV"
+     },
+     "url": "https://www.4gtv.tv/article/2026112806000003"
+    },
+    {
+     "name": {
+      "zh": "新浪財經",
+      "en": "Sina Finance"
+     },
+     "url": "https://k.sina.cn/article_5953740931_162dee083067046qkg.html"
+    }
+   ]
+  },
+  "calendar": [
+   {
+    "time": {
+     "zh": "週六 11/28",
+     "en": "Sat, Nov 28"
+    },
+    "text": {
+     "zh": "台灣九合一地方選舉與公投投票、開票，選出 1 萬 1,051 名公職",
+     "en": "Taiwan holds local elections and referendum voting, filling 11,051 posts"
+    }
+   },
+   {
+    "time": {
+     "zh": "週一 11/30",
+     "en": "Mon, Nov 30"
+    },
+    "text": {
+     "zh": "法人關注 MSCI 指數調整",
+     "en": "Analysts watch the MSCI index rebalance"
+    }
+   },
+   {
+    "time": {
+     "zh": "下週",
+     "en": "Next week"
+    },
+    "text": {
+     "zh": "美國非農就業報告、輝達國會聽證",
+     "en": "US nonfarm payrolls report and an Nvidia congressional hearing"
+    }
+   }
+  ],
+  "calendar_sources": [
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://cna.com.tw/news/aipl/202608200078.aspx"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/aipl/202611120231.aspx"
+   },
+   {
+    "name": {
+     "zh": "鏡週刊（三立新聞）",
+     "en": "Mirror Media (SETN)"
+    },
+    "url": "https://www.mirrormedia.mg/external/setn_1945592"
+   }
+  ],
+  "week": {
+   "TAIEX": [
+    [
+     "2026-11-23",
+     36811.89
+    ],
+    [
+     "2026-11-24",
+     40122.35
+    ],
+    [
+     "2026-11-25",
+     38195.43
+    ],
+    [
+     "2026-11-26",
+     39151.81
+    ],
+    [
+     "2026-11-27",
+     39308.08
+    ]
+   ],
+   "IXIC": [
+    [
+     "2026-11-20",
+     22617.73
+    ],
+    [
+     "2026-11-23",
+     24089.56
+    ],
+    [
+     "2026-11-24",
+     23733.54
+    ],
+    [
+     "2026-11-25",
+     23585.8
+    ],
+    [
+     "2026-11-27",
+     24129.5
+    ]
+   ],
+   "SOX": [
+    [
+     "2026-11-20",
+     8408.59
+    ],
+    [
+     "2026-11-23",
+     9588.05
+    ],
+    [
+     "2026-11-24",
+     8832.5
+    ],
+    [
+     "2026-11-25",
+     8774.86
+    ],
+    [
+     "2026-11-27",
+     9186.71
+    ]
+   ]
+  },
+  "week_note": {
+   "zh": "圖中各點皆為公布之收盤值，無推算值；美股 26 日感恩節休市，故美股指數無該日資料點。",
+   "en": "All points shown are published closing values; none are derived. US markets were closed on Nov 26 for Thanksgiving, so the US indexes have no point for that day."
+  },
+  "week_sources": [
+   {
+    "name": {
+     "zh": "Yahoo 新聞",
+     "en": "Yahoo News TW"
+    },
+    "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%94%B6%E8%B7%8C1165%E9%BB%9E%E5%AE%88%E4%BD%8F10%E6%97%A5%E7%B7%9A-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8C%AB55%E5%85%83-070552147.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5639091"
+   },
+   {
+    "name": {
+     "zh": "中天新聞網",
+     "en": "CTi News"
+    },
+    "url": "https://ctinews.com/news/items/14a12Lvoxk"
+   },
+   {
+    "name": {
+     "zh": "鉅亨網",
+     "en": "Anue"
+    },
+    "url": "https://news.cnyes.com/news/id/6664477"
+   },
+   {
+    "name": {
+     "zh": "聯合新聞網",
+     "en": "UDN"
+    },
+    "url": "https://udn.com/news/story/6811/9885461"
+   },
+   {
+    "name": {
+     "zh": "壹蘋新聞網",
+     "en": "Next Apple News"
+    },
+    "url": "https://news.nextapple.com/finance/20261119/D5668A473D862BBC70D1A2D2EB154ABC"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611190149.aspx"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5647048"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611200157.aspx"
+   },
+   {
+    "name": {
+     "zh": "中時新聞網",
+     "en": "China Times"
+    },
+    "url": "https://www.chinatimes.com/realtimenews/20261121000782-260410"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2778-60%E9%BB%9E-055218204.html"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611240012.aspx"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B23310-46%E9%BB%9E-054610731.html"
+   },
+   {
+    "name": {
+     "zh": "工商時報",
+     "en": "Commercial Times"
+    },
+    "url": "https://www.ctee.com.tw/news/20261125700361-430702"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611250141.aspx"
+   },
+   {
+    "name": {
+     "zh": "經濟日報",
+     "en": "Economic Daily News"
+    },
+    "url": "https://money.udn.com/money/story/123398/9902571"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5653621"
+   },
+   {
+    "name": {
+     "zh": "中央社",
+     "en": "CNA"
+    },
+    "url": "https://www.cna.com.tw/news/afe/202611260262.aspx"
+   },
+   {
+    "name": {
+     "zh": "Yahoo 股市（中央社）",
+     "en": "Yahoo Finance TW (CNA)"
+    },
+    "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E6%BC%B2156-27%E9%BB%9E-055247704.html"
+   },
+   {
+    "name": {
+     "zh": "自由財經",
+     "en": "LTN Finance"
+    },
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5655972"
+   }
+  ]
+ }
+}
